@@ -25,20 +25,41 @@ const BROWSER_UA =
 // Max articles to keep in the final feed.
 const MAX_ITEMS = 120;
 
+// Each source has a direct RSS feed and a domain. We try the direct feed first;
+// if it's blocked (Cloudflare returns 403 to data-center IPs such as GitHub's
+// runners), we fall back to Google News RSS scoped to that publisher's domain,
+// which Google fetches server-side and is not IP-blocked.
 const SOURCES = [
-  { id: "stat", name: "STAT News", url: "https://www.statnews.com/feed/" },
-  { id: "medcity", name: "MedCity News", url: "https://medcitynews.com/feed/" },
+  {
+    id: "stat",
+    name: "STAT News",
+    url: "https://www.statnews.com/feed/",
+    domain: "statnews.com",
+  },
+  {
+    id: "medcity",
+    name: "MedCity News",
+    url: "https://medcitynews.com/feed/",
+    domain: "medcitynews.com",
+  },
   {
     id: "hitn",
     name: "Healthcare IT News",
     url: "https://www.healthcareitnews.com/home/feed",
+    domain: "healthcareitnews.com",
   },
   {
     id: "mobi",
     name: "MobiHealthNews",
     url: "https://www.mobihealthnews.com/feed",
+    domain: "mobihealthnews.com",
   },
 ];
+
+function googleNewsUrl(domain) {
+  const q = encodeURIComponent(`site:${domain} when:14d`);
+  return `https://news.google.com/rss/search?q=${q}&hl=en-US&gl=US&ceid=US:en`;
+}
 
 const parser = new Parser({ timeout: 20000 });
 
@@ -87,24 +108,62 @@ function toISO(item) {
   return d && !isNaN(d) ? d.toISOString() : null;
 }
 
-async function fetchSource(source) {
-  try {
-    const xml = await fetchXml(source.url);
-    const feed = await parser.parseString(xml);
-    const items = (feed.items || [])
-      .map((item) => ({
-        title: (item.title || "").trim(),
+// Parse a publisher's own RSS feed.
+function parseDirect(feed, source) {
+  return (feed.items || [])
+    .map((item) => ({
+      title: (item.title || "").trim(),
+      link: (item.link || "").trim(),
+      source: source.name,
+      sourceId: source.id,
+      date: toISO(item),
+      snippet: toSnippet(item.contentSnippet || item.content || item.summary),
+    }))
+    .filter((it) => it.title && it.link);
+}
+
+// Parse Google News RSS results. Titles arrive as "Headline - Publisher"; we strip
+// the trailing publisher suffix. Google doesn't provide article summaries, so the
+// snippet is left empty. Links are Google redirect URLs that resolve to the article.
+function parseGoogle(feed, source) {
+  return (feed.items || [])
+    .map((item) => {
+      let title = (item.title || "").trim();
+      title = title.replace(/\s+-\s+[^-]+$/, "").trim() || title;
+      return {
+        title,
         link: (item.link || "").trim(),
         source: source.name,
         sourceId: source.id,
         date: toISO(item),
-        snippet: toSnippet(item.contentSnippet || item.content || item.summary),
-      }))
-      .filter((it) => it.title && it.link);
-    console.log(`  ✓ ${source.name}: ${items.length} items`);
+        snippet: "",
+      };
+    })
+    .filter((it) => it.title && it.link);
+}
+
+async function fetchSource(source) {
+  // 1) Try the publisher's own feed.
+  try {
+    const feed = await parser.parseString(await fetchXml(source.url));
+    const items = parseDirect(feed, source);
+    if (items.length > 0) {
+      console.log(`  ✓ ${source.name}: ${items.length} items (direct feed)`);
+      return items;
+    }
+    throw new Error("no items in direct feed");
+  } catch (err) {
+    console.warn(`  … ${source.name} direct feed unavailable (${err.message}); trying Google News`);
+  }
+
+  // 2) Fall back to Google News scoped to the publisher's domain.
+  try {
+    const feed = await parser.parseString(await fetchXml(googleNewsUrl(source.domain)));
+    const items = parseGoogle(feed, source);
+    console.log(`  ✓ ${source.name}: ${items.length} items (via Google News)`);
     return items;
   } catch (err) {
-    console.warn(`  ✗ ${source.name} failed: ${err.message}`);
+    console.warn(`  ✗ ${source.name} failed entirely: ${err.message}`);
     return []; // skip a failing source rather than crashing the whole build
   }
 }

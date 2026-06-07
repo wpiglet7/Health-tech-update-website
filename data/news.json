@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T23:29:24.869Z",
+  "generatedAt": "2026-06-07T23:32:20.241Z",
   "sources": [
     {
       "id": "stat",
@@ -22,7 +22,7 @@
       "url": "https://www.mobihealthnews.com/feed"
     }
   ],
-  "count": 50,
+  "count": 62,
   "items": [
     {
       "title": "Will CMS’ Last-Minute Medicaid Work Requirement Changes Cause More Harm?",
@@ -129,6 +129,14 @@
       "snippet": "You're reading the web edition of STAT's ADA in 30 Seconds, from the American Diabetes Association's annual conference in New Orleans."
     },
     {
+      "title": "States agree to share data with DOJ to fight Medicaid fraud",
+      "link": "https://www.healthcareitnews.com/news/states-agree-share-data-doj-fight-medicaid-fraud",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-05T20:41:37.000Z",
+      "snippet": "Dr. Mehmet Oz, the U.S. Centers for Medicare & Medicaid's top official, was with FBI Director Kash Patel and other high-ranking officials from the U.S. Department of Justice and two state governments at a press conference in Columbus, Ohio,…"
+    },
+    {
       "title": "STAT+: What stripping civil service protections for thousands of federal workers will mean for HHS",
       "link": "https://www.statnews.com/2026/06/05/schedule-f-changes-impacts-nih-cdc-fda/?utm_campaign=rss",
       "source": "STAT News",
@@ -143,6 +151,30 @@
       "sourceId": "stat",
       "date": "2026-06-05T19:53:21.000Z",
       "snippet": "An NIH advisor told researchers gathered at the American Diabetes Association conference that MAHA goals match the agency's priorities."
+    },
+    {
+      "title": "Owkin, Sanofi expand AI collaboration to build drug development AI agents",
+      "link": "https://www.mobihealthnews.com/news/owkin-sanofi-expand-ai-collaboration-build-drug-development-ai-agents",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-05T19:40:37.000Z",
+      "snippet": "Owkin and Sanofi are expanding their artificial intelligence collaboration through a multi-year agreement to co-develop AI-enabled biopharma agents for drug research and development. Under the new collaboration, Owkin will lead development…"
+    },
+    {
+      "title": "Continuity of care depends on robust interoperability",
+      "link": "https://www.healthcareitnews.com/video/continuity-care-depends-robust-interoperability",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-05T19:30:00.000Z",
+      "snippet": "a allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"&amp;amp;gt;"
+    },
+    {
+      "title": "When digital modernization supports clinicians, adoption accelerates",
+      "link": "https://www.mobihealthnews.com/video/when-digital-modernization-supports-clinicians-adoption-accelerates",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-05T19:30:00.000Z",
+      "snippet": "a allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"&amp;amp;gt;"
     },
     {
       "title": "Winona Launches Menopause Research Initiative",
@@ -161,12 +193,52 @@
       "snippet": "Contraline raised $92.5 million in new funding to advance its two male contraceptive candidates, including a once-daily topical gel and an implantable option. The post Contraline Secures $92.5M to Push Its Male Birth Control Candidates Forw…"
     },
     {
+      "title": "Philips forms first U.S. community health system alliance with WellSpan",
+      "link": "https://www.mobihealthnews.com/news/philips-forms-first-us-community-health-system-alliance-wellspan",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-05T18:36:42.000Z",
+      "snippet": "Philips announced a seven-year strategic alliance with healthcare system WellSpan Health to bring new imaging and diagnostic technology products and platforms to patients across Pennsylvania and Northern Maryland."
+    },
+    {
+      "title": "HIMSSCast: Women in health IT discuss ways to drive the industry forward",
+      "link": "https://www.mobihealthnews.com/podcast/himsscast-women-health-it-discuss-ways-drive-industry-forward",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-05T17:36:41.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "How Pope Leo's AI encyclical could influence Catholic healthcare's IT strategy",
+      "link": "https://www.healthcareitnews.com/news/how-pope-leos-ai-encyclical-could-influence-catholic-healthcares-it-strategy",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-05T16:07:15.000Z",
+      "snippet": "Artificial intelligence is advancing rapidly across healthcare, with hospitals deploying artificial intelligence across clinical and administrative operations. But Pope Leo XIV is urging healthcare organizations not to mistake technological…"
+    },
+    {
       "title": "Opinion: If Americans risk their lives fighting Ebola overseas, they deserve the right to come home",
       "link": "https://www.statnews.com/2026/06/05/americans-ebola-kenya-protests/?utm_campaign=rss",
       "source": "STAT News",
       "sourceId": "stat",
       "date": "2026-06-05T15:13:28.000Z",
       "snippet": "Outbreak response is difficult enough without asking responders to wonder whether they will have access to the best available care if they become ill."
+    },
+    {
+      "title": "HIMSSCast: Women in health IT discuss ways to drive the industry forward",
+      "link": "https://www.healthcareitnews.com/podcast/himsscast-women-health-it-discuss-ways-drive-industry-forward",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-05T14:30:20.000Z",
+      "snippet": "The HIMSS Electronic Health Record Association comprises nearly 30 member companies whose technology is in use at most of the nation's hospitals and ambulatory health systems. Leaders from EHRA's executive committee say they've worked toget…"
+    },
+    {
+      "title": "Clarify Health acquires Loyal Health Holdings",
+      "link": "https://www.mobihealthnews.com/news/clarify-health-acquires-loyal-health-holdings",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-05T14:19:54.000Z",
+      "snippet": "Clinical analytics company Clarify Health announced it acquired patient activation platform Loyal Health Holdings, creating a closed-loop network intelligence platform that identifies where a patient needs care, connects them with a provide…"
     },
     {
       "title": "STAT+: Will Makary’s FDA voucher program survive?",
@@ -233,6 +305,22 @@
       "snippet": "The positive ripple effect of high specimen sensitivity influences the clarity of diagnoses, the timing of treatment and the efficiency of care delivery across systems, while also protecting communities from further disease spread for stron…"
     },
     {
+      "title": "Healthcare will soon join the app economy",
+      "link": "https://www.mobihealthnews.com/video/healthcare-will-soon-join-app-economy",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-05T12:35:50.000Z",
+      "snippet": "allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"&gt;"
+    },
+    {
+      "title": "Use Bulk FHIR to achieve healthcare data analysis at scale",
+      "link": "https://www.healthcareitnews.com/video/use-bulk-fhir-achieve-healthcare-data-analysis-scale",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-05T12:35:39.000Z",
+      "snippet": "allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"&gt;"
+    },
+    {
       "title": "Tiny HHS office tasked with protecting research participants’ safety is running on fumes",
       "link": "https://www.statnews.com/2026/06/05/hhs-cuts-office-human-research-protections-running-on-fumes/?utm_campaign=rss",
       "source": "STAT News",
@@ -287,6 +375,14 @@
       "sourceId": "stat",
       "date": "2026-06-04T20:53:33.000Z",
       "snippet": "The White House has used the program to reward companies that help its political goals."
+    },
+    {
+      "title": "Aligning purpose with profit is key to startup success",
+      "link": "https://www.healthcareitnews.com/video/aligning-purpose-profit-key-startup-success",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-04T18:21:05.000Z",
+      "snippet": "allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\">"
     },
     {
       "title": "Debunked Episode 27: The Impact of an FDA Commissioner’s Departure, Insider Trading, Microdosing GLP-1s and a Win for Lower Drug Prices",
