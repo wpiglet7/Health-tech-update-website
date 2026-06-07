@@ -8,7 +8,7 @@ gathered automatically from four leading sources:
 - [Healthcare IT News](https://www.healthcareitnews.com/) — hospital IT, EMR, digital health infrastructure
 - [MobiHealthNews](https://www.mobihealthnews.com/) — mobile health, wearables, digital therapeutics
 
-**Live site:** _(added after first deploy)_
+**Live site:** https://wpiglet7.github.io/Health-tech-update-website/
 
 ## How it works
 
