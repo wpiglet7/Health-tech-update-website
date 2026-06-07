@@ -26,22 +26,49 @@
       </div>
     </header>
 
-    <main class="wrap">
-      <div class="controls">
-        <input
-          type="search"
-          id="search"
-          class="search"
-          placeholder="Search headlines…"
-          autocomplete="off"
-        />
-        <div class="filters" id="filters"></div>
+    <nav class="tabs" id="tabs" aria-label="Sections">
+      <div class="wrap tabs-inner">
+        <button class="tab active" data-tab="news">Latest News</button>
+        <button class="tab" data-tab="today">Today's Summary</button>
+        <button class="tab" data-tab="past">Past Summaries</button>
       </div>
+    </nav>
 
-      <p class="result-count" id="resultCount"></p>
-      <section class="grid" id="grid" aria-live="polite"></section>
+    <main class="wrap">
+      <!-- ===== Latest News ===== -->
+      <section id="view-news" class="view">
+        <div class="controls">
+          <input
+            type="search"
+            id="search"
+            class="search"
+            placeholder="Search headlines…"
+            autocomplete="off"
+          />
+          <div class="filters" id="filters"></div>
+        </div>
 
-      <p class="empty" id="empty" hidden>No articles match your filters.</p>
+        <p class="result-count" id="resultCount"></p>
+        <section class="grid" id="grid" aria-live="polite"></section>
+        <p class="empty" id="empty" hidden>No articles match your filters.</p>
+      </section>
+
+      <!-- ===== Today's Summary ===== -->
+      <section id="view-today" class="view" hidden>
+        <div id="todayContainer"></div>
+      </section>
+
+      <!-- ===== Past Summaries ===== -->
+      <section id="view-past" class="view" hidden>
+        <p class="section-intro">
+          A daily log of what was new in health-tech. Pick a date to read its
+          summary.
+        </p>
+        <div class="past-layout">
+          <ul class="date-list" id="dateList" aria-label="Past dates"></ul>
+          <div class="past-detail" id="pastDetail"></div>
+        </div>
+      </section>
     </main>
 
     <footer class="site-footer">

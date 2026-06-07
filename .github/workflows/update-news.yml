@@ -27,13 +27,20 @@ jobs:
       - name: Fetch latest news
         run: npm run fetch
 
-      - name: Commit updated feed
+      - name: Generate daily summary
+        env:
+          # Optional: add an ANTHROPIC_API_KEY repository secret to get an
+          # AI-written summary. Without it, a free text digest is generated.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run summarize
+
+      - name: Commit updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain data/news.json)" ]; then
-            git add data/news.json
-            git commit -m "chore: update news feed [skip ci]"
+          git add data/news.json data/summaries data/summaries-index.json
+          if [ -n "$(git status --porcelain -- data/)" ]; then
+            git commit -m "chore: update news feed and daily summary [skip ci]"
             git push
           else
             echo "No changes to commit."

@@ -4,7 +4,9 @@
   "description": "Auto-updating aggregator of health-tech news from STAT News, MedCity News, Healthcare IT News, and MobiHealthNews.",
   "type": "module",
   "scripts": {
-    "fetch": "node scripts/fetch-news.mjs"
+    "fetch": "node scripts/fetch-news.mjs",
+    "summarize": "node scripts/summarize.mjs",
+    "build": "node scripts/fetch-news.mjs && node scripts/summarize.mjs"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"

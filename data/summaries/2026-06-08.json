@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-08",
+  "generatedAt": "2026-06-07T23:45:59.418Z",
+  "mode": "digest",
+  "model": null,
+  "newCount": 12,
+  "sources": {
+    "Healthcare IT News": 6,
+    "MobiHealthNews": 6
+  },
+  "summary": "12 new health-tech articles on 2026-06-08 across 2 sources: Healthcare IT News (6), MobiHealthNews (6). Top headlines: “States agree to share data with DOJ to fight Medicaid fraud” (Healthcare IT News); “Owkin, Sanofi expand AI collaboration to build drug development AI agents” (MobiHealthNews); “Continuity of care depends on robust interoperability” (Healthcare IT News); “When digital modernization supports clinicians, adoption accelerates” (MobiHealthNews); “Philips forms first U.S. community health system alliance with WellSpan” (MobiHealthNews).",
+  "items": [
+    {
+      "title": "States agree to share data with DOJ to fight Medicaid fraud",
+      "link": "https://www.healthcareitnews.com/news/states-agree-share-data-doj-fight-medicaid-fraud",
+      "source": "Healthcare IT News",
+      "date": "2026-06-05T20:41:37.000Z"
+    },
+    {
+      "title": "Owkin, Sanofi expand AI collaboration to build drug development AI agents",
+      "link": "https://www.mobihealthnews.com/news/owkin-sanofi-expand-ai-collaboration-build-drug-development-ai-agents",
+      "source": "MobiHealthNews",
+      "date": "2026-06-05T19:40:37.000Z"
+    },
+    {
+      "title": "Continuity of care depends on robust interoperability",
+      "link": "https://www.healthcareitnews.com/video/continuity-care-depends-robust-interoperability",
+      "source": "Healthcare IT News",
+      "date": "2026-06-05T19:30:00.000Z"
+    },
+    {
+      "title": "When digital modernization supports clinicians, adoption accelerates",
+      "link": "https://www.mobihealthnews.com/video/when-digital-modernization-supports-clinicians-adoption-accelerates",
+      "source": "MobiHealthNews",
+      "date": "2026-06-05T19:30:00.000Z"
+    },
+    {
+      "title": "Philips forms first U.S. community health system alliance with WellSpan",
+      "link": "https://www.mobihealthnews.com/news/philips-forms-first-us-community-health-system-alliance-wellspan",
+      "source": "MobiHealthNews",
+      "date": "2026-06-05T18:36:42.000Z"
+    },
+    {
+      "title": "HIMSSCast: Women in health IT discuss ways to drive the industry forward",
+      "link": "https://www.mobihealthnews.com/podcast/himsscast-women-health-it-discuss-ways-drive-industry-forward",
+      "source": "MobiHealthNews",
+      "date": "2026-06-05T17:36:41.000Z"
+    },
+    {
+      "title": "How Pope Leo's AI encyclical could influence Catholic healthcare's IT strategy",
+      "link": "https://www.healthcareitnews.com/news/how-pope-leos-ai-encyclical-could-influence-catholic-healthcares-it-strategy",
+      "source": "Healthcare IT News",
+      "date": "2026-06-05T16:07:15.000Z"
+    },
+    {
+      "title": "HIMSSCast: Women in health IT discuss ways to drive the industry forward",
+      "link": "https://www.healthcareitnews.com/podcast/himsscast-women-health-it-discuss-ways-drive-industry-forward",
+      "source": "Healthcare IT News",
+      "date": "2026-06-05T14:30:20.000Z"
+    },
+    {
+      "title": "Clarify Health acquires Loyal Health Holdings",
+      "link": "https://www.mobihealthnews.com/news/clarify-health-acquires-loyal-health-holdings",
+      "source": "MobiHealthNews",
+      "date": "2026-06-05T14:19:54.000Z"
+    },
+    {
+      "title": "Healthcare will soon join the app economy",
+      "link": "https://www.mobihealthnews.com/video/healthcare-will-soon-join-app-economy",
+      "source": "MobiHealthNews",
+      "date": "2026-06-05T12:35:50.000Z"
+    },
+    {
+      "title": "Use Bulk FHIR to achieve healthcare data analysis at scale",
+      "link": "https://www.healthcareitnews.com/video/use-bulk-fhir-achieve-healthcare-data-analysis-scale",
+      "source": "Healthcare IT News",
+      "date": "2026-06-05T12:35:39.000Z"
+    },
+    {
+      "title": "Aligning purpose with profit is key to startup success",
+      "link": "https://www.healthcareitnews.com/video/aligning-purpose-profit-key-startup-success",
+      "source": "Healthcare IT News",
+      "date": "2026-06-04T18:21:05.000Z"
+    }
+  ]
+}
