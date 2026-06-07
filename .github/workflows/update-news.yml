@@ -1,0 +1,40 @@
+name: Update news feed
+
+on:
+  schedule:
+    # Once a day at 21:00 UTC (06:00 KST).
+    - cron: "0 21 * * *"
+  workflow_dispatch: {} # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch latest news
+        run: npm run fetch
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data/news.json)" ]; then
+            git add data/news.json
+            git commit -m "chore: update news feed [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi

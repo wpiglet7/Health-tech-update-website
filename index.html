@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Health-Tech News — Latest Updates &amp; Reports</title>
+    <meta
+      name="description"
+      content="The latest health-tech news from STAT News, MedCity News, Healthcare IT News, and MobiHealthNews — updated daily."
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%9A%95%EF%B8%8F%3C/text%3E%3C/svg%3E"
+    />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <h1>⚕️ Health-Tech News</h1>
+        <p class="tagline">
+          Latest news &amp; reports across digital health, healthcare IT, and
+          biotech — gathered daily from four leading sources.
+        </p>
+        <p class="updated" id="updated">Loading…</p>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <div class="controls">
+        <input
+          type="search"
+          id="search"
+          class="search"
+          placeholder="Search headlines…"
+          autocomplete="off"
+        />
+        <div class="filters" id="filters"></div>
+      </div>
+
+      <p class="result-count" id="resultCount"></p>
+      <section class="grid" id="grid" aria-live="polite"></section>
+
+      <p class="empty" id="empty" hidden>No articles match your filters.</p>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>
+          Headlines link to the original publishers. Sources:
+          <a href="https://www.statnews.com/" target="_blank" rel="noopener">STAT News</a>,
+          <a href="https://medcitynews.com/" target="_blank" rel="noopener">MedCity News</a>,
+          <a href="https://www.healthcareitnews.com/" target="_blank" rel="noopener">Healthcare IT News</a>,
+          <a href="https://www.mobihealthnews.com/" target="_blank" rel="noopener">MobiHealthNews</a>.
+        </p>
+        <p class="fine">Updated automatically once a day. This site is an aggregator and is not affiliated with the publishers.</p>
+      </div>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

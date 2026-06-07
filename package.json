@@ -1,0 +1,12 @@
+{
+  "name": "health-tech-update-website",
+  "version": "1.0.0",
+  "description": "Auto-updating aggregator of health-tech news from STAT News, MedCity News, Healthcare IT News, and MobiHealthNews.",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-news.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
