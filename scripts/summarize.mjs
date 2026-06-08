@@ -156,14 +156,22 @@ async function main() {
   const dayFile = join(SUMMARIES_DIR, `${date}.json`);
   const existing = await readJson(dayFile);
   if (existing && Array.isArray(existing.items)) {
-    const seen = new Set(newItems.map((it) => it.link));
-    for (const it of existing.items) {
-      if (!seen.has(it.link)) {
-        newItems.push(it);
-        seen.add(it.link);
-      }
-    }
+    newItems = newItems.concat(existing.items);
   }
+
+  // De-duplicate by link AND normalized title (catches Google News returning the
+  // same article under different URLs, and cross-posts between sources).
+  const normTitle = (t) =>
+    (t || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+  const seenLinks = new Set();
+  const seenTitles = new Set();
+  newItems = newItems.filter((it) => {
+    const nt = normTitle(it.title);
+    if (seenLinks.has(it.link) || (nt && seenTitles.has(nt))) return false;
+    seenLinks.add(it.link);
+    if (nt) seenTitles.add(nt);
+    return true;
+  });
 
   // Sort newest first and cap.
   newItems.sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));

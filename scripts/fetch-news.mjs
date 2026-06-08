@@ -173,11 +173,18 @@ async function main() {
   const results = await Promise.all(SOURCES.map(fetchSource));
   let all = results.flat();
 
-  // De-duplicate by link.
-  const seen = new Set();
+  // De-duplicate by link AND by normalized title. Google News sometimes returns
+  // the same article under multiple URLs, and the two HIMSS sites (Healthcare IT
+  // News / MobiHealthNews) occasionally cross-post the same story.
+  const seenLinks = new Set();
+  const seenTitles = new Set();
+  const normTitle = (t) =>
+    (t || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
   all = all.filter((it) => {
-    if (seen.has(it.link)) return false;
-    seen.add(it.link);
+    const nt = normTitle(it.title);
+    if (seenLinks.has(it.link) || (nt && seenTitles.has(nt))) return false;
+    seenLinks.add(it.link);
+    if (nt) seenTitles.add(nt);
     return true;
   });
 
