@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T23:48:21.793Z",
+  "generatedAt": "2026-06-08T02:15:41.470Z",
   "sources": [
     {
       "id": "stat",
@@ -22,8 +22,16 @@
       "url": "https://www.mobihealthnews.com/feed"
     }
   ],
-  "count": 119,
+  "count": 120,
   "items": [
+    {
+      "title": "The 3 Biggest Roadblocks to Egg Freezing — and How Providers Are Working to Remove Them",
+      "link": "https://medcitynews.com/2026/06/egg-freezing-fertility/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-08T01:52:49.000Z",
+      "snippet": "Egg freezing has gained popularity as a fertility preservation tool, but experts say high costs, uncertain outcomes and timing challenges continue to deter many women from pursuing it. The post The 3 Biggest Roadblocks to Egg Freezing — and…"
+    },
     {
       "title": "Will CMS’ Last-Minute Medicaid Work Requirement Changes Cause More Harm?",
       "link": "https://medcitynews.com/2026/06/will-cms-last-minute-medicaid-work-requirement-changes-cause-more-harm/",
@@ -681,14 +689,6 @@
       "snippet": ""
     },
     {
-      "title": "AI for MSK Will Bend the Healthcare Cost Curve",
-      "link": "https://medcitynews.com/2026/06/ai-for-msk-will-bend-the-healthcare-cost-curve/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-02T13:22:00.000Z",
-      "snippet": "Access to AI-powered digital MSK care options reduces wait times and allows patients to move directly into the right care instead of stair-stepping from hospital inpatient to primary care physicians to physical therapy. The post AI for MSK…"
-    },
-    {
       "title": "Rural healthcare needs trust more than technology",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2d5dmRCTVBabkhDanpVTU1OS0RSV216amZSaUlGdG9KZmJkMjJhdnZEcUlaZ0RGd2xYSHJJaXJaR3JERFhJNkN6V2lGMmM5dTJkbVBadVRTdmJqYWZYWUlhbU1aUTBJdHBJWjVYWmhxNk04ZlltU3VaYzFlQjhTb3otWUw0cVdS?oc=5",
       "source": "MobiHealthNews",
@@ -750,6 +750,14 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-05-29T16:11:34.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Jeremy Renner's investment in RapidSOS",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94ZHVfRDVEUTJ4ZHptbTMzMjNxeXNLZWdQX09OWi1xektTNUJpZm5Sa1dVc054TnhIRUItOXlLUjlaU1JndFc5Q043Y2h5aG8zUVd5TlpqeFdVa0Y5MXBFYVcxbUxScFVCaGFEZGxWZXc3WEQ4amV6YkRFcw?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-05-29T15:59:39.000Z",
       "snippet": ""
     },
     {

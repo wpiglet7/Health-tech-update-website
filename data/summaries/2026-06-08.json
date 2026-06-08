@@ -1,15 +1,22 @@
 {
   "date": "2026-06-08",
-  "generatedAt": "2026-06-07T23:48:21.991Z",
-  "mode": "digest",
-  "model": null,
+  "generatedAt": "2026-06-08T02:15:45.114Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
   "newCount": 80,
   "sources": {
+    "MedCity News": 1,
     "Healthcare IT News": 38,
-    "MobiHealthNews": 42
+    "MobiHealthNews": 41
   },
-  "summary": "80 new health-tech articles on 2026-06-08 across 2 sources: Healthcare IT News (38), MobiHealthNews (42). Top headlines: “States agree to share data with DOJ to fight Medicaid fraud” (Healthcare IT News); “States agree to share data with DOJ to fight Medicaid fraud” (Healthcare IT News); “Owkin, Sanofi expand AI collaboration to build drug development AI agents” (MobiHealthNews); “Owkin, Sanofi expand AI collaboration to build drug development AI agents” (MobiHealthNews); “When digital modernization supports clinicians, adoption accelerates” (MobiHealthNews).",
+  "summary": "Today's health-tech news reflects ongoing momentum in artificial intelligence adoption, data interoperability, and operational modernization across healthcare. Major partnerships are expanding AI capabilities in drug development and clinical documentation: Sanofi and Owkin are building AI agents for drug development, while Microsoft is partnering with Mayo Clinic on frontier AI models, and Elation Health acquired Aster to enhance AI-enabled EHR functionality. On the data front, states are coordinating with the Department of Justice to combat Medicaid fraud through data sharing, while industry discussions highlight the critical importance of robust interoperability standards like FHIR and TEFCA governance frameworks for continuity of care. Several emerging trends are gaining traction, including ambient AI systems that reduce clinician documentation burden, fertility-care providers working to address barriers in egg freezing accessibility, and investments in patient data control platforms like Novellia's recent $18 million funding round, reflecting broader shifts toward consumer-directed healthcare and digital-first service models.",
   "items": [
+    {
+      "title": "The 3 Biggest Roadblocks to Egg Freezing — and How Providers Are Working to Remove Them",
+      "link": "https://medcitynews.com/2026/06/egg-freezing-fertility/",
+      "source": "MedCity News",
+      "date": "2026-06-08T01:52:49.000Z"
+    },
     {
       "title": "States agree to share data with DOJ to fight Medicaid fraud",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYjlTWEtyUm9ZUERRengzb3NrZ0ZaVkR3cDZHVGNlTmEtSDluZGdLR0QzRlI3RkQ2QnI2T3lBZDliMW5ZX0VJeElEQUhwcV90WjVYMjlwV0FxbjREUmJQZTdNRi1XdW9TTHpUOWlxdFBlM01HMllNTnFzSy1CMXpJUmhSRV9VZEdHbGp6cHRqYw?oc=5",
@@ -329,6 +336,12 @@
       "date": "2026-05-29T16:11:34.000Z"
     },
     {
+      "title": "Jeremy Renner's investment in RapidSOS",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94ZHVfRDVEUTJ4ZHptbTMzMjNxeXNLZWdQX09OWi1xektTNUJpZm5Sa1dVc054TnhIRUItOXlLUjlaU1JndFc5Q043Y2h5aG8zUVd5TlpqeFdVa0Y5MXBFYVcxbUxScFVCaGFEZGxWZXc3WEQ4amV6YkRFcw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-05-29T15:59:39.000Z"
+    },
+    {
       "title": "H1 secures $40M in funding for its AI healthcare provider directory",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNU9NQXp4Z1RRMXBhdjZJZmc5aDZ4TnNhc2JPQkZ4aHl2UXFKMWpVVUFMUWpzVU56YkdfY1d1ZXd3Q3pPd0tqdGtWQWVGUS1vSFE3bUthUjFKakVwNHRpdElPYl96VXlHeVhlLVVDMm0tM2h1MEhoYVFKcXNsVFlpbHlBZHdRVmJrQ29mNldOMnptZmFZQzZmSDRtRQ?oc=5",
       "source": "MobiHealthNews",
@@ -477,18 +490,6 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hTGlCLVB3enlYVXR0b1o4RUZZVldXeTJnajhYNE5qUTVBUkhNZE5Tbnc5MS1majhWVlZBQ2pNRzhfR0daMTlZcGc2M3BRbkV2ZlJNb2hSeDFLS1JhT1o0?oc=5",
       "source": "MobiHealthNews",
       "date": "2017-03-23T06:17:54.000Z"
-    },
-    {
-      "title": "Videos",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NOVNwNVVvMmM0TzgzZUVIRkNjc1puRXkycXFXT0ZQV0xkZVhMTzJMbGJuZlpMcW9KSHptT1BjZnQ4Q0Y0VFRsSUV1VC0?oc=5",
-      "source": "MobiHealthNews",
-      "date": "2016-01-23T09:09:28.000Z"
-    },
-    {
-      "title": "News",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84amhfd05LSGVtZ0pkUDh4NVNJeldXbkZ0cHFFODlYNm5ORXZ0Z0EzYTdHVkZZb2g3UC1oSTFlNFotV0wtUDBSNDZzTQ?oc=5",
-      "source": "MobiHealthNews",
-      "date": "2016-01-23T09:09:28.000Z"
     }
   ]
 }
