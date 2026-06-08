@@ -1,15 +1,15 @@
 {
   "date": "2026-06-08",
-  "generatedAt": "2026-06-08T02:43:23.536Z",
-  "mode": "digest",
-  "model": null,
-  "newCount": 69,
+  "generatedAt": "2026-06-08T02:44:15.906Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 73,
   "sources": {
     "MedCity News": 1,
-    "Healthcare IT News": 33,
-    "MobiHealthNews": 35
+    "Healthcare IT News": 34,
+    "MobiHealthNews": 38
   },
-  "summary": "69 new health-tech articles on 2026-06-08 across 3 sources: MedCity News (1), Healthcare IT News (33), MobiHealthNews (35). Top headlines: “The 3 Biggest Roadblocks to Egg Freezing — and How Providers Are Working to Remove Them” (MedCity News); “States agree to share data with DOJ to fight Medicaid fraud” (Healthcare IT News); “Owkin, Sanofi expand AI collaboration to build drug development AI agents” (MobiHealthNews); “Continuity of care depends on robust interoperability” (Healthcare IT News); “When digital modernization supports clinicians, adoption accelerates” (MobiHealthNews).",
+  "summary": "# Health-Tech Digest — June 8, 2026\n\nThe sector is experiencing significant momentum in AI drug development and clinical workflow optimization. Owkin and Sanofi are expanding their collaboration to build AI agents for drug development, while Microsoft has partnered with Mayo Clinic on a frontier AI model for healthcare. On the clinical side, ambient AI and documentation automation are gaining traction—with Mercy using these tools to redirect nursing time back to patient care and revenue cycle management benefiting from AI-powered documentation analysis.\n\nData interoperability and governance remain critical infrastructure challenges. States are sharing Medicaid fraud data with the DOJ while TEFCA governance questions persist, underscoring that robust interoperability depends on both technology and policy frameworks. Healthcare organizations are increasingly recognizing that successful digital modernization requires tools designed to support clinician adoption rather than hinder it.\n\nSeveral notable funding and acquisition moves reflect industry consolidation and specialization. Elation Health acquired Aster to strengthen its AI-enabled EHR platform, Clarify Health acquired Loyal Health Holdings, and newer entrants like Apoha emerged from stealth with $36 million to build \"Liquid State Intelligence\" capabilities. Meanwhile, privacy and cybersecurity concerns are mounting, with New Zealand's Manage My Health experiencing a hack and NIST revamping its AI Consortium to assess safety and efficacy more rigorously.",
   "items": [
     {
       "title": "The 3 Biggest Roadblocks to Egg Freezing — and How Providers Are Working to Remove Them",
@@ -19,37 +19,37 @@
     },
     {
       "title": "States agree to share data with DOJ to fight Medicaid fraud",
-      "link": "https://www.healthcareitnews.com/news/states-agree-share-data-doj-fight-medicaid-fraud",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYjlTWEtyUm9ZUERRengzb3NrZ0ZaVkR3cDZHVGNlTmEtSDluZGdLR0QzRlI3RkQ2QnI2T3lBZDliMW5ZX0VJeElEQUhwcV90WjVYMjlwV0FxbjREUmJQZTdNRi1XdW9TTHpUOWlxdFBlM01HMllNTnFzSy1CMXpJUmhSRV9VZEdHbGp6cHRqYw?oc=5",
       "source": "Healthcare IT News",
       "date": "2026-06-05T20:41:37.000Z"
     },
     {
       "title": "Owkin, Sanofi expand AI collaboration to build drug development AI agents",
-      "link": "https://www.mobihealthnews.com/news/owkin-sanofi-expand-ai-collaboration-build-drug-development-ai-agents",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZGVIX1NxTW5tbDllc0NUdjZlR0VLbldJNGdZSU9XeDFob3paSU9vN3BzRmh0QzdXX2llSlR5VWlRdFd1ZnJraEp0MzNSQ04zZjNXcXBWX3htS3M0UEh3RVFkamQtZHA1RTZLN3FQTHJqZHh5Wk1acVNtUHdWbEVLc3A5bjZfdDFiMXh6UXhidVNKUUptOVVCZlQtRjJOR0c1aDlHYWpqQVk?oc=5",
       "source": "MobiHealthNews",
       "date": "2026-06-05T19:40:37.000Z"
     },
     {
+      "title": "When digital modernization supports clinicians, adoption accelerates",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSlNLMWxCeFl0a25pMlVzZzlEd1g4ZzlUV3FqMXMzcjkxTktrQ05tWUNyejJQS0JLc19ZbHhHWWtwNHNTaG9SS1NRcE9GMXo1c3lScFkxRF9Id1pRWHBtNDNOWmhMSVNWbzVNcXVibW1kWnYwMXJ5T1AzU3M1Ny1MWGM0aEZjX2M3NE1wQmd5b0otdU1XeXZSQXA0eGRVcEtUUVkwTVVVQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-05T19:33:09.000Z"
+    },
+    {
       "title": "Continuity of care depends on robust interoperability",
-      "link": "https://www.healthcareitnews.com/video/continuity-care-depends-robust-interoperability",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdVFzTFRmNHNEVkNoNGVDaHdkaXdMOWdteFNTQ0E2MkdVd29idzVQcHdqVndHeWdGam53SW9jc0NfaHdDakpWcjJOSHRELUEzdG8xRE85WHE4dWdhbHZmRDg0Mkh4ZU80MHBrUWxQUEdGWXhYWGVhNDgxNGZWZEc4dGxIS1F5c3VyODF5ZFM1RQ?oc=5",
       "source": "Healthcare IT News",
       "date": "2026-06-05T19:30:00.000Z"
     },
     {
-      "title": "When digital modernization supports clinicians, adoption accelerates",
-      "link": "https://www.mobihealthnews.com/video/when-digital-modernization-supports-clinicians-adoption-accelerates",
-      "source": "MobiHealthNews",
-      "date": "2026-06-05T19:30:00.000Z"
-    },
-    {
       "title": "Philips forms first U.S. community health system alliance with WellSpan",
-      "link": "https://www.mobihealthnews.com/news/philips-forms-first-us-community-health-system-alliance-wellspan",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1V0Qk9zZV9zekNJelBrYThWM3VjQ3ktZGFDSWxkOGNJZm5RUWV0b1h6QzNlQldRbDNlN0thQUNFY0JmNkcyMzlpYWRnbDhoSlU0QV9HQ2lGQURidjJKVmt2SXdqSFFqOE9yMGp5T0xheFpBV3NEQnZlZVl1SkpONkItV2xURWFiQnhwMWJfcE90ZDZ5MVVwMHdDMXpJeW1IM2c?oc=5",
       "source": "MobiHealthNews",
       "date": "2026-06-05T18:36:42.000Z"
     },
     {
       "title": "How Pope Leo's AI encyclical could influence Catholic healthcare's IT strategy",
-      "link": "https://www.healthcareitnews.com/news/how-pope-leos-ai-encyclical-could-influence-catholic-healthcares-it-strategy",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRUc4dmFMOENneTRFZnRlaXl4V1hGSEo4WXppeG1oTHJDX1pLcTZvYXNsQ0RGWWRNQUhkYXRJbTByTU1LV1F0d2VTM3Jmd3d3OHRpbXpQWnA4UnJSQm1DU1k5QUNwZGlTSDhaRmN0UmY0bkU3ZmtBMW94bEwwNzFabWhJekJIOEFCZ2ZpSzBBQkVUYTBWelJTZVpqYTR5QmdfWGN3b2xwT19jckwza0JtbllsVkk?oc=5",
       "source": "Healthcare IT News",
       "date": "2026-06-05T16:07:15.000Z"
     },
@@ -61,21 +61,21 @@
     },
     {
       "title": "Clarify Health acquires Loyal Health Holdings",
-      "link": "https://www.mobihealthnews.com/news/clarify-health-acquires-loyal-health-holdings",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMlZHbUlXUUgtbVh2SlpQeHF5WmI4TmdKUml2dDEtUFllbFdDVjR0Wm9LbEl4ZkRza1FsTmt3dFBFa2ZkaENramJqYXBhTkRwLUZxNGFMZEZlVWlONWtua3FYaUpoeFJQRWxWMGFzNmRhc0hOMlNSdEJfOXhmUG53cnVZc3Nmcmsx?oc=5",
       "source": "MobiHealthNews",
       "date": "2026-06-05T14:19:54.000Z"
     },
     {
       "title": "Healthcare will soon join the app economy",
-      "link": "https://www.mobihealthnews.com/video/healthcare-will-soon-join-app-economy",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kdDcwSWV6QkV1dW1ySWNYMkdTSDFYdDBUd09NcXJxSUZKSnBXaUNBUnBEMGtuZndUczlmeTJ4bHluMzM1R2V2dnRUc2tEQUJtZ3ZaZ0w2S0JtTEJMOEN3YTAwcDdMa0N4cnQ5eF9VSUhlbE1QQnhROHJMdTlpZ2s?oc=5",
       "source": "MobiHealthNews",
-      "date": "2026-06-05T12:35:50.000Z"
+      "date": "2026-06-05T13:38:07.000Z"
     },
     {
       "title": "Use Bulk FHIR to achieve healthcare data analysis at scale",
-      "link": "https://www.healthcareitnews.com/video/use-bulk-fhir-achieve-healthcare-data-analysis-scale",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOUJ6S2k2dnEtaDBMTUVybWl2Uk9QWnhzZ29halNibHVrX1dzOENMME4zOGxCbFF4clhFdDhfd0szWkFQU3ZaWHJFX0FodkptZkVNeHdMaHRaSW1udk9TaXQ3bE5QSzNYbTlmdG5IT0xjRWdyU2RrWF9mQ1Zsb3lNNlZ1V1RtbVZJYTF6MHBYbVoxN280cFE?oc=5",
       "source": "Healthcare IT News",
-      "date": "2026-06-05T12:35:39.000Z"
+      "date": "2026-06-05T12:35:00.000Z"
     },
     {
       "title": "Wolters Kluwer, OpenAI expand enterprise AI partnership",
@@ -97,9 +97,9 @@
     },
     {
       "title": "Aligning purpose with profit is key to startup success",
-      "link": "https://www.healthcareitnews.com/video/aligning-purpose-profit-key-startup-success",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1RYT1ZpSkpRcjVWdC1aSlhMQUZ2YkdkcGs2ckg1X01sLVdZX0pyemVyeFM5bG93OEQyaFFCdFFxZzJUZnpWZ1MwMnItRnIxMFI5elNhRTkwNDBwMWxrbFR5TTh3elhYU2RMNmRmd0ItOHcycEwzSldFdEt0c2VDa2Zuc0pKQzBKVXc?oc=5",
       "source": "Healthcare IT News",
-      "date": "2026-06-04T18:21:05.000Z"
+      "date": "2026-06-04T18:21:00.000Z"
     },
     {
       "title": "Apoha emerges from stealth with $36M to build Liquid State Intelligence",
@@ -372,6 +372,12 @@
       "date": "2026-05-27T14:41:00.000Z"
     },
     {
+      "title": "VA asks lawmakers for 25% EHR budget increase for FY27",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeWdZRlpXSHVHX0puS0tzdjFYeTRMdFoweHdrdDNldDNpNnBzRi1MYUp4dHhmaHdBUjRTcVNRNGRab1BBVldZbExHRmp0bEpZXzZnUFRDM1I5dHJER2lzRVpCRXNBVktGaUFPdjB6WVlWTTRUU0dCVS1EMTBINFpKWUZaZXlaa1pab3Mw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-05-27T13:40:00.000Z"
+    },
+    {
       "title": "AI tools give clinicians more time with patients",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODZRQVg0U09qNlZzYk16R1BFWUtZWDlJV1hPNGVTYW1PRmUzelowRjduWVRHWlF5akxfRzcyLTRjaGxXcHlIUUhWZ0lsSGt5LVNhSTdKY2psR2htVnYyTXFLUlBjWDdUa0JKek1wY0xmSFNsUnNYQk45NW5pMzY3Z21hVmdDMU0?oc=5",
       "source": "MobiHealthNews",
@@ -424,6 +430,24 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hTGlCLVB3enlYVXR0b1o4RUZZVldXeTJnajhYNE5qUTVBUkhNZE5Tbnc5MS1majhWVlZBQ2pNRzhfR0daMTlZcGc2M3BRbkV2ZlJNb2hSeDFLS1JhT1o0?oc=5",
       "source": "MobiHealthNews",
       "date": "2017-03-23T06:17:54.000Z"
+    },
+    {
+      "title": "Videos",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NOVNwNVVvMmM0TzgzZUVIRkNjc1puRXkycXFXT0ZQV0xkZVhMTzJMbGJuZlpMcW9KSHptT1BjZnQ4Q0Y0VFRsSUV1VC0?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2016-01-23T09:09:28.000Z"
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84amhfd05LSGVtZ0pkUDh4NVNJeldXbkZ0cHFFODlYNm5ORXZ0Z0EzYTdHVkZZb2g3UC1oSTFlNFotV0wtUDBSNDZzTQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2016-01-23T09:09:28.000Z"
+    },
+    {
+      "title": "Home | MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1fQ0R1R2xjRHJtRFd1NnpiblJseHBfWFQ3TUtuQ2x2VkZmRkp2Y0xXWHBEcUI3NEQ1NklNSUdwTHU1V1pXN1E?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2016-01-23T09:05:10.000Z"
     }
   ]
 }
