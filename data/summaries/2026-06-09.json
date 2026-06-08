@@ -1,0 +1,250 @@
+{
+  "date": "2026-06-09",
+  "generatedAt": "2026-06-08T22:42:12.387Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 39,
+  "sources": {
+    "MobiHealthNews": 9,
+    "Healthcare IT News": 15,
+    "STAT News": 11,
+    "MedCity News": 4
+  },
+  "summary": "Pediatric behavioral healthcare continues to emerge as a critical gap in the health system, with coverage today on both how technology might bridge access problems and the specific barriers preventing care delivery. In oncology and obesity treatment, several major developments point to a reshaping of available options: AstraZeneca's oral GLP-1 candidate shows promise as an alternative to injectables, while J&J's billion-dollar acquisition of Firefly Bio signals intensifying competition in the KRAS inhibitor space, and combination therapies from Tango and Revolution are yielding strong early results in pancreatic cancer. Across healthcare organizations, critical infrastructure challenges are taking priority, including data governance obstacles that must be resolved before AI implementations can succeed, supply chain resilience that needs elevation to corporate strategy level, and EHR transitions at major facilities like VA hospitals and Taipei Veterans General. Remote patient monitoring is expanding under 2026 policy changes, though operational complexity is increasing, while emerging innovations like Google's smartphone-based heart rate monitoring and Oura's new AI ring reflect growing consumer-facing health tracking capabilities.",
+  "items": [
+    {
+      "title": "How technology can reshape pediatric behavioral healthcare delivery",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2dqeFc0NnhZWmREU0pZZFk3RWJ0bHlpUmRNdHNvX3Vua1RVZU1aV0t2VTctazFPRVFXcHpuTXRLeGpveG1ZOUJEbVZrSGk3Q1BNV0xiQ25MZzVJNENTZEppRU9CSmo3bkpLNXdIZXZzSjFvbmdURnZ3Rm44ZUN0TkZyVEMzNGl1QmE3cUdUbTBjZWNvTFBRUW1ISDNJdTc1a2s1TmluNA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-08T21:37:35.000Z"
+    },
+    {
+      "title": "How pediatric behavioral care can be hindered by access gaps",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUU4TWV0Nzl3aW9JMmZvS3BlY2VSODFNWjYtc0tTbTM5R3M5WTN5WndmTVUtNWc0M1EwQ3BMalhFVEczQ21xaFdkeGVJTGIwS3Q1NFRPWDFnSGxNajMxVmxvcEVGN1pqM1BPQUh0TFpvLTVJaDlNREluZXVKblN6NThXTTBFa3FleXRrd3NBa1QtTEt5aTRWSnNJTVI?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-08T21:17:00.000Z"
+    },
+    {
+      "title": "Health workers at the epicenter of Congo’s Ebola outbreak labor with little pay or rest",
+      "link": "https://www.statnews.com/2026/06/08/ebola-outbreak-congo-health-workers-little-pay-rest/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-08T20:17:11.000Z"
+    },
+    {
+      "title": "STAT+: AstraZeneca’s GLP-1 pill shows promise in obesity, diabetes trials",
+      "link": "https://www.statnews.com/2026/06/08/astrazeneca-obesity-diabetes-treatment-studies/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-08T20:15:00.000Z"
+    },
+    {
+      "title": "SOPHiA GENETICS, MSK plan precision oncology hub in New York City",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2hwVmhHdmJwSmdCMU8yamVDcDd3RHgyYmE5cHoxeG9aeUE1VjI0eGNGWnA2MFdRTGg0eGtOVGcteU5QdjJwempodnp4NG55aFdzdjgwRUdLU1lyUnVvZTgwZFZ5akk0Z21LSUlJZTV0bkY1ZFVMSXBKQTBUb21JMklxSXNGNmtmb2Rqem5ZXy1qMkVYMWFzQnFOXzhidw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-08T19:35:38.000Z"
+    },
+    {
+      "title": "Vida Health Teams Up with Instacart to Expand Access to Nutritious Food",
+      "link": "https://medcitynews.com/2026/06/vida-health-teams-up-with-instacart-to-expand-access-to-nutritious-food/",
+      "source": "MedCity News",
+      "date": "2026-06-08T18:55:00.000Z"
+    },
+    {
+      "title": "Google unveils smartphone camera-based heart rate monitoring system",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXRYLUItUXkxOWp5czBnYkpyZU50ejZucEtra01ha0NFcVozQUVScElESEQtNU9XWGFJejBSZnFBWHVsQ0Z6V3liTWN4bWFZT0ttaXpnd1VBNzQ3MHhPWHhiSGRLMWFTdmx4R3lPUUs2djV0R2FZOU40NEIyZHEyZjNQeWhHTHRHZ2FaR1NKWktLTms0NkZ2QWdjSmhXRzQyZ3ZHWTVR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-08T18:28:01.000Z"
+    },
+    {
+      "title": "Before AI can deliver, healthcare orgs must fix their data governance problems",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa250QnE3dlByOGM5LXhaak5zeEtqT3liZUEzVXJMNkQ3VTh6SHFFX1dNNFpkZXZsanhwSVdIeERwRDUwTHBpeDlDUHdBYksycE1sTWFFa2pNUUw5TG5IUTRhUEN4UlRHSHg0LUF0dnlhU0hxci13Y2FtOTJGM0NnWmpkLWZxckZNa0hscDg0ejFwQU1VWDVjaHFLaVVrTmdiVV9KNTc2U2JmcFB3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-08T15:36:16.000Z"
+    },
+    {
+      "title": "3 Southern Ohio VA facilities go live on Oracle Health EHR",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOengzLXBKbEd1a1d1TGhmcWJwNTRBTWhsRjlBYzZ5VkhyTjZGeXI0RVJONUpNX2lZVGlMeHR0NkpSazZkMmNvTkZMcm8yTk8ySldDMGRIR0RxTnI0cGlYTUtfYTVyd3diNk9LVXgyM3ZIanJSdW11YmZnV3lEY1FpV1A0UEc3dlkzZHd0bVRLajBabXVBVkRidQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-08T15:31:13.000Z"
+    },
+    {
+      "title": "The future of medication management and digital visibility at UC Davis Health using RFID",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVZJbEZXUE82SFRkd1h0TzlldTVqVTBmU3MzSzVQRjVlaHJjTVdtVmZES0pIQlNxLXl3c3FXRGY3a3VkcTc0RWR4VTI4bjVaZl9DTmk3STI1RDFhVzZRelFzLVk5aFF6eklVcnhRdDNrd0xqWDBGcmlWdGVRT1JCLVk4VkpWdlplOHEzVVlSeGpQczZXZThHQ3FRMGNmbDNtb2ZtNVFpYWFiZXRNYXVTeE9vSG5TTVU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-08T15:30:00.000Z"
+    },
+    {
+      "title": "STAT+: UnitedHealthcare’s lactation billing feud, and fake strokes",
+      "link": "https://www.statnews.com/2026/06/08/unitedhealth-lactation-counseling-policy-medicare-advantage-audits-stroke/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-08T14:53:05.000Z"
+    },
+    {
+      "title": "AI model provides brain health insights from MRI scans",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPXzliMDRRa2pFQmJlNXhlWlVmdTVZZUYycWFKVUpxaHJvdXJNbHNTUkI2V09SZE9iMHRsT3c5Nmdvbm1IOWJIY3dkd1dJWVBjbURxSDU0MzM2QWlSaE9sTm5zbW9aMkU3S2d0UGNCaHVvMmE4UDZ3cGRHT0M3ZGltQ1ZIcm5WTzJBRWVlamRDdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-08T14:17:30.000Z"
+    },
+    {
+      "title": "STAT+: Novo underwhelmed by drug it once fought Pfizer for",
+      "link": "https://www.statnews.com/2026/06/08/biotech-news-novo-underwhelmed-by-drug-it-once-fought-pfizer-for/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-08T14:05:38.000Z"
+    },
+    {
+      "title": "How AI is Unlocking Smarter Clinical Trial Protocols",
+      "link": "https://medcitynews.com/2026/06/how-ai-is-unlocking-smarter-clinical-trial-protocols/",
+      "source": "MedCity News",
+      "date": "2026-06-08T13:54:00.000Z"
+    },
+    {
+      "title": "What a new foundation model could mean for MRI data and brain health",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdUFkUFc0SWRGdWhtVl9qVlhiLUcwV3BKalItcWl4MVgzSDlIVlhkLTVpNXlKV21uWk04VHg0b0lLUFBfRUlYUVdydTB2anVCcWQ1RnBlQ3hpb2VqOUdPbmZndVBmdUlPZUprWENzOWR3TkJiQWFwX0cxcV9YM1RyVTFXQVN6YjVNVHpaLXVxV0RIRFJzTEJlUXhHRWIxU0VGWGEw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-08T13:47:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Lilly and Pfizer obesity drug data, Roche and J&J deals, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/06/08/lilly-pfizer-obesity-drug-trial-data-roche-deal/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-08T13:28:35.000Z"
+    },
+    {
+      "title": "STAT+: J&J spends $1 billion to enter KRAS race for cancer treatments",
+      "link": "https://www.statnews.com/2026/06/08/johnson-and-johnson-firefly-cancer-kras-treatment/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-08T13:17:20.000Z"
+    },
+    {
+      "title": "6 Ways in Which Healthcare Needs to Expand the Supply Chain Resilience Conversation",
+      "link": "https://medcitynews.com/2026/06/6-ways-in-which-healthcare-needs-to-expand-the-supply-chain-resilience-conversation/",
+      "source": "MedCity News",
+      "date": "2026-06-08T13:02:00.000Z"
+    },
+    {
+      "title": "Expanding the Reach of Remote Patient Monitoring: The Real Signal Behind the 2026 RPM Changes",
+      "link": "https://medcitynews.com/2026/06/expanding-the-reach-of-remote-patient-monitoring-the-real-signal-behind-the-2026-rpm-changes/",
+      "source": "MedCity News",
+      "date": "2026-06-08T13:01:00.000Z"
+    },
+    {
+      "title": "Major readouts from the annual diabetes conference",
+      "link": "https://www.statnews.com/2026/06/08/health-news-readouts-from-annual-diabetes-conference/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-08T12:22:16.000Z"
+    },
+    {
+      "title": "STAT+: Combination of pancreatic cancer drugs from Tango, Revolution leads to high response rate",
+      "link": "https://www.statnews.com/2026/06/08/pancreatic-cancer-combination-tango-therapeutics-revolution-medicines-vopimetostat-daraxonrasib/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-08T11:55:45.000Z"
+    },
+    {
+      "title": "Opinion: $2 million gene therapy cures require a financing model",
+      "link": "https://www.statnews.com/2026/06/08/financing-gene-therapies-cures-cost/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-08T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: American horses are obese, too",
+      "link": "https://www.statnews.com/2026/06/08/obese-horses-humans-metabolic-syndrome-food-system/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-08T08:30:00.000Z"
+    },
+    {
+      "title": "When it’s time to save a limb, novel clinic meets unhoused people where they are",
+      "link": "https://www.statnews.com/2026/06/08/vascular-care-homeless-amputation-prevention-effort-mass-general/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-08T08:30:00.000Z"
+    },
+    {
+      "title": "510(k) for South Korean tablet-based AR surgery platform and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT21QaEdVQThJZjc5Tzl4U0VTYkx3c3VxZE1BMG9SUjdzZlR4Y25JR2RNWG92bGl6R2ZOSFNhWkVYc0l0QklUYzdvQ0tEYnBkajBsLU5mR3lhS19SRVRTdGUwZE9IMjdjaExzbjF1ZHF2aUVuMDR6TGliV0hzN05LZnB0ZlJ3MFJwTkFmdGJnZ3NGeHo3a19Vd3NpVVJsck8zdkxIeG5laWp3REE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-08T04:13:34.000Z"
+    },
+    {
+      "title": "Expanded cataract surgery VR training in China and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWFKMU1zNlU5VHEwYkFYMTdhMmF3UWYwVExQTFNNLVMwSkdlSWo4Qll3dS1FempUdUlWVVBWRExxUWRRWEZPaEtiTEhlamhENzRxMjhYT1RfWnZEN25xdFJIUTFGNDBwUUZoOVJ6OGUzRHJNa1l4d0xHUkVlaUVGaXI0SXR0UUZMQ2JvTl8wMS1vNkpzQ1N3cnFKTXlaV09ZRWdnLQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-08T04:13:17.000Z"
+    },
+    {
+      "title": "New national 24/7 health advice line opened and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN1NZbEQ2MG4wTG11c3NMMnpTYzNZU3JQSHU4eENHMDFWNUhGaHNMcTRUQ0tXQWVFcnF4MTRCSlF5U0VjenE1dVdEdlhvSVdhUF9MNDhDWkVBdzduNENjcTNWYUlsSmlrUFk1X2EwRFpqb0tMRXRvbUItcWVoNHRQVjdpUklWakVoQmdOZ1FuOHhyd3NjZmljTi1xYl8zemFnd1E?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-08T04:13:14.000Z"
+    },
+    {
+      "title": "AI has hidden costs, and consumers may not always understand them",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMEZySmxSR2xoZG5aTlc3amxVRndLVzhNWVJMTzEybW5OTl9SR1gtelFSdXRlY1BxMU5lV3RtT2pvY3IzdU1fX1hlTUhMX0stVFg1Z2xaeUs3TnlpU3R3X2JYaTBMR0Zubksxd2JhNmJYYUtiSHZFcGM4MV9INlJYZlk4TWU2WjZkUTR6OGtrRDNhOVRjRDB3OXB4Q2JCVzZ3ZVp5bUZDNEhCMDhy?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-05T21:25:00.000Z"
+    },
+    {
+      "title": "HIMSSCast: Women in health IT discuss ways to drive the industry forward",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbEVXdE9NRTk5aEZmU04zSVE5dFhtZE9YNmFZWl9WWHRrYzJQeTNVUEhDYUZvd2Z3bWxSMGctQ3hMUmZoclRMQzFxUG9GdVlvSVV4TXh4RlEyVXJ1SGRtTnlEdGh3Sk43cldMSkUwU2huXy1SdGRsalgtLVRJMlotcDR3VklNSXE5VnJYWmFiU3dxS2dZQXVTQ2FxdGNUa1ZQVDRjMQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-05T14:30:20.000Z"
+    },
+    {
+      "title": "Healthcare faces a fight for AI's future",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWndab0hCVWEyQ0I1UE9KNjNKY00xSTFMcDJIcF9lcmhEdU93dVhlSkJ4dmpyRDRkdjlzeVZEdl85MF9qNkM0MEZva1RqQ3dYdEhFckFIcWVrYnZPYmpvOU5IdXZDeVpRcXFIM2FxNjYwdkIteU5LMmNaMC1LcFA5QQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-05T07:00:00.000Z"
+    },
+    {
+      "title": "Why synthetic data could help level the playing field for healthcare innovators",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVE43UVVhelduZHc3WW91Q2o1ckVPVGc1Ui01SVR4dFAtZG1OMDJRaEhoaTRienpCRGkwbkZzSDVtUU1heTdqYURHVkczZWV2QjJzNGlIQmhwYzBrdkxBdVd6QjVoRTYxTXFyUmw1eElTMmt1ZDc2UUFHX1lWRi1FSWJBbXVVZlFKSnlPSGlLV2ZyWmZMODZiOEN5NC1SVWtsLW1uNUo1b0dFdHRjU09QTHprbnI1Zw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-04T16:34:00.000Z"
+    },
+    {
+      "title": "INSAFEDARE",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43VWdyQzg4bWl4ajl2TS1oajdEdGx4SHk0NTJIWW9zZ0VSNm52UllWMUtXWGk4ck1ISm44bUZsVFdUTTdZYnQ1R2FRUl8xTGp4RU5EczdDWnpXUkxoX1k1UG53?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-04T16:34:00.000Z"
+    },
+    {
+      "title": "Joint Commission intros new voluntary AI responsibility certification",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdDl3R0VJZmU3VjdVZ0M5bTBFRUlhS0JteTBWbWpac2FzMU03cWFyX3hSVmlQOGNXTUtqQUNoMUVLV2Uzd0EyT182M2l0WUtkOEp6U1J4RmRnbjFIWmpPblNZVVg4TEVxRl9MNlNDaVFRekYxbng4QjlXcHpHemlzeEpQeUIwbXJyaG55OTVsdHFVRmdSLTM3MFgxamZCczVFTmcxUm51UlhvUkU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-02T18:54:31.000Z"
+    },
+    {
+      "title": "What EMRAM Level 7 means for Taipei Veterans General Hospital",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXdLOUxvZEtqZGJCM3lwVmtiX0o2X1lxYTFfQWktLWlqNDlSaGRrbkphMWZyUWxUcUwzaGU2OTgyMVRvM1ItOG5QWkVidFNEU2FpLTdxcUlaaWdTbGhlR09Od0R2SXp4czJzVFpLZkFDYkZBNmxsN3Nvb1hTN0pXVkVaMUhpemhBYURnT293SGZieGZtVU90QUxpaFM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-02T17:41:00.000Z"
+    },
+    {
+      "title": "SNUH, Harvard unveil world's first virtual hospital for validating medical AI",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3I3MV96UHFLQ0pPOTRUSDR1VVhRSVpRdmxxUWpDUWJ4cllmaTRjekRKcnE0UmtOVmdtaEg0SUdnRGRPNmtyREVkeERiV1FHWDdhS3pPaENoT1MydzdHdkNfQ0tqX1gxVjR0SWNkNE5JNUl3eWdldlBPd0RDYXZxZzkwV3lkRTZnMi10Z0Z5ck5uZklsUUdueDFfLVpxZmxZc1Q3eEI2dkxwMjVrcEtkTTdn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-02T01:36:25.000Z"
+    },
+    {
+      "title": "Approaches to rural healthcare need a reality check",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMG54NFdFSUpMaDBXYUQyaWtjTkhWZjVBNlE1SXBUcVhKaURYUVhkZ3VxN25jQWZPRVNCNXdWd3lQSWVaY2FucFByVjdvXzhFVWV5V3F5Qkkyd05zclc5LXJ3WER2Z0dSN2IyLUh2dnpKOU1TZ2ZfRGFFTVlTWmhFWE53NFFOcHBUQWJ1a0p3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-01T18:55:00.000Z"
+    },
+    {
+      "title": "Epic integrates firearm injury risk screening tool from Northwell Health",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMzhvVFE0WGZGQzBHbUV1Z3ZfN1FqVWFBUDV2dVI3ZW5xTVVFcHcyUG5ubTlXTklpdnA0VWI0dnlvVk5oUl8xcjNoUzgxLUNhNWhSRVNjd2k3SktqS2dDQmNLRTdCcUJlbFM1Y3UybzF2THlXZjhNbGdycWlVQVFrVU8tUGtYUmJldlJKb3MyUTdCUGVpU2VCVF9QWDg4alZReXJFTzB3?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-01T16:53:57.000Z"
+    },
+    {
+      "title": "The nurse who closed a dangerous gap in rural sexual assault care",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjd4X0FNWXhLZlM4UnRVYWdBbkwzUUNMeGRmeEd0a2ZRTnQ2TnY3amcxSDlsZnFwa3dic1pDNkNjbVhSX0ZhV1BlZ0VuektJQk84a1I4dGNUaXMzV1ZhWlJabi00WVdKX1R2a1p1S0V3Y0xZWlJOanJ0T09RYnMzYkRaaFE1V3AxdS1GMExIbllHY3hrQ05ycU9n?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-01T15:41:46.000Z"
+    },
+    {
+      "title": "Oura unveils AI-enabled Oura Ring 5 with predictive health features",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDNYbzNBRFNMMVJXNTNWdDh3d09UWGtMMEhOU2Q0VmhJeEtkWmVwRUV1cTFDOGJrRHFhT0t6YlpVZlJTaTJ3amdfdGxrbkxaTDZQblZ6dGY3SGh6dVdlcjdaazlsNklKeHJDVVRqNjAyZFhMMnNDSjRJV3JVcnU2dFZ1SE1VZjkydUVLVGpmc2lrbG9abWR5WmhGbXVacTA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-05-28T07:00:00.000Z"
+    }
+  ]
+}
