@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T22:42:08.147Z",
+  "generatedAt": "2026-06-09T22:26:27.424Z",
   "sources": [
     {
       "id": "stat",
@@ -24,6 +24,278 @@
   ],
   "count": 120,
   "items": [
+    {
+      "title": "STAT+: The shortage of many medicines in the U.S. remains a ‘systemic’ problem, a new analysis finds",
+      "link": "https://www.statnews.com/pharmalot/2026/06/09/drug-shortages-systemic-problem-analysis/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T20:46:06.000Z",
+      "snippet": "The number of prescription drug shortages in the U.S. fell by 23% last year, but a new analysis found other troubling signs about medicines in short supply."
+    },
+    {
+      "title": "Exclusive: Rad AI expands partnership with flagship health system Yale New Haven",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORTRhQkxxd2RrUGwtWDVaQlVZelJrTzJvdU5ZYTBBN3BjVHVUVktIX0xURVJhS2NIV25rMjN4M1pYdDBPaEY4dEVaY0M3RjZIQnhoZmdTZVJsaUtiNEpTYUxIZ0JsUjhpYVFvMGVTdFJhMHo0UnREVjh0OGh2OWlwT0lzaFp3SHh3LXo5Sm4ySzEzbFBxcHFaMU9fZkh3LUlQZzBtVGZvbVdaVGVjTUZV?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-09T20:30:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Clinician trust is vital for medication safety efforts",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTJmd0F3QjRxcXlTXzg0LUk0RlZNVnFhUlF0VnVEUTNWMk1uWUdOOXFJcFR6X0JfaTBKT2p3NmdpWENtZ2dWSzUzd2lOSV9FWHlZRllKOVRuM0JLMUc5UlJQOUJ1LWNEYmpaRFNSd3Fqd25NdldfRDJkRVRIRzlZdFlxLWxPUDZRX2E4eA?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-09T20:22:53.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "STAT+: Trump’s health care affordability czar takes aim at hospitals",
+      "link": "https://www.statnews.com/2026/06/09/trumps-affordability-czar-backs-medicaid-cuts-alcohol-study-published-dc-diagnosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T19:56:13.000Z",
+      "snippet": "Plus a buried alcohol study gets published, and a Biosecure update."
+    },
+    {
+      "title": "GSK Gets a Pair of Near-Commercial Lung Cancer Drugs via $10.6B Nuvalent Acquisition",
+      "link": "https://medcitynews.com/2026/06/gsk-nuvalent-acquisition-lung-cancer-ros1-alk-inhibitor-nsclc-nuvl/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-09T19:15:22.000Z",
+      "snippet": "GSK’s Nuvalent acquisition brings two lead programs, each addressing different targets for non-small cell lung cancer. The Nuvalent lung cancer drugs are under FDA review and if they’re approved, GSK plans to launch both this year. The post…"
+    },
+    {
+      "title": "Diabetes Association in uproar after members expelled from annual meeting over protest of NIH cuts",
+      "link": "https://www.statnews.com/2026/06/09/american-diabetes-association-uproar-over-expulsion-of-members/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T19:12:46.000Z",
+      "snippet": "The condemnations keep coming after five diabetes experts were escorted out of an ADA meeting for handing out copies of an editorial criticizing federal research cuts."
+    },
+    {
+      "title": "Clinicians not burdened by smarter alerts that enhance safety",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbTBweVZlbW5rOUNTc3F5VnYya2MyX1hHOUVjc1R6SGZhaGpjXzRjMF9BaTZlSGwyQjQtbFlSTldMWXVGajJKeHk3SkgxWHNBbTJYS3pSUmcyQlFBTFlXSnFXWU1HczZPLW1aUzJrWGF1YWpCTW13RExtdHFmdEJBNElKc3h5ZWNoWkJQVjJxZHN3LUJMck9v?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-09T18:50:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "FDA OKs first new sunscreen ingredient in more than 25 years",
+      "link": "https://www.statnews.com/2026/06/09/new-sunscreen-ingredient-bemotrizinol-fda/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T18:43:15.000Z",
+      "snippet": "Federal health regulators on Tuesday signed off on the first new sunscreen ingredient for the U.S. market in more than 25 years."
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORG5odGM4eExGcU1rX3JWZ3p2WnVtTThtcnYtTVJ6ZlJFNU9LajhmWS10V18xcVotQXB0QVB3azNWMm1rRE01YTB4OXI3OVpJckEzYmdWak0tdlJNclJZSi04RnVfVTR6ZENwRjEtVXRhN1dycEtyaThpTzc3WlE3WGhWbDNFd2ttbzRyVE1SQjJWSl9oX3ZadWlGeFRlZlZHSGFRMjY3WTR0SXNScFNBVEZzcXVHOVZWTTF2NzFDMm0?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-09T15:50:58.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Why virtual-first care demands new partnerships between clinicians and IT leaders",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQODctVVZaaUxCR1V3Nlh2RUkyWHF6Q0VLdUR1bDV1dzA2U0ZkT1lTaTBXLVV0c3dQWUc2TEhvWmcyaHBLbjdUN0VROWdsVXNrWVFTcW9YQktKQ2hLTmVHajBZeGV6M1RYcmlDNGFyYkkyNzZ4MGsyaHJnWDFUcm9CNE9TZTd0WURnVWhGLTdYNjdMM2RrWkhia3Jmb1RDaVpXZkM0WWo5eGp2MnRmTlJXaDBEczNnOUo3SzFB?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-09T15:42:54.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Trump administration warns more than 500 hospitals to provide more price information or face fines",
+      "link": "https://www.statnews.com/2026/06/09/trump-administration-warns-hospitals-price-information-fines/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T15:35:43.000Z",
+      "snippet": "The Trump administration has warned more than 500 hospitals that they are failing to provide the public with basic pricing information."
+    },
+    {
+      "title": "Gilead and Merck’s latest trial success and flop",
+      "link": "https://www.statnews.com/2026/06/09/biotech-news-gilead-and-merck-latest-trial-success-and-flop/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T15:11:54.000Z",
+      "snippet": "AstraZeneca's GLP-1 pill, GSK's $10.6B cancer startup acquisition, and more biotech news from The Readout"
+    },
+    {
+      "title": "STAT+: NIAID appoints new acting director after weekslong questions over leadership",
+      "link": "https://www.statnews.com/2026/06/09/niaid-acting-director-john-powers-replaces-taubenberger/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T14:50:45.000Z",
+      "snippet": "The NIH has appointed researcher John Powers III to lead its infectious disease institute on an acting basis, after weeks of being in leadership limbo."
+    },
+    {
+      "title": "Patient photographs can inform clinical care for serious conditions",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaDJ3TGtYa2dIRTR4T0xLMW9SbTZIaXJNNjNVRWpFY1hReDNGOENNWnZROEstSHM5ZllTdEsxRHpOb3BwSUdsRUtORDlBY0FySVpra1EtOU5udktFYUtvTVdnZ2YwZ1BhbkJlb0tkMlF2dVczVDdQUWkwODBfcGV6Y0lCcTM1Z19fdUxMNlRSSjVRdGZBSVZVaEtLb2ptWi0wOWc?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-09T14:22:53.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "EHR vendor notebook: Elsevier, athenahealth and PointClickCare ramp up agentic AI",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3FDRjd6LXZRVGc0Z3BvcXRJV19PaC1sUkpaUU9QdEdFcW9QakkzZ0xzSVUwWUp5eWI4cUJnbGtMbHZQb2I2UHotTkM2X1cwSEJnQjBpWU5XWVpaOTlPWUU1bUZ2WmMzbF85eVNOd3A5NHRkODFLNDJKQjBSZVBULXlhYnVRVHlmWWJFbDlnVFFoY0ZYcXpQU3JpZ0pwWU1nTHpRMmswUk1HUmdZQUU3YXhMOEs?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-09T14:15:58.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Healthcare’s Assurance Infrastructure Is Broken. The Compliance Industry Built It That Way",
+      "link": "https://medcitynews.com/2026/06/healthcares-assurance-infrastructure-is-broken-the-compliance-industry-built-it-that-way/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-09T13:52:00.000Z",
+      "snippet": "SOC 2, HITRUST, and BAAs should be treated as starting points, not trust signals. They tell you what a vendor claims about its controls. They do not tell you whether those controls are actually working today or whether the evidence behind t…"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a $10.6 billion GSK deal, an AstraZeneca obesity pill, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/06/09/gsk-buying-nuvalent-cancer-drug-astrazeneca-obesity-pill-data/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T13:39:19.000Z",
+      "snippet": "GSK agreed to buy Nuvalent, a cancer drug developer, in a deal worth $10.6 billion, as the company continues its expansion in oncology"
+    },
+    {
+      "title": "Dexcom RCT suggests CGM benefits for broad diabetes population",
+      "link": "https://www.statnews.com/2026/06/09/dexcom-cgm-trial-wearables-clinic-apple-updates-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T13:34:45.000Z",
+      "snippet": "In this edition of STAT Health Tech: Dexcom's CGM trial, udpates from Apple's annual developers' conference, and wearables."
+    },
+    {
+      "title": "Bridging Movement and Machine Learning: How Clinicians Can Harness AI in Practice",
+      "link": "https://medcitynews.com/2026/06/bridging-movement-and-machine-learning-how-clinicians-can-harness-ai-in-practice/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-09T13:33:00.000Z",
+      "snippet": "The true promise of AI lies not in autonomy of either the clinician or machine, but in a balanced collaboration that bolsters the strengths of each. The post Bridging Movement and Machine Learning: How Clinicians Can Harness AI in Practice…"
+    },
+    {
+      "title": "How cancer care can be enhanced by photographs",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzZCS29fbVl1MDFhTlZIUVFoQmZCaHBuRTRrT0lFcXByY1llVHNMVUJjbkREa0hFeGU3ZUU2dS1fdFc5bThDSTQ3cFlNckVNQ19TSkdva3lpWlMzODV3aEoyVlRIUzVFbFQ0NmlEY0pYY2xnQnBhbVN5b3R0RkhXU3U4SEZQTnNSV3c?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-09T13:29:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "GLP-1s Are a $70 Billion Market — So Why Are Patients Still Getting Medical Advice From TikTok Influencers?",
+      "link": "https://medcitynews.com/2026/06/glp-1s-are-a-70-billion-market-so-why-are-patients-still-getting-medical-advice-from-tiktok-influencers/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-09T13:24:00.000Z",
+      "snippet": "It’s not hard to understand why patients turn to social media for GLP-1 guidance. The healthcare system leaves a huge gap between getting a prescription and actually understanding how to use it well. The post GLP-1s Are a $70 Billion Market…"
+    },
+    {
+      "title": "Mount Sinai launches virtual HIV prevention program",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMmdZVDB0cXVyRHFZci0zNWlFdGNnS2FoUkJwRjV0RHRNZ0tPZGdadVF6ME1VeWdDUHl3eWFKcDhWSHh3bDVvaXB5U2UwX0E3NUFUR09fczdYLUI5X0lLTkVJYWZBeG9JSHhZV3BFX2JkM2lvT2pHZFlMQjNFU2d5dG5hM2tlZGFrUWxUajdDaVY5Qzg?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-09T13:01:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "STAT+: NIH staffers published a letter of dissent a year ago. They feel it’s been ignored",
+      "link": "https://www.statnews.com/2026/06/09/nih-bethesda-declaration-1-year-later-dissenters-say-problems-persist/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T13:00:00.000Z",
+      "snippet": "In a report published on the first anniversary of the Bethesda Declaration, 71 staffers write that they feel NIH leadership “largely ignored\" their concerns."
+    },
+    {
+      "title": "Stepful raises $55M for healthcare training platform",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczZqSXktb2tMcWQxbFJVS1hfMVo3NEdzSkk4dGE4OU80QzRHZUNOZndDTW5XOGY2NnpBbXdESmR6RENMUXVTV1NaS2tIMTAxV3FRNHh6c2JSdGZCVk8xZ3IxUlh4R2F0aGFHd3hDYXp3bWJBVXVPUnpYaVZNb3A3aUw2UDRYX2ktMWFz?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-09T13:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "STAT+: What’s changed since the last major Ebola outbreak",
+      "link": "https://www.statnews.com/2026/06/09/health-news-whats-changed-since-the-last-ebola-outbreak/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T12:23:29.000Z",
+      "snippet": "A suppressed federal alcohol report, an \"inevitable development\" for wearables data, and more health news from Morning Rounds"
+    },
+    {
+      "title": "A leader of the 2014 U.S. Ebola response compares then to now",
+      "link": "https://www.statnews.com/2026/06/09/ebola-outbreak-response-difference-between-2014-today-susan-reichle/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T08:30:00.000Z",
+      "snippet": "As the world deals with an outbreak of Ebola that has no known cure, Susan Reichle, who last year co-founded Aid Transition Alliance to support former USAID professionals, discusses the…"
+    },
+    {
+      "title": "STAT+: Trump’s health care affordability czar touts Medicaid cuts to hospital leaders",
+      "link": "https://www.statnews.com/2026/06/09/affordability-czar-casey-mulligan-hfma-speech-medicaid-cuts/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T08:30:00.000Z",
+      "snippet": "Hospital execs say they're working to mitigate the impacts of the looming cuts."
+    },
+    {
+      "title": "Opinion: Why STAT is sticking with ‘health care’ as two words",
+      "link": "https://www.statnews.com/2026/06/09/health-care-vs-healthcare-ap-style-stat/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T08:30:00.000Z",
+      "snippet": "Is it “health care” or “healthcare”? STAT readers had strong feelings."
+    },
+    {
+      "title": "STAT+: Wearables, and the flood of data they generate, inch closer to entering the clinic",
+      "link": "https://www.statnews.com/2026/06/09/wearables-data-oura-whoop-clinical-integration/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T08:30:00.000Z",
+      "snippet": "Wearables generate a lot of health data, but it exists outside the clinic for the most part. New moves from Oura and Whoop may change that."
+    },
+    {
+      "title": "Opinion: Ending animal testing could set back xenotransplantation just as the field is poised for a breakthrough",
+      "link": "https://www.statnews.com/2026/06/09/pig-organ-transplant-animal-testing-impact-xenotransplantation/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T08:30:00.000Z",
+      "snippet": "“Innovations like xenotransplantation would never have reached clinical trials without animal experimentation,” writes transplant surgeon Joshua Mezrich."
+    },
+    {
+      "title": "STAT+: GSK to buy Nuvalent, maker of targeted cancer drugs, for $10.6B",
+      "link": "https://www.statnews.com/2026/06/09/gsk-nuvalent-acquistion-oncology-lung-cancer-zidesamtinib-neladalkib/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T06:48:20.000Z",
+      "snippet": "GSK is buying Nuvalent, the maker of targeted cancer drugs, for $10.6 billion, a sizable addition to the latest run of biopharma acquisitions."
+    },
+    {
+      "title": "Alcohol study discarded by Trump officials is published in scientific journal",
+      "link": "https://www.statnews.com/2026/06/09/suppressed-alcohol-health-study-released-one-drink-or-less-daily/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-09T05:00:00.000Z",
+      "snippet": "A government-commissioned study had been meant to inform new dietary guidelines, and found risks associated with even light drinking."
+    },
+    {
+      "title": "HHS Affordability Czar Says Healthcare Costs Stem From Incentives, Not Coverage",
+      "link": "https://medcitynews.com/2026/06/hhs-affordability-healthcare-costs/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-09T00:24:59.000Z",
+      "snippet": "Healthcare affordability czar Casey Mulligan laid out the economic philosophy guiding the Trump administration’s approach to healthcare costs during a recent conference address. He argued that provider taxes and state-directed payments infl…"
+    },
+    {
+      "title": "Incyte’s $1.25B Buyout Brings What Could Become the Next Big Bleeding Disorder Drug",
+      "link": "https://medcitynews.com/2026/06/incyte-vega-therapeutics-acquisition-von-willebrand-factor-bleeding-clotting-hematology-vwd-incy/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-08T22:37:10.000Z",
+      "snippet": "Incyte’s Vega Therapeutics acquisition comes with a late-stage drug offering a novel mechanism of action and a dosing advantage compared to currently available therapies for von Willebrand disease, an inherited bleeding disorder. The deal c…"
+    },
     {
       "title": "How technology can reshape pediatric behavioral healthcare delivery",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2dqeFc0NnhZWmREU0pZZFk3RWJ0bHlpUmRNdHNvX3Vua1RVZU1aV0t2VTctazFPRVFXcHpuTXRLeGpveG1ZOUJEbVZrSGk3Q1BNV0xiQ25MZzVJNENTZEppRU9CSmo3bkpLNXdIZXZzSjFvbmdURnZ3Rm44ZUN0TkZyVEMzNGl1QmE3cUdUbTBjZWNvTFBRUW1ISDNJdTc1a2s1TmluNA?oc=5",
@@ -57,7 +329,7 @@
       "snippet": "AstraZeneca’s GLP-1 pill showed promise in mid-stage obesity and diabetes studies, but it may still be too early to determine how it stacks up against other oral treatments."
     },
     {
-      "title": "SOPHiA GENETICS, MSK plan precision oncology hub in New York City",
+      "title": "Sophia Genetics, MSK plan precision oncology hub in New York City",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2hwVmhHdmJwSmdCMU8yamVDcDd3RHgyYmE5cHoxeG9aeUE1VjI0eGNGWnA2MFdRTGg0eGtOVGcteU5QdjJwempodnp4NG55aFdzdjgwRUdLU1lyUnVvZTgwZFZ5akk0Z21LSUlJZTV0bkY1ZFVMSXBKQTBUb21JMklxSXNGNmtmb2Rqem5ZXy1qMkVYMWFzQnFOXzhidw?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
@@ -105,28 +377,12 @@
       "snippet": ""
     },
     {
-      "title": "STAT+: UnitedHealthcare’s lactation billing feud, and fake strokes",
-      "link": "https://www.statnews.com/2026/06/08/unitedhealth-lactation-counseling-policy-medicare-advantage-audits-stroke/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-08T14:53:05.000Z",
-      "snippet": "The biggest U.S. health insurer is changing how it pays for lactation counseling, and it could cut payment for many providers."
-    },
-    {
       "title": "AI model provides brain health insights from MRI scans",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPXzliMDRRa2pFQmJlNXhlWlVmdTVZZUYycWFKVUpxaHJvdXJNbHNTUkI2V09SZE9iMHRsT3c5Nmdvbm1IOWJIY3dkd1dJWVBjbURxSDU0MzM2QWlSaE9sTm5zbW9aMkU3S2d0UGNCaHVvMmE4UDZ3cGRHT0M3ZGltQ1ZIcm5WTzJBRWVlamRDdw?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-06-08T14:17:30.000Z",
       "snippet": ""
-    },
-    {
-      "title": "STAT+: Novo underwhelmed by drug it once fought Pfizer for",
-      "link": "https://www.statnews.com/2026/06/08/biotech-news-novo-underwhelmed-by-drug-it-once-fought-pfizer-for/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-08T14:05:38.000Z",
-      "snippet": "Revolution and Tango yield promising cancer results, Incyte buys bleeding disorder drug, and more biotech news"
     },
     {
       "title": "How AI is Unlocking Smarter Clinical Trial Protocols",
@@ -145,22 +401,6 @@
       "snippet": ""
     },
     {
-      "title": "STAT+: Pharmalittle: We’re reading about Lilly and Pfizer obesity drug data, Roche and J&J deals, and more",
-      "link": "https://www.statnews.com/pharmalot/2026/06/08/lilly-pfizer-obesity-drug-trial-data-roche-deal/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-08T13:28:35.000Z",
-      "snippet": "Lilly disclosed new data that provide more details on the safety and tolerability of its next-generation obesity drug retatrutide"
-    },
-    {
-      "title": "STAT+: J&J spends $1 billion to enter KRAS race for cancer treatments",
-      "link": "https://www.statnews.com/2026/06/08/johnson-and-johnson-firefly-cancer-kras-treatment/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-08T13:17:20.000Z",
-      "snippet": "Johnson & Johnson said it will purchase the startup Firefly Bio for $1 billion in an effort to expand its work in the suddenly buzzy field of KRAS inhibitors."
-    },
-    {
       "title": "6 Ways in Which Healthcare Needs to Expand the Supply Chain Resilience Conversation",
       "link": "https://medcitynews.com/2026/06/6-ways-in-which-healthcare-needs-to-expand-the-supply-chain-resilience-conversation/",
       "source": "MedCity News",
@@ -175,46 +415,6 @@
       "sourceId": "medcity",
       "date": "2026-06-08T13:01:00.000Z",
       "snippet": "While the policy changes create new opportunities, they also introduce operational complexity. Here’s some important things to know. The post Expanding the Reach of Remote Patient Monitoring: The Real Signal Behind the 2026 RPM Changes appe…"
-    },
-    {
-      "title": "Major readouts from the annual diabetes conference",
-      "link": "https://www.statnews.com/2026/06/08/health-news-readouts-from-annual-diabetes-conference/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-08T12:22:16.000Z",
-      "snippet": "Why \"Schedule F\" matters, the Ebola outbreak response, and more health news from Morning Rounds"
-    },
-    {
-      "title": "STAT+: Combination of pancreatic cancer drugs from Tango, Revolution leads to high response rate",
-      "link": "https://www.statnews.com/2026/06/08/pancreatic-cancer-combination-tango-therapeutics-revolution-medicines-vopimetostat-daraxonrasib/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-08T11:55:45.000Z",
-      "snippet": "A combination of pancreatic cancer drugs from Tango Therapeutics and Revolution Medicines led to a strong response rate in an early-stage trial."
-    },
-    {
-      "title": "Opinion: $2 million gene therapy cures require a financing model",
-      "link": "https://www.statnews.com/2026/06/08/financing-gene-therapies-cures-cost/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-08T08:30:00.000Z",
-      "snippet": "“We do not lack cures. We lack the infrastructure to pay for and deliver them,” writes William Padula."
-    },
-    {
-      "title": "Opinion: American horses are obese, too",
-      "link": "https://www.statnews.com/2026/06/08/obese-horses-humans-metabolic-syndrome-food-system/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-08T08:30:00.000Z",
-      "snippet": "“American horses are getting sick in ways that look remarkably familiar,” writes Joshua Moen."
-    },
-    {
-      "title": "When it’s time to save a limb, novel clinic meets unhoused people where they are",
-      "link": "https://www.statnews.com/2026/06/08/vascular-care-homeless-amputation-prevention-effort-mass-general/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-08T08:30:00.000Z",
-      "snippet": "Unmet vascular needs can lead to limb loss among unhoused patients. An unusual Massachusetts General Hospital program meets patients where they are."
     },
     {
       "title": "510(k) for South Korean tablet-based AR surgery platform and more briefs",
@@ -257,22 +457,6 @@
       "snippet": "Healthcare advocates warn that a new CMS rule on Medicaid work requirement exemptions could increase red tape and cause eligible people to lose coverage. The post Will CMS’ Last-Minute Medicaid Work Requirement Changes Cause More Harm? appe…"
     },
     {
-      "title": "STAT+: Competition for obesity drugs, clinical blind spots, and more news from ADA",
-      "link": "https://www.statnews.com/2026/06/07/competition-obesity-drugs-clinical-blind-spots-and-more-ada/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-07T20:59:21.000Z",
-      "snippet": "You're reading the web edition of STAT's ADA in 30 Seconds, from the American Diabetes Association's annual conference."
-    },
-    {
-      "title": "STAT+: New data may cast doubt on competitiveness of Boehringer’s obesity drug",
-      "link": "https://www.statnews.com/2026/06/07/boehringer-ingelheim-obesity-drug-survodutide-phase-3-data/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-07T18:30:19.000Z",
-      "snippet": "Boehringer Ingelheim’s obesity drug showed promise in cutting liver fat, but it was less impressive at overall weight loss, new data shows."
-    },
-    {
       "title": "When Geopolitics Becomes a Patient Safety Issue: Protecting Healthcare in an Era of Targeted Cyberattacks",
       "link": "https://medcitynews.com/2026/06/when-geopolitics-becomes-a-patient-safety-issue-protecting-healthcare-in-an-era-of-targeted-cyberattacks/",
       "source": "MedCity News",
@@ -297,54 +481,6 @@
       "snippet": "If hospitals are going to stay ahead, revenue cycle leaders must shift from reaction to strategy. Here are some key areas of focus. The post When AI Becomes a Payer Advantage, Hospitals Cannot Afford to Stay Reactive appeared first on MedCi…"
     },
     {
-      "title": "STAT+: Triple hormone receptors, a monthly obesity drug, and a bittersweet ending",
-      "link": "https://www.statnews.com/2026/06/06/triple-g-safety-data-monthly-obesity-drug-ada-in-30/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-06T20:54:24.000Z",
-      "snippet": "You're reading the web edition of STAT's ADA in 30 Seconds, from the American Diabetes Association's annual conference in New Orleans."
-    },
-    {
-      "title": "STAT+: Lilly shares safety, tolerability data on its next-gen obesity drug",
-      "link": "https://www.statnews.com/2026/06/06/illy-retatrutide-triple-g-weight-loss-obesity-safety-data-ada/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-06T18:32:27.000Z",
-      "snippet": "Eli Lilly presented new safety and tolerability data on retatrutide at the annual meeting of the American Diabetes Association on Saturday."
-    },
-    {
-      "title": "STAT+: Detailed data show Pfizer’s monthly obesity drug continues to show potential",
-      "link": "https://www.statnews.com/2026/06/06/pfizer-obesity-drug-berobenatide-metsera-results/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-06T13:00:00.000Z",
-      "snippet": "Detailed data from a midstage study offered further evidence that the obesity drug Pfizer acquired from the biotech Metsera could be dosed monthly."
-    },
-    {
-      "title": "Opinion: I led the U.S. CDC response to the 2014 Ebola epidemic. The new outbreak needs massive, immediate, meticulous action",
-      "link": "https://www.statnews.com/2026/06/06/ebola-outbreak-us-aid-response-tom-frieden-action-plan/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-06T08:30:00.000Z",
-      "snippet": "“Ebola is an unforgiving enemy,” writes Tom Frieden, who led the U.S. CDC response to the 2014-2016 Ebola outbreak."
-    },
-    {
-      "title": "Opinion: How the Amish think about vaccines, health care costs, and much more",
-      "link": "https://www.statnews.com/2026/06/06/amish-public-health-vaccines-autism-interview-transcript/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-06T08:30:00.000Z",
-      "snippet": "There may be nearly 2 million Amish Americans by 2075. That has large public health implications."
-    },
-    {
-      "title": "CDC: Ebola outbreak in Central Africa could reach 20,000 cases without strong countermeasures",
-      "link": "https://www.statnews.com/2026/06/05/cdc-ebola-modeling-study/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-05T22:24:52.000Z",
-      "snippet": "The Ebola outbreak in Central Africa could grow to 20,000 cases or more, depending on how quickly infected people are isolated to slow the spread, according to a new U.S. analysis."
-    },
-    {
       "title": "AI has hidden costs, and consumers may not always understand them",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMEZySmxSR2xoZG5aTlc3amxVRndLVzhNWVJMTzEybW5OTl9SR1gtelFSdXRlY1BxMU5lV3RtT2pvY3IzdU1fX1hlTUhMX0stVFg1Z2xaeUs3TnlpU3R3X2JYaTBMR0Zubksxd2JhNmJYYUtiSHZFcGM4MV9INlJYZlk4TWU2WjZkUTR6OGtrRDNhOVRjRDB3OXB4Q2JCVzZ3ZVp5bUZDNEhCMDhy?oc=5",
       "source": "Healthcare IT News",
@@ -353,19 +489,19 @@
       "snippet": ""
     },
     {
-      "title": "STAT+: Newer GLP-1s, pushback on research cuts, and a protest",
-      "link": "https://www.statnews.com/2026/06/05/newer-glp-1s-pushback-on-research-cuts-and-a-protest-ada-in-30/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-05T21:22:33.000Z",
-      "snippet": "You're reading the web edition of STAT's ADA in 30 Seconds, from the American Diabetes Association's annual conference in New Orleans."
-    },
-    {
       "title": "States agree to share data with DOJ to fight Medicaid fraud",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYjlTWEtyUm9ZUERRengzb3NrZ0ZaVkR3cDZHVGNlTmEtSDluZGdLR0QzRlI3RkQ2QnI2T3lBZDliMW5ZX0VJeElEQUhwcV90WjVYMjlwV0FxbjREUmJQZTdNRi1XdW9TTHpUOWlxdFBlM01HMllNTnFzSy1CMXpJUmhSRV9VZEdHbGp6cHRqYw?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-06-05T20:41:37.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Eve Bender",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RNWk4bDQ5eGNNLXNyZ3ZjSHpYTzJ2eUNSeENZM1ZjOHRvWGd1VmNXcVlDWmM4T2JKTE1mVm1sT0dobDV6WTQyT043OUN0RjFLQl8ySWk4V0JpNFVmdDdj?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-05T20:35:00.000Z",
       "snippet": ""
     },
     {
@@ -657,22 +793,6 @@
       "snippet": "Rick Pazdur, formerly the FDA’s top oncology official, said the FDA is at a critical juncture that could determine the direction of the world’s top regulator of medicines. Pazdur spoke during a STAT panel discussion during the annual meetin…"
     },
     {
-      "title": "Peterson Philanthropies Unveils Employer Health Analytics Company via $50M Commitment",
-      "link": "https://medcitynews.com/2026/06/peterson-philanthropies-employer-health-analytics/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-03T22:18:32.000Z",
-      "snippet": "Peterson Philanthropies launched Peterson Health Analytics with a $50 million commitment to help employers better understand and manage healthcare costs. The post Peterson Philanthropies Unveils Employer Health Analytics Company via $50M Co…"
-    },
-    {
-      "title": "Eve Bender",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80OXBDU1ZDRFlrbE9tOWc1SURPSjg3OGZuZTl1ckk0aXdEaDBkQzhVX1pRWkJYbGlNZ2dPVDNUMVk4SFR6Unh6c3l4VjBrZkE1MEVvazBCTnNyNU5C?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-06-03T20:10:45.000Z",
-      "snippet": ""
-    },
-    {
       "title": "AccurKardia receives patent for AI-ECG cardiac amyloidosis detection",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNand5cnNSSkItZFVCazE2UGNrYzNJQ3hBakt3a2pKejVjN0o3d2gyYnVaaloyWnBmSGp2T19CSDQ5UHJYUE1xMFlhRjJDODgzdmJZNVZGTjQ0YjF2dFFzSFhJek5GX1FDWDRBeS1PWDJWb2MtN3FMbU51dnl1VVdGbXR6OHNHd2R3WXFVa19WbUl3RkxGUnRmZENRQVZQREp5aHc?oc=5",
       "source": "MobiHealthNews",
@@ -687,22 +807,6 @@
       "sourceId": "mobi",
       "date": "2026-06-03T19:50:22.000Z",
       "snippet": ""
-    },
-    {
-      "title": "Relationship building a key first step for IT job market readiness",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFBmOUUyR0JEUDN0eS1adm9hekhfS3NuWFhQUWk0MFZTSWZsdFFmQWJzVFd4TEFjSlhVXzZrZ3BfUVh0amhhX2hkZzFIYnI5RFVMcXVKbUtoeDNKajhlc0V2enZLU3ItbFZaSWNrS2JfZWNrLWdzWVZhMC00aXRpQlg3a245ZjhIUkFpRTh3QTJXU1ZPOXItZjdCa2F4RW42?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-03T19:17:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "What Will the Next Healthcare Exit Winners Look Like?",
-      "link": "https://medcitynews.com/2026/06/healthcare-exit/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-03T19:10:03.000Z",
-      "snippet": "Healthcare startup exits are improving but remain highly selective. Jack Euston, general partner Fountain Health Partners, expects the next exit cycle to reward AI-enabled, workflow-embedded companies while sidelining undifferentiated point…"
     },
     {
       "title": "Microsoft partners with Mayo Clinic to develop frontier AI model for healthcare",
@@ -745,38 +849,6 @@
       "snippet": ""
     },
     {
-      "title": "New Technology is Revolutionizing Clinical Trial Data Management — Here’s How Research Hospitals Can Seize the Moment",
-      "link": "https://medcitynews.com/2026/06/new-technology-is-revolutionizing-clinical-trial-data-management-heres-how-research-hospitals-can-seize-the-moment/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-03T13:52:00.000Z",
-      "snippet": "Options abound for hospitals looking to capitalize on these new data transfer technologies, but so do potential pitfalls. For any hospital considering adopting these new solutions, here are some of the key questions and considerations that…"
-    },
-    {
-      "title": "Building the Backbone of Rural Health: Meeting the Reality on the Ground",
-      "link": "https://medcitynews.com/2026/06/building-the-backbone-of-rural-health-meeting-the-reality-on-the-ground/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-03T13:44:00.000Z",
-      "snippet": "Rural healthcare has always run on ingenuity, resilience, and community trust. What has too often been missing is the infrastructure strong enough to match that and sustain it at scale. That is what makes this moment different. The post Bui…"
-    },
-    {
-      "title": "The Celiac Care Gap Begins After Diagnosis",
-      "link": "https://medcitynews.com/2026/06/the-celiac-care-gap-begins-after-diagnosis/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-03T13:39:00.000Z",
-      "snippet": "Portable gluten detection tools are not a substitute for standard care. Used carefully, they may help clinicians support patients when hidden gluten exposure remains a problem. The post The Celiac Care Gap Begins After Diagnosis appeared fi…"
-    },
-    {
-      "title": "Building a Unified Identity Strategy so Interoperability for Value-Based Care Can Succeed",
-      "link": "https://medcitynews.com/2026/06/building-a-unified-identity-strategy-so-interoperability-for-value-based-care-can-succeed/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-03T11:30:00.000Z",
-      "snippet": "[Sponsored] A webinar sponsored by Verato and scheduled for June 17 from 1 pm to 2 pm ET will explore how a unified identity strategy, spanning patients, providers, and emerging solutions enable accurate attribution, strengthens interoperab…"
-    },
-    {
       "title": "Keep your telemedicine services fast, reliable, and secure",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeGcyb3FPV09EaVdZeXhlei1rQTAwNTRuNGdnNlhsWGNESkNjWG1vcjlQbUl0TG9nWVFxbW1RcFJ3SGNsQjRaZ0JUYVg0ckR3bm1ZdVhZUFBlWG5OcFZVNnVZbi1IdmVLa0JaSGQ2ZkpxYm1mWk8taUtWSWpMcFBUUm5zN2hMaUFwaG5Gb0JmLWhNelMzRkJoN0x1S1dRd1k?oc=5",
       "source": "Healthcare IT News",
@@ -793,14 +865,6 @@
       "snippet": ""
     },
     {
-      "title": "Joint Commission intros new voluntary AI responsibility certification",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdDl3R0VJZmU3VjdVZ0M5bTBFRUlhS0JteTBWbWpac2FzMU03cWFyX3hSVmlQOGNXTUtqQUNoMUVLV2Uzd0EyT182M2l0WUtkOEp6U1J4RmRnbjFIWmpPblNZVVg4TEVxRl9MNlNDaVFRekYxbng4QjlXcHpHemlzeEpQeUIwbXJyaG55OTVsdHFVRmdSLTM3MFgxamZCczVFTmcxUm51UlhvUkU?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-02T18:54:31.000Z",
-      "snippet": ""
-    },
-    {
       "title": "What EMRAM Level 7 means for Taipei Veterans General Hospital",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXdLOUxvZEtqZGJCM3lwVmtiX0o2X1lxYTFfQWktLWlqNDlSaGRrbkphMWZyUWxUcUwzaGU2OTgyMVRvM1ItOG5QWkVidFNEU2FpLTdxcUlaaWdTbGhlR09Od0R2SXp4czJzVFpLZkFDYkZBNmxsN3Nvb1hTN0pXVkVaMUhpemhBYURnT293SGZieGZtVU90QUxpaFM?oc=5",
       "source": "Healthcare IT News",
@@ -809,11 +873,11 @@
       "snippet": ""
     },
     {
-      "title": "Novellia raises $18M for patient-controlled health data platform",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWJIc1JwdWlQeEpfaFJ5NW0zbUdtc25GWVdxZFZhaVV3NkVXM09uY2c1VzVrODlqcHhIZV8tUmhRSFVtaHJVVng0SXBmQTc4SDUtS09iU1BlZUJWX2p2YndKd0tHNG1wdjFIMWpOMjVHdGVTejZNQ0FCLXFrZUEyZkRQbVNkN3p2N09razdJX0RyMHRuZW9GeVppUQ?oc=5",
+      "title": "Healthcare lacks other industries' consent flexibility",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzd2XzVZaGhQelZRd3Q0TXRMcnhHNEM4SWt5RDdSRTV4eDJEbWxxZm5NRDZhX2pjbG1hTFdSOTd1WFdSR21MU0pMNmRpUEUxQ3ppdG1TSGN3eHJXWVJvVTRtalYyMGo4Mlk2bmI2b3JUbl9jYlIxdEpZUHRiY3ZKRDhVV2Z2Z05NNzhYVWZyTzR5YUxp?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
-      "date": "2026-06-02T15:45:17.000Z",
+      "date": "2026-06-02T14:19:31.000Z",
       "snippet": ""
     },
     {
@@ -825,35 +889,11 @@
       "snippet": ""
     },
     {
-      "title": "SNUH, Harvard unveil world's first virtual hospital for validating medical AI",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3I3MV96UHFLQ0pPOTRUSDR1VVhRSVpRdmxxUWpDUWJ4cllmaTRjekRKcnE0UmtOVmdtaEg0SUdnRGRPNmtyREVkeERiV1FHWDdhS3pPaENoT1MydzdHdkNfQ0tqX1gxVjR0SWNkNE5JNUl3eWdldlBPd0RDYXZxZzkwV3lkRTZnMi10Z0Z5ck5uZklsUUdueDFfLVpxZmxZc1Q3eEI2dkxwMjVrcEtkTTdn?oc=5",
+      "title": "Cellular connections are the future of healthcare operations",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTGU3cC1XeDR6cjV3NEJ1bHpWRDRldEhVY3pNcUd3MWloemV6UzBjMlZVWUxVWTdkbVdYXzN5MTRnRWVwQ3o3QjVLZnptc3dObzkyTlFNNXZuZzgxUXJndTNRSTNHZUh3SnliQ1hreGhLeFdCZ0JpUVlpREdHSHFRcWdySVFpd1k4NmZhd2FWak14REV1?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
-      "date": "2026-06-02T01:36:25.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Approaches to rural healthcare need a reality check",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMG54NFdFSUpMaDBXYUQyaWtjTkhWZjVBNlE1SXBUcVhKaURYUVhkZ3VxN25jQWZPRVNCNXdWd3lQSWVaY2FucFByVjdvXzhFVWV5V3F5Qkkyd05zclc5LXJ3WER2Z0dSN2IyLUh2dnpKOU1TZ2ZfRGFFTVlTWmhFWE53NFFOcHBUQWJ1a0p3?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-01T18:55:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Epic integrates firearm injury risk screening tool from Northwell Health",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMzhvVFE0WGZGQzBHbUV1Z3ZfN1FqVWFBUDV2dVI3ZW5xTVVFcHcyUG5ubTlXTklpdnA0VWI0dnlvVk5oUl8xcjNoUzgxLUNhNWhSRVNjd2k3SktqS2dDQmNLRTdCcUJlbFM1Y3UybzF2THlXZjhNbGdycWlVQVFrVU8tUGtYUmJldlJKb3MyUTdCUGVpU2VCVF9QWDg4alZReXJFTzB3?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-06-01T16:53:57.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "The nurse who closed a dangerous gap in rural sexual assault care",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjd4X0FNWXhLZlM4UnRVYWdBbkwzUUNMeGRmeEd0a2ZRTnQ2TnY3amcxSDlsZnFwa3dic1pDNkNjbVhSX0ZhV1BlZ0VuektJQk84a1I4dGNUaXMzV1ZhWlJabi00WVdKX1R2a1p1S0V3Y0xZWlJOanJ0T09RYnMzYkRaaFE1V3AxdS1GMExIbllHY3hrQ05ycU9n?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-01T15:41:46.000Z",
+      "date": "2026-06-01T17:34:55.000Z",
       "snippet": ""
     },
     {
@@ -862,6 +902,22 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-06-01T13:24:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Budget 2026: New Zealand funds digital health upgrades, cybersec",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUWRRWUtIM1AwaENmbUZ1OFpFMm54ckFobm51WndoXzlSbGI2cG5CYmNhQWtmekw2Tm1MU2lCMmN0al81U0Y1Z1pUQ0lyMFJSWGtsNERBSlAtbUY1OHVLX1oxd1h2VldNRXZoUV85a1BPN29DcmFVX1kyNDM0Z1lZTTBGMnY1ZWsxVkM4QUhRNTlTT3FDQWlZMThSbV9ZU3NsWS1QV3ItOA?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-01T07:25:13.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Privacy watchdog faults operator, Health NZ over Manage My Health hack",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUlhQNWhxQ0FEck9ZdVd1YXpKWVRPV1BBME5ZNGdzY01FQ1BXNXF2UlE0eTFpdW1yUTQ1MkpvbXZ2UTRHZVBjT3lrQnhrMVBHb2Z2UEJrQjU0cDhHTlQtMUMwM09kOWw2OXBzTnl3XzNDMExucFVxYkgwU1MwTXJhY241UjRyd2RLVWtMT2w0SjBZd0FZQ1hWSWhnZTU4QkRQdDVoVWI4TE9iOHF0cjFzNg?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-01T07:25:10.000Z",
       "snippet": ""
     },
     {
@@ -881,11 +937,11 @@
       "snippet": ""
     },
     {
-      "title": "Jeremy Renner's investment in RapidSOS",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94ZHVfRDVEUTJ4ZHptbTMzMjNxeXNLZWdQX09OWi1xektTNUJpZm5Sa1dVc054TnhIRUItOXlLUjlaU1JndFc5Q043Y2h5aG8zUVd5TlpqeFdVa0Y5MXBFYVcxbUxScFVCaGFEZGxWZXc3WEQ4amV6YkRFcw?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-05-29T15:59:39.000Z",
+      "title": "Ultrasound analytics take digital transformation a step forward",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYmtUUk5KMnZuNjFTZUp4STZqTDdaeXBsazVhREk2OE1TenlCRGljSndLdnJTUHBKR2VkcXo0dDhTWkpLSmVLQ184MFV1ZTA2a180cjhmVmoybWV0VEpDMzJHT1pjdWVFbE1ncUotVkdieDJ0OExwcjRXUnJYNFZ4eG5fYnBtbDQ4OHJ3bzFlOUNmLVBYN2Rvc0w4dHF1VzdZalB0SDdubw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-05-29T09:09:50.000Z",
       "snippet": ""
     },
     {
@@ -893,15 +949,7 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNelk4QXM1SG93NTRsQnZxOUF4VVBJNUljcVNIVXh1TEdlWUtPMThJd3Y2VTR6NWRhbUM5VF9Od3Z4eFI4QS12bVdUaUtULWdXUDJXSExqWmhGVFI0RXphTEpQT1Azd2daM2tSYXUyS2lSUlRVQzNuT01OZlZ3NFBmYmplNFBZeXdHWUd2QlU2TElaeDRvdFEybk12eXlXLVBWbjlLNlMzNXowYmZPQ2Vmd2ZSdjhoY0k?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
-      "date": "2026-05-29T14:00:25.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Ultrasound analytics take digital transformation a step forward",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYmtUUk5KMnZuNjFTZUp4STZqTDdaeXBsazVhREk2OE1TenlCRGljSndLdnJTUHBKR2VkcXo0dDhTWkpLSmVLQ184MFV1ZTA2a180cjhmVmoybWV0VEpDMzJHT1pjdWVFbE1ncUotVkdieDJ0OExwcjRXUnJYNFZ4eG5fYnBtbDQ4OHJ3bzFlOUNmLVBYN2Rvc0w4dHF1VzdZalB0SDdubw?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-05-29T09:09:50.000Z",
+      "date": "2026-05-29T07:00:00.000Z",
       "snippet": ""
     },
     {
@@ -921,67 +969,19 @@
       "snippet": ""
     },
     {
+      "title": "Australia pursues digitisation of child health records",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM01WdkdhcGpNTEg5T1ZWNEtQSEJoaEZ2RFRuU01PVGVRWUZvcDBfZGMwZG9RVU40bnpyaWJtVFFGUDBSdkFoWVVhQlFUdXVTRFFvQ2lpcWxBSWtOb29rakpoQmNQd1JIaFlvbnp6a1dRQmd1Ym1hZWJfMHlSbjFJU2ZzSWdheXUwQzVWdVdjRndDUjNHcG54bA?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-05-29T01:20:38.000Z",
+      "snippet": ""
+    },
+    {
       "title": "How APAC should deploy AI to find hidden lung cancers",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR1J4Y3NXelFBNVNFZkNzejdzNXFudnJzRHVhbEpXM1ctWnMtR1pFZXhPYVpIb2RiMnctcTR1WXBubFlXd2dtb3A1UlVfd2t6cHNuN0psdkdld0did3BaOUpkTktnQjQ1cHd0Mmd2MGk1dzc0dmhSQ0F1U2VnVTZtS0tUcmpTODJVbDdMOExvWEdhZXRnVmc?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-05-29T01:17:06.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "How framework modernization benefits public health data exchange",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTEs2QWN5a2xCQ243WjIyd3RNME9Wb1Z5bWhxSHNSUkY3aTVEU0x0Z0lGZzhEclF6N09HTjNwLWNYaTdGbGtxbWtDaENIa0FYbGxXd2dFYnI1V2Rtb3R3dXdZaWl4UVZBUVZXZTZLdHVyZUdzWDdxMS1SVTgzXzY4cW0zZ1RoQWlESHo4RHN4dEg4clhiQVU5SklNdHcwcE9EazY4?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-05-28T20:19:49.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Immunization reporting gets a shot in the arm from interop efforts",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcWMzamZsbGJfZlg4VEtpVzgzcWRKMmVZczNueWc4NmpuYlgyWFBKMV9peEhaVnRkWEROZjByRUpzdGJzdUlhdXFDVHhhTC1QNGFZZExTdUNXd196TzNRTkFvZzBpSlBpbWZMT2xXd2tjTm5mRTJmRnpSRjJzcXRsWVRvRmhYVUdaeld5ZkQtWVAtRm9EZWc?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-05-28T18:47:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "When nurses shape the technology, patients feel the difference",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc2ltR0kxX1A3QXFyZVdPYmo0d1FQRlA4YzhYZWU5eU9DYTVxb05oZnZmbGVTQmQ5TTA5akNnOUNnZ2lFWUdnVjh4ZXYzOXM0aFY2V3N1WU1JNkpKbWwzVGswUGpYWEx2Ri1STDh1MnkyTEFmS1VJdi1hSzFQeUpUWnl1OWVORWVCNndoS3NsTVpzTDdVakE?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-05-28T17:09:20.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "New oversight layers needed as AI evolves at pace",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSlZUUl9XUS1ESUVGWmktMV9PQ05Pc3QxVzhwNlMzZHJSR3NnQWNqc214MDdFV21keFIxVmphRUtSRHlFV2JSOEczakFZYjRrblJQUFJGVlhxM21YcXBIMWM2WWFfN1luLWc4SmEzUHhrT3YzNHNXbVVYTzM0SG8xUktKbTlqanQ3SWc?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-05-28T14:17:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Oura unveils AI-enabled Oura Ring 5 with predictive health features",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDNYbzNBRFNMMVJXNTNWdDh3d09UWGtMMEhOU2Q0VmhJeEtkWmVwRUV1cTFDOGJrRHFhT0t6YlpVZlJTaTJ3amdfdGxrbkxaTDZQblZ6dGY3SGh6dVdlcjdaazlsNklKeHJDVVRqNjAyZFhMMnNDSjRJV3JVcnU2dFZ1SE1VZjkydUVLVGpmc2lrbG9abWR5WmhGbXVacTA?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-05-28T07:00:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Can wearable data do more than track health? Singapore's Signsbeat is trying to find out",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZk5lVkpWQVFuM24zcmFoQXRBY2VXRjBBMXB2Ti0xem51QUZqdTRRSndTbHRFanh6d0RZWjByUU0yMl9WZDdEMW5KXzcyN2J5OFYtcFZESXlpMkFmTzhEVFVDS0V3NTQzNmMxY2NGZlpielNLam50bHFhellHbmtZb3NDWGVXcW9rTDRGcU1saXJLZURPaEc1NkpWZzZwSWdqZEgtRGtpcXRGdkptbjNIakVGX0ZpNHc?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-05-28T01:51:36.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Sarah Manney, MD",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yb1kyakloSm5MNGNXYThzSThXNEF6cElhWDZmM2hLcWRmZVJIYmJrb3VHZG1McXlTYXRVbUxzNG5FYTJXU05IRlk0VVNXUXIwZEZ1RDdMQjlpa0ROemI3Q1Y2aXIwUQ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-05-27T14:41:00.000Z",
       "snippet": ""
     }
   ]
