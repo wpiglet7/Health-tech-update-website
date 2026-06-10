@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-11",
+  "generatedAt": "2026-06-10T22:53:36.017Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 30,
+  "sources": {
+    "MobiHealthNews": 4,
+    "MedCity News": 8,
+    "STAT News": 10,
+    "Healthcare IT News": 8
+  },
+  "summary": "The health-tech industry is navigating a critical inflection point as artificial intelligence adoption accelerates while healthcare's financial pressures intensify. Major AI companies like OpenAI and Anthropic are preparing for public markets with expanding healthcare footprints, while oncology and sepsis detection have emerged as particularly demanding test cases for AI algorithms, revealing how medical data complexity can undermine model performance. The healthcare sector faces a structural reckoning around 2030, with credit analysts warning that demographic shifts, reimbursement cuts, and AI disruption will fracture providers into winners and losers, prompting urgent focus on payment system resilience, EHR cybersecurity coordination between DoD and VA, and fraud prevention mechanisms that intervene before losses occur. Beyond technology, several stories underscore tensions between institutional guidance and clinical practice—the American College of Obstetricians and Gynecologists diverging from CDC vaccine recommendations, debates emerging over opioid addiction medications, and growing recognition that restoring patient-clinician relationships may matter more than adding digital touchpoints. Internationally, South Korea is expanding telemedicine for foreign patients while developing generative AI for drug efficacy prediction, and European countries face mounting U.S. pressure on drug pricing that threatens to reshape pharmaceutical markets on both continents.",
+  "items": [
+    {
+      "title": "OpenAI, Anthropic take steps toward IPOs as healthcare AI footprints expand",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLXdVcnpUMHNMQlJzM0ZwelN6ZTdINmVYZHJHRUhZcXBIM2R2ei00QUhoQ21xSzNsOXhrZExDalFEVXhfUnRhN05nUFJhcmd4TDYwMGg1X1IySmE1RjVmX1B6a1NYc1BzTElibkNCNFdGRjlhWTZjazB0c2Jqdm9kaDlHVTR1Rzh4dEdaZkJTU3BBRmZ4SWZ4dEViaFRKWjIwUjkyZTVFekhXU1E?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-10T21:04:02.000Z"
+    },
+    {
+      "title": "‘2030 Scares Me to Death’: Credit Analysts’ Urgent Warning for Healthcare CFOs",
+      "link": "https://medcitynews.com/2026/06/healthcare-cfo-finance-hospital/",
+      "source": "MedCity News",
+      "date": "2026-06-10T20:22:00.000Z"
+    },
+    {
+      "title": "Diabetes association leader apologizes for expulsion of members, pledges to rebuild trust",
+      "link": "https://www.statnews.com/2026/06/10/ada-annual-convention-ceo-apology-protester-removal/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-10T19:42:34.000Z"
+    },
+    {
+      "title": "DoD and VA must improve EHR cybersecurity coordination, GAO says",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZURKenVXSENCdHVtZlVnNzJFS2Q1RFBpN3Fjb2lzaWJpVW0wQjFpZDY5T1pycGF2MFY1NVYxUlpKV1hxS2tNNV9FQ19FT2h5VHFqNmt6X2wyc29BdVhPMEE0ZjQ3bHhUZnlEMExOSWV2b2l0MS1WczQ1Slp2UXdnWXpfeDVaend0QlQwakdmaVAwOXY4TWZYWFIxdURkcjJBRVZn?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-10T18:32:42.000Z"
+    },
+    {
+      "title": "Anthropic unveils Claude Fable 5 and Mythos 5 with safeguards",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOakRuTjZibnFraXY2OHFoSVRQOEt6SmtrREtJZ08tODcyczE3RXlWazJsNXFpS3lOWGVvNGYwVld6MG51MG9NSUFlbTBkWm9rTVNSTGplYVByeEE2RWRQUnFOUndLTGVZQWVBaW9WZFE4U2U4TDJBRUFRQURCcm1qLTdOVXZMZng4LUw1WERSNk5QT1JaMmRj?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-10T18:20:55.000Z"
+    },
+    {
+      "title": "Parabilis Medicines’ Quest to Drug the Undruggable Picks Up $745M From Upsized IPO",
+      "link": "https://medcitynews.com/2026/06/parabilis-medicines-ipo-helicon-peptide-cancer-desmoid-tumor-wnt-beta-catenin-pbls/",
+      "source": "MedCity News",
+      "date": "2026-06-10T18:19:54.000Z"
+    },
+    {
+      "title": "STAT+: Your sepsis algorithm shouldn’t require a time machine",
+      "link": "https://www.statnews.com/2026/06/10/sepsis-algorithm-shouldnt-require-time-machine-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-10T16:19:14.000Z"
+    },
+    {
+      "title": "Why oncology is becoming healthcare AI's toughest test",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjdnSktWU3lxWDJXY0JOR21iSk9WQVNxZXFSWi1WZXprRzg1S29QaG9XdW15bmZubFpUTFhvVHJVeFBSQ2hJSVAtY0c0ZlBwdEZNTnhoZVA2bUtkY0tlMjFma3pOQ19vWHpMY2FqM1E0Z2NtbkpjT2lOWTg2cXVMZDNsN1U3ZGJmQzBUMXVEeThjUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-10T15:17:37.000Z"
+    },
+    {
+      "title": "SONSIEL programs build global nursing innovation movement",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQUgxNTA1ckZiN0ttaXpDYW93R2lhTVF6YW90SUVQdEZtNFduOEdocmV6TTVOU1pNdHF6alpnbkNTdFR1ZFFyWGJGeWhEMzFneGFhalF1SHp1VnlNYUV6clVYZDNmSmNCdjZsNXMwM0RSZWFXN1VHNUdUYjdmbmFFZjhveThrTHBSNlVCSVJhTjdSeDhTcU1aQ25B?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-10T14:52:55.000Z"
+    },
+    {
+      "title": "OB-GYN association, deviating from CDC guidance, issues its own vaccine recommendations",
+      "link": "https://www.statnews.com/2026/06/10/acog-obgyn-vaccine-recommendations-pregnancy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-10T14:44:46.000Z"
+    },
+    {
+      "title": "STAT+: Hope for Kendall Square’s lab market",
+      "link": "https://www.statnews.com/2026/06/10/biotech-news-hope-for-kendall-squares-lab-market/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-10T14:31:24.000Z"
+    },
+    {
+      "title": "Nurses get help from SONSIEL scaling innovative ideas",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0hDQkxmQVVYRFdfLVNWdi1MaWJUWGFFR1QzS1E1RS04SnJrd2NwclFlQmVRZHhldHJlaDhlTlNaRmZSTnRrcnlaNkw3eW44NHNYTU9EWnY3TWVES2ZkaXAzNXJCVEVrRU1NX2RGV0MzWnY1bHNnYlBqcWszeVJOYTBwdWlrWTVrUFUyMnhpYW4?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-10T14:11:00.000Z"
+    },
+    {
+      "title": "Restoring the Patient-Clinician Relationship to the Center of Care",
+      "link": "https://medcitynews.com/2026/06/restoring-the-patient-clinician-relationship-to-the-center-of-care/",
+      "source": "MedCity News",
+      "date": "2026-06-10T13:59:00.000Z"
+    },
+    {
+      "title": "From Detection to Defense: Building Fraud-Resilient Healthcare Payment Systems",
+      "link": "https://medcitynews.com/2026/06/from-detection-to-defense-building-fraud-resilient-healthcare-payment-systems/",
+      "source": "MedCity News",
+      "date": "2026-06-10T13:41:00.000Z"
+    },
+    {
+      "title": "The Healthcare Payments Industry Has a Perception Problem",
+      "link": "https://medcitynews.com/2026/06/the-healthcare-payments-industry-has-a-perception-problem/",
+      "source": "MedCity News",
+      "date": "2026-06-10T13:38:00.000Z"
+    },
+    {
+      "title": "Healthcare IT Isn’t Broken — But How We Design It Might Be",
+      "link": "https://medcitynews.com/2026/06/healthcare-it-isnt-broken-but-how-we-design-it-might-be/",
+      "source": "MedCity News",
+      "date": "2026-06-10T13:21:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about U.S. pressure on European drug prices, longer shortages, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/06/10/american-pressure-on-european-drug-prices-longer-shortages/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-10T13:20:28.000Z"
+    },
+    {
+      "title": "DOJ reaches second settlement on youth gender care",
+      "link": "https://www.statnews.com/2026/06/10/health-news-doj-reaches-second-settlement-on-youth-gender-care/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-10T11:55:12.000Z"
+    },
+    {
+      "title": "Take Part in Our Survey on Healthcare AI and Security",
+      "link": "https://medcitynews.com/2026/06/take-part-in-our-survey-on-healthcare-ai-and-security/",
+      "source": "MedCity News",
+      "date": "2026-06-10T11:30:00.000Z"
+    },
+    {
+      "title": "Opinion: ‘They all think I’m insane’: What it’s like to start medical residency at 72",
+      "link": "https://www.statnews.com/2026/06/10/medical-residency-in-seventies-caribbean-medical-school-experience/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-10T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Even in abortion-protecting states, teens face unnecessary barriers to care",
+      "link": "https://www.statnews.com/2026/06/10/parental-notification-laws-abortion-blue-states/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-10T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: As the U.S. looks on, European countries feel growing pressure on drug prices",
+      "link": "https://www.statnews.com/2026/06/10/european-drug-pricing-most-favored-nation-impact/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-10T08:30:00.000Z"
+    },
+    {
+      "title": "Are Republicans turning against medications for treating opioid addiction?",
+      "link": "https://www.statnews.com/2026/06/10/medications-opioid-use-disorder-trump-moud-policy-change/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-10T08:30:00.000Z"
+    },
+    {
+      "title": "The 5 Areas Where Dr. Oz Says CMS Can Make Healthcare More Affordable",
+      "link": "https://medcitynews.com/2026/06/dr-oz-cms-healthcare-affordability/",
+      "source": "MedCity News",
+      "date": "2026-06-10T02:42:51.000Z"
+    },
+    {
+      "title": "National Cancer Center Korea developing genAI for predicting drug efficacy",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZXRWaU9ZNlRER05pLWozRWRGdFRiMklwSVhxakRCOUY0NTFPSHVSMXB5NzM5Ui1rbVJEcS13Q3k1MW9NbHJFNWN4SEFKaklGSVppcklBeHlBNUVDZFVQemRNNF9aTWJUTTRVbGhnbEdVUXNKdWtrVldhN3pUVC1kVWpFS2NpRm9qRGkydWNQMDRFbjhkLW9WVDFOUjM0aXJSWFFWUTBnNE5aMU1YUm4wZHJHZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-09T23:26:19.000Z"
+    },
+    {
+      "title": "'Careful' AI integration needed for Australian mental healthcare: paper",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZHVpdkE1T3JtWnFaRUdPMW5iUU1KeDNGeVE4UVdwc3puVmI4ZHBHN05ab3diVnFPblBvOVZuaTR4SEs3R2QwNVlja0tQYVJyeGFJN3ZhWXU1QWVjNlJsZC1hSGgxYWk2OHd4aGk4UG53SGJHMm5CU0tOZ1U2SWF0RVBtSXE5aFJUS0YzdFh5czJPMVYxSGIyUU96dkNhOTJxMHBnMmZPUmJnUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-09T23:26:16.000Z"
+    },
+    {
+      "title": "South Korea opens telemedicine pathway for foreign patients",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZHZGNndRT09PUmVfS3h3cDFBcW5ESmZiOGRVR1ZRVlJQQU5tS2FtWG9WblNnRWdQTVljenp1RGtHLW5hWU5obnpwQk1xUDRCbjBPV2YzUDdNZHJ5aDNyMGxrYkk4bE9pTHprelk4eV9UQkF6LUt5b3J1OVFQLUZTankxV1RTUjN6ZEpyT2RYVjVQUGx3aWhleFJ4UWpqWGM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-09T23:26:11.000Z"
+    },
+    {
+      "title": "Meet consumers where they are in the health insurance journey",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdC1mNDN5N2hnY2ViaW96ZGxmSmdZcGpDWTlVcUdxUTFNTVVxcGRfakx2ODhneHlyTnY4OEJtSlEtVE9RZkN2bVhPaTE5VVVIaXRDSWdHaUJqQXY2S05UWFFBWTBFamhGakp6RmJvc20wQ2VQblY2dTdQTWk3SkFySDh1OFc2aGZYRGhCRk5CTGRvM3p1WXM3c3NaWDg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-09T21:23:32.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHoyYjRHbEVrTXZIQWNsSnVldTVHYlEtUE9kMmdwdUhyQ3ZzSVB0bm93azg0OXkwTXNxdi11NUJ3TzEwak1IcjFPeElEMndqcWp1SThDUkJIUy1MSGR2Wmd2b1BvaXNGeFBYeTVSYXJhdUJoaVNHY29LeEtKV1VyOXFnMWxsX2NDX2JBYXZHNWlwYWpNbk16ZzNEakI5aWIyZVoxTWFFajhQeVJ1NnV6S3JkUHJqRU85eDFURUQ3QXA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-09T12:25:26.000Z"
+    },
+    {
+      "title": "Relationship building a key first step for IT job market readiness",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFBmOUUyR0JEUDN0eS1adm9hekhfS3NuWFhQUWk0MFZTSWZsdFFmQWJzVFd4TEFjSlhVXzZrZ3BfUVh0amhhX2hkZzFIYnI5RFVMcXVKbUtoeDNKajhlc0V2enZLU3ItbFZaSWNrS2JfZWNrLWdzWVZhMC00aXRpQlg3a245ZjhIUkFpRTh3QTJXU1ZPOXItZjdCa2F4RW42?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-03T19:17:00.000Z"
+    }
+  ]
+}
