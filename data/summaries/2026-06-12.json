@@ -1,0 +1,238 @@
+{
+  "date": "2026-06-12",
+  "generatedAt": "2026-06-11T22:51:40.234Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 37,
+  "sources": {
+    "MedCity News": 7,
+    "Healthcare IT News": 9,
+    "STAT News": 17,
+    "MobiHealthNews": 4
+  },
+  "summary": "Healthcare leaders are pressing CMS for more time to implement new Medicaid eligibility requirements, signaling implementation challenges ahead for states. Meanwhile, insurance denials have emerged as a significant policy concern, with lawmakers and the HHS inspector general scrutinizing AI-driven care denials in Medicare Advantage, where plans are reversing nearly all denied appeals—suggesting systemic barriers rather than appropriate gatekeeping. On the innovation front, obesity drugs continue reshaping the market with some employers planning to drop GLP-1 coverage next year as usage scales, while Novartis advanced its RNA therapy for a previously untreatable muscle disease and Abridge secured high-profile partnerships with Nvidia and Eli Lilly to strengthen its position in clinical AI. The broader healthcare AI landscape is shifting toward responsible implementation and patient-facing safeguards, with Hartford HealthCare developing safer AI interfaces and the industry grappling with liability risks as deregulation accelerates innovation. Cost pressures remain central to the conversation, with commentary noting that AI is amplifying existing structural incentives for intensity-driven spending rather than driving new inflation.",
+  "items": [
+    {
+      "title": "Healthcare Leader to CMS on New Medicaid Eligibility Requirements: Give States an Extension",
+      "link": "https://medcitynews.com/2026/06/cms-medicaid-eligibility-leaders/",
+      "source": "MedCity News",
+      "date": "2026-06-11T22:28:00.000Z"
+    },
+    {
+      "title": "The hidden revenue lever in healthcare technology: Diagnostic specificity",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ0VOWTMyZEVBbWl6U01teHQ4U29Jb3lSWlctWG1TamRkc0dKa1JrUjQ0aHltbUZaSXJIelJMUmxJOHREZ1lldjdFSnZTd1VCZ0JjZWk0LU5RbFBGYnVxN0NNZ2NpX0FxemNudGFBVHBKU2ZpYWhZSnlLNTRHMjJpMVRBQnViQnF3NmFTei1adkZkUkhDcnNIbkNabklHQ3dXZlJRUGRaVDRZNEU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T20:38:34.000Z"
+    },
+    {
+      "title": "Small OR misses. Big financial losses.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3lSZV83NHRObzBITC1XN0ZIVUxfdHd3WWZzMkdsNlhCTXJRMUI5LU9VMF9iMDR6U1h0cDZkSmNaTEZaNkdwdjdlaWpoNENPbFRGZ2dqRkRpbFRsRzFwblF5MXdIRWxjRk9QSlEyazRaTzRXRmpiT2w0M2F1SG9CR1Vfb1I?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T20:28:51.000Z"
+    },
+    {
+      "title": "An obesity drug deep-dive, and peptides move mainstream",
+      "link": "https://www.statnews.com/2026/06/11/an-obesity-drug-deep-dive-and-peptides-move-mainstream/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T20:26:14.000Z"
+    },
+    {
+      "title": "Successful strategies for navigating growth in transplant, cell and gene therapies",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPejVJNDkzSUUyaEQ3c212dDVwaGhrazdnekZtYkhsSU81QUI4Qy1DUlVKUWZXZXhNS2NsMWhrRDVkem5zS0pHZFZNQlFCSkc1QktmTmFtdnBzTzRPaTBJVENMVG5XeGdwVTBQVEMwZko0ZnBQQ3c3bDV2V3lreTdQRWNjNGJuSG5CNDFxTFBYc2ozSE5sUUluNG5XQXVrV0lrUXMtdDhFemRtMXAyRTladUwzemxLYWc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T20:18:32.000Z"
+    },
+    {
+      "title": "RFK Jr. claims his calendar is publicly available. We’ve been trying to get it for a year",
+      "link": "https://www.statnews.com/2026/06/11/rfk-jr-cites-publicly-available-calendar-never-released-foia-requests/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T19:53:52.000Z"
+    },
+    {
+      "title": "Drinking during pregnancy rose after 2020, new CDC data suggest",
+      "link": "https://www.statnews.com/2026/06/11/cdc-report-alcohol-pregnancy-growing-problem/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T19:38:50.000Z"
+    },
+    {
+      "title": "STAT+: AMA and lawmakers push back on AI care denials",
+      "link": "https://www.statnews.com/2026/06/11/ama-lawmakers-push-back-ai-care-denials-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T19:25:59.000Z"
+    },
+    {
+      "title": "Operationalizing Responsible AI at Scale in Healthcare & Life Sciences With Slalom and OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYURmOUVwSmdELUxXTUFJZmRLM3V3U0lUZl9pamJac042RTNMUG1UQlpDemd6ejRiNFFUSm10WjNpYXd0VkZDX2g2bnE5U00yQVYxUVAtS21vSkJvbTBwdUlnZkVHalBkell4VTlKLVpwejNSMlI3X2xKUXJjbkpEXzdQTGNFS2tVVnJ2VGlVYWpqZWFxem1kOXhXV0xja0V4TXpNX01tYlFLUDRTVlhybTg4enVWeVZOOER3WVFabFNsZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T19:11:10.000Z"
+    },
+    {
+      "title": "Nonprofit buys experimental cancer drug to maintain patient access",
+      "link": "https://www.statnews.com/2026/06/11/blood-cancer-united-buys-luvelta-compassionate-use/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T18:33:52.000Z"
+    },
+    {
+      "title": "Study highlights influence of socioeconomic status on children’s brain development",
+      "link": "https://www.statnews.com/2026/06/11/socioeconomic-status-impact-brain-development/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T18:17:01.000Z"
+    },
+    {
+      "title": "Inside Hartford HealthCare's strategy to build a safer AI front door for patients",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDJMQlRtR3NFb1U0QVpmdkhFc2RfdlVJbExlMHMxUVV6dG05ZFZSSHd4RnB5cThtU25JalpOT1hVQWFkNXFHY2oycEticndDd2pjWG91Rl9IbFpHSWZFYlJ1ZE10T1BELUdnSmc1X3B5ZjZHMnBNLUVtNEx3R2wtRko1OG1OcXhOOS0yTkQtV29mU3hlWHBoTWdUWUdZd2RaTk9XM3RnMUIyN0p4WUE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T18:13:33.000Z"
+    },
+    {
+      "title": "Novartis RNA Med From $12B Deal Keeps Building Case to Become First Therapy for Rare Muscle Disease",
+      "link": "https://medcitynews.com/2026/06/novartis-fshd-muscular-dystrophy-dux4-rna-genetic-medicine-neuroscience-aoc-nvs/",
+      "source": "MedCity News",
+      "date": "2026-06-11T17:59:04.000Z"
+    },
+    {
+      "title": "STAT+: Abridge inks deals with Nvidia and Lilly",
+      "link": "https://www.statnews.com/2026/06/11/abridge-inks-deals-with-nvidia-and-lilly/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T17:06:32.000Z"
+    },
+    {
+      "title": "RxHealing, OpenLoop and Tenovi launch pharmacy-driven RPM program",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUlvd1JfVV9pck00X0tYRndVcGY2OGlSdWJSc3FUUTFWOUEwNk5UNzA2WTJJTzZraXVZRmNudGo4ZWhuZUMwckRLaVpqUWJGb2xSS3JYLUxVTzN1SkstbmJpRDZYcUk5TnVCb3dRY1hLdDVIbEo2eUs3SVdzX0t2cnd1b3JFOWF2SkVGVDNub2hPcVBKbURZdEpmZHJXU3BOUGc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-11T15:00:00.000Z"
+    },
+    {
+      "title": "Deregulation enables AI innovation, but adds liability risk",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTGNOVFZvb0ZfUlNoYmVmdlJzbmdkdzFTeW9CWXMtOUZYTWlhZlhkb3dFcDMySThQS1pxa2o4bzJySk1kSjFIeFZ3eFVxaC1zcU5pejE1dkpzRGFoWVFKbHQ5ZUFjeTFfamRGbFkxSlh0WVdUM0ItTDZYbW5vdDlMNmhzTFE3Q0htbWNzcnhtcXBvQUQ2ckE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-11T14:57:23.000Z"
+    },
+    {
+      "title": "STAT+: A suspicious denial pattern in Medicare Advantage",
+      "link": "https://www.statnews.com/2026/06/11/medicare-advantage-prior-authorization-denials-trustees-report-prescription-drug-costs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T14:55:52.000Z"
+    },
+    {
+      "title": "DiMe leads coalition to focus on virtual care price transparency",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa194LWF1N1lLamh4b2FvSjdOMkxKbGxOYUUwVU9LU19GUURRQUx0ZHlEMEdvSWVhREN6V3kyYmYzNEd0Z2tiY0JIM2xhdE9wR2VuOU1jWVU2a1dWcWZTNXB6UjNPZEJmYVlOelBibDd1cGVob2tYX2FtRUZob1ZKVnRpQUhYcEEtTldvRnBYSzBjNGpoSTdHTFpkOXM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T14:45:34.000Z"
+    },
+    {
+      "title": "STAT+: Novartis doubles down on molecular glue strategy",
+      "link": "https://www.statnews.com/2026/06/11/biotech-news-novartis-doubles-down-on-molecular-glue-strategy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T14:11:20.000Z"
+    },
+    {
+      "title": "Beware of complacency to reduce AI liabilities",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYXRnWTZiaHdFZmhhVFB1WHd0cjlicFFMdW5nUlhKeVQ4NlJnNDYyN2R6UWd2aWpkTkcyYUxBYW96ZEFVUU92dF9vQ3ZkWHFPbWc3LWhDc1FzVEJJWmx5MVRBMlp6bGktRHA3cFozM1BHXzJCWjNiWXE1OUJPNFVCdW94RjJxQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T14:01:00.000Z"
+    },
+    {
+      "title": "Q&A: Leadoptik aims to improve lung biopsy accuracy with real-time imaging",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRU01ODlGOUt0R3hUY0JFeTQ5ODJsS2ZyLVBpeHNlTGhvdWdPLWxZcGk3cktNdnp0ekdKaWZBbHJjeGdTbVhVWEJIdjdwVE96X19xMGhPTlhjMWZqeHRJb2l1LXZTZEhFM0dNQWlxN0J1bXgtZk41RGZzTFFsY0VtbnltR1poM3lvT3JjMFdSUm5qdUtMR08xMzgwdVpFWU1HU0E?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-11T14:00:00.000Z"
+    },
+    {
+      "title": "From Copilots to Clinical Judgment: The Next Phase of AI in Digital Behavioral Health",
+      "link": "https://medcitynews.com/2026/06/from-copilots-to-clinical-judgment-the-next-phase-of-ai-in-digital-behavioral-health/",
+      "source": "MedCity News",
+      "date": "2026-06-11T13:51:00.000Z"
+    },
+    {
+      "title": "AI Is Scaling Healthcare Costs Because the System Was Built That Way",
+      "link": "https://medcitynews.com/2026/06/ai-is-scaling-healthcare-costs-because-the-system-was-built-that-way/",
+      "source": "MedCity News",
+      "date": "2026-06-11T13:37:20.000Z"
+    },
+    {
+      "title": "What Healthcare Leaders Get Wrong About EHR Switching",
+      "link": "https://medcitynews.com/2026/06/what-healthcare-leaders-get-wrong-about-ehr-switching/",
+      "source": "MedCity News",
+      "date": "2026-06-11T13:32:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about employer coverage of obesity drugs, another Sanofi setback, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/06/11/employer-overage-of-obesity-drugs-another-sanofi-setback/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T13:21:55.000Z"
+    },
+    {
+      "title": "Reveal Healthtech",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HSWsxdXFyN2xtN1NiTi1MUHVoZ3kwRXNmcmhHLVgwUmg1cDdxTjFDYWNFVkU0ZEZtcDVvY09RTVNRMEZQN0xLTHJvOVZHaEFsWXY0T21GbVNNVzNFbEVCWi03M2JsZlpvcXA0?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T13:00:00.000Z"
+    },
+    {
+      "title": "The future of healthcare is anticipation",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Qc0VXU0NtdFlYdVZVY2FjZG45aWVEUE1GWk5neV9hYmhDYzJkNDhWQ2tNXzNrNWVpeG4tZ0FUTll6SEVjVFBrWDVpVHdkTUZCdkdUQ05hM2dXdUQzUEMzYWZLRWZGd0ZpbVB1UDU3bEdielFCVmww?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T13:00:00.000Z"
+    },
+    {
+      "title": "STAT+: ‘Synthetic lethality’ could trigger another round of biotech M&A",
+      "link": "https://www.statnews.com/2026/06/11/synthetic-lethality-cancer-tango-revolution/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T12:05:00.000Z"
+    },
+    {
+      "title": "STAT+: Enliven Therapeutics’ leukemia drug shows promise in new study",
+      "link": "https://www.statnews.com/2026/06/11/enliven-therapeutics-leukemia-drug-shows-promise/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T12:05:00.000Z"
+    },
+    {
+      "title": "HHS responds coolly to paper on alcohol risk",
+      "link": "https://www.statnews.com/2026/06/11/health-news-hhs-responds-to-paper-on-alcohol-risk/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T11:55:52.000Z"
+    },
+    {
+      "title": "The Identity Gap Undermining Value-Based Care",
+      "link": "https://medcitynews.com/2026/06/the-identity-gap-undermining-value-based-care/",
+      "source": "MedCity News",
+      "date": "2026-06-11T11:41:07.000Z"
+    },
+    {
+      "title": "STAT+: Scientists see promise in NIH proposal to cap number of grants they receive",
+      "link": "https://www.statnews.com/2026/06/11/nih-grant-cap-proposal-science-policy-experts-react/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: How long Covid’s scientific stalemate made it politically erasable",
+      "link": "https://www.statnews.com/2026/06/11/long-covid-research-federal-funding-stalemate-trump/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: We published in Nature Medicine in 2025 for free. In 2026, it cost us $12,850",
+      "link": "https://www.statnews.com/2026/06/11/open-access-journal-fees-nature-wiley-elsevier-nih/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Private Medicare plans erect barriers to rehab care in pursuit of profit, federal investigators find",
+      "link": "https://www.statnews.com/2026/06/11/medicare-advantage-oig-report-rehab-care-deny-appeal-reverse/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-11T04:01:00.000Z"
+    },
+    {
+      "title": "DiMe Launches New Initiative for Virtual-First Care",
+      "link": "https://medcitynews.com/2026/06/dime-launches-new-initiative-for-virtual-first-care/",
+      "source": "MedCity News",
+      "date": "2026-06-10T23:52:44.000Z"
+    },
+    {
+      "title": "Eve Bender",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80OXBDU1ZDRFlrbE9tOWc1SURPSjg3OGZuZTl1ckk0aXdEaDBkQzhVX1pRWkJYbGlNZ2dPVDNUMVk4SFR6Unh6c3l4VjBrZkE1MEVvazBCTnNyNU5C?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-03T20:10:45.000Z"
+    }
+  ]
+}
