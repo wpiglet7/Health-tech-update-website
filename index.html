@@ -3,76 +3,115 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Health-Tech News — Latest Updates &amp; Reports</title>
+    <title>Health-Tech News — Keep up with health-tech in 5 minutes</title>
     <meta
       name="description"
-      content="The latest health-tech news from STAT News, MedCity News, Healthcare IT News, and MobiHealthNews — updated daily."
+      content="The latest news & reports in digital health, healthcare IT, and biotech — summarized for you every day. Curated from STAT News, MedCity News, Healthcare IT News, and MobiHealthNews."
     />
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="landing.css" />
     <link
       rel="icon"
       href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%9A%95%EF%B8%8F%3C/text%3E%3C/svg%3E"
     />
   </head>
   <body>
-    <header class="site-header">
-      <div class="wrap">
-        <h1>⚕️ Health-Tech News</h1>
-        <p class="tagline">
-          Latest news &amp; reports across digital health, healthcare IT, and
-          biotech — gathered daily from four leading sources.
-        </p>
-        <p class="updated" id="updated">Loading…</p>
-      </div>
-    </header>
-
-    <nav class="tabs" id="tabs" aria-label="Sections">
-      <div class="wrap tabs-inner">
-        <button class="tab active" data-tab="news">Latest News</button>
-        <button class="tab" data-tab="today">Today's Summary</button>
-        <button class="tab" data-tab="past">Past Summaries</button>
+    <!-- ===== Nav ===== -->
+    <nav class="nav">
+      <div class="wrap nav-inner">
+        <a class="brand" href="index.html">⚕️ Health-Tech News</a>
+        <div class="nav-links">
+          <a href="news.html">Latest News</a>
+          <a href="news.html#today" data-tab="today">Today's Summary</a>
+          <a class="btn btn-primary btn-sm" href="news.html">Read now →</a>
+        </div>
       </div>
     </nav>
 
-    <main class="wrap">
-      <!-- ===== Latest News ===== -->
-      <section id="view-news" class="view">
-        <div class="controls">
-          <input
-            type="search"
-            id="search"
-            class="search"
-            placeholder="Search headlines…"
-            autocomplete="off"
-          />
-          <div class="filters" id="filters"></div>
-        </div>
-
-        <p class="result-count" id="resultCount"></p>
-        <section class="grid" id="grid" aria-live="polite"></section>
-        <p class="empty" id="empty" hidden>No articles match your filters.</p>
-      </section>
-
-      <!-- ===== Today's Summary ===== -->
-      <section id="view-today" class="view" hidden>
-        <div id="todayContainer"></div>
-      </section>
-
-      <!-- ===== Past Summaries ===== -->
-      <section id="view-past" class="view" hidden>
-        <p class="section-intro">
-          A daily log of what was new in health-tech. Pick a date to read its
-          summary.
-        </p>
-        <div class="past-layout">
-          <ul class="date-list" id="dateList" aria-label="Past dates"></ul>
-          <div class="past-detail" id="pastDetail"></div>
-        </div>
-      </section>
-    </main>
-
-    <footer class="site-footer">
+    <!-- ===== Hero ===== -->
+    <header class="hero">
       <div class="wrap">
+        <h1 class="hero-title">
+          Keep up with health-tech in <span class="hl">5 minutes</span>
+        </h1>
+        <p class="hero-sub">
+          The latest news &amp; reports in digital health 🩺, healthcare IT 💻,
+          and biotech 🧬 — gathered and summarized for you every day.
+        </p>
+        <div class="hero-cta">
+          <a class="btn btn-primary" href="news.html">Read today's news →</a>
+          <a class="btn btn-ghost" href="news.html#today" id="ctaSummary"
+            >See today's summary</a
+          >
+        </div>
+        <p class="hero-meta" id="heroMeta">
+          Curated daily from 4 leading sources · updated automatically
+        </p>
+      </div>
+    </header>
+
+    <!-- ===== Sources ===== -->
+    <section class="section">
+      <div class="wrap">
+        <h2 class="section-title">Four trusted sources, one place</h2>
+        <p class="section-lead">
+          We pull the most important stories so you don't have to check four
+          sites every day.
+        </p>
+        <div class="source-grid">
+          <article class="source-card" data-src="STAT News">
+            <h3>STAT News</h3>
+            <p>The authority in healthcare &amp; biotech journalism.</p>
+          </article>
+          <article class="source-card" data-src="MedCity News">
+            <h3>MedCity News</h3>
+            <p>Strong on health-tech startups &amp; investment news.</p>
+          </article>
+          <article class="source-card" data-src="Healthcare IT News">
+            <h3>Healthcare IT News</h3>
+            <p>Hospital IT, EMR &amp; digital health infrastructure.</p>
+          </article>
+          <article class="source-card" data-src="MobiHealthNews">
+            <h3>MobiHealthNews</h3>
+            <p>Mobile health, wearables &amp; digital therapeutics.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== Today's summary preview ===== -->
+    <section class="section section-alt">
+      <div class="wrap">
+        <h2 class="section-title">Today's summary</h2>
+        <p class="section-lead">
+          A short, plain-English digest of what's new — written fresh every day.
+        </p>
+        <div class="preview-card" id="summaryPreview">
+          <p class="loading">Loading today's summary…</p>
+        </div>
+        <div class="center">
+          <a class="btn btn-primary" href="news.html#today">Read the full summary →</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== Latest headlines preview ===== -->
+    <section class="section">
+      <div class="wrap">
+        <h2 class="section-title">Latest headlines</h2>
+        <p class="section-lead">A peek at what just came in.</p>
+        <ul class="headline-list" id="headlinePreview">
+          <li class="loading">Loading headlines…</li>
+        </ul>
+        <div class="center">
+          <a class="btn btn-primary" href="news.html">Browse all news →</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== Footer ===== -->
+    <footer class="footer">
+      <div class="wrap">
+        <p class="footer-brand">⚕️ Health-Tech News</p>
         <p>
           Headlines link to the original publishers. Sources:
           <a href="https://www.statnews.com/" target="_blank" rel="noopener">STAT News</a>,
@@ -80,10 +119,13 @@
           <a href="https://www.healthcareitnews.com/" target="_blank" rel="noopener">Healthcare IT News</a>,
           <a href="https://www.mobihealthnews.com/" target="_blank" rel="noopener">MobiHealthNews</a>.
         </p>
-        <p class="fine">Updated automatically once a day. This site is an aggregator and is not affiliated with the publishers.</p>
+        <p class="fine">
+          Updated automatically once a day. This site is an aggregator and is not
+          affiliated with the publishers.
+        </p>
       </div>
     </footer>
 
-    <script src="app.js"></script>
+    <script src="landing.js"></script>
   </body>
 </html>

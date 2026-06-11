@@ -310,4 +310,12 @@ document.querySelectorAll(".tab").forEach((tab) => {
   tab.addEventListener("click", () => switchTab(tab.dataset.tab));
 });
 
+// Open a specific tab when linked from the landing page (e.g. news.html#today).
+function openTabFromHash() {
+  const h = (location.hash || "").replace("#", "");
+  if (h === "today" || h === "past") switchTab(h);
+}
+window.addEventListener("hashchange", openTabFromHash);
+
 init();
+openTabFromHash();

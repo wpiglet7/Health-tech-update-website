@@ -1,0 +1,385 @@
+:root {
+  --bg: #ffffff;
+  --alt: #f5f7fa;
+  --ink: #15212e;
+  --muted: #5d6b7e;
+  --line: #e3e8ef;
+  --accent: #0e7c86;
+  --accent-dark: #0b606b;
+  --hl: #ffe27a; /* highlight marker, tldr-style */
+  --shadow: 0 1px 3px rgba(16, 24, 40, 0.06), 0 10px 30px rgba(16, 24, 40, 0.06);
+
+  --stat: #3b6fe0;
+  --medcity: #14a37f;
+  --hitn: #b4533a;
+  --mobi: #7c4dcf;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  line-height: 1.55;
+}
+
+a {
+  color: inherit;
+}
+
+.wrap {
+  width: min(1080px, 92vw);
+  margin: 0 auto;
+}
+
+.center {
+  text-align: center;
+  margin-top: 26px;
+}
+
+/* ---------- buttons ---------- */
+.btn {
+  display: inline-block;
+  font-weight: 700;
+  font-size: 1rem;
+  text-decoration: none;
+  padding: 13px 22px;
+  border-radius: 12px;
+  border: 2px solid transparent;
+  cursor: pointer;
+  transition: transform 0.1s ease, background 0.15s ease, box-shadow 0.15s ease;
+}
+
+.btn:active {
+  transform: translateY(1px);
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: #fff;
+  box-shadow: 0 4px 14px rgba(14, 124, 134, 0.3);
+}
+
+.btn-primary:hover {
+  background: var(--accent-dark);
+}
+
+.btn-ghost {
+  background: #fff;
+  color: var(--accent);
+  border-color: var(--line);
+}
+
+.btn-ghost:hover {
+  border-color: var(--accent);
+}
+
+.btn-sm {
+  padding: 9px 16px;
+  font-size: 0.92rem;
+  border-radius: 10px;
+}
+
+/* ---------- nav ---------- */
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: saturate(140%) blur(8px);
+  border-bottom: 1px solid var(--line);
+}
+
+.nav-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+}
+
+.brand {
+  font-weight: 800;
+  font-size: 1.15rem;
+  text-decoration: none;
+  letter-spacing: -0.01em;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: var(--muted);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.nav-links a:hover {
+  color: var(--accent);
+}
+
+.nav-links .btn {
+  color: #fff;
+}
+
+@media (max-width: 560px) {
+  .nav-links a:not(.btn) {
+    display: none;
+  }
+}
+
+/* ---------- hero ---------- */
+.hero {
+  text-align: center;
+  padding: 84px 0 72px;
+  background: radial-gradient(
+      1200px 400px at 50% -120px,
+      rgba(14, 124, 134, 0.1),
+      transparent
+    ),
+    var(--bg);
+}
+
+.hero-title {
+  margin: 0 auto 18px;
+  max-width: 16ch;
+  font-size: clamp(2.3rem, 6vw, 4rem);
+  line-height: 1.08;
+  letter-spacing: -0.03em;
+  font-weight: 800;
+}
+
+.hl {
+  background: linear-gradient(transparent 62%, var(--hl) 62%);
+  padding: 0 4px;
+  white-space: nowrap;
+}
+
+.hero-sub {
+  margin: 0 auto 32px;
+  max-width: 52ch;
+  font-size: clamp(1.05rem, 2.4vw, 1.3rem);
+  color: var(--muted);
+}
+
+.hero-cta {
+  display: flex;
+  gap: 14px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.hero-meta {
+  margin: 26px 0 0;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+/* ---------- sections ---------- */
+.section {
+  padding: 64px 0;
+}
+
+.section-alt {
+  background: var(--alt);
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.section-title {
+  text-align: center;
+  margin: 0 0 8px;
+  font-size: clamp(1.6rem, 3.5vw, 2.2rem);
+  letter-spacing: -0.02em;
+}
+
+.section-lead {
+  text-align: center;
+  margin: 0 auto 36px;
+  max-width: 52ch;
+  color: var(--muted);
+  font-size: 1.05rem;
+}
+
+/* ---------- source cards ---------- */
+.source-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 18px;
+}
+
+.source-card {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-top: 4px solid var(--accent);
+  border-radius: 14px;
+  padding: 22px 22px 20px;
+  box-shadow: var(--shadow);
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+.source-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(16, 24, 40, 0.12);
+}
+
+.source-card[data-src="STAT News"] { border-top-color: var(--stat); }
+.source-card[data-src="MedCity News"] { border-top-color: var(--medcity); }
+.source-card[data-src="Healthcare IT News"] { border-top-color: var(--hitn); }
+.source-card[data-src="MobiHealthNews"] { border-top-color: var(--mobi); }
+
+.source-card h3 {
+  margin: 0 0 8px;
+  font-size: 1.15rem;
+}
+
+.source-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+/* ---------- preview card (today's summary) ---------- */
+.preview-card {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 28px 30px;
+  box-shadow: var(--shadow);
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.preview-card .pv-date {
+  margin: 0 0 4px;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.preview-card .pv-badge {
+  display: inline-block;
+  font-size: 0.66rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 3px 8px;
+  border-radius: 999px;
+  margin-left: 6px;
+  vertical-align: middle;
+  background: #0e7c8622;
+  color: var(--accent);
+}
+
+.preview-card .pv-badge.ai {
+  background: #f7e9c9;
+  color: #b5730a;
+}
+
+.preview-card .pv-text {
+  margin: 12px 0 0;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  white-space: pre-wrap;
+}
+
+/* ---------- headline list ---------- */
+.headline-list {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 760px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: var(--shadow);
+}
+
+.headline-list li {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 18px;
+  border-bottom: 1px solid var(--line);
+}
+
+.headline-list li:last-child {
+  border-bottom: none;
+}
+
+.headline-list a {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.98rem;
+  flex: 1;
+}
+
+.headline-list a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.badge {
+  font-size: 0.66rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  padding: 4px 8px;
+  border-radius: 999px;
+  color: #fff;
+  white-space: nowrap;
+}
+
+.badge[data-source="STAT News"] { background: var(--stat); }
+.badge[data-source="MedCity News"] { background: var(--medcity); }
+.badge[data-source="Healthcare IT News"] { background: var(--hitn); }
+.badge[data-source="MobiHealthNews"] { background: var(--mobi); }
+
+.hl-date {
+  font-size: 0.78rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.loading {
+  color: var(--muted);
+  text-align: center;
+  padding: 16px;
+}
+
+/* ---------- footer ---------- */
+.footer {
+  padding: 40px 0 56px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  border-top: 1px solid var(--line);
+}
+
+.footer-brand {
+  font-weight: 800;
+  color: var(--ink);
+  margin: 0 0 8px;
+}
+
+.footer a {
+  color: var(--accent);
+}
+
+.fine {
+  font-size: 0.8rem;
+  opacity: 0.85;
+}
+
+@media (max-width: 560px) {
+  .headline-list .hl-date {
+    display: none;
+  }
+}
