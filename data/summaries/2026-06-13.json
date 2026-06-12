@@ -1,0 +1,208 @@
+{
+  "date": "2026-06-13",
+  "generatedAt": "2026-06-12T22:27:51.683Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 32,
+  "sources": {
+    "MedCity News": 7,
+    "STAT News": 10,
+    "MobiHealthNews": 9,
+    "Healthcare IT News": 6
+  },
+  "summary": "Several critical healthcare industry tensions emerged today. The OIG's finding that the three largest Medicare Advantage insurers are denying prior authorization requests at elevated rates for long-term acute care and rehabilitation underscores ongoing access concerns, while the Trump administration is revisiting policies to address loopholes in Medicare drug price negotiation. On the innovation front, healthcare organizations are facing a paradox: despite record AI spending, executives warn much of that investment may be wasted, with a focus emerging on implementation and operational clarity rather than technology deployment alone. Abridge's expansion beyond clinical documentation—including a new partnership with NVIDIA and investment from Eli Lilly—signals that healthcare AI is maturing beyond transcription tools. On the regulatory side, the FDA's move to withdraw approval of Amgen's Tavneos and concerns around a discontinued cancer drug acquisition highlight ongoing drug safety and oversight challenges. Finally, patient experience improvements are gaining attention, from sensory-conscious care environment design to addressing transportation barriers in cancer care and leveraging digital tools for vulnerable populations like seniors and those with hearing disabilities.",
+  "items": [
+    {
+      "title": "OIG: 3 Largest MA Insurers Deny Prior Auth Requests at High Rates for Long-Term Acute Care, Inpatient Rehab",
+      "link": "https://medcitynews.com/2026/06/oig-prior-authorization-medicare-advantage/",
+      "source": "MedCity News",
+      "date": "2026-06-12T22:15:19.000Z"
+    },
+    {
+      "title": "Amgen Turns to an Independent Review to Defend Rare Disease Drug in FDA Crosshairs",
+      "link": "https://medcitynews.com/2026/06/amgen-tavneos-anca-associated-vasculitis-inflammation-fda-dcri-amgn/",
+      "source": "MedCity News",
+      "date": "2026-06-12T21:59:36.000Z"
+    },
+    {
+      "title": "STAT+: Trump administration revisits policy to close Medicare drug price negotiation loophole",
+      "link": "https://www.statnews.com/2026/06/12/medicare-drug-price-negotiation-loophole-proposed-rule/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-12T21:45:12.000Z"
+    },
+    {
+      "title": "Bot vs. Bot: Why Healthcare AI Progress Might Be Stuck",
+      "link": "https://medcitynews.com/2026/06/healthcare-ai-hfma/",
+      "source": "MedCity News",
+      "date": "2026-06-12T21:08:33.000Z"
+    },
+    {
+      "title": "Friendly robot bridges patient communication gaps",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYlNnanpmaVU0NExGcmFiOVptZ2Z4dHBuMFBkcUh4U1VKUUplWGYtdkdhT2g4N3lKSTlmZkVkMUpBZERvdGhJc2dzNkU5aG44ZjFNN1ZyUzBsd3E3Q2d4SDA3dDFkUzFYQVhxNnFQdTlrd0xGQ3hVQzVWWjZYa01pSDFFcGxGdzF2NUNyakcwaVA4NjM4clE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-12T21:00:29.000Z"
+    },
+    {
+      "title": "An interview with a robot at HIMSS26 Europe",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GbGFadVhSUFEwcjNsRUFrbXdzdFlRU1I0MGM4OURocTNhQy1feHFxak5Fby02QU4wWkdIU1haazRBcGpjSDlwWXM4Mzl4LVhyY3dFZkh0bGhNTzBCY3ltNG1MaGJNTlp0RF9CSkV5NnRIVmpEUTBCQTB5TkhNb1U?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-12T20:32:00.000Z"
+    },
+    {
+      "title": "Rylo raises $85M to expand AI communication tools for deaf and hard-of-hearing users",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjdXSUF3Y09ibW9PSDBadW43dm1JTDZNbjNoeHVRUUlyQ0lpZW9tN0V2a19TVHNibGtweW9vR3Vfamt0U3lSWTVNZ210bWM0VVo2SjEyV1psR1lPelVoOXk3Y1JDX2tBdE1kdi1GSkVhVVdYcmVKNjVFaU5KRjRmS2RMVUw2bXUtdG9ZTnVZQXlVYVZ2U2hpc0FFNUNDVUxRZlY4Si16Q09TYXJsVmc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-12T20:00:59.000Z"
+    },
+    {
+      "title": "Abridge partners with NVIDIA, expands beyond clinical documentation",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcGJrVkZwNFUwWnNWNjhjQ2J4cVJ4NUpXNlFfT1ZkZFpGbE90MXFaUUg0cUZ5WmNSTk93X1FjcGxBVWpUMW16WkVVTlYzQ0Zyd1VzRkx5TUxsMzNvendGZnRfVHlmRmN6ZVRieTFZaHFOU1o5SERka0pvTWV0bUk0OTg2cWRzVTNULWxDS0xOaV9aeTNza0ctZXN6ZTBZdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-12T18:56:41.000Z"
+    },
+    {
+      "title": "Cyber resilience requires budgeting and preparation",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbHBINUNWcE9qVXVGM0djMVZTMTZGbnF3MGhLby0yZHRkUlJKVk9pOEt1c3JXemI5Mk91Mkt4aFJkVXhnNEhOeXFxR3FJOTY5TEhVMTlNal94QUVxTlliTld1VjZyQV9wTnNadFNSeElnSzVfRHprS01sU01YVTRWU1lXZWZJNkx3aGFZT1JhQjNNS0ZORDBSbQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-12T18:39:19.000Z"
+    },
+    {
+      "title": "HIMSSCast: Are health systems obligated to give cyber intel to the FBI?",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1hEMHpEelJyZThhZlRYMWtVVHdkTHR4aXVIdGQ3QjNYUGRQTlJ6aWRoUzFvamlZZVhPeU1PUEg1bFlJSXhtN3pxR0pFUWFucGdLUF85S2JZM3JDME1ncTlIZlFxQUt0T3N0emZnZ3JmaWU0ZkxBUE9GOXRfendGMWZweVpYNFVoTFlydXVoY2ZoSm1BVW1hMVFtNG1KeXlnYlE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-12T18:29:39.000Z"
+    },
+    {
+      "title": "Oracle, others continue tech industry layoff trend",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbHJ4cWpLMW43V0tTMVlPRl83WF9PWVlwcDV6Y3U2N05ranhSbnVwbWlkVFo3MEdaZWFzS1dzSXlGQkhEaVYwYTJFLS16LWgyZExRel9fNVJRNHo2dGZUaHJ3cVJCSmZyd2R1clVhZDhGTk1Eb3ZnQ185M2t2bGYwNV9Db2hxRGVZMGZQclp3TUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-12T17:37:10.000Z"
+    },
+    {
+      "title": "Health plan satisfaction flat as rising costs weigh on members, JD Power finds",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ2VNTS1yNVBOUXp4NUJJTWlWa09SV3hPeVhLWHB3elFhNFpJekFTSFZJZFNlY1RoZl9nWnJzcDZnMGVUSnRkSldmWXFTRWVtS0Z6QzZfQnQ0V3JrTFc0X1J3Y2l5d3dmSlhxNjBDQzFUNGE1Y21aR185N3A1dmtuU1BNVGk5S296eUo3d3lGTm5YX2pPdjVOcjNuNVo0TV96SWtYbXFtOC1PanM?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-12T16:35:35.000Z"
+    },
+    {
+      "title": "Samsung partners with Abbott to bring Galaxy XR to blood donation sites",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHdvVkpzS3YwVkt0UHV4MV8xa0YxeHZmM19hYkdBNzlmbXFURk5HTzRRb3F1NGdZeTNlMkJNUjdqNzllaWczc1p0VUp0RFUtWkx5ellzQXhCd2ZtWjFXZE1td010QWdDUGtTdmhReW43R1RrdXltem12U2JoaUZGTkd6Yy1TVThQYXotQ2NDQzJtUUdRZGFVQUlheGw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-12T16:04:22.000Z"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "link": "https://www.statnews.com/pharmalot/2026/06/12/up-and-down-the-ladder-job-changes-astrazeneca-bayer/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-12T15:04:15.000Z"
+    },
+    {
+      "title": "STAT+: Prometheus raises $12 billion in capital for artificial engineers",
+      "link": "https://www.statnews.com/2026/06/12/biotech-news-prometheus-raises-12-billion-for-artificial-engineers/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-12T14:09:35.000Z"
+    },
+    {
+      "title": "Stop Presenting at Health-Tech Buyers — Let Them Drive",
+      "link": "https://medcitynews.com/2026/06/stop-presenting-at-health-tech-buyers-let-them-drive/",
+      "source": "MedCity News",
+      "date": "2026-06-12T13:35:00.000Z"
+    },
+    {
+      "title": "Reliable Transportation Isn’t a Luxury — It’s an Important Part of Cancer Care",
+      "link": "https://medcitynews.com/2026/06/reliable-transportation-isnt-a-luxury-its-an-important-part-of-cancer-care/",
+      "source": "MedCity News",
+      "date": "2026-06-12T13:28:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a discontinued cancer drug, a Novo security breach, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/06/12/nonprofit-buys-discontinued-cancer-drug-novo-security-breach/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-12T13:22:57.000Z"
+    },
+    {
+      "title": "These 3 cybersecurity challenges need immediate attention",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRXctOG16UXUxdDVGRnlGT3FNZmV6cmR5Sm9ybk1pbUNydk1UemQ1Nng3b2kwOFdtYW0wZE5qR2VwdWRzS2x4MWhvOWN4Ni1SaEtNc1JPRzJYeUhPMjgyN2x3NERPWS05amZGZXBKekVaREZoaTB3cC1jZDdjUGFWdENXZGxsQlRLZEtWVzlwUHNFNDREMkFfODJBejVuaDhOYmhn?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-12T13:16:00.000Z"
+    },
+    {
+      "title": "Chile offers new data on food warning label efficacy",
+      "link": "https://www.statnews.com/2026/06/12/health-news-chile-offers-new-data-on-food-warning-label-efficacy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-12T11:51:16.000Z"
+    },
+    {
+      "title": "Designing Care Environments for Sensory Regulation, Not Just Clinical Efficiency",
+      "link": "https://medcitynews.com/2026/06/designing-care-environments-for-sensory-regulation-not-just-clinical-efficiency/",
+      "source": "MedCity News",
+      "date": "2026-06-12T10:17:49.000Z"
+    },
+    {
+      "title": "STAT+: At hospital finance conference, a call to end the friction that’s keeping costs high",
+      "link": "https://www.statnews.com/2026/06/12/hfma-conference-healthcare-affordability-revenue-cycle-vendors/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-12T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Ebola outbreak response requires engaging with religious traditions and leaders",
+      "link": "https://www.statnews.com/2026/06/12/ebola-response-drc-uganda-religion-burial-rites/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-12T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: I’ve spent 40 years in research. I have never seen a threat to science like the new grantmaking rule",
+      "link": "https://www.statnews.com/2026/06/12/omb-grantmaking-rule-uniform-guidance-politics-science/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-12T08:30:00.000Z"
+    },
+    {
+      "title": "How a diabetes conference sparked a controversy",
+      "link": "https://www.statnews.com/2026/06/12/ada-convention-controversy-explored-status-report-alex-hogan/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-12T08:05:00.000Z"
+    },
+    {
+      "title": "Adelaide research deploys online tool to reverse frailty among seniors",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYko1NTRHODFseTR0VlZTWF9CRjFfUnBlQ2UtWGFmQlUzMzNET202UElIMlAtNnNKRUxBRVJRa0tONndVOGZPOGVfaGlXX1Rmb2hyMzRwSXpwdjY3cjNYNE9Wck1NMjlaeDByN0tMV01ZZU1BSVltZ1NMT25FVGdySE9VamdXckFtUlJMdkZpNXROcUppQ19yVG1KVlhWNEs0T29JME45WUd5SEE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-12T07:31:31.000Z"
+    },
+    {
+      "title": "Abridge Goes Beyond Documentation: 4 Updates",
+      "link": "https://medcitynews.com/2026/06/abridge-clinical-ai/",
+      "source": "MedCity News",
+      "date": "2026-06-12T03:29:09.000Z"
+    },
+    {
+      "title": "South Korea first to integrate BP ring in hypertension guidelines",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUjlnT0lFQjZCLTNWckN0alJSRlNDYzVFSTVGUlVEZ3k5VlhHQkgwUzFJRURaX0Q3UWNMSXJwQVEyOEpvWFR3WmlxaWtaaFozYXg2SDF1TjNuUEVaRGlSRm1vbkVZMmRMclVrLVFEQkdxcDFQMm5xNUNyRGl4akRLRF9PYVoyaWxPWVdXNF9GMXJNZkxwaFNCQjlQNllUbXZTcGc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-12T00:06:02.000Z"
+    },
+    {
+      "title": "STAT+: Updated: Tracking RFK Jr.’s promises to remake health in America",
+      "link": "https://www.statnews.com/2026/06/11/rfk-jr-maha-promise-tracker-fact-check/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-12T00:00:00.000Z"
+    },
+    {
+      "title": "Optimizing LLMs for precise analytical output",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbEx0M0xJX2Z1S3JfV0EtcUh1RWhoVTdYR1hWcDhDWW0wODU1clJhazYydDJrUm9yV21HNzdKbDIzczM2MXVkUURkbnA0eHdxSVgtcXFrMDY4S1AwN2tSOE03MERiQ1NxMEJoaUZLXzhTZTFBR0pEOHFta05TcGI0U05QaDZMaHlPZGZB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T20:36:32.000Z"
+    },
+    {
+      "title": "Europe's healthcare data could help unlock the next phase of precision medicine",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTVnSnpEZ00waWNhS2VFcVQ5SGZDUThYQlp0NEFOd2lPSE5kV194YW9ieHc1TEZZQWd5NDltd3JfUlZRdGlrcVZEQWJKWUVtTGYxWF9INVB0YjNqaVAwenJMQUQ2eUhEWnlwbWpNdV9qLWhkc1RsVng1VUpMNFYyVFFpS0Vwdk15ZEhFV1NaTm5tVDlQZm5zOUZXdVhBb3I0MzQtSXh3R3ZpTmcxNFlxMVdaQzR6Zw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T20:02:00.000Z"
+    },
+    {
+      "title": "Physician communication gaps and the Ebola emergency",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeW9Yejl1TUtRYjZLM1FTNTJ2bkZweXZ0MnpNeXVSbjlVeHduSHY3SlpIOGJ2ajVHRlNsY2VvUnA3c0pRWWdDT0JUY1NUODZLbFVERldhdG4wOVB0RTRlN0xsbFlDa05HNHNzUDdqUVl5NnI5LWs2STl2OWFLWkxYMlJrbmItazJwVEU3eGl3?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-04T19:07:48.000Z"
+    }
+  ]
+}
