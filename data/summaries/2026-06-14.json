@@ -1,0 +1,81 @@
+{
+  "date": "2026-06-14",
+  "generatedAt": "2026-06-13T22:09:03.531Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 11,
+  "sources": {
+    "STAT News": 3,
+    "MobiHealthNews": 5,
+    "Healthcare IT News": 3
+  },
+  "summary": "The FDA has approved a Sanofi diabetes drug for children with stage 3 diabetes, resolving a previous dispute between career staff and political leadership at the agency's drug review division. In medical device innovation, AccurKardia has received a patent for AI-powered ECG technology to detect cardiac amyloidosis, while FesariusTherapeutics raised $20 million to expand its dermal repair technology platform. Healthcare cybersecurity remains a pressing concern, with a new HSCC guide addressing AI-specific security risks in healthcare systems, and policy work continues on governance frameworks like TEFCA. Meanwhile, the WHO director-general expressed grave concerns following a visit to the Ebola outbreak area in the DRC, highlighting ongoing global health threats.",
+  "items": [
+    {
+      "title": "STAT+: FDA approves Sanofi diabetes drug for children with stage 3 diabetes",
+      "link": "https://www.statnews.com/2026/06/13/teplizumab-tzield-sanofi-fda-approval-children-stage-3-diabetes/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-13T13:22:44.000Z"
+    },
+    {
+      "title": "WHO director-general is profoundly concerned after visit to Ebola outbreak area",
+      "link": "https://www.statnews.com/2026/06/13/who-director-general-in-drc-war-greater-concern-than-ebola/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-13T13:00:00.000Z"
+    },
+    {
+      "title": "Opinion: ‘I’m pretty much all in’: An interview with a woman starting medical residency at almost 73",
+      "link": "https://www.statnews.com/2026/06/13/medical-residency-late-in-life-interview/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-13T08:30:00.000Z"
+    },
+    {
+      "title": "FesariusTherapeutics raises $20M to expand dermal repair technology",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWJMSGVSWEt0c1ptcWlFUGRrSE1FRjVLb0lNYUpsV1dYOXpPQnFvMDg1S0NIQW9taDRzN1AwOHhSRmsxTjV1XzRJUFViUGpoODJtN19hWk1KX09ERXRnQkptQ3I0dmg1WnVOQ2JsdnFLcGR2V09QT25qbEZlX3Y5ckQyRlRnUXBUS3paenB4YlF5WE9aX2txYjZYaDlkcXR1?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-12T17:05:08.000Z"
+    },
+    {
+      "title": "New national 24/7 health advice line opened and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN1NZbEQ2MG4wTG11c3NMMnpTYzNZU3JQSHU4eENHMDFWNUhGaHNMcTRUQ0tXQWVFcnF4MTRCSlF5U0VjenE1dVdEdlhvSVdhUF9MNDhDWkVBdzduNENjcTNWYUlsSmlrUFk1X2EwRFpqb0tMRXRvbUItcWVoNHRQVjdpUklWakVoQmdOZ1FuOHhyd3NjZmljTi1xYl8zemFnd1E?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-08T04:13:14.000Z"
+    },
+    {
+      "title": "Eve Bender",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80OXBDU1ZDRFlrbE9tOWc1SURPSjg3OGZuZTl1ckk0aXdEaDBkQzhVX1pRWkJYbGlNZ2dPVDNUMVk4SFR6Unh6c3l4VjBrZkE1MEVvazBCTnNyNU5C?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-03T20:10:45.000Z"
+    },
+    {
+      "title": "AccurKardia receives patent for AI-ECG cardiac amyloidosis detection",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNand5cnNSSkItZFVCazE2UGNrYzNJQ3hBakt3a2pKejVjN0o3d2gyYnVaaloyWnBmSGp2T19CSDQ5UHJYUE1xMFlhRjJDODgzdmJZNVZGTjQ0YjF2dFFzSFhJek5GX1FDWDRBeS1PWDJWb2MtN3FMbU51dnl1VVdGbXR6OHNHd2R3WXFVa19WbUl3RkxGUnRmZENRQVZQREp5aHc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-03T19:56:18.000Z"
+    },
+    {
+      "title": "New HSCC guide addresses cybersecurity risks specific to healthcare AI",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUDNwS25waFc1U180VEZMQ0d3cGJfajJzRmFDdzF0VUsyQWJ5UHc0VV9IUktiLS13Wm1QdnpUaEUyMTBaMEJWYURNdm1adnd1QVFnZ0pYd1lIazN3SnN2dzBVQlV0Z1p2UjQxdGw1a0xsM2MxTEE1V2NpOXMwaDFYa0FWNEdHeWpRN2pNeHlLdWg4UklNMWR0QTdtSjFJek5UVENESGliOW8?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-03T07:00:00.000Z"
+    },
+    {
+      "title": "Solving TEFCA's governance challenge",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KNVhRYVUxREFKeFdDVFBuOGxzRWx2Q0U4cVZ5TlE1TDY4QXBiV0FSLWxSLUxoSTA2Y3VuNGZ5cWZOMzYtZklWU2ZTQ0t5b0FTdVZmUElQUXA1Y2c4OU03Qm5pT0tXNU5IVnA5S3VoVEVrOFphMG9heE9zNkxBSVk?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-02T13:34:00.000Z"
+    },
+    {
+      "title": "Home",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrRDE2WFIxby1uNWVDejBtNG1HZGJFRFI3VUlycU9CUUxZYjFGMVY4dm9BRk1WTGZrd0FCWlZmVk9oZ3FSMk1WM0RVSQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2025-07-09T14:18:03.000Z"
+    },
+    {
+      "title": "HIMSS TV",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91Umd5ZlFZU1VvM2w2RE8yV2gtU0k3dzhJMzlzOHplMWd0QklOSDI5RFZLVE1kUnY4dmhlZUZYaU9MZmh6aXJkNjdaMWxSSFFHWExLWW45S1EwUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2025-07-09T14:17:33.000Z"
+    }
+  ]
+}

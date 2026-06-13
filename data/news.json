@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T22:27:47.154Z",
+  "generatedAt": "2026-06-13T22:09:01.229Z",
   "sources": [
     {
       "id": "stat",
@@ -24,6 +24,30 @@
   ],
   "count": 120,
   "items": [
+    {
+      "title": "STAT+: FDA approves Sanofi diabetes drug for children with stage 3 diabetes",
+      "link": "https://www.statnews.com/2026/06/13/teplizumab-tzield-sanofi-fda-approval-children-stage-3-diabetes/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-13T13:22:44.000Z",
+      "snippet": "The FDA has approved a drug that was previously caught in a dispute between career staff and the political appointee head of the CDER."
+    },
+    {
+      "title": "WHO director-general is profoundly concerned after visit to Ebola outbreak area",
+      "link": "https://www.statnews.com/2026/06/13/who-director-general-in-drc-war-greater-concern-than-ebola/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-13T13:00:00.000Z",
+      "snippet": "The director-general of the World Health Organization is profoundly worried about the Ebola outbreak in the DRC, he told STAT in an interview."
+    },
+    {
+      "title": "Opinion: ‘I’m pretty much all in’: An interview with a woman starting medical residency at almost 73",
+      "link": "https://www.statnews.com/2026/06/13/medical-residency-late-in-life-interview/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-13T08:30:00.000Z",
+      "snippet": "\"There are some physicians that work to 100”: Dawn Zuidgeest-Craft on becoming a medical doctor in her 70s."
+    },
     {
       "title": "OIG: 3 Largest MA Insurers Deny Prior Auth Requests at High Rates for Long-Term Acute Care, Inpatient Rehab",
       "link": "https://medcitynews.com/2026/06/oig-prior-authorization-medicare-advantage/",
@@ -61,7 +85,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYlNnanpmaVU0NExGcmFiOVptZ2Z4dHBuMFBkcUh4U1VKUUplWGYtdkdhT2g4N3lKSTlmZkVkMUpBZERvdGhJc2dzNkU5aG44ZjFNN1ZyUzBsd3E3Q2d4SDA3dDFkUzFYQVhxNnFQdTlrd0xGQ3hVQzVWWjZYa01pSDFFcGxGdzF2NUNyakcwaVA4NjM4clE?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
-      "date": "2026-06-12T21:00:29.000Z",
+      "date": "2026-06-12T21:03:06.000Z",
       "snippet": ""
     },
     {
@@ -110,6 +134,14 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-06-12T17:37:10.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "FesariusTherapeutics raises $20M to expand dermal repair technology",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWJMSGVSWEt0c1ptcWlFUGRrSE1FRjVLb0lNYUpsV1dYOXpPQnFvMDg1S0NIQW9taDRzN1AwOHhSRmsxTjV1XzRJUFViUGpoODJtN19hWk1KX09ERXRnQkptQ3I0dmg1WnVOQ2JsdnFLcGR2V09QT25qbEZlX3Y5ckQyRlRnUXBUS3paenB4YlF5WE9aX2txYjZYaDlkcXR1?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-12T17:05:08.000Z",
       "snippet": ""
     },
     {
@@ -401,28 +433,12 @@
       "snippet": ""
     },
     {
-      "title": "STAT+: A suspicious denial pattern in Medicare Advantage",
-      "link": "https://www.statnews.com/2026/06/11/medicare-advantage-prior-authorization-denials-trustees-report-prescription-drug-costs/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-11T14:55:52.000Z",
-      "snippet": "Major Medicare Advantage plans almost always reversed their denials on appeal, raising big questions about barriers to care."
-    },
-    {
       "title": "DiMe leads coalition to focus on virtual care price transparency",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa194LWF1N1lLamh4b2FvSjdOMkxKbGxOYUUwVU9LU19GUURRQUx0ZHlEMEdvSWVhREN6V3kyYmYzNEd0Z2tiY0JIM2xhdE9wR2VuOU1jWVU2a1dWcWZTNXB6UjNPZEJmYVlOelBibDd1cGVob2tYX2FtRUZob1ZKVnRpQUhYcEEtTldvRnBYSzBjNGpoSTdHTFpkOXM?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-06-11T14:45:34.000Z",
       "snippet": ""
-    },
-    {
-      "title": "STAT+: Novartis doubles down on molecular glue strategy",
-      "link": "https://www.statnews.com/2026/06/11/biotech-news-novartis-doubles-down-on-molecular-glue-strategy/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-11T14:11:20.000Z",
-      "snippet": "Seniors' drug costs rise sharply, Enliven's leukemia drugs, and more biotech news from The Readout"
     },
     {
       "title": "Beware of complacency to reduce AI liabilities",
@@ -463,14 +479,6 @@
       "sourceId": "medcity",
       "date": "2026-06-11T13:32:00.000Z",
       "snippet": "EHR switching involves risk. But taking a life cycle view, considering data migration, workflow configuration, training, downtime, ongoing fees and eventual exit terms, can put an end to your EHR pain. The post What Healthcare Leaders Get W…"
-    },
-    {
-      "title": "STAT+: Pharmalittle: We’re reading about employer coverage of obesity drugs, another Sanofi setback, and more",
-      "link": "https://www.statnews.com/pharmalot/2026/06/11/employer-overage-of-obesity-drugs-another-sanofi-setback/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-11T13:21:55.000Z",
-      "snippet": "More employers are planning to drop coverage of GLP-1 drugs for weight loss next year as increasing numbers of people take the medications"
     },
     {
       "title": "Reveal Healthtech",
@@ -681,14 +689,6 @@
       "snippet": ""
     },
     {
-      "title": "EHR vendor notebook: Elsevier, athenahealth and PointClickCare ramp up agentic AI",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3FDRjd6LXZRVGc0Z3BvcXRJV19PaC1sUkpaUU9QdEdFcW9QakkzZ0xzSVUwWUp5eWI4cUJnbGtMbHZQb2I2UHotTkM2X1cwSEJnQjBpWU5XWVpaOTlPWUU1bUZ2WmMzbF85eVNOd3A5NHRkODFLNDJKQjBSZVBULXlhYnVRVHlmWWJFbDlnVFFoY0ZYcXpQU3JpZ0pwWU1nTHpRMmswUk1HUmdZQUU3YXhMOEs?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-09T14:15:58.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Healthcare’s Assurance Infrastructure Is Broken. The Compliance Industry Built It That Way",
       "link": "https://medcitynews.com/2026/06/healthcares-assurance-infrastructure-is-broken-the-compliance-industry-built-it-that-way/",
       "source": "MedCity News",
@@ -801,14 +801,6 @@
       "snippet": ""
     },
     {
-      "title": "3 Southern Ohio VA facilities go live on Oracle Health EHR",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOengzLXBKbEd1a1d1TGhmcWJwNTRBTWhsRjlBYzZ5VkhyTjZGeXI0RVJONUpNX2lZVGlMeHR0NkpSazZkMmNvTkZMcm8yTk8ySldDMGRIR0RxTnI0cGlYTUtfYTVyd3diNk9LVXgyM3ZIanJSdW11YmZnV3lEY1FpV1A0UEc3dlkzZHd0bVRLajBabXVBVkRidQ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-08T15:31:13.000Z",
-      "snippet": ""
-    },
-    {
       "title": "AI model provides brain health insights from MRI scans",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPXzliMDRRa2pFQmJlNXhlWlVmdTVZZUYycWFKVUpxaHJvdXJNbHNTUkI2V09SZE9iMHRsT3c5Nmdvbm1IOWJIY3dkd1dJWVBjbURxSDU0MzM2QWlSaE9sTm5zbW9aMkU3S2d0UGNCaHVvMmE4UDZ3cGRHT0M3ZGltQ1ZIcm5WTzJBRWVlamRDdw?oc=5",
       "source": "MobiHealthNews",
@@ -833,19 +825,19 @@
       "snippet": ""
     },
     {
+      "title": "New national 24/7 health advice line opened and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN1NZbEQ2MG4wTG11c3NMMnpTYzNZU3JQSHU4eENHMDFWNUhGaHNMcTRUQ0tXQWVFcnF4MTRCSlF5U0VjenE1dVdEdlhvSVdhUF9MNDhDWkVBdzduNENjcTNWYUlsSmlrUFk1X2EwRFpqb0tMRXRvbUItcWVoNHRQVjdpUklWakVoQmdOZ1FuOHhyd3NjZmljTi1xYl8zemFnd1E?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-08T04:13:14.000Z",
+      "snippet": ""
+    },
+    {
       "title": "AI has hidden costs, and consumers may not always understand them",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMEZySmxSR2xoZG5aTlc3amxVRndLVzhNWVJMTzEybW5OTl9SR1gtelFSdXRlY1BxMU5lV3RtT2pvY3IzdU1fX1hlTUhMX0stVFg1Z2xaeUs3TnlpU3R3X2JYaTBMR0Zubksxd2JhNmJYYUtiSHZFcGM4MV9INlJYZlk4TWU2WjZkUTR6OGtrRDNhOVRjRDB3OXB4Q2JCVzZ3ZVp5bUZDNEhCMDhy?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-06-05T21:25:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "States agree to share data with DOJ to fight Medicaid fraud",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYjlTWEtyUm9ZUERRengzb3NrZ0ZaVkR3cDZHVGNlTmEtSDluZGdLR0QzRlI3RkQ2QnI2T3lBZDliMW5ZX0VJeElEQUhwcV90WjVYMjlwV0FxbjREUmJQZTdNRi1XdW9TTHpUOWlxdFBlM01HMllNTnFzSy1CMXpJUmhSRV9VZEdHbGp6cHRqYw?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-05T20:41:37.000Z",
       "snippet": ""
     },
     {
@@ -873,30 +865,6 @@
       "snippet": ""
     },
     {
-      "title": "Philips forms first U.S. community health system alliance with WellSpan",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1V0Qk9zZV9zekNJelBrYThWM3VjQ3ktZGFDSWxkOGNJZm5RUWV0b1h6QzNlQldRbDNlN0thQUNFY0JmNkcyMzlpYWRnbDhoSlU0QV9HQ2lGQURidjJKVmt2SXdqSFFqOE9yMGp5T0xheFpBV3NEQnZlZVl1SkpONkItV2xURWFiQnhwMWJfcE90ZDZ5MVVwMHdDMXpJeW1IM2c?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-06-05T18:36:42.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Healthcare will soon join the app economy",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kdDcwSWV6QkV1dW1ySWNYMkdTSDFYdDBUd09NcXJxSUZKSnBXaUNBUnBEMGtuZndUczlmeTJ4bHluMzM1R2V2dnRUc2tEQUJtZ3ZaZ0w2S0JtTEJMOEN3YTAwcDdMa0N4cnQ5eF9VSUhlbE1QQnhROHJMdTlpZ2s?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-06-05T13:38:07.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Use Bulk FHIR to achieve healthcare data analysis at scale",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOUJ6S2k2dnEtaDBMTUVybWl2Uk9QWnhzZ29halNibHVrX1dzOENMME4zOGxCbFF4clhFdDhfd0szWkFQU3ZaWHJFX0FodkptZkVNeHdMaHRaSW1udk9TaXQ3bE5QSzNYbTlmdG5IT0xjRWdyU2RrWF9mQ1Zsb3lNNlZ1V1RtbVZJYTF6MHBYbVoxN280cFE?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-05T12:35:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Healthcare faces a fight for AI's future",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWndab0hCVWEyQ0I1UE9KNjNKY00xSTFMcDJIcF9lcmhEdU93dVhlSkJ4dmpyRDRkdjlzeVZEdl85MF9qNkM0MEZva1RqQ3dYdEhFckFIcWVrYnZPYmpvOU5IdXZDeVpRcXFIM2FxNjYwdkIteU5LMmNaMC1LcFA5QQ?oc=5",
       "source": "MobiHealthNews",
@@ -913,35 +881,11 @@
       "snippet": ""
     },
     {
-      "title": "How startups build resilience and 'enlightened determination'",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWE1cU5xaHA2VUhURkZpVzJDMGtYUWU5WF9NX2Zvc0pJRmlxQnl6RGktV0hOU1FIdXctLXY1a2h6Tk95MURYNDVSSGFVRkQ0S01QeDhUZzQ4d3VpbnNNRjA1NVY2c1NtR1psZ1hXa21zeWotV1FQaHhjcWI1Wmoxd1FYZUd2LUxtZ2RpemlDQ2kyd29JUDlPb2RuTWE?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-06-04T18:57:51.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Aligning purpose with profit is key to startup success",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1RYT1ZpSkpRcjVWdC1aSlhMQUZ2YkdkcGs2ckg1X01sLVdZX0pyemVyeFM5bG93OEQyaFFCdFFxZzJUZnpWZ1MwMnItRnIxMFI5elNhRTkwNDBwMWxrbFR5TTh3elhYU2RMNmRmd0ItOHcycEwzSldFdEt0c2VDa2Zuc0pKQzBKVXc?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-04T18:21:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Apoha emerges from stealth with $36M to build Liquid State Intelligence",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSzBvX0d0bVlJX291Sks0ekFoQVU4dmlydDM0eVVLOWVBaFhiaDB2NnpiUVk3RHQ4YkQ2TVVQV21qdnFqZE9sbVJrT005N284WWtlbXVwWHNNUXBTZHlOMDdXcktHX3dPbG1lOHhSWkxWbDlYSlBwajQ4UENGeWhGQkZvbExJZ21jQk5vaGdONGN3bW1vSURNWg?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-06-04T17:25:04.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Epic et al. dismiss a defendant in patient-data lawsuit",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2ZNRURTQ0tFMzZLUEJGSFJsdVVwOGZQZlgyWnY4b1JRcUpIT2Q0MzB0bnJTS0U3a3M4cWRHVkFObVp3VmNqZTF3TzZyZGl4R0x1XzRpdlh1aFFVLXJUYTE3U2dqY2tqalpUanZMZl9PdEMtcF9tbnZ5QzQ5a1FRcTBsTFhaTG04MEZWS0xra3U?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-04T17:15:41.000Z",
       "snippet": ""
     },
     {
@@ -982,6 +926,62 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-06-04T13:14:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Epic et al. dismiss a defendant in patient-data lawsuit",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2ZNRURTQ0tFMzZLUEJGSFJsdVVwOGZQZlgyWnY4b1JRcUpIT2Q0MzB0bnJTS0U3a3M4cWRHVkFObVp3VmNqZTF3TzZyZGl4R0x1XzRpdlh1aFFVLXJUYTE3U2dqY2tqalpUanZMZl9PdEMtcF9tbnZ5QzQ5a1FRcTBsTFhaTG04MEZWS0xra3U?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-04T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Eve Bender",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80OXBDU1ZDRFlrbE9tOWc1SURPSjg3OGZuZTl1ckk0aXdEaDBkQzhVX1pRWkJYbGlNZ2dPVDNUMVk4SFR6Unh6c3l4VjBrZkE1MEVvazBCTnNyNU5C?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-03T20:10:45.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "AccurKardia receives patent for AI-ECG cardiac amyloidosis detection",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNand5cnNSSkItZFVCazE2UGNrYzNJQ3hBakt3a2pKejVjN0o3d2gyYnVaaloyWnBmSGp2T19CSDQ5UHJYUE1xMFlhRjJDODgzdmJZNVZGTjQ0YjF2dFFzSFhJek5GX1FDWDRBeS1PWDJWb2MtN3FMbU51dnl1VVdGbXR6OHNHd2R3WXFVa19WbUl3RkxGUnRmZENRQVZQREp5aHc?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-03T19:56:18.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "New HSCC guide addresses cybersecurity risks specific to healthcare AI",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUDNwS25waFc1U180VEZMQ0d3cGJfajJzRmFDdzF0VUsyQWJ5UHc0VV9IUktiLS13Wm1QdnpUaEUyMTBaMEJWYURNdm1adnd1QVFnZ0pYd1lIazN3SnN2dzBVQlV0Z1p2UjQxdGw1a0xsM2MxTEE1V2NpOXMwaDFYa0FWNEdHeWpRN2pNeHlLdWg4UklNMWR0QTdtSjFJek5UVENESGliOW8?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-03T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Solving TEFCA's governance challenge",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KNVhRYVUxREFKeFdDVFBuOGxzRWx2Q0U4cVZ5TlE1TDY4QXBiV0FSLWxSLUxoSTA2Y3VuNGZ5cWZOMzYtZklWU2ZTQ0t5b0FTdVZmUElQUXA1Y2c4OU03Qm5pT0tXNU5IVnA5S3VoVEVrOFphMG9heE9zNkxBSVk?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-02T13:34:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Home",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrRDE2WFIxby1uNWVDejBtNG1HZGJFRFI3VUlycU9CUUxZYjFGMVY4dm9BRk1WTGZrd0FCWlZmVk9oZ3FSMk1WM0RVSQ?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2025-07-09T14:18:03.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "HIMSS TV",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91Umd5ZlFZU1VvM2w2RE8yV2gtU0k3dzhJMzlzOHplMWd0QklOSDI5RFZLVE1kUnY4dmhlZUZYaU9MZmh6aXJkNjdaMWxSSFFHWExLWW45S1EwUQ?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2025-07-09T14:17:33.000Z",
       "snippet": ""
     }
   ]
