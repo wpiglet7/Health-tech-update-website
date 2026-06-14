@@ -1,0 +1,81 @@
+{
+  "date": "2026-06-15",
+  "generatedAt": "2026-06-14T22:17:12.692Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 11,
+  "sources": {
+    "MedCity News": 4,
+    "MobiHealthNews": 5,
+    "Healthcare IT News": 2
+  },
+  "summary": "The health-tech landscape today reflects growing infrastructure and operational challenges alongside commercial wins. Rocket Pharmaceuticals realized $180 million from selling its FDA priority review voucher for the gene therapy Kresladi, highlighting a revenue strategy for companies with rare disease approvals. On the technology side, the industry is grappling with deeper integration issues: while data interoperability has improved, healthcare now needs semantic frameworks that translate clinical meaning consistently across AI systems and use cases rather than just moving data between systems. Separately, Philips announced its first U.S. community health system alliance with WellSpan, signaling continued consolidation around integrated care platforms. Critical gaps also persist in treatment design, particularly smoking cessation, where quit rates have stalled despite evolving nicotine use patterns, suggesting interventions haven't kept pace with patient behavior. Meanwhile, infrastructure discussions emphasize that outdated insurance network models may be fundamentally misaligned with modern healthcare delivery needs, while emerging tools like Bulk FHIR and cellular-connected devices offer technical pathways to improve data analysis and operational efficiency.",
+  "items": [
+    {
+      "title": "Rocket Pharma Reaps $180M From Sale of FDA Drug Review Fast Pass",
+      "link": "https://medcitynews.com/2026/06/rocket-pharmaceuticals-rare-disease-priority-review-voucher-prv-rckt/",
+      "source": "MedCity News",
+      "date": "2026-06-14T17:09:50.000Z"
+    },
+    {
+      "title": "In the Age of AI, Interoperability Isn’t Enough: Why Healthcare Needs Shared Understanding, Not Just Shared Data",
+      "link": "https://medcitynews.com/2026/06/in-the-age-of-ai-interoperability-isnt-enough-why-healthcare-needs-shared-understanding-not-just-shared-data/",
+      "source": "MedCity News",
+      "date": "2026-06-14T13:56:00.000Z"
+    },
+    {
+      "title": "The Myth of Insurance Networks",
+      "link": "https://medcitynews.com/2026/06/the-myth-of-insurance-networks/",
+      "source": "MedCity News",
+      "date": "2026-06-14T13:54:00.000Z"
+    },
+    {
+      "title": "Smoking Cessation’s Quiet Design Failure",
+      "link": "https://medcitynews.com/2026/06/smoking-cessations-quiet-design-failure/",
+      "source": "MedCity News",
+      "date": "2026-06-14T13:33:00.000Z"
+    },
+    {
+      "title": "Philips forms first U.S. community health system alliance with WellSpan",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1V0Qk9zZV9zekNJelBrYThWM3VjQ3ktZGFDSWxkOGNJZm5RUWV0b1h6QzNlQldRbDNlN0thQUNFY0JmNkcyMzlpYWRnbDhoSlU0QV9HQ2lGQURidjJKVmt2SXdqSFFqOE9yMGp5T0xheFpBV3NEQnZlZVl1SkpONkItV2xURWFiQnhwMWJfcE90ZDZ5MVVwMHdDMXpJeW1IM2c?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-05T18:36:42.000Z"
+    },
+    {
+      "title": "Healthcare will soon join the app economy",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kdDcwSWV6QkV1dW1ySWNYMkdTSDFYdDBUd09NcXJxSUZKSnBXaUNBUnBEMGtuZndUczlmeTJ4bHluMzM1R2V2dnRUc2tEQUJtZ3ZaZ0w2S0JtTEJMOEN3YTAwcDdMa0N4cnQ5eF9VSUhlbE1QQnhROHJMdTlpZ2s?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-05T13:38:07.000Z"
+    },
+    {
+      "title": "Use Bulk FHIR to achieve healthcare data analysis at scale",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOUJ6S2k2dnEtaDBMTUVybWl2Uk9QWnhzZ29halNibHVrX1dzOENMME4zOGxCbFF4clhFdDhfd0szWkFQU3ZaWHJFX0FodkptZkVNeHdMaHRaSW1udk9TaXQ3bE5QSzNYbTlmdG5IT0xjRWdyU2RrWF9mQ1Zsb3lNNlZ1V1RtbVZJYTF6MHBYbVoxN280cFE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-05T12:35:00.000Z"
+    },
+    {
+      "title": "How startups build resilience and 'enlightened determination'",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWE1cU5xaHA2VUhURkZpVzJDMGtYUWU5WF9NX2Zvc0pJRmlxQnl6RGktV0hOU1FIdXctLXY1a2h6Tk95MURYNDVSSGFVRkQ0S01QeDhUZzQ4d3VpbnNNRjA1NVY2c1NtR1psZ1hXa21zeWotV1FQaHhjcWI1Wmoxd1FYZUd2LUxtZ2RpemlDQ2kyd29JUDlPb2RuTWE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-04T18:57:51.000Z"
+    },
+    {
+      "title": "Aligning purpose with profit is key to startup success",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1RYT1ZpSkpRcjVWdC1aSlhMQUZ2YkdkcGs2ckg1X01sLVdZX0pyemVyeFM5bG93OEQyaFFCdFFxZzJUZnpWZ1MwMnItRnIxMFI5elNhRTkwNDBwMWxrbFR5TTh3elhYU2RMNmRmd0ItOHcycEwzSldFdEt0c2VDa2Zuc0pKQzBKVXc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-04T18:21:00.000Z"
+    },
+    {
+      "title": "How healthcare job seekers can best use LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHlvUTNBLXJxSFh1Ri1MMUtzUXRhdDllR0dibnhHSG5xSHhMUjFhcWxERGRtVHlrMmFpZ1E0cGE3cndkWjNuUGtCZHRmb3dCcERaN3VWSkxaVmMwLTlzNTdiajloajhKTWJ1eVlwbFAxSmFHaVVxYl9OWlUyaC1BMU5xNl81Ny1vOUdpdklR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-03T07:00:00.000Z"
+    },
+    {
+      "title": "Cellular connections are the future of healthcare operations",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTGU3cC1XeDR6cjV3NEJ1bHpWRDRldEhVY3pNcUd3MWloemV6UzBjMlZVWUxVWTdkbVdYXzN5MTRnRWVwQ3o3QjVLZnptc3dObzkyTlFNNXZuZzgxUXJndTNRSTNHZUh3SnliQ1hreGhLeFdCZ0JpUVlpREdHSHFRcWdySVFpd1k4NmZhd2FWak14REV1?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-01T17:34:55.000Z"
+    }
+  ]
+}
