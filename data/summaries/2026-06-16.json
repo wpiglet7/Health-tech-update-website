@@ -1,0 +1,202 @@
+{
+  "date": "2026-06-16",
+  "generatedAt": "2026-06-15T23:05:43.135Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 31,
+  "sources": {
+    "MedCity News": 8,
+    "Healthcare IT News": 6,
+    "MobiHealthNews": 5,
+    "STAT News": 12
+  },
+  "summary": "Today's health-tech headlines reveal tensions across cost, trust, and innovation. The affordability crisis is deepening into a broader trust problem, with one in four Americans now avoiding care entirely, while government underpayment continues pushing the system toward a two-tier structure for insured versus uninsured patients. On the policy front, significant developments include FDA approval of Colorado's drug importation from Canada and Medicare's new $50 GLP-1 coverage starting July 1—a temporary program that may prove difficult to wind down. AI coordination challenges are intensifying as major tech companies request DNA screening legislation and government agencies cite security concerns, while healthcare systems grapple with balancing AI's workforce benefits against the need to keep humans in the loop. Clinical progress includes encouraging Phase 1 data for Eli Lilly's new blood cancer drug and evidence that COVID vaccination reduced cardiac event risk by nearly 24 percent. Underlying several stories is a critical data systems problem: as healthcare becomes more interoperable, legacy systems struggle to track patient information across platforms without deliberate architectural planning from the start.",
+  "items": [
+    {
+      "title": "Multicare CFO: Decades of CMS Underpayment is Creating an Unfair Two-Tiered System",
+      "link": "https://medcitynews.com/2026/06/multicare-cfo-decades-of-cms-underpayment-is-creating-an-unfair-two-tiered-system/",
+      "source": "MedCity News",
+      "date": "2026-06-15T22:38:45.000Z"
+    },
+    {
+      "title": "Elevance Health’s 3 Key Priorities for AI",
+      "link": "https://medcitynews.com/2026/06/elevance-healths-3-key-priorities-for-ai/",
+      "source": "MedCity News",
+      "date": "2026-06-15T22:19:49.000Z"
+    },
+    {
+      "title": "As AI evolves, neccessary coordination on security expands",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMmFFRGE4YzlwSXhlWGRWNU4tZGFXX3daLXUwaTRZTURTeEZtLWdRZ01ib3J4UXIzd3pjdDNmLVcyN3hxUzBVX0Q2RHBHVWFMam5wT2gzdGZJblhWWU5FWldJUHkzWkpncXR6b2Z0QlNvMFJybHBCb2c0SjlsWXl1bVlLTGxoMENSSHczZ1RJbDZkbkE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-15T21:27:25.000Z"
+    },
+    {
+      "title": "Lilly’s Newly Acquired Drug Shows Promise as Next-Gen Blood Cancer Med",
+      "link": "https://medcitynews.com/2026/06/eli-lilly-myelofibrosis-typeii-jak2-inhibitor-ajax-blood-cancer-hematology-eha-lly/",
+      "source": "MedCity News",
+      "date": "2026-06-15T20:39:58.000Z"
+    },
+    {
+      "title": "Anthropic disables Fable 5, Mythos 5 after U.S. government cites security concerns",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkEwMkJIMjFiRWtDREh3STRjOFRuOXNoYWdLdUdJdC1oT0FaRTNqbUQ1blFLckp2a25NZ2hZaHk4RlhIMUR5UThZYktLU3R5aVNlSXB6TjRWcG1wS0tLeTc4UUFSMktTbXYzNjlWTE0tTGRkQXVSUHRTbnpxWjIzY25vcy1UdXVrTWtGQVl1TElnLTBpd08yemVDM2U1Mjh2V0s4NnJXclZQVWZwbWtQUE0yd0FYQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-15T19:29:42.000Z"
+    },
+    {
+      "title": "STAT+: FDA approves Colorado’s plan to import cheaper drugs from Canada",
+      "link": "https://www.statnews.com/pharmalot/2026/06/15/colorado-drug-imports-canada/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-15T18:19:20.000Z"
+    },
+    {
+      "title": "OpenAI, Google DeepMind, Anthropic request synthetic DNA screening legislation",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdDFrYktvc2pENGZqRnRiOE81NEV1Qlp5SUpNVE40MXJMZlk5NVRrcmV1TzR1XzE3TjdxQzU1eWJYM1hVMzhZZmc0WDJBV3IxdlBuUzJESk52STREN3p5dGl4eGlZM2JUaVoxTFBvVWdVZHU2cURvbFJWTmo2M1VVbWk4eE16NGNQTUJ0LUF2STJSTFUwTC13M1NvRGVsNEhUVzkyeXZkWlZlc052ZGZfVGdn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-15T18:06:59.000Z"
+    },
+    {
+      "title": "Can RPM alone help patients recovering from sepsis? One study casts doubts",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdTBQcC1UeW90eTZEa3d1NG5Wb21IYVJMR29OY2FyRHlnWnNqblVua1F4cE5ZNUZGNld6Mmp3c0Z5Q2dKWHdmaDd6MXA2YTJQcVhWekk4cF9QM2ZMYWo1ZE5zU1p4SGNhWUJBOFktQlhZRm9MaDdoX0g5cUtsbno1ZmdNTUk1bTJjamZUT2NnM0MwMzRVNXdXUHVqYTEzZ0cwNTBaYVdweTZpUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-15T16:25:15.000Z"
+    },
+    {
+      "title": "STAT+: Trump’s obesity drug plan creates a temporary Medicare program that may be hard to end",
+      "link": "https://www.statnews.com/2026/06/15/medicare-weight-loss-drugs-glp1-bridge-program-may-be-hard-to-end/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-15T15:25:14.000Z"
+    },
+    {
+      "title": "STAT+: A key European clinical trial registry lacks complete and timely results, an analysis finds",
+      "link": "https://www.statnews.com/pharmalot/2026/06/15/european-clinical-trial-registry-results-analysis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-15T15:04:33.000Z"
+    },
+    {
+      "title": "Covid vaccination cut risk of adverse heart events, large study finds",
+      "link": "https://www.statnews.com/2026/06/15/covid-vaccination-cardiovascular-protection-jama-study/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-15T15:01:52.000Z"
+    },
+    {
+      "title": "HIMSS offers opportunities to showcase healthcare innovations",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGhOTEpJdzBWN3F1bDBhS2lZWVJRSjBrcGp1Xy13LUJseG03S2FpRDRxUGpPdktHdTBvUGRvd2JidmprTVlVaDI5VF9wUzkzbEMwLTM2MG5saXROUUpxQzBuSnNlcmhNY3dKNERSd21KOUd2N0pSV0loT0FPT0ZyRmRpLTJXNGRaOV85eEFSc2VMX2Y2RWxIckJDSQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-15T14:20:07.000Z"
+    },
+    {
+      "title": "AI can help close workforce gaps while keeping humans in the loop",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNTMyNjJHeERUWWZxbHo5UU5uTTZjMnczU0dQVHQwVzh0NVI5Z2cydWlmYVZLak1ZdXZWTEpqaUlOWDJMX2NxZlE0TUdyZi12a0JGYmt0MmFoOEJNaHRERWFULVYxaWZtdVVXMk9iM0JsbEVFeVM0LTAzT01JTll2QmROakJ0LS1qcHB6dVJOOFprYTdjWXM3ZC1ySXg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-15T13:58:44.000Z"
+    },
+    {
+      "title": "Don’t Leave Healthcare’s Greatest Asset Behind on the Road to Interoperability",
+      "link": "https://medcitynews.com/2026/06/dont-leave-healthcares-greatest-asset-behind-on-the-road-to-interoperability/",
+      "source": "MedCity News",
+      "date": "2026-06-15T13:54:00.000Z"
+    },
+    {
+      "title": "How the HIMSS Global Conference sifts through education session ideas",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYVF5T2IyMVltRVZremREYVNpOXhYTG1idnVNZFdPeldVM3ZqZmdDQTI3el9tS0xoU3FJMnYzdG85QW9JeUo5Rm5HUjVtU1BudThEeTFZaFhNMVFabXpfT1psQXR3M1Bic2JQRnd6V3k4RjNMdnJBR0dvby1HQ056dDc5T1h4RkV6VTc0a2FBUHRmRnZ5OEdaVjZHakMwNDgyME9DQXlUZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-15T13:47:00.000Z"
+    },
+    {
+      "title": "STAT+: Lilly’s Ajax acquisition may have been worth it",
+      "link": "https://www.statnews.com/2026/06/15/biotech-news-lilly-ajax-acquisition-may-have-been-worth-it/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-15T13:36:34.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Pfizer’s emergency penicillin program, a Sanofi diabetes drug, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/06/15/pfizer-emergency-penicillin-program-sanofi-diabetes-drug/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-15T13:22:46.000Z"
+    },
+    {
+      "title": "Where Healthcare Data Systems Fail and How to Build Them Better",
+      "link": "https://medcitynews.com/2026/06/where-healthcare-data-systems-fail-and-how-to-build-them-better/",
+      "source": "MedCity News",
+      "date": "2026-06-15T13:07:00.000Z"
+    },
+    {
+      "title": "The FDA Opened the Door For Rare Disease Patients — Here’s What It Takes to Walk Through It",
+      "link": "https://medcitynews.com/2026/06/the-fda-opened-the-door-for-rare-disease-patients-heres-what-it-takes-to-walk-through-it/",
+      "source": "MedCity News",
+      "date": "2026-06-15T13:05:00.000Z"
+    },
+    {
+      "title": "STAT+: Where ‘democracy met science,’ 50 years ago",
+      "link": "https://www.statnews.com/2026/06/15/health-news-cambridge-recombinant-dna-anniversary/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-15T11:56:24.000Z"
+    },
+    {
+      "title": "Why One in Four Americans Is Walking Away from Healthcare",
+      "link": "https://medcitynews.com/2026/06/healthcare-affordability/",
+      "source": "MedCity News",
+      "date": "2026-06-15T11:38:43.000Z"
+    },
+    {
+      "title": "As states follow Trump’s Medicaid fraud playbook, people with disabilities struggle to find care",
+      "link": "https://www.statnews.com/2026/06/15/medicaid-caregivers-state-pay-people-with-disabilities/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-15T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Amid confusion over Pfizer’s emergency penicillin program, newborn is diagnosed with preventable syphilis",
+      "link": "https://www.statnews.com/2026/06/15/pfizer-bicillin-shortage-preventable-congenital-syphilis-surging/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-15T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: One California politician’s unexpected crusade against ultra-processed food",
+      "link": "https://www.statnews.com/2026/06/15/jesse-gabriel-ultra-processed-food-california-laws-national-impact/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-15T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: I’m a pediatrician. I want to prescribe the right AI to my patients",
+      "link": "https://www.statnews.com/2026/06/15/ai-children-screen-time-pediatrician-prescription-guidance/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-15T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: In many South Asian American families, a child’s autism diagnosis is a secret",
+      "link": "https://www.statnews.com/2026/06/15/autism-diagnosis-south-asian-american-families-stigma/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-15T08:30:00.000Z"
+    },
+    {
+      "title": "Paul Markovich’s 4 Ideas to Reduce Healthcare Costs",
+      "link": "https://medcitynews.com/2026/06/paul-markovichs-4-ideas-to-reduce-healthcare-costs/",
+      "source": "MedCity News",
+      "date": "2026-06-15T01:49:24.000Z"
+    },
+    {
+      "title": "HIMSSCast: Are health systems obligated to give cyber intel to the FBI?",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1hEMHpEelJyZThhZlRYMWtVVHdkTHR4aXVIdGQ3QjNYUGRQTlJ6aWRoUzFvamlZZVhPeU1PUEg1bFlJSXhtN3pxR0pFUWFucGdLUF85S2JZM3JDME1ncTlIZlFxQUt0T3N0emZnZ3JmaWU0ZkxBUE9GOXRfendGMWZweVpYNFVoTFlydXVoY2ZoSm1BVW1hMVFtNG1KeXlnYlE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-12T18:29:39.000Z"
+    },
+    {
+      "title": "Q&A: Leadoptik aims to improve lung biopsy accuracy with real-time imaging",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRU01ODlGOUt0R3hUY0JFeTQ5ODJsS2ZyLVBpeHNlTGhvdWdPLWxZcGk3cktNdnp0ekdKaWZBbHJjeGdTbVhVWEJIdjdwVE96X19xMGhPTlhjMWZqeHRJb2l1LXZTZEhFM0dNQWlxN0J1bXgtZk41RGZzTFFsY0VtbnltR1poM3lvT3JjMFdSUm5qdUtMR08xMzgwdVpFWU1HU0E?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-11T14:00:00.000Z"
+    },
+    {
+      "title": "New national 24/7 health advice line opened and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN1NZbEQ2MG4wTG11c3NMMnpTYzNZU3JQSHU4eENHMDFWNUhGaHNMcTRUQ0tXQWVFcnF4MTRCSlF5U0VjenE1dVdEdlhvSVdhUF9MNDhDWkVBdzduNENjcTNWYUlsSmlrUFk1X2EwRFpqb0tMRXRvbUItcWVoNHRQVjdpUklWakVoQmdOZ1FuOHhyd3NjZmljTi1xYl8zemFnd1E?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-08T04:13:14.000Z"
+    },
+    {
+      "title": "Wolters Kluwer, OpenAI expand enterprise AI partnership",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSG9pMms0MmZtTmFBV3hpYWJWaC16cVR5a2pUbHlMaG9aVXUzLVdaZTZfX0JjR25MWEtJMWpibXN3emc3ZDRsbnBPR0s4elRhZDNiaDktVWgxVW96LUFBZG5EUW5lcGhzdkw2aVQ3TVg5cGZtamhSNENmd2N4SVM3M2JPTjZUbHRTYTQ0eXczckZFUU94?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-04T20:17:19.000Z"
+    }
+  ]
+}
