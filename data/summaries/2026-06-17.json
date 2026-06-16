@@ -1,0 +1,154 @@
+{
+  "date": "2026-06-17",
+  "generatedAt": "2026-06-16T22:54:34.204Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 23,
+  "sources": {
+    "MedCity News": 7,
+    "STAT News": 9,
+    "Healthcare IT News": 5,
+    "MobiHealthNews": 2
+  },
+  "summary": "The health-tech sector is moving rapidly across multiple fronts, with significant funding flowing into mental health platforms and biotech innovation. InStride closed a $30 million Series C for pediatric mental health, while MultiValent Biotherapies raised $27 million to develop a dual-targeting prostate cancer drug, signaling continued investor confidence in specialized healthcare solutions. On the regulatory and operational side, the FDA's new Bayesian guidance is reshaping clinical trial design toward greater flexibility, potentially accelerating development timelines for complex diseases like rare cancers. Technology applications are expanding into public health surveillance, with Verily using wastewater monitoring at World Cup venues to detect outbreaks five to seven days before symptoms appear clinically. Meanwhile, digital health access points are widening, including Dexcom's FDA clearance for an over-the-counter continuous glucose monitor for children and Medicare's coverage of weight loss drugs beginning next month. Healthcare systems are also grappling with infrastructure challenges, as coverage increasingly hinges on addressing rural transportation gaps and integrating autonomous systems and agentic AI tools across EHRs and clinical workflows.",
+  "items": [
+    {
+      "title": "InStride Raises $30M to Scale Pediatric Mental Health Support",
+      "link": "https://medcitynews.com/2026/06/instride-pediatric-mental-health-funding/",
+      "source": "MedCity News",
+      "date": "2026-06-16T21:24:49.000Z"
+    },
+    {
+      "title": "New Cancer Biotech Unveils $27M for Dual-Targeting Prostate Cancer Drug",
+      "link": "https://medcitynews.com/2026/06/prostate-cancer-multivalent-biotherapies-startup-peptide-conjugate-psma-folate-receptor-alpha/",
+      "source": "MedCity News",
+      "date": "2026-06-16T21:11:11.000Z"
+    },
+    {
+      "title": "What’s Flowing Beneath the World Cup: How Verily’s Wastewater Monitoring Could Catch the Next Outbreak",
+      "link": "https://medcitynews.com/2026/06/world-cup-soccer-pathogens-verily-healthcare-disease/",
+      "source": "MedCity News",
+      "date": "2026-06-16T18:03:31.000Z"
+    },
+    {
+      "title": "STAT+: How a biotech turned a trial failure into an AI model",
+      "link": "https://www.statnews.com/2026/06/16/how-biotech-turned-trial-failure-ai-model-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-16T16:45:14.000Z"
+    },
+    {
+      "title": "How AdventHealth is bringing precision cancer screening to the front lines of care",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbHlxNnZZWFNiYmtIQm1Mai1qUTcxeWhlQXZpRjhPNkdweFJrMlBKT1B2VmFfb1NTbDVGckRBUVZzaDJQMGlyT3VrYnlvQzBNbll1N0YxS0k3WmxJWEdiQzF5TXdQYXNjM05QUEg3dVhtV0NkV1VCMmYydkI2MFdUaWozYW1xbWJpME5oZy1kd21NQlFOOUZoTWNQNE1lMnJwcGZJWE5TRUhwTms?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-16T15:48:32.000Z"
+    },
+    {
+      "title": "Dexcom wins FDA clearance for first over-the-counter CGM for children",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY0ppajQ3VlA5cE0zWXZhTENYSE5QbzM4WG9RWkM3cXRJSDJNX0VKSk1GWmtZYWphVlA0MlFFdC1OV0JDTDB2X1FZQm4xRjdXeEZNblRSM1lRQThsY2tyYXltTl9ORzRWMFI0TUswZW1pall0MFZNM0ZBdWltZmc5R0dIZGFwV0V4YXFNNDgzckVzbHdxS2lBeA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-16T15:01:02.000Z"
+    },
+    {
+      "title": "The U.S. infant mortality rate fell to an all-time low, though it still trails other similar nations",
+      "link": "https://www.statnews.com/2026/06/16/us-infant-mortality-rate-all-time-low/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-16T14:55:40.000Z"
+    },
+    {
+      "title": "AI-powered analytics can forecast climate-driven health risks",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZUxxZjE3NGNrMnlZQ0NaTzhkZU5kV3pXNjZyVkVEVkdyVTFKbnp6Zk0tWklPdHk1em9EMERLNEVHS1pENS1UaXNwajhZSkNJaDg0d1A3LXJFelE1c0F6SHJCSERKN0ZRSDdTeFRlT01rQ1VvaGRzRG05NkI2Tm5ob013MXM2UDZVTmxPUzJwWXF3S0VmM2YtcVdNd2YzeE1VbHZzVDN3?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-16T14:01:13.000Z"
+    },
+    {
+      "title": "STAT+: ARCH-launched Neumora stops depression program",
+      "link": "https://www.statnews.com/2026/06/16/biotech-news-arch-launched-neumora-stops-depression-program/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-16T13:57:02.000Z"
+    },
+    {
+      "title": "The FDA’s Bayesian Guidance Could Quietly Reshape Clinical Trial Design",
+      "link": "https://medcitynews.com/2026/06/the-fdas-bayesian-guidance-could-quietly-reshape-clinical-trial-design/",
+      "source": "MedCity News",
+      "date": "2026-06-16T13:47:00.000Z"
+    },
+    {
+      "title": "Research shows extreme temperatures trigger healthcare demand",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzNJNTBYSEh5aTZtbmZ5ZHRNOG8za2UtdGNZd0MzQXRoU0dCcTFGMi0zOGg4WHBpSjdScTY2ZklwR2RJYVRaMHdYZmJlRWR4djR1aXBkUDZacXNEZUNrUkhFMWF3MkR0VWczeTVVT1B6cF95cWpLUzVZWE1lNXFQanZtN1QyVE51ZlByUHpRMXpxcHNuNTRWeUFUcmVkWWhvU0JVMllMdUM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-16T13:38:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Medicare and obesity drugs, Germany’s pricing plans, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/06/16/medicare-obesity-drugs-germany-pricing-plans/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-16T13:32:55.000Z"
+    },
+    {
+      "title": "Healthcare Access Depends on Infrastructure: Why Rural Communities Can’t Afford Fragmentation",
+      "link": "https://medcitynews.com/2026/06/healthcare-access-depends-on-infrastructure-why-rural-communities-cant-afford-fragmentation/",
+      "source": "MedCity News",
+      "date": "2026-06-16T13:29:00.000Z"
+    },
+    {
+      "title": "Natural Selection Will Weed Out the Weak in the Race to Autonomous Healthcare",
+      "link": "https://medcitynews.com/2026/06/natural-selection-will-weed-out-the-weak-in-the-race-to-autonomous-healthcare/",
+      "source": "MedCity News",
+      "date": "2026-06-16T13:21:00.000Z"
+    },
+    {
+      "title": "How supplement use changed over decades",
+      "link": "https://www.statnews.com/2026/06/16/health-news-how-supplement-use-changed-over-decades/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-16T12:03:26.000Z"
+    },
+    {
+      "title": "STAT+: Verge Labs’ new AI model solves patient stratification problems for neurology clinical trials",
+      "link": "https://www.statnews.com/2026/06/16/verge-labs-ai-model-clinical-trials-data-neurology-diseases/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-16T12:00:00.000Z"
+    },
+    {
+      "title": "Healthcare AI Beyond the Buzzwords: Ambient, Generative, and Agentic Explained",
+      "link": "https://medcitynews.com/2026/06/healthcare-ai-beyond-the-buzzwords-ambient-generative-and-agentic-explained/",
+      "source": "MedCity News",
+      "date": "2026-06-16T11:45:00.000Z"
+    },
+    {
+      "title": "STAT+: Human Cell Atlas leader’s tie to 10x Genomics raises conflict-of-interest questions",
+      "link": "https://www.statnews.com/2026/06/16/human-cell-atlas-consortium-meeting-boston-spatial-biology-next-step/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-16T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Congress must reauthorize the Pandemic and All-Hazards Preparedness Act",
+      "link": "https://www.statnews.com/2026/06/16/aspr-pandemic-all-hazard-preparedness-act-reauthorization/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-16T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: I’m an Alzheimer’s specialist. I still missed it in my own father",
+      "link": "https://www.statnews.com/2026/06/16/alzheimers-diagnosis-treatment-infrastructure/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-16T08:30:00.000Z"
+    },
+    {
+      "title": "As health systems build out facilities footprints, how to account for fast-changing tech?",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDkyT0RfUXE1T2pTWHNILTY3bXctcXNsRUFiVGRpM2pjWlhwSW1XbjhaYlBWRm81U3FsSjJJX3p1TzdOOFhRajRlUk1ESFd2MWVoTjB1em1tZUt4NU5IMnhPSWh5TzdHczc1RGl0UElDcFg1eTNKVlcta1lpSHZ2N1gyTG9EbXdfRXNWV3RYR2t4dFN6bFEyR2x5dnhXQlJ2M1k5dE1DQ1F4czVzV3NJYWFTb1VRQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-16T02:13:10.000Z"
+    },
+    {
+      "title": "Michael Sperling",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aT0ZFUzNpSjZUOU1iVTR2Z01oQjBOOFUwUm5xVC1KNXRFNFhFaDZJOVR2cHRuV0RQOGUyeE9ObE5HY1Z6aFdUZTNBQlpGUXNJUWFwTHFFV2JnV01QOVMzdW8yd2hQTGNBdFE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-16T02:13:00.000Z"
+    },
+    {
+      "title": "EHR vendor notebook: Elsevier, athenahealth and PointClickCare ramp up agentic AI",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3FDRjd6LXZRVGc0Z3BvcXRJV19PaC1sUkpaUU9QdEdFcW9QakkzZ0xzSVUwWUp5eWI4cUJnbGtMbHZQb2I2UHotTkM2X1cwSEJnQjBpWU5XWVpaOTlPWUU1bUZ2WmMzbF85eVNOd3A5NHRkODFLNDJKQjBSZVBULXlhYnVRVHlmWWJFbDlnVFFoY0ZYcXpQU3JpZ0pwWU1nTHpRMmswUk1HUmdZQUU3YXhMOEs?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-09T14:15:58.000Z"
+    }
+  ]
+}
