@@ -1,0 +1,220 @@
+{
+  "date": "2026-06-20",
+  "generatedAt": "2026-06-19T22:08:32.616Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 34,
+  "sources": {
+    "Healthcare IT News": 16,
+    "MobiHealthNews": 9,
+    "STAT News": 5,
+    "MedCity News": 4
+  },
+  "summary": "Healthcare organizations are increasingly turning to AI-powered communication tools and patient engagement platforms, with companies like Telepatia securing $33 million for Latin American expansion and RingCentral launching AI receptionist solutions for clinics. However, the sector faces significant headwinds: enterprise debt is constraining healthcare's ability to invest in AI innovation, while governance gaps and workflow integration challenges threaten to stifle broader adoption. On the clinical side, AI applications are showing promise in radiology efficiency and patient monitoring—including an emerging vibrating pill technology to flag anorexia relapse risk—though human oversight remains essential. Separately, federal grant delays are jeopardizing disability research programs, while maternity care deserts persist despite declining fertility rates, highlighting structural healthcare access challenges that technology alone cannot solve.",
+  "items": [
+    {
+      "title": "Transforming patient engagement with AI-powered communications",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWdTZ2djRTRnNzJDeXRBRW5BMUtoRVE2SXk4TW5JT0ZQYWJmSEh2OEw1VS16dDFkd0tvUnFoaXRmZHVuN1dvMzkwNG9XVkhFUUczM0Y5eDNnLTFsblFhTmN4YnZ6b2NYaEtGckJBT0xoYjl4UU14bzMtRDJDRll0NFdQRDd2M2JCT011RGVOWUtLeUhXUWN4MEVQTlIwbkFT?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T21:12:13.000Z"
+    },
+    {
+      "title": "RingCentral AI Receptionist for health clinics",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemhNR2c1S1UzTnh0U1FGbEVWRzdFcUNqdlFXa2t5YURUM25ESWNlelVpU1NGN1djZ0tyaXhsNVA3RjNOekpMTlJrZVdZX0pDM2xnVUROMEJuNVgxeWIyaGd6SThnQkRzd2g1UU5GdGg2VmtPT2JNZFlValRfSVhldlZFeFJZVERuYWwtRw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T21:08:30.000Z"
+    },
+    {
+      "title": "Transforming patient care: How FQHCs can leverage modern communication solutions",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPREdXdkk5SWJXYXpMbDNFUWFMcEpGT0FvLWpaZ3NmcXh3dG5PWFNuNTJHOWhLcFhhOVRBVDFWekJUQzVPdHhBbWpTdWxCSjc4MXd4ZENfUlNYbld2YktnWHVnazlrVGdic2hlYnhFT3F3MzE2a2dxUVRZOWdzM3NFcTdINTZvRlFlU1ozVWtqQ2dzNGFuMG1USFFIY284VFF3Mk1fUmptOFY3X3RmVWhZNWxpcWJpdnhKRjZGUGxn?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T21:00:14.000Z"
+    },
+    {
+      "title": "Telepatia secures $33M to expand AI healthcare platform across Latin America",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYWN1V3FGMTNTOXVrSF9GZ3prMmxFbWJHdUJLUXRVaXJKLW00dVZWTl8zYUYzT2ZGYVRCV2Y5bUFQamJZaHZnei1adTJzbGxINkZ0dl9BWVNtM0FIVUh6Y1lobzV2SUNjR3NWN1gydWUtTkZIbDllOVp6NWw3Q0ZBdHppV1o2TUhBYXdnbHJva0ZVWnpMZVBnSXIxN1pWS3hUX21HQWUtemxucWxO?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-19T20:34:31.000Z"
+    },
+    {
+      "title": "Vibrating pill may help flag anorexia relapse risk, study finds",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR0lscnVOVHZrRmdZS3NETU5ZbGdpRnhIU2M0Y1Q0VmVXaFAxSlVuWld1OXk3RWtlSEY5akwxZ0p5ai04Z29PT3g3cWh1czEzdkVhaHQ2WUJmdWxzeV90ZldMOVBQQ1RlOG0zYzhOUjR5T0dWWGhGTTl5eWxYY25DZ19tdHhyRVE5REdfdlZHS19GRy1tNXVVSThNSTNjQkk?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-19T19:40:57.000Z"
+    },
+    {
+      "title": "AI infrastructure collaboration needed across Europe",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSnJ6b0lFbHZWT2VBOE5hdGhFSGRYVTNFSnN6Z3lxN0hIenduOXFaY05TVVRITkZZUnpfb2ZKbUdzaWh1LXFaSVl2ZFNlLVlOeVY2N0hhZldKSEpIeTg4T3Y5ckJWODByekxUSDlCRUo1Nk9ZekNRdUR0QkNZbGdEdWRLNkxIMDhnc29EZG9ULUNJSGV6b2xHTTBn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-19T18:49:59.000Z"
+    },
+    {
+      "title": "AI innovation is stifled by a lack of governance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTkJZRVc0T1h1cUFIMEQzVkNjVG43OVRxMEszZnMwMnBja3RISjlCZm9XTXVyVFFNZXNBRjFwV0R4YzVuUWdtb3c5SFotZ25Sc2RVQlpCSjZEN0pjY0VRRHR0RHJEWldSeWxLUUFJOEJMTXRUdVdhZ1NSbE1tTnZUcVBQT0NxeXh0?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T17:44:00.000Z"
+    },
+    {
+      "title": "Gero raises $17M for AI-driven aging drug discovery",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLTE1dHk0TFJLVm9hZU1BNUF5N2xnYlByV3c0T25yaXQzWUNFSkw2aFI3Q09BNzZrei1kQ1VfdUJaT1BBR2lHYmpSZkpfazM5M2R3TmpvVFpKbEtmb1NkZWpVMlJpTGZBUm5PYlF1Tngwc0laM1VmRHlDMXRnNnI2SVVISnlwU2RqUVE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-19T17:26:38.000Z"
+    },
+    {
+      "title": "Enterprise debt plagues healthcare's AI future, says report",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM1U4S09ZaWJ4Y1hSLVR6LWZUd0FiQlExdjhhdzdVQW9zd2JfMEIzX1dsZUxtRTd2WEJGLVNqcmxtcE5aN1huRWUxeWZNOXdGVFA5bWZxMktEc2hCak85a3M2WVFFaUVoRW9WOFZDYkVSS1hQVG5YWUNUOS1MREkzUl80bzN0RkpzLXNRUllCYmJWdk5yTnMydGZKOA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T16:44:50.000Z"
+    },
+    {
+      "title": "Midjourney enters healthcare with 60-second full-body imaging system",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3JBVVREZFRXekd6SnJNNTRRaU9iWkVhVTFGcGVIVmtnMG1rajViS3V2a0NDdXRMTzQtSC1tTW5qQk9mcWhzbGsxb01mdmFPYk9NRjhWZWJkS25US0U2bUFsdFlkWllFLWVkTzdudUtEYmlhZFRfUUt1c2U0dzIwOHVTYmg0ODBKbl9ReEEzbXdaaDE2VnJUdGdOQlZYT2d0?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-19T15:33:58.000Z"
+    },
+    {
+      "title": "Why healthcare's next AI challenge may be connecting the workflow",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa3ZBUmNxa0ZXRzBEa0FQRkxVNnFLVE0yQ0V3R3NwaldLa0tpMG5OYTZsbWRfSEVYZ2NHdnVLeTRLNi00VTFaUm04ZmhuY1Q2cG9WcmwwOGwwNDBFQ1drSWswLTFwOFRXSEhWSmNGQ0JJbVVNMTF3U29DQUJLVmt2Q1dhSjc0Vk9qSmJOT3RhTGl1WFBPWlFxQ2pWdEdqUUE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T14:13:09.000Z"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "link": "https://www.statnews.com/pharmalot/2026/06/19/up-and-down-the-ladder-jobs-bristol-novartis-pfizer-moderna-astrazeneca/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-19T14:00:00.000Z"
+    },
+    {
+      "title": "Human oversight needed for AI-augmented radiology",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFF6a2xwSHAtLTF6a1FYY0hmUkdNeHF0dXA0S2t2MmEzZG9IeFluRDJGeXA2UHY4V01DVDZtR2JmckFDMjBCMmJSZDhvUExYck5MMmJ1RkNxMHZqOFVPTm1iR0w0V29QXzZGZkVRMU1YeVdLX0txTlZwdVNhU0t2Q3Z0MGpJcUx6ZUE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-19T13:59:54.000Z"
+    },
+    {
+      "title": "MGB online leaderboard tracks LLM patient care performance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVhCU3Vvb1k5TU9kdG9OT0dWS3piWTlzZ20wNFhYN2JQREQ1anYxd1h1NFZwN3ZPVXVSSGZYZVAzdE9wMkt4V1dicXMtU0Q2OWFtaTNnN0dWT2hGVWNkZ2swaE0zeklvYS1IZ1RfWExkcGZHVjRGM1djSjh3WjhZWVl6NXFfTU8tUGlkYWxoUjhRQlJJOV93QmtOazA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T13:30:00.000Z"
+    },
+    {
+      "title": "Many radiologists find their efficiency gets a boost from AI",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObnJGcFpBRjE4azN5ZlVlWjhiSm9JZTVzNER1QnpzUjZCUmMwQUh1TFY2MVcwYVFRQUx6VEFmODQzUGh6RElraHJPb015Sk9QaHp5aWJITWZmam5xaDBCNmtycVZKdWF2cS13eGhJZmRzZ1EwODl2QnRFZkgybUpvdVNGYXh3YWI5ZHhUdmwwbTZxd3RVdm84?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T13:28:00.000Z"
+    },
+    {
+      "title": "ONC offers $2M for next-generation healthcare technologies",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU2xPbjdmZGFORk1WUHBIZVU3RDREM2NsdjhTbkFJckc5RlJyZTdLMGFuZTVSM0ZxZXN5OWdJRFlnMXNCVC15SURjLWJyNXNZVDhwWGt0YUZoZUpOUm13WDM1SXdESEFmNHpXZ1RZQWkzRVgxZm1uU3d0MFgyMFV4aTRfM3RfWFFhT25Yb0VtR1VxTU5XMUE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T13:00:00.000Z"
+    },
+    {
+      "title": "HIMSSCast: AI 'arms race'? Payers and providers gird for battle",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcUtFbkpfUGVxemFGSHN2aFctMk9BTENPWVNKUUFiaWdpRUtqRkZ0VFNoX3duTE45UnNCcGNRMFlfOTBMMkJQYld4VElQcFVBMWtQZi14M1Q5VXNhcmdkTHRXR1pIcUZ1QllPaGFqWnYzb1NLNllKZWh6LVBGelpFZ2pHX05YRUdqdGVaNGNud3A3NXVwcm9Kc09SdUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T13:00:00.000Z"
+    },
+    {
+      "title": "Federal grant delays could jeopardize essential disability services, research",
+      "link": "https://www.statnews.com/2026/06/19/federal-grant-delays-jeopardize-essential-disability-services-research/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-19T08:30:00.000Z"
+    },
+    {
+      "title": "Tennessee pharmacies sell potent ivermectin, led by anti-vaccine doctor who’s taken ‘bucketloads’",
+      "link": "https://www.statnews.com/2026/06/19/tennessee-ivermectin-market-how-to-create-booming-sales-unproven-drug/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-19T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: STAT+: The real work for making dramatic gains against pancreatic cancer is just beginning",
+      "link": "https://www.statnews.com/2026/06/19/daraxonrasib-pancreatic-cancer-miracle-drug-oncosystems-ai/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-19T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Maternity deserts aren’t accidents. They’re the result of a design flaw",
+      "link": "https://www.statnews.com/2026/06/19/maternity-desert-physician-shortage-obstetrics-pregnancy-residency-south-dakota/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-19T08:30:00.000Z"
+    },
+    {
+      "title": "Singapore, Hong Kong AI community-based research targets knee osteoarthritis",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDBISWNWTm5HRzVJT0V5ME9aazdpX183cXF4SHh2N05TQ2hfQlpBQXloS3d6dnZBTkN6NUw5XzlTWVY3QWczaWttei14eTZvTzRpbnJXR2FlQmp6NGNFTFplUXlEQm5LN2JRbUg3SkdRZ0pVYjFoVVAzYXB1OUNZdDBPamlvM01JRkx6RkpBZ2w0RjMxQm5OLTJKdUd5bENCMzRvbXlpbEl4b1oxTk9DVEFNWHlwZlBxS3c?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T07:29:23.000Z"
+    },
+    {
+      "title": "Monash unveils secure AI supercomputer for health research",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMkhZcGpzM3pnSmJEOWczZ1ljQ1RRNnJvQk1NUlhRV0diaXJPSklGRW5PUGhQdm1UbVJfdUFWUkxuWU9ZRjF3eEFEZG9tRXZsQXVjTmppRWp0Z2RkcWctRHoxUEtUNlIzVlROSVV3endkN0NEV3E2WEZISER3M0JNWnFBYkFiampTZlZhcjlkWm1BeWVRT28zdmdsbkQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T00:34:43.000Z"
+    },
+    {
+      "title": "Mercy Health upgrades aged care connectivity",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTEM0ZklJX2xKUjNPRFAxOUI0bkI3MUVTbDhBMlY5VTFSR2U2UVVoTkVMYTNTdTdsS2V5blg4V0ttbG1CcDgxdlFHaDNVS0xoM0hMYzFRc2hGbkZKRV9XVy1yZXl0NXlwSTdlV3NSckoyV2dFQzRMNWtnMW55ajJUVFJKVWs1TTQ3dzhjYlNRZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T00:23:09.000Z"
+    },
+    {
+      "title": "Marathon Health Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SZVNnd2JjaVd6RHdiY0RRTXUzRFdhU3dxYWNldnE3ZWVKWDd1TjIyaU1aNGhodFE1ekcybjRFbjRaNmpOVVRpaE5SNUhDaFhrRnFLSDdaUQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-18T23:08:03.000Z"
+    },
+    {
+      "title": "How leaders can drive efficiency with actionable intelligence",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRzZTYVdkVGViRWExeUNrMFh3YXRKU1lMOEdmTG1LbFl2d2xJeHRmQVBQQURnN1R5NHUzM21TQkJxMG9ZVnJieWI3ZndkWGhCdzdyS3JqeDJacjJBOTZqdzA0dnZHbjVhQ3pkS3ZYZnp1TVJBdEx6MDFwOS1SUXIwY3ZPNkpIV3ZjbVZqdDVtTlRxbXk1WFBQU2JVLXg2RzA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-18T21:27:16.000Z"
+    },
+    {
+      "title": "How one imaging center went from reactive to resilient",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWE0ZnowTGZoYThnUV9oT0NveGFjUGY3anRTOHZwZUk0ZGhGNUR2VWRyQ1ZiWEhSNTh6TXJuOC1oTENLMVhhQWVpd1lJanBneGxTbGVrWGM2VDBxUWZJa2RqV3FncHlyMi1BTXppdmFocW9hY3VRRnBqbHBScllUYllrYVBYMnBucFJBYm1qbXAtQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-18T21:06:53.000Z"
+    },
+    {
+      "title": "preventive MRI Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tYkJmd0FHeXgxUHdBak8yYVFqUy1BaTR5a3VaTEFfV1dxY05SRTZVdC1uVkY3eEY4Y1BZNVVUaHhONFF6bTVZaWVyckF2Mzc2SzQxSC1R?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-18T21:01:19.000Z"
+    },
+    {
+      "title": "overscreening Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94Q3BpMWZSTl9jXzdPMGZlYkJNNHZDTXZMZFFJU1hiaC1xOU9Ec2I2SXBZZHJPaUctbVZiUm5GTy1pU29Hb0lzN295em04RUNRUGZoZA?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-18T21:01:17.000Z"
+    },
+    {
+      "title": "Kardigan Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XeUlGRGZRbDlLUHNHVjJrTnBDempqZUdXZ3c5ekxCUURrREZMc0JxRGhueEZmTzR0NUYxU2xnOTBIWlFtd3ZSYnYxdmFCdw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-18T21:01:17.000Z"
+    },
+    {
+      "title": "Mental health leads telehealth diagnoses across age groups and regions",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSXgwU2szS2U0aVJlS2xxN3pwbkYyQWwzMzdiTWctSVNvaWFqcVhIT1FYTm44MnN3YkJpWV9mM0dvSlFrUFJ4eHNGTThlaDNFZEllVERnblRxUEprOWFXYlZ3WUE1VXk2R2NuT01uMzdCMzRRRElybmFOY3RTMGtQdkROdV9HaFZuMU1qOV9IQktYQWl0Wnk5X20yVk1QVnRSWkNFQ3VvTTJIUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-17T17:10:54.000Z"
+    },
+    {
+      "title": "Genomcore",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pbDFsME1tbUZGTUlLbktWV2ZValpCMUk5ODdiZ3ZZZ250cVoxRGZlb3BlQml6WWV4S2VCWkdsQ1Z3bGN4Y1ZhZUJvTDZFc2hRXzlWLW9mYjNVT25JS2ZqTg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-16T20:03:00.000Z"
+    },
+    {
+      "title": "Rylo raises $85M to expand AI communication tools for deaf and hard-of-hearing users",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjdXSUF3Y09ibW9PSDBadW43dm1JTDZNbjNoeHVRUUlyQ0lpZW9tN0V2a19TVHNibGtweW9vR3Vfamt0U3lSWTVNZ210bWM0VVo2SjEyV1psR1lPelVoOXk3Y1JDX2tBdE1kdi1GSkVhVVdYcmVKNjVFaU5KRjRmS2RMVUw2bXUtdG9ZTnVZQXlVYVZ2U2hpc0FFNUNDVUxRZlY4Si16Q09TYXJsVmc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-12T20:00:59.000Z"
+    },
+    {
+      "title": "FesariusTherapeutics raises $20M to expand dermal repair technology",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWJMSGVSWEt0c1ptcWlFUGRrSE1FRjVLb0lNYUpsV1dYOXpPQnFvMDg1S0NIQW9taDRzN1AwOHhSRmsxTjV1XzRJUFViUGpoODJtN19hWk1KX09ERXRnQkptQ3I0dmg1WnVOQ2JsdnFLcGR2V09QT25qbEZlX3Y5ckQyRlRnUXBUS3paenB4YlF5WE9aX2txYjZYaDlkcXR1?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-12T17:05:08.000Z"
+    }
+  ]
+}
