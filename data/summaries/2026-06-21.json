@@ -1,0 +1,112 @@
+{
+  "date": "2026-06-21",
+  "generatedAt": "2026-06-20T22:14:06.906Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 16,
+  "sources": {
+    "STAT News": 2,
+    "Healthcare IT News": 7,
+    "MobiHealthNews": 3,
+    "MedCity News": 4
+  },
+  "summary": "The health-tech landscape today reflects several interconnected pressures shaping the industry. Health plan members are experiencing stagnant satisfaction levels as rising costs continue to burden consumers, while operational inefficiencies—from small operating room scheduling misses to diagnostic and identity data gaps—are creating hidden financial drains across healthcare systems. Technology vendors are being challenged to rethink engagement strategies, with buyers increasingly wanting to lead conversations rather than passively consume pitches, while healthcare organizations grapple with cybersecurity threats, the responsible deployment of AI systems, and optimizing language models for clinical accuracy. Three bright spots emerge: Samsung and Abbott's collaboration bringing extended reality to blood donation sites, research demonstrating that online tools can reverse frailty in seniors, and growing recognition that human-centered design—including sensory-regulated care environments and reliable transportation access—matters alongside clinical efficiency. European healthcare systems are exploring ways to break down traditional borders, though the industry remains fundamentally divided on basic terminology, with readers split on whether it's \"health care\" or \"healthcare.\"",
+  "items": [
+    {
+      "title": "Opinion: STAT readers debate blue zones, open-access publishing fees, and more",
+      "link": "https://www.statnews.com/2026/06/20/blue-zones-real-open-access-publishing-fees-letters-to-editor/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-20T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Why the space in ‘health care’ matters",
+      "link": "https://www.statnews.com/2026/06/20/healthcare-or-health-care-stat-style-guide-ap/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-20T08:30:00.000Z"
+    },
+    {
+      "title": "How Europe can break down healthcare borders",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXM3anM5djMxSEFaNnVOV3VQR0lBSzhSdnJWSFhpVDRIZGJ5RTlHVVRWN3JpRFh0RklIWk12aTdvUjJwa0Q1dFV2SXBMR0YyV3NQOUhhNUZUeTduRWFZM0RTWmt5NWVTSzVpblhwREhUZ3NMRmdhM1E1ZEpnZUNmVjNNQkhiUmljd0daRHpua3lXdw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-17T19:41:00.000Z"
+    },
+    {
+      "title": "Unite",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96eGlqQlRHTE1NcEtpemJ5YU95dU1CMXVCRzlTMEFCNGd4SkNoZDdRR3JNZHktNDdOVVhsZi1TMnRWT0tsYVFtUHN1OUVQN0FXRjJ6MEd6T1ppaUU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-17T19:41:00.000Z"
+    },
+    {
+      "title": "Health plan satisfaction flat as rising costs weigh on members, JD Power finds",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ2VNTS1yNVBOUXp4NUJJTWlWa09SV3hPeVhLWHB3elFhNFpJekFTSFZJZFNlY1RoZl9nWnJzcDZnMGVUSnRkSldmWXFTRWVtS0Z6QzZfQnQ0V3JrTFc0X1J3Y2l5d3dmSlhxNjBDQzFUNGE1Y21aR185N3A1dmtuU1BNVGk5S296eUo3d3lGTm5YX2pPdjVOcjNuNVo0TV96SWtYbXFtOC1PanM?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-12T16:35:35.000Z"
+    },
+    {
+      "title": "Samsung partners with Abbott to bring Galaxy XR to blood donation sites",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHdvVkpzS3YwVkt0UHV4MV8xa0YxeHZmM19hYkdBNzlmbXFURk5HTzRRb3F1NGdZeTNlMkJNUjdqNzllaWczc1p0VUp0RFUtWkx5ellzQXhCd2ZtWjFXZE1td010QWdDUGtTdmhReW43R1RrdXltem12U2JoaUZGTkd6Yy1TVThQYXotQ2NDQzJtUUdRZGFVQUlheGw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-12T16:04:22.000Z"
+    },
+    {
+      "title": "Stop Presenting at Health-Tech Buyers — Let Them Drive",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ3BqVlV5OEUwekVFZEdQZmMxX1dPWjZ0Um5WMkU0NmFEb0dLNllRc2RXalFCYlRzTEZVVEhXYjB5V1NvN0pqZVZRdnpDSHRxV08yYld0ZjN3bS04eXhQUFBzbk5xSFV0N0hpZ0lRdnB1ZWdNaHA0blo5M0VTXzNlWnJod2paSGxhMmh5cVpR?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-12T13:38:56.000Z"
+    },
+    {
+      "title": "Reliable Transportation Isn’t a Luxury — It’s an Important Part of Cancer Care",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeklpLXV0N0E2bEJ3eURuazFfY1c2YWdPRFJSUUdtbFRRSjE3OFZRVGpiNDRPaWRaUzlQeWF1Y1lKNlBCekdVdmt1TlU0dWwyWjh1SVl0N3NleU42MENJUHkwZDM0SG1pWmVUQS1udmlVRDdoc1A1THBmbXlVb3VmZ1RKeVJ5Q21Ud1BIOHVtT19IWjhmZFBlNzhOX051bFdjX2p4c0huLWFldk0?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-12T13:38:45.000Z"
+    },
+    {
+      "title": "These 3 cybersecurity challenges need immediate attention",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRXctOG16UXUxdDVGRnlGT3FNZmV6cmR5Sm9ybk1pbUNydk1UemQ1Nng3b2kwOFdtYW0wZE5qR2VwdWRzS2x4MWhvOWN4Ni1SaEtNc1JPRzJYeUhPMjgyN2x3NERPWS05amZGZXBKekVaREZoaTB3cC1jZDdjUGFWdENXZGxsQlRLZEtWVzlwUHNFNDREMkFfODJBejVuaDhOYmhn?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-12T13:16:00.000Z"
+    },
+    {
+      "title": "Designing Care Environments for Sensory Regulation, Not Just Clinical Efficiency",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWhKNGN0S2c5MGJHMThBR1FhWDlRdi1uamFxVWUyc0ZNZ3NvX09BMktvcVM3T3o4RURMLWtSWXBkVkN5eWRTYzZzQk1yOWs1OTZIRFMzSDRwVURodFQ3cFJuUU5WMFRKaTAxQ3RpSm9aSWtrd3J3YXVUbWpkMjRXMWF0NDhjYktBdGdjdi1LUUZPaTJlODNMX0pNWEhxRTh5MVpvVV8tbExOOEdYd0tGM0pR?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-12T10:18:56.000Z"
+    },
+    {
+      "title": "Adelaide research deploys online tool to reverse frailty among seniors",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYko1NTRHODFseTR0VlZTWF9CRjFfUnBlQ2UtWGFmQlUzMzNET202UElIMlAtNnNKRUxBRVJRa0tONndVOGZPOGVfaGlXX1Rmb2hyMzRwSXpwdjY3cjNYNE9Wck1NMjlaeDByN0tMV01ZZU1BSVltZ1NMT25FVGdySE9VamdXckFtUlJMdkZpNXROcUppQ19yVG1KVlhWNEs0T29JME45WUd5SEE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-12T07:31:31.000Z"
+    },
+    {
+      "title": "The Identity Gap Undermining Value-Based Care",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2s3YTE4Y0VlSEQyeGZCU0Z3ZWlHUFR4VHlxS1NwX1BLbVJUX255T3RaR0RkcGo2dy1XMnh6NUFOd2xrZzh5TEh0NnMyQ1dhZ2hfZ1B6QzhJYlJJb0g5cDhoVm9sMjVaU0lnenh2MlRvemFfbmt1NExUVkJzd3QxdFlFZjU?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-11T23:05:45.000Z"
+    },
+    {
+      "title": "The hidden revenue lever in healthcare technology: Diagnostic specificity",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ0VOWTMyZEVBbWl6U01teHQ4U29Jb3lSWlctWG1TamRkc0dKa1JrUjQ0aHltbUZaSXJIelJMUmxJOHREZ1lldjdFSnZTd1VCZ0JjZWk0LU5RbFBGYnVxN0NNZ2NpX0FxemNudGFBVHBKU2ZpYWhZSnlLNTRHMjJpMVRBQnViQnF3NmFTei1adkZkUkhDcnNIbkNabklHQ3dXZlJRUGRaVDRZNEU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T20:38:34.000Z"
+    },
+    {
+      "title": "Optimizing LLMs for precise analytical output",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbEx0M0xJX2Z1S3JfV0EtcUh1RWhoVTdYR1hWcDhDWW0wODU1clJhazYydDJrUm9yV21HNzdKbDIzczM2MXVkUURkbnA0eHdxSVgtcXFrMDY4S1AwN2tSOE03MERiQ1NxMEJoaUZLXzhTZTFBR0pEOHFta05TcGI0U05QaDZMaHlPZGZB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T20:36:32.000Z"
+    },
+    {
+      "title": "Small OR misses. Big financial losses.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3lSZV83NHRObzBITC1XN0ZIVUxfdHd3WWZzMkdsNlhCTXJRMUI5LU9VMF9iMDR6U1h0cDZkSmNaTEZaNkdwdjdlaWpoNENPbFRGZ2dqRkRpbFRsRzFwblF5MXdIRWxjRk9QSlEyazRaTzRXRmpiT2w0M2F1SG9CR1Vfb1I?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T20:28:51.000Z"
+    },
+    {
+      "title": "Operationalizing Responsible AI at Scale in Healthcare & Life Sciences With Slalom and OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYURmOUVwSmdELUxXTUFJZmRLM3V3U0lUZl9pamJac042RTNMUG1UQlpDemd6ejRiNFFUSm10WjNpYXd0VkZDX2g2bnE5U00yQVYxUVAtS21vSkJvbTBwdUlnZkVHalBkell4VTlKLVpwejNSMlI3X2xKUXJjbkpEXzdQTGNFS2tVVnJ2VGlVYWpqZWFxem1kOXhXV0xja0V4TXpNX01tYlFLUDRTVlhybTg4enVWeVZOOER3WVFabFNsZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T19:11:10.000Z"
+    }
+  ]
+}
