@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-22",
+  "generatedAt": "2026-06-21T22:17:32.228Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 14,
+  "sources": {
+    "MedCity News": 8,
+    "Healthcare IT News": 5,
+    "MobiHealthNews": 1
+  },
+  "summary": "Healthcare leaders are grappling with fundamental questions about AI's role in clinical care, with emerging consensus that artificial intelligence can accelerate research and discovery but cannot substitute for human clinical judgment in behavioral health and other specialties. Hartford HealthCare's development of a safer AI front door for patient interactions reflects broader industry caution around bias and reliability in clinical decision-support tools, where the complications of bias mitigation are receiving more nuanced attention than simple right-or-wrong framings allow. On the policy and economics front, discussions around Medicare Advantage's strategic direction, the WISeR model's viability, cost-reduction proposals from leaders like Paul Markovich, and coverage gaps for vulnerable populations highlight ongoing tension between market-based and safety-net approaches to healthcare access. Virtual care is gaining traction through transparency initiatives led by coalitions like DiMe, while international health IT innovation is being supported through HIMSS partnerships in Europe and anticipatory care models are reshaping how systems approach patient demand.",
+  "items": [
+    {
+      "title": "Georgetown's Center on Health Insurance Reform Coverage",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qamY0VzllM1paeTJ1ZHRDMTQ0ZzlCUXhMRDdLc1BZNXlKdW03b1EtR2pWRjNlSFp5eDJGNHI0RjZIQklXVDNpWUw3ajdYaXVwNy1GN2xOU3dKVWxLY2tKb2YwYjNaR0lOaDhEZmRva01Jd1BneVNPY0tPckEtOU0?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-21T15:59:02.000Z"
+    },
+    {
+      "title": "Is It Likely That the WISeR Model Will be Repealed?",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOejdIcDJUZ3VLalNtZjFkMnBUdnBaXzRQLTZmZXpNVUYwV0lwZ3E5WnM5OUNCMGRLZkVaSWt3SlNjMGFleFJBM2l2OUdQb3Vra3U0OVFuNU9SNE5raGt5dEdsYVdIVUd4NXRpMzFIdzM3REpIVWtjcFBZbkIwVzJna1J4d1EwbVdKQ21z?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-21T14:21:20.000Z"
+    },
+    {
+      "title": "Dying Without a Safety Net",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyLXhkSUJOOEZkRzAxOUdwRl9QSjliYWpsQ09lbmY4bkJrR2RRMHhNTmgzNU1wLWt2RVRMZXpTcXBMQk9Qam4tTjRmb1NsWExGR29WSzdEU05ZXzNrUl95d3g0QVlUOWp2Q21v?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-21T14:01:20.000Z"
+    },
+    {
+      "title": "Is Bias in Clinical AI Good or Bad? It’s More Complicated Than That",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRHVQTll3anlEcVk1MUtGMnFGb1E4eUF0ZmV3VnZKS2xyQjFKSFZyYlhNMy1tRnhhMkVwU0t5cFEyNWsyZkNkNFpwTUhIZ0hCWVI0cEpESFNER3E0eFNTdW9sdC1TUzJkMjlvZjVEM0E4RDJPSVk0cWpTLWs0WE1YNGhvMGRTWmVrcWJuTnF6dWJPSmJhRWxaVzBEQnkzSHc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-21T13:46:20.000Z"
+    },
+    {
+      "title": "Medicare Advantage’s Big Decision: Reset or Retreat?",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3lOdV81ODhsUmlmWlZ1Y1BPSWZmOXhYS3lZOG5CdmJyWGNZaFhPejlkTDh1S1huZFlpYlA2aE1PUWYyb0dVeTIwUGxheFFIOWtLTFRaeFNhdEtud0g5UV9sZHVrMGpaOTRQVzBReG9zWEkwNzFkQmdYM0F1ZVBhQ2p4SHh4bHE1Tmc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-21T13:36:20.000Z"
+    },
+    {
+      "title": "AI Can Accelerate Discovery — Development Still Decides What Advances",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWW8yQnVibEkwa3lhUFk3QU9sNk9NVW1ScXQwaUVydC0zSjRtM2tWTHNib0R4R2hmVmRXeFVrOExoQmRKT3RTNEFES3JEVmVFM0ZLY3RqN1NGMXd4aWhuckp0QlFmcExwVEhjLWstT1ZCZkdScmUyYjlCN04yc09TRGZRVFNlOVNielAtVW91Y3lTbnVfNC1wendZLVM0ZnFVSGc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-21T13:36:20.000Z"
+    },
+    {
+      "title": "European health IT innovation gets a boost from HIMSS",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFpDaEliakIzTjVXakpGRWNDWmlPTFV1eXl0TV9Cc3EwbGwzcTdtS2x4cGg1YWhoR3pBaTZQUVVVeVhMNXB5M21FYnFfNWJYcjdhQk1oY19yS25TTW5ZQWdVR3RnYjBSLU9fdElHU3VPU0xKTjk2WTVzQ3QzaXh1aVhuTzk1Z3VYaDYxYkZCeFhsbXcw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-17T21:12:00.000Z"
+    },
+    {
+      "title": "Research shows extreme temperatures trigger healthcare demand",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzNJNTBYSEh5aTZtbmZ5ZHRNOG8za2UtdGNZd0MzQXRoU0dCcTFGMi0zOGg4WHBpSjdScTY2ZklwR2RJYVRaMHdYZmJlRWR4djR1aXBkUDZacXNEZUNrUkhFMWF3MkR0VWczeTVVT1B6cF95cWpLUzVZWE1lNXFQanZtN1QyVE51ZlByUHpRMXpxcHNuNTRWeUFUcmVkWWhvU0JVMllMdUM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-16T13:38:00.000Z"
+    },
+    {
+      "title": "Paul Markovich’s 4 Ideas to Reduce Healthcare Costs",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTBoUHF4VUt3U0l2akxrbXRpeHBQMVdkUnBhS3QwSl8td0lHd3I1NW0zb25IZVl2Tk9qSzd5dEhzS2xPM0JGajF6MmZRMENqMUZKdmdYYmlZT2dYUE44R2VRR1VEQzVpNGstRHJuSXlPREpOY3NHcUxva0FYeDlFbzY5ZlkyWG5rR1A0?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-15T01:58:56.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nbFVZQk9ubHdyMzBMcG9sbzdzcF8xOXBZRHd0bzFuVm11dTBXMExzcUJveUVFQXVDWmhKNGp3NU1vODRWNHNfZWp1M3R6ZjlaekJma0tGOTlaa0tPYmlrMVVQTmsxU1NKUjR3?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-12T20:14:24.000Z"
+    },
+    {
+      "title": "Inside Hartford HealthCare's strategy to build a safer AI front door for patients",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDJMQlRtR3NFb1U0QVpmdkhFc2RfdlVJbExlMHMxUVV6dG05ZFZSSHd4RnB5cThtU25JalpOT1hVQWFkNXFHY2oycEticndDd2pjWG91Rl9IbFpHSWZFYlJ1ZE10T1BELUdnSmc1X3B5ZjZHMnBNLUVtNEx3R2wtRko1OG1OcXhOOS0yTkQtV29mU3hlWHBoTWdUWUdZd2RaTk9XM3RnMUIyN0p4WUE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T18:13:33.000Z"
+    },
+    {
+      "title": "DiMe leads coalition to focus on virtual care price transparency",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa194LWF1N1lLamh4b2FvSjdOMkxKbGxOYUUwVU9LU19GUURRQUx0ZHlEMEdvSWVhREN6V3kyYmYzNEd0Z2tiY0JIM2xhdE9wR2VuOU1jWVU2a1dWcWZTNXB6UjNPZEJmYVlOelBibDd1cGVob2tYX2FtRUZob1ZKVnRpQUhYcEEtTldvRnBYSzBjNGpoSTdHTFpkOXM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T14:45:34.000Z"
+    },
+    {
+      "title": "From Copilots to Clinical Judgment: The Next Phase of AI in Digital Behavioral Health",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdm1jWFhHT1V5clZlMjY1Ul9PbkI0UzNTZFh5Y3FsY1hPTmJJU09FSU40YVBScjgweDFyT0VtSk1EN1lOSnRLTHMydmdsenVSbkpxZnZqZWEtNVFrQnE3NTRoR0pmeEF5VlVJVWRNajNrNS0yZ2VBckpXT0k1Qkh2djVZenlaeUZwOHkxd2d5WHNJeUV0aWxaMlhKaTBIb1I5RkRsbGduZFNiVDh4UE5Yb3pjaUZqRHd5?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-11T14:03:50.000Z"
+    },
+    {
+      "title": "The future of healthcare is anticipation",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Qc0VXU0NtdFlYdVZVY2FjZG45aWVEUE1GWk5neV9hYmhDYzJkNDhWQ2tNXzNrNWVpeG4tZ0FUTll6SEVjVFBrWDVpVHdkTUZCdkdUQ05hM2dXdUQzUEMzYWZLRWZGd0ZpbVB1UDU3bEdielFCVmww?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-11T13:00:00.000Z"
+    }
+  ]
+}
