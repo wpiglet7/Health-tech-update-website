@@ -1,0 +1,250 @@
+{
+  "date": "2026-06-24",
+  "generatedAt": "2026-06-23T22:18:10.767Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 39,
+  "sources": {
+    "MobiHealthNews": 8,
+    "Healthcare IT News": 7,
+    "STAT News": 14,
+    "MedCity News": 10
+  },
+  "summary": "France is advancing its European Health Data Space implementation with strengthened data sovereignty measures and secondary data use frameworks to support research and innovation. In the U.S., Medicaid's looming funding cuts are forcing health systems to reckon with financial pressures, while new work requirement rules are raising equity concerns for disabled beneficiaries. A federal judge blocked attempts to restrict SNAP benefits from purchasing sugary foods, limiting one policy lever for addressing nutrition and obesity. The Justice Department announced a major health care fraud crackdown charging hundreds, including a Texas doctor in an $89 million scheme involving unnecessary cardiovascular screenings. On the health-tech innovation front, Cadence raised $100 million for its AI-powered chronic disease management platform with backing from Duke Health and Texas Health Resources, while OpenEvidence launched EchoNext, an FDA-cleared AI tool for heart disease detection via EKG. Separately, Eli Lilly granted extraordinary compassionate use access to its experimental obesity drug retatrutide to a single patient, and partnerships like Oura's collaboration with LillyDirect are expanding support ecosystems for GLP-1 users. Rhode Island passed an ambient AI scribe opt-out law as healthcare systems increasingly deploy AI in clinical workflows, amid broader industry discussions about balancing innovation with transparency and trust.",
+  "items": [
+    {
+      "title": "France strengthens its data sovereignty for EHDS",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMGJtejFfV3VZTEhXc3hvOFhISll4WllXemI0dFRfNEN2NVlBZjg2RmdLSnJxWTBzU0JSQWpuTjEzTGl3UVJ4ZXNDS0kwZTJoYXBsVmVxbTEtcV9TckJZTGcyZFktOXJ0a1RmT01MS1ZwT29aRERhUDNkQ3BZeHF5cWlNLXFIYTRCOGRHODBrYw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-23T20:51:02.000Z"
+    },
+    {
+      "title": "France's secondary data use supports EHDS",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWNvakdHX3NyRDFrMjYyLXo2aXROSi1KNUNOMzdJZlN6SU5OZjVwcGdQUVF1UzduWmd4UXFrcUhVSzAxY3FjSDRJMUlTUWlZYWt0d0lma29KZWhTaGxfc0R4d001Yk1OclVyRHd2ZldQXzdVb2ZrT3h5ODFIMnVfVDF5U25qVWRlTG5BNg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-23T20:01:00.000Z"
+    },
+    {
+      "title": "STAT+: Want high-quality generic drugs? One expert has ideas on how consumers can trust their supply",
+      "link": "https://www.statnews.com/pharmalot/2026/06/23/high-quality-generic-drugs-lab-testing/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-23T19:53:21.000Z"
+    },
+    {
+      "title": "Medicaid cuts are coming, but health systems can respond with integrity",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdjM0dWxRN0hqeXFjYnBla2ZQQVNQdS1XbFRaeWJJNmNVczNsSXFwT2hHei1IVmpNOG9LNi11cV8xZzZoSVlLcXRDVnZLelRTOHpwM285NzRkX0N2dzRNWWlFdFh6UXZneVRDWlE5c3VXd2Vmc2NIRkRnUEpUOHZWUFRJMzhWTVpKclFmVjZFYkJhaG5FVWQzMFBycndXcUJa?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-23T18:25:05.000Z"
+    },
+    {
+      "title": "Dr. Patsy McNeil",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jTTFzYXN5SjdNTnRfWG1QblNLWjFfaGdEUFc2VlYzVmRPNEZYT3pRaVIxTXBtR21CMkFFUk9qQnM2SGJveTFhVXo1dW4wQ1JKVGpVRzk3ZGVXdjZBUkc4ZjdvU3FNQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-23T18:25:00.000Z"
+    },
+    {
+      "title": "OURA, LillyDirect team up to support GLP-1 users",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY2M1ODhta0gwemJQT1F1Z3h6dkhuRXd4TkphTFdQZ3VXd05RRVJyTlJiZXpZemhRamhnT1BvVlBmRUpMUFAydldOV1huWGFBamlmYmpGUEhob3gxWDVBbW02b0hIaG1lbmZxUzVFWTlJR0xZTkt1b3RBYzgxS2s1Yy11QQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-23T18:10:21.000Z"
+    },
+    {
+      "title": "Judge rules government can’t stop SNAP dollars from buying candy and sugary drinks",
+      "link": "https://www.statnews.com/2026/06/23/snap-dollars-buying-candy-sugary-drinks-judge-ruling/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-23T17:50:09.000Z"
+    },
+    {
+      "title": "Rhode Island passes ambient AI scribe opt-out law",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWk1mRkw0VEQwdHZBMkpORGdRZDB2dUlUQnQ2M194WDRzRFg1MUs3X1VFN0ZNNmFnWDVhRktnbjF0N2FUNEVoNkNVdjI0OUM5cS1mcEN1WWZUVGY1R3hSSkY2cjFSb0NiMW0yeXprTlIzNGlINEtXSWFmTFVEcUJWVHlpbzFNUENETkREMVFjb2w?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-23T17:41:15.000Z"
+    },
+    {
+      "title": "Owensboro Health uses AI to improve revenue integrity, OR workflows and more",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlVScWZBMWxUMGFPV0FDRkNfMEotdm92ODlBQld2U3lFdGEwNldYZy1zanhmU0VPTXZVWnlxRDJaalBqekFBYW9pSERHdmFPSjdvV2VOV2p3OUJOamVFRjNqYkt3UlhIeWg4S1Fvb2tvVk05Z05MbVZMQ3ZUalkzdW5OM1lJQVQ2ZjNiZjB6Nzk0MEd6NDFxRHMwcTdaSHgxYVRJUTJ3a1JwUEpuMFcw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-23T16:03:45.000Z"
+    },
+    {
+      "title": "Justice Department announces hundreds of charges in multibillion-dollar health care fraud crackdown",
+      "link": "https://www.statnews.com/2026/06/23/texas-doctor-charged-fraud-case-cms-health-care-crackdown/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-23T15:28:31.000Z"
+    },
+    {
+      "title": "Cadence raises $100M, announces Duke Health and Texas Health Resources collaborations",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOVdXUG11VkNkTmh4VkZtS0dHN0dTSFllUkNwYlhOQmRySlFZX0NMdmJZQ0dOM2RRQ0tMRVU1c0Q3Yk5lTkpJRjVDSmFPWjlnUnEzejdXX1NNQ1FVcHlEaWtBcEYzTE9xTXFETjF4Ymp6Q2dxVTZlZko0NDZqblU3T0t2dE45LUZXYnJnRFoxRTZFMWF0SGlRa0RqUWpPSmtzMUVjbjJPZWZabURRcURtUHRCN0VzWlYzSUNF?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-23T15:21:32.000Z"
+    },
+    {
+      "title": "Cadence raises $100M raise, announces Duke Health and Texas Health Resources collaborations",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNemk5bWtKRV9CeFByOF9EY1BqQ3c2bVRZVFFoT3J2aEQ1cHlNTDF5Z2lmcTVPendPX1UxeU5jRy1OcVhTcXpwcmpCWUNmNUFFaEFuOXdCUXg0Z01DQmIwVlo2RExKd3pGUkZmNVBfUHJqcjlaczZ1ZE9QWHNIMFhyc1FSVGFEemhpR1IyU3JEWEpmdFRJMjl3NFZHN0FLcTAtNlNvUU83TV8zdWQtZ2pRdEt6elN2WmFQcU1hNHo3UnMwbTQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-23T15:21:32.000Z"
+    },
+    {
+      "title": "STAT+: Exclusive: Mystery man gets experimental GLP-1",
+      "link": "https://www.statnews.com/2026/06/23/eli-lilly-mystery-patient-congress-chinese-biotech-dc-diagnosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-23T14:22:18.000Z"
+    },
+    {
+      "title": "AI tools can go beyond radiology to break down clinical silos",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2xyWDlXaS1wQWRPQWJ6SXhSLVpSdUlHZVA5QU4zeUFydnJvOTlNeGhIMkdaclV3RVY4cEhDbmI5QXZsS0hhNkI3RGlQZVVZdm45X3JFczR4Z2c0OFNyYTNPRFhJMUNhWjgwTEtIOHJSX010ZjF1X2tqMllTYmpybUctNm1kV2dLRFUzZWtTblFvOTNJWTdhM0Y1bw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-23T14:14:12.000Z"
+    },
+    {
+      "title": "Why Healthcare AI is Missing the Point",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFejZUYXJqOWRnZEFkbWZldUJ6SG9YLVlQNlM3cXhnbHBSWl9qMHlkV09TOVZjSUFKTlo3YWZYMHdLRTR5QWFjT1pJeGptQVdudlJuZkYtTzFnM2dya3U0VEU4cHpNZDZIUUd4VmVEMEtFOVF5Q1c1VjVTQQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-23T13:51:30.000Z"
+    },
+    {
+      "title": "The second wave of radiology AI",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50ck9tSDZhQVdUejlRZWREUVZaVEdiTVVGU2hIR0Fxc1otNUhCVHg0VEx3anJwVEpRdlhlanFwTUtlZXNVZXFXTkFnZUpLNFJ0UWlSRW05cDZKODF2bExTcmR5SktxM29YQUZaTGJIV1U?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-23T13:45:00.000Z"
+    },
+    {
+      "title": "Ibogaine and SUD Treatment: Signal, Risk, and the Role of Providers",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVm8xRFJaWEdMOVY4cEpSNDkyblFoY2NydTVrRTZUOEF5ckhVWVBIVWxaM0NYTkpMX09PU3ktbHBxWGtNekZicmZQd05qa2lWNTJwSUJlN2NXalUwZmJKc2h2Ml9Ual9pVl9GLVZSLWxRVXc5WjZwUHdINzU4dl9Oekl5TzlTdzBZaV85R2lHcWN6SHlPcjBXZlNZM2NZQQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-23T13:36:30.000Z"
+    },
+    {
+      "title": "Washington’s Medical Debt Push Risks Missing the Bigger Healthcare Crisis",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1RfRGtldWJqUFU2bkprU25ObmVHb0FpRUpQWlZkeHRtdml0YXZjYnNua3dzVEVuUjhWM2gtRXNfOEN0LVduakd6cjVQc0d3ZzNCTDlEczhhUTllOHlxdkhYenMwRHQ2NUV0WDZvSDVYcFNEMUdrdEhiMHVZNmxWMldPZ1h4ajFvWUxCdVlxTEhvWW5mSTBEb3ZSZjhXQ0NORU4xNmVQWWk?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-23T13:26:30.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about FDA reforming clinical trials, a Pfizer setback, and much more news",
+      "link": "https://www.statnews.com/pharmalot/2026/06/23/fda-reforming-clinical-trials-pfizer-setback-lilly-trump-obesity/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-23T13:20:58.000Z"
+    },
+    {
+      "title": "Why So Few Appeals Happen and What That Reveals About Health Plans",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzVsWi0wUGVOZW1INW44dGl0b04tRDc0U0dqRUJsUjU0UkhvQWhkZlgySWRoWThUc3E0Y2RoOWtac0RJUHAwV0lVN25pX3p6UmEwX1BvOHVWS3ROcEh6U2pCbmptalBGQU1sU0YyTDh1Vk10Z2xSSnR6VVZsWTJhSFJLbGdqWC1xQ0E4aERuNndoSGFHcXo5VW1xYkdER1NR?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-23T13:06:30.000Z"
+    },
+    {
+      "title": "STAT+: Lilly’s retatrutide has been offered to a single person via ‘compassionate use’ program",
+      "link": "https://www.statnews.com/2026/06/23/biotech-news-why-did-one-person-get-special-retatrutide-access-eli-lilly/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-23T13:06:24.000Z"
+    },
+    {
+      "title": "STAT+: OpenEvidence will add FDA-cleared AI to detect heart disease",
+      "link": "https://www.statnews.com/2026/06/23/openevidence-fda-cleared-heart-disease-ai-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-23T12:54:26.000Z"
+    },
+    {
+      "title": "HHS has sent drug for Ebola clinical trial",
+      "link": "https://www.statnews.com/2026/06/23/health-news-hhs-sent-drug-for-ebola-clinical-trial/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-23T12:45:45.000Z"
+    },
+    {
+      "title": "STAT+: Cadence raises $100 million to automate chronic disease care with regulated AI",
+      "link": "https://www.statnews.com/2026/06/23/cadence-100-million-raise-automate-chronic-care-ai/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-23T12:00:00.000Z"
+    },
+    {
+      "title": "Healthdirect Australia testing integration with ChatGPT",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGlqOXUtMWY2N2lsWTQ4NGxzOFAteHctRWF6Zlk3SWVMWXdROTJVd09DNE5oVlgtU3ZJM21wdTd1Z2FrX1B6RzY1dndLd05IbVVEbkM1cjBGYndHeEtKdkFhOV8tZnFvcTNCa01LYnYyQWdoUmxzVTBXNmU5bGctMlFPVkdsZlN1V2tMMmEtZVhGTVZP?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-23T11:37:29.000Z"
+    },
+    {
+      "title": "Slide-free pathology imaging system unveiled in Hong Kong",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdHZWQTVHcll2eDZQN0VhbXVUMXZDYnlNT0NCZ2pJbTJQaFFLUEwyRlhDRUQxM185WWlZVTU0dzlZYUtKdlJUN2NQNXNkOXJNZGctNFcwQndxQ3BxcEpWallkMld6ZlRVeXc5VklHY1RjMl9WaU90QjRDYjhuYWppLTJ1WlhlZVZ0MW5ZSVltRmE5b0NHcWMtVDRIZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-23T11:37:26.000Z"
+    },
+    {
+      "title": "Everlab enters global consumer healthcare market with $46M Series A funding",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRE5QMzhESXZFX3BuV1lnWjNsRmRjV0t2VldDZnQ5U1dHQXA4dUpTcmpVVHUzR0JWYWNFTGN1ajktZ0ZhTWhuYWdtVzhlcVAtYV9yc1hiM2FUVG5sZTk4Q1JhX2IwTmhyTmJVVy1vLWY4ZE5iRmZja2dlV2oyU3pFQmwza3JUVDl6VjBhMl92Nk9qMFZZRE92aVgxclMwRGp0elhDMVVFaFZTaUE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-23T11:37:22.000Z"
+    },
+    {
+      "title": "STAT+: Gene-editing startup launches with $230 million and a Chinese licensing deal",
+      "link": "https://www.statnews.com/2026/06/23/gene-editing-startup-serapha-bio-aatd/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-23T11:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Eli Lilly gave extraordinary obesity drug access to a 79-year-old patient. Who was it?",
+      "link": "https://www.statnews.com/2026/06/23/eli-lilly-unusual-weight-loss-drug-trial-compassionate-use-retatrutide-trump/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-23T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: A sweeping new AI to detect heart conditions is coming to OpenEvidence",
+      "link": "https://www.statnews.com/2026/06/23/pathway-labs-echonext-ai-tool-heart-disease-detection/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-23T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Ending birthright citizenship could be a public health disaster",
+      "link": "https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-23T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: The Catch-22 for disabled workers hidden in Medicaid’s new work requirements",
+      "link": "https://www.statnews.com/2026/06/23/medicaid-work-requirements-disability-medically-frail/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-23T08:30:00.000Z"
+    },
+    {
+      "title": "clnical trials Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvVDNPcDF2cmhXQ2dfZ2pwdWdvTnFha3lfX2ZxM3V4ZkRIS1VBdHl2dDNHNVdRdU1URHFQbkpsLXFMcGpPNTZGS2VBQ0sxdEVKcVBSMXF3?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-23T06:21:43.000Z"
+    },
+    {
+      "title": "AbbVie’s $11B Apogee Acquisition Brings an Eczema Drug With an Edge",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEs1MWJBVi01dW9kWXJRRlZ4VUpYaGlhb2tRaVIwTGc5Zk1zQ3ZieHVYTU1RczVvMDdCaUs1SXB1V1hzamx0b3JEQi1CaEhSVktzZ2lKaGM1dFJveGIyZ0t0aUg4LTRNSW05UDQyYXRveHFNVS1Hay1rQnRmUi1IeGhBQkVGYWY4akYwZVU4ZVpkT20wU3M5Zjl4VnBKNW9pWkZnVksyTFBLYVpfYkRNU3pCSi1LZVVGUXI1QmthWEw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-23T05:56:30.000Z"
+    },
+    {
+      "title": "Hospitals Cry Foul After Eli Lilly Withholds 340B Discounts",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MUHY4N2hpQS16dU9CSVZhaWU3M2p6ck9GTzc5RDl6d0VDREZWTVhWSGZDVXA0U2hrSURQQ181ekg1UTlNYmhXb2x6WDdoR2UzMGtLUzJEbkMwZzF3Y1BQc0U2MTZfRlJv?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-23T02:26:28.000Z"
+    },
+    {
+      "title": "LucyRx Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mZ1BxLVRuVmdzdVpFZWR0bHJWNVdFdDVQbzhGcFZLaEVMWE9Hbk42MHB2UVEySXRFU1JBajFjNVgtWHRhLUc1WjBkOA?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-23T00:13:43.000Z"
+    },
+    {
+      "title": "Abarca Health and LucyRx to Combine to Scale Independent PBM Model",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTZsYzJzd05XelZYZGd5R1B4SVJCSkFoMFdzQVlKUi1HTTFMOUNLVkpMQTlNWVpSdmxPQks2a2Z5MVNPNGNHQVlBV3VmM3ZKRTZOWk14VTBfOGxCZUVYbXZHd3ZkOVhsRm5YOUpONFVYNVdnaDVwdktXbmZQVXRPamIzcmlKYnlLdWhvTjE2YkpmUjhIZ3UyeENsSDFSSTAw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-22T23:50:21.000Z"
+    },
+    {
+      "title": "Bionyra Pharma Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmaHM3WHpMejFiV2VlRHlaQV95blgyUVVoX3ZqU2JfVlFNc2txRjBrRkVqV1J0STg4Y1hlZF9EZ3JFVDJ4R0E1UmhqSUNZOGUweFJfeUNB?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-22T11:51:06.000Z"
+    },
+    {
+      "title": "Why healthcare AI must balance innovation with trust and transparency",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjlDMG9lOEMtRWdPdVBsV0NMNFQ0VmxMUFNYWWM2NUJ1YmNSSmZHZ0FyNFVCcFhPemk2dHpYTTN5UmZYVFVRTVpOdW1BWjNLbEVyRWhYd0R1UGxnd1A2d0RFYkdpQTh6Y2JiT2NDLWpET2NKUHZwcU1hRU55MGk5SXBodFVleXZqS28xMWxTWVpBQldwdHpNWDQySHFkS1d4RUtnYnREUWRBRmNf?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T21:24:00.000Z"
+    }
+  ]
+}
