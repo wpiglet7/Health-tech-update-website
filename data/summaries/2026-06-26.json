@@ -1,0 +1,214 @@
+{
+  "date": "2026-06-26",
+  "generatedAt": "2026-06-25T22:23:22.202Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 33,
+  "sources": {
+    "STAT News": 18,
+    "MobiHealthNews": 4,
+    "Healthcare IT News": 5,
+    "MedCity News": 6
+  },
+  "summary": "Several major policy shifts are reshaping the healthcare landscape. The CDC's vaccine advisory committee has fundamentally refocused its charter to downplay vaccine recommendations and review alternatives, while Congress is moving on multiple fronts—with bipartisan support for expanded methadone access to treat opioid addiction and proposals to rein in the 340B drug discount program that hospitals rely on for funding. Meanwhile, political control over federal health agencies is tightening under the Trump administration, including a proposed new CDC science office designed to exert closer oversight.\n\nIn artificial intelligence, the field is maturing beyond automation toward genuine transformation. The FDA has granted breakthrough designations to multiple generative AI devices, including two for interpreting chest X-rays and drafting radiology reports, while well-funded startups like xCures and Assort Health are raising tens of millions to expand AI clinical data platforms and patient journey agents. However, a persistent challenge remains: most healthcare AI implementations fail after pilot phases, suggesting execution gaps despite strong funding and regulatory momentum.\n\nDrug pricing and biotech competition are intensifying scrutiny. Democrats and the public are demanding answers about exclusive access to Eli Lilly's experimental obesity drug, while lawmakers are increasingly focused on Chinese biotech competition despite the Biosecure Act already in place. A Supreme Court ruling blocking thousands of lawsuits against Roundup's maker signals significant limits on product liability litigation in health-related cases.",
+  "items": [
+    {
+      "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
+      "link": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T20:15:40.000Z"
+    },
+    {
+      "title": "Berry Street partners with Tia to expand women's nutrition care",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcGEwYm1BeDgtTm5iR1ljdmhjdU1aOUoyVE45NFVkZDJLSE5QeE5XSWdVakNwV1NQTXNhZFY4dWd3Z3h3N1g1eFlvVjBubjhVbHdtWko3Z2JPQ2NVa1pPVDdybWlpZHNsZXN2MUFMdVdWc1NEVzA4emlwbVVQRDRQNTJEd2d5dWNsclZUc1pwSmJZQVFH?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-25T19:38:09.000Z"
+    },
+    {
+      "title": "STAT+: At BIO 2026, industry wrestled with Washington politics, and making AI work better",
+      "link": "https://www.statnews.com/2026/06/25/bio-2026-biotech-conference-san-diego-key-takeaways/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T19:19:26.000Z"
+    },
+    {
+      "title": "The mysterious case of Eli Lilly’s obesity drug",
+      "link": "https://www.statnews.com/2026/06/25/readout-loud-podcast-eli-lilly-fda-obesity-trump-absci-regenxbio/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T18:58:44.000Z"
+    },
+    {
+      "title": "STAT+: Cassidy proposes bill to rein in 340B drug discount program",
+      "link": "https://www.statnews.com/2026/06/25/cassidy-bill-rein-in-340b-drug-discount-program/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T17:32:39.000Z"
+    },
+    {
+      "title": "Supreme Court ruling blocks thousands of lawsuits against maker of Roundup weedkiller",
+      "link": "https://www.statnews.com/2026/06/25/supreme-court-blocks-thousands-lawsuits-roundup-weedkiller-cancer/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T17:15:58.000Z"
+    },
+    {
+      "title": "Health systems must shift AI use from automation to transformation",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSXpOYmlEamJMQVJnWHlOWU1WcWRiaU1jSkh1SWVqOTBEbW94cExOVXp5TFI2UUZnS1hOM3FSM20tdnB6LWctYTdZeUJRbkF1VmhjSXVKdTV6a1Y0bi1qY1o5d1pqUHYtWVR3bWMtcnJfdU5rN0xfd2lzR1o3RHNMWUp5ZEVROEdaSEVPS2dnNzhfNWpFSkcyN2xiYVc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-25T16:59:15.000Z"
+    },
+    {
+      "title": "STAT+: Proposed CDC science office could tighten political control at agency",
+      "link": "https://www.statnews.com/2026/06/25/cdc-new-science-office-tighter-political-control/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T16:10:32.000Z"
+    },
+    {
+      "title": "xCures raises $46M to expand AI clinical data platform",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWTJxU0NQMHhhMGFkb19zV3pING1TelRsYkQxVDJFaFNFZzlQZlE5MUljbzhKWmNUUV9uZHNGMjBKV3ZTNHZrMTlZLTl3RUtQaHV5R0lTWGJ6MGx2ZUpRUWNHUk9ueHJNX0hiUGh2bHJMbWxZOXo5ZWs4R005djRpWWhqUGVwLUZ2MlNRMDJHWQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-25T15:41:23.000Z"
+    },
+    {
+      "title": "Assort Health lands $120M to scale patient journey AI agents",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1c5RzdIYmZKOU85NzZBSHRIekJPM1JsSEN2VkhES3M3aE1vbmUxeWotd2pmYkRObFAwb1Q4eXZmWmVfd05CRjVncXVvN1dxb1FaZ29oSUZQY3Nnd1lGWWNxLUhob0xaLUsxcVNYVWZ6VDdYa1FTZDVUazNFNHlxcmhpaFZkbzVTWUY3X3ZicFJmZ1U0b0I0?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-25T15:40:37.000Z"
+    },
+    {
+      "title": "Modern tools further public health's mission",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVER6YUNocjhhdF9IS1Z4XzlxMkEyVkdFX01JMy1WM3I5STVnWDhwQ0JaQWdjQWhPT21oZEdOUEhNeXg1aC1rNXdfdFV5eVpWNDhrTmg5elZVNEF5NzUxamF1VXRyckEwNG51VTI3aEtzMzlhQ01yVlY2YUpGeDJjd2RWaGd3QVk?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-25T15:17:17.000Z"
+    },
+    {
+      "title": "STAT+: Democrats press White House on who got special access to Eli Lilly’s new obesity drug",
+      "link": "https://www.statnews.com/2026/06/25/senate-hassan-questions-rfk-jr-eli-lilly-retatrutide-trial-trump/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T15:03:57.000Z"
+    },
+    {
+      "title": "STAT+: Next-gen CRISPR tools improve editing accuracy in embryos, but also stoke ethical concerns",
+      "link": "https://www.statnews.com/2026/06/25/crispr-base-editing-human-embryo-study/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T15:00:00.000Z"
+    },
+    {
+      "title": "STAT+: The China debate gets louder in Washington",
+      "link": "https://www.statnews.com/2026/06/25/biotech-news-the-china-debate-gets-louder-in-washington/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T14:20:37.000Z"
+    },
+    {
+      "title": "Why Most Healthcare AI Fails After the Pilot Phase",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORDlvZUNpZm5ZXy05RGh3VktvSmEtUHowbXhDRDI4WEt1Rm5XbnNMWEg3WVhXQVVla0MxYnNlMUNILTFSNEplcVBfbDJqb241WHBvQVh3VllOSTlQb0VnWVVfMFVQbGdFNXNrMjV4XzFwV0FvbDNqSmVVZjhVdVhNRVNwaS0xbWdZZEtV?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-25T14:00:03.000Z"
+    },
+    {
+      "title": "AI can help reduce cognitive burden – and speed revenue collection",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUjFHNGJ3WVdWaXd6TmFfS2IyblhyS0M2UHRfd3JQU1U1b280ZkM1T3phVjEwOUZSM3p4a2FTYXlkMGYyb2w1NEhlamlVN1QyRW1RWkZBSWdJaW80RFkxdTNBT1RCZGdYLU1jd05KbzhlMWJLZ1JGdkhEeUpCZ2RlaTdWcDFYc2EtOXlqX1RWQ1UxbG95MVdmRWprdHNZazBZS3hv?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-25T13:54:36.000Z"
+    },
+    {
+      "title": "STAT+: FDA’s breakthrough pipeline fills up with generative AI devices",
+      "link": "https://www.statnews.com/2026/06/25/fda-breakthrough-generative-ai-devices-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T13:43:08.000Z"
+    },
+    {
+      "title": "Real-Time Trials Are Here — Now We Need Real-Time Trust",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM1hXQk8tYWZUMkJTRzY4bEY0X21jd3hySk9ITWxDQVFBaDVUNUJhYkR5eGp0aFI5RDBpNmhKR0paOWVPc09OdmhnLTFXYTQydFhBQ0tLZVRaRW1ZVnktajB1VnNrQm5XVkIwTHVoSFhvSTlPMG45NkN3T1lLVkpNY2RBNVBtZGxidWdhUWJQQQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-25T13:25:03.000Z"
+    },
+    {
+      "title": "Where Patient Education Breaks Down in Breast Cancer Care",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUUo0TElsMTBaZnNGSThobVEtQjBGYVlIeHg3b08xeDZwT3BmWUxTcXhkWmxqUGlxeDBNa05YUWVZRFVOT1Y2V2FaMTV0UUg3THoxV1cwS0xvYm9WTktOYkRIWUswU0dhblFCNk9VMEE3OTE0NTl2TThYdFA3bUZhOThSZUxRN0xWcUlNSWRBdlV3LXB4?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-25T13:10:03.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about weight loss drug spending, launch prices for medicines, and much more",
+      "link": "https://www.statnews.com/pharmalot/2026/06/25/weight-loss-drug-spending-launch-prices-for-medicines/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T13:03:07.000Z"
+    },
+    {
+      "title": "How the CDC plans to boost its Public Health Data Strategy",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3BjRFRoTThJYjNEM3NoMnRsMUpsZXBMNVhRcmRQVE43T2JEcEpEeHIwbHJHNFd6X0lfQ290MlB1a1Y0OWhMQWZSYXdEZHF0SEpWTUZ6NlpQSC0wYWs1STR6b2xJUlFKMF9tc0h0eTNxb3dyekhVMkc5NXhQOVZ3YXJpYzhPZG5ZNDVHQWR5U01tdzBF?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-25T12:50:00.000Z"
+    },
+    {
+      "title": "How Are Payers and Providers Thinking of AI and Cybersecurity?",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORXdoSFhSVzA2Z3F1SzY1eGw4aHowVlJlRmFWMWtqcjZNcVlNQy1UMG05TERMRm5fZklPYmI0TGFINUNLbGVoYV9qMFZUX1UxT0VFLXdYdmxsT3BlWml3bW9RSkZxcloyWUZ5QTYwTE1jYUh6bEtubUFJbHFKYWRfclVRUXk2N0gzbUFiUEgzcGdGamh4MThaR1l3?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-25T12:35:03.000Z"
+    },
+    {
+      "title": "STAT+: FDA gives generative AI in radiology two breakthrough designation nods",
+      "link": "https://www.statnews.com/2026/06/25/radiology-generative-ai-cognita-aidoc-fda-breakthrough-designation/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T12:00:00.000Z"
+    },
+    {
+      "title": "Another roadblock for DOJ campaign against trans health",
+      "link": "https://www.statnews.com/2026/06/25/health-news-another-roadblock-for-doj-campaign-against-trans-health/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T11:48:40.000Z"
+    },
+    {
+      "title": "STAT+: Facing a brutal run, battered vaccine makers still see cause for hope",
+      "link": "https://www.statnews.com/2026/06/25/vaccine-industry-dark-period-causes-for-hope/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: My adult daughter has Down syndrome. Her life is entirely different from what experts expected",
+      "link": "https://www.statnews.com/2026/06/25/prenatal-down-syndrome-diagnosis-screening-life-expectancy-health-facts/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T08:30:00.000Z"
+    },
+    {
+      "title": "Bipartisan bill seeks to allow direct prescribing of methadone for opioid addiction",
+      "link": "https://www.statnews.com/2026/06/25/bipartisan-bill-methadone-prescription-pharmacy-pickup/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Biosecure didn’t stop China’s rise in biotech. Some lawmakers want to do more",
+      "link": "https://www.statnews.com/2026/06/25/china-biotech-next-steps-after-biosecure-act/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: How a 1976 murder case changed doctor-patient confidentiality",
+      "link": "https://www.statnews.com/2026/06/25/tarasoff-50th-anniversary-murder-doctor-patient-confidentiality/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-25T08:30:00.000Z"
+    },
+    {
+      "title": "New FDA Nod Keeps Gilead Drug Competitive With AstraZeneca & Daiichi in Breast Cancer",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmk2WTA0VkdTRUNTNkE0bDFoY1VwT2dEeVFkMHdtU0FaRTFsZl9MVzlXbEtKbjlzMElqSmRKeHBBOTdsdFZ2NnpfbnI3bjRSVnQ5OG9aUHRrM2pZRGxkM3lqbUdkMmx3RmM3NTNjS29EYi1LeWYzb0lXQlRqMEwzRHVoOHh6N1lzbWZaVVp3S1F5S05RSFpwUFVRMGg5aWdFZkhfYkFRRmxtRGltVWxMWHhzYWs?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-25T05:05:03.000Z"
+    },
+    {
+      "title": "New Partnership Aims to Lower Out-of-Pocket Costs, Even Eliminate Them In Some Cases",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hSWZpZFJjZHlQcUdkX1hIZjVFS3gtdTQzT3RfdFdTbWxyZVZYeXE3SzBxVWt2MGwyU0RUalJHLWEwZnE4MlZHMzl1VWxWbV9jZGE0eDNibzJXeGJKU25UTkNlU1Z6THVocjYzazNBZmRldHVf?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-24T23:15:03.000Z"
+    },
+    {
+      "title": "Tieto Caretech",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PT0F3UW8ydDY1OGVpQ2loblZGVnJsSWd0a2F5RV9pVGtmSzV2YVpLSDBoa1ZHUXhlQWZpeGtrSTRUUDlZcllIaV9UNElobWQ2TUxrVHpGUW9HOTBfVUw1SVlCY19ELUU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T21:00:00.000Z"
+    },
+    {
+      "title": "European health IT innovation gets a boost from HIMSS",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFpDaEliakIzTjVXakpGRWNDWmlPTFV1eXl0TV9Cc3EwbGwzcTdtS2x4cGg1YWhoR3pBaTZQUVVVeVhMNXB5M21FYnFfNWJYcjdhQk1oY19yS25TTW5ZQWdVR3RnYjBSLU9fdElHU3VPU0xKTjk2WTVzQ3QzaXh1aVhuTzk1Z3VYaDYxYkZCeFhsbXcw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-17T21:12:00.000Z"
+    }
+  ]
+}
