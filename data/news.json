@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T22:17:22.863Z",
+  "generatedAt": "2026-06-27T22:06:41.680Z",
   "sources": [
     {
       "id": "stat",
@@ -25,11 +25,51 @@
   "count": 120,
   "items": [
     {
+      "title": "documentation AI Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05c3h1R3AtaFpwei1iMFUtUFBMcDlLOHByS1FsUS01eC11R3NEdFhROHlSOV9SeTRJRU9kNmttU0U3NHFnMl93dk9vOTAwa3A0ZTQ0N3czSlQ?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-27T14:11:16.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Opinion: Supreme Court ruling on Roundup points to a confusing difference between the law and science",
+      "link": "https://www.statnews.com/2026/06/27/roundup-glyphosate-cancer-monsanto-v-durnell-supreme-court/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-06-27T11:00:00.000Z",
+      "snippet": "The Supreme Court’s ruling on Roundup shows science and law use the same word — causation — while asking different questions, writes epidemiologist."
+    },
+    {
+      "title": "Healthcare AI works best with clinicians in the loop",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSU5yQVpUOGhRRjk0aWc2T0JpSGJ1YXR5em9TUWg0LUpPMEJ6MXZZLWw3NFhFbDdMT0FSTFBUeUFuNHdjUEc5dFgtT3IwSXJUM3dWMGtiWGtPWmZ6a3lNdWc4Z2ViNjNadFo2QkpkRDIxaHJ4eFlPU0tLTEkyQURITnd1NA?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-27T04:53:58.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "EMA: Amgen, Vifor Inflammatory Drug’s Benefits No Longer Outweigh Risks",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUDlFUW1GSHBUU05OdFZSTlFDdUdWSEpwbmxEVjhZamdNSnZaTVFTMFlNV1VzR01QVmZWbHZDTS1LUllWa3NrNHF6a1M4Y3RfaXg4UVNhNTZXSlUxS01jY2FFZUNTQk9LZkp1YllTS211eVNqLXJvT1dIQklUYTZpNkdRS0pxU25jMFQwR2k5TW9XazZlWUFVYnNXZGZJbDEzSnc?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-26T23:43:22.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "FDA closes warning letter to Whoop for blood pressure insights feature",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYzdJaFRDLWxPeGFxVzJvTnZmMURCNWJoT1otczhqby1BTnVsdVhXUDlnYkU4SDBkS1F6NVk2dWhTaXlEeW1QQnFkQXYtdWE0WkxUOGJyQ3BKT2dTYlgzcDd2M2ZvUzZub05IcWlyenhMNVVlT1VjenNPakxzZmFqMzFKU0tNNUMzRE0yTThoUlJOYk91SmFiSXRDTVhiTEst?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-26T22:13:50.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Aidoc lands FDA breakthrough status for AI that drafts radiology reports",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcTljYmpZbjgxY0c3TTVmTnZ4VmVjOEZwMGozbXdlZG1mY2NBYUlTQTBkMUJNTm9ibmlRU1BINHRocXlYQlIxak9RNjZFX1FXUk1sSlZ5MUVGRDFINmM3djlxNjdJLUd2TktiZ1JTU1otdEVqWWRySVp1UzRQOTd2cERxUlNaLUIyQzRkWDFVa09HQ2pQdy1ZUmk4VFBEMU95?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
-      "date": "2026-06-26T21:52:10.000Z",
+      "date": "2026-06-26T20:17:25.000Z",
       "snippet": ""
     },
     {
@@ -81,19 +121,11 @@
       "snippet": "What were the vibes like at BIO 2026? STAT reporters take you inside the annual industry conference on the latest episode of STATus Report."
     },
     {
-      "title": "Healthcare transformation starts with where the people are",
+      "title": "Healthcare transformation starts with 'where people are'",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPellLN3hObHZBNGdPb21Od1pzWTNkSDVOMWNheGxzSFpiQUVCczhkVEZsVTFPYjJQQ0tMVVZDUG84VV92bTc0alQ3R2Rsa0I5VW5aVmpUeEpaZ3dmYkVxVzdnZjlVb1hkYzlVeDFiZ1JqS0J0YzdvOUtrMG0yR0RDTS03end6Nk40UnRDZjR1QkM?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-06-26T16:23:38.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Trase lands $107M to scale AI agents for healthcare and high-stakes industries",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUkFscjhxTnFRM01zN0JLWG5JRC1pSF90R1BLaF93azlHd0RleUs4XzRNd0pGMjlYbnBfQnE1aGFQU0R3Mk9HcVg4aVdTNkF4NFdUdnBnM3J5VlhWNWpRbngxYnJ4Ykt3c3RZR1FMdndnV2FvU0RiMUp4MDIzNTZNT0U0dHVPVW5PbWNac1FQekRjYmJvQ3Bzd0ZDTC1oVTJ1ZEZscnU4VDduQQ?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-06-26T14:57:09.000Z",
       "snippet": ""
     },
     {
@@ -127,14 +159,6 @@
       "sourceId": "stat",
       "date": "2026-06-26T13:40:44.000Z",
       "snippet": "Cassidy targets 340B, Eli Lilly's mysterious retatrutide patient, and more biotech news from The Readout"
-    },
-    {
-      "title": "Healthcare AI works best with clinicians in the loop",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSU5yQVpUOGhRRjk0aWc2T0JpSGJ1YXR5em9TUWg0LUpPMEJ6MXZZLWw3NFhFbDdMT0FSTFBUeUFuNHdjUEc5dFgtT3IwSXJUM3dWMGtiWGtPWmZ6a3lNdWc4Z2ViNjNadFo2QkpkRDIxaHJ4eFlPU0tLTEkyQURITnd1NA?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-06-26T13:22:23.000Z",
-      "snippet": ""
     },
     {
       "title": "STAT+: Pharmalittle: We’re reading about a bill to overhaul the 340B program, a new FDA commissioner candidate, and more",
@@ -401,14 +425,6 @@
       "snippet": "The use of genome editing in early embryos has pulled back the curtain on the role of one of the key genes that orchestrates the first stages of human development,…"
     },
     {
-      "title": "STAT+: The China debate gets louder in Washington",
-      "link": "https://www.statnews.com/2026/06/25/biotech-news-the-china-debate-gets-louder-in-washington/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-06-25T14:20:37.000Z",
-      "snippet": "A boom in GLP-1s and health care costs, AI-designed hair growth drugs, and more biotech news from The Readout"
-    },
-    {
       "title": "Why Most Healthcare AI Fails After the Pilot Phase",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORDlvZUNpZm5ZXy05RGh3VktvSmEtUHowbXhDRDI4WEt1Rm5XbnNMWEg3WVhXQVVla0MxYnNlMUNILTFSNEplcVBfbDJqb241WHBvQVh3VllOSTlQb0VnWVVfMFVQbGdFNXNrMjV4XzFwV0FvbDNqSmVVZjhVdVhNRVNwaS0xbWdZZEtV?oc=5",
       "source": "MedCity News",
@@ -585,22 +601,6 @@
       "snippet": ""
     },
     {
-      "title": "The Things to Think About Before Taking Your Biotech Company Public",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUZLOEQ4Q1NRM2daYnhrRWVOTERqUlVOX3FldWplbk1OeUlxUWJ0RU5za1Eta0JiNXoyOUFwMEpXM2JsSlh2c1BiSk5HQ2NWY0xJcWpYbG9VckZtY3NWX1pFZUoxbkZYUTRwWUVXVWVZUHNCRG1VOE1xQVl3ZTQydm9XWG1ab2tKbnRmMUdjeXQ?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-24T07:50:03.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "'Intelligentisation' phase of hospital transformation",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHEyNHZNcEZkOFh5Nnl5dHpCX28tWTNmNEhDeFROd2lrUExfYkJGaC1GY3d2VDRfWjVVY3BUYnNYUW1FNkJfTkJrUlRsel9Jb1g1Q2lKR2dCa2ZKc210NjJENmlVUTZuTjVrQ01tbTlYSG90V3hFLWVWTlFUMzhrY2dNeE9sNlFGRWZacmxMaEVETFZCdFE?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-24T04:52:58.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Cadence Rakes In $100M to Automate Chronic Care at Scale",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1za1NERFRDWEZuN3ZWU2ZTYldROWJnRVBXd2o1Z1BLdlFvazB6VHRKdDNNekZDWHA3ejJFNjYtQTVEZDZIb09HVzJJSEFOV1RMZHpyNHhTX1JtLVhCaERnUmpoYzhjaTVhUzBz?oc=5",
       "source": "MedCity News",
@@ -681,22 +681,6 @@
       "snippet": ""
     },
     {
-      "title": "Rhode Island passes ambient AI scribe opt-out law",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWk1mRkw0VEQwdHZBMkpORGdRZDB2dUlUQnQ2M194WDRzRFg1MUs3X1VFN0ZNNmFnWDVhRktnbjF0N2FUNEVoNkNVdjI0OUM5cS1mcEN1WWZUVGY1R3hSSkY2cjFSb0NiMW0yeXprTlIzNGlINEtXSWFmTFVEcUJWVHlpbzFNUENETkREMVFjb2w?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-23T17:41:15.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Owensboro Health uses AI to improve revenue integrity, OR workflows and more",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlVScWZBMWxUMGFPV0FDRkNfMEotdm92ODlBQld2U3lFdGEwNldYZy1zanhmU0VPTXZVWnlxRDJaalBqekFBYW9pSERHdmFPSjdvV2VOV2p3OUJOamVFRjNqYkt3UlhIeWg4S1Fvb2tvVk05Z05MbVZMQ3ZUalkzdW5OM1lJQVQ2ZjNiZjB6Nzk0MEd6NDFxRHMwcTdaSHgxYVRJUTJ3a1JwUEpuMFcw?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-23T16:03:45.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Cadence raises $100M, announces Duke Health and Texas Health Resources collaborations",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOVdXUG11VkNkTmh4VkZtS0dHN0dTSFllUkNwYlhOQmRySlFZX0NMdmJZQ0dOM2RRQ0tMRVU1c0Q3Yk5lTkpJRjVDSmFPWjlnUnEzejdXX1NNQ1FVcHlEaWtBcEYzTE9xTXFETjF4Ymp6Q2dxVTZlZko0NDZqblU3T0t2dE45LUZXYnJnRFoxRTZFMWF0SGlRa0RqUWpPSmtzMUVjbjJPZWZabURRcURtUHRCN0VzWlYzSUNF?oc=5",
       "source": "MobiHealthNews",
@@ -742,14 +726,6 @@
       "source": "MedCity News",
       "sourceId": "medcity",
       "date": "2026-06-23T13:26:30.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Healthdirect Australia testing integration with ChatGPT",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGlqOXUtMWY2N2lsWTQ4NGxzOFAteHctRWF6Zlk3SWVMWXdROTJVd09DNE5oVlgtU3ZJM21wdTd1Z2FrX1B6RzY1dndLd05IbVVEbkM1cjBGYndHeEtKdkFhOV8tZnFvcTNCa01LYnYyQWdoUmxzVTBXNmU5bGctMlFPVkdsZlN1V2tMMmEtZVhGTVZP?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-06-23T11:37:29.000Z",
       "snippet": ""
     },
     {
@@ -801,6 +777,14 @@
       "snippet": ""
     },
     {
+      "title": "ChartSpan acquires Validic to expand remote care management platform",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1BzenBpQ0JmUGpEUjF2SjZsWTAyZmsweEpHREE1S0pkcHlHbHUtcHBxSGtvOGVseldjRm5ub1N0bjNTSmZFRWhlWTZDS2JzNDktc0xTWXdEMHJianF3Z1E5NHY0M3ljclhZNjVmd2N2dS1xVFczQjVaSE5LaVMtUzczclh6c2tyQW9FdzZMVkg2NkZxVXNwZ1dEQjFhMm5MbTVz?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-22T20:08:49.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Your cheat sheet to harness AI in healthcare",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMi1ndERPU3pWbTFiRlJ0LU1QSzE1TW1JZzNNQ1hKWS1LLVVEaG8tN3p1VW9OY1A3a0QxX3BKVjhpcmEwQm0ydDBUaW9MYkNNOUZYekxQNG03d3dqTW4teFE1SThaTUZXajU3SDlsbUFBSkVqcllWQ1NiWnZSUTdJTVVVMk11UEE?oc=5",
       "source": "Healthcare IT News",
@@ -825,6 +809,14 @@
       "snippet": ""
     },
     {
+      "title": "K Health, Hartford HealthCare expand partnership to include endocrinology care",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVhFRTB4bFFvMm1RTjJqb0dTV3ZmRDBOenEzX210RDJFYU0wdERjTnBTalIwY1Z4aHo5QlF2NHVycGpCWGNmZGd5Qk1FZVE5VzVZZXZ2TnlwenpPV25JTGpiZklqRV9aRUVBQnFJOG4zbHRibDdfN09tWnh2d2ZrLTVEWVlOSGhXYjdBVlluRzR3NUdTVVpxazlzSkRQZ0VRMUl2Zy1xMTdzYnhjcWpN?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-22T15:21:38.000Z",
+      "snippet": ""
+    },
+    {
       "title": "AI-aided demographics can bridge maternal care gaps",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTGNuQjhiUUpQUklibzR3ajc5b2ZMal82M0pKdWpydjJDRGVGUm5PcDFhZzd0MTYzWHlmMlhDTEQtQUZsd0RWbkFFWnRVWXluZVZySFliZzlnTkE4V085RkY5QVJFaW1uYnM4QjlVN0kyUHJvWnpOVkNtSU1SajdSWWxoZklSYlVUaWgyc3VwS3ROZw?oc=5",
       "source": "MobiHealthNews",
@@ -833,19 +825,27 @@
       "snippet": ""
     },
     {
+      "title": "How AI is helping bridge maternity care gaps in Texas",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb2FpYVpiX092Ukdqb2l5YzZyOTFkeElEZXpHTXVnSW53RGJ2UW1LelA5cDNYNnNYajY0dDJaVEl5NmNHRlUzblA3T0NiNkhlTEVBdWgwQWxHSmFEUEJZM0pWLU84bC0yTzVCdHgxOFdkaDA4RThwRlNyYlFfdEF6Z09LelpTVlhiZHhScFZ2VQ?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-22T13:22:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "How St. Luke's is bringing sexual assault forensic care closer to home in rural Idaho",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRG92TEtQb2xHb1ZjZlItTWxleDBSMnBvUnhwVzNZZjhiZVNhQ3cyWnVhTzJjdmVWQU1fTkpXUndaWmhPcUxiRi1rck1WbXhhMEFGa2lnUzRDQnZCeklkTWtnbE5kVFhKZjZIRkctbmZycXNoUWRlU19fTXlRWTBZQ1RjcDVaNlBvYkFVYWxvQU5Oc3FrNUJwVWZyUkx4N21lcEVhN3ZUR1UzU1NYNnFxcVNB?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-22T13:20:01.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Preparing Healthcare Networks For The Vulnerability Flood",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPby0ydWVucXhoM1BUeHU5SGg5UlpjbTZzZWhIM1dJUHVEMXNHTDg2RlpPYWpmbGUwLWtUNlFwSjFwMVNHMFVxTUF3Mk44UWNlZDQ1VnhHcGEzTVJtTG5SX2RWS04zd01wZzUwVy1JNFBlV1QtMWZBNEsyRWJlRkNoVzJMQURaZGV2YkdkY1ktenVIMjh5?oc=5",
       "source": "MedCity News",
       "sourceId": "medcity",
       "date": "2026-06-22T13:06:21.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "How Is Mayo Clinic Using AI in Its Revenue Cycle?",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pZFFvekEwWGdiOHIzUGthcTdxTWNHU0tpZUswTXM3bFFRMGdxZEt4aENyUjBiRS1vZllhMF9NRTVzRWFMdndJOEdiV3doN01icU1zRjJZQzZOVlhOVFZTMHdiSDZNQnZaTEhvV0VB?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-22T04:41:21.000Z",
       "snippet": ""
     },
     {
@@ -961,14 +961,6 @@
       "snippet": ""
     },
     {
-      "title": "Midjourney enters healthcare with 60-second full-body imaging system",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3JBVVREZFRXekd6SnJNNTRRaU9iWkVhVTFGcGVIVmtnMG1rajViS3V2a0NDdXRMTzQtSC1tTW5qQk9mcWhzbGsxb01mdmFPYk9NRjhWZWJkS25US0U2bUFsdFlkWllFLWVkTzdudUtEYmlhZFRfUUt1c2U0dzIwOHVTYmg0ODBKbl9ReEEzbXdaaDE2VnJUdGdOQlZYT2d0?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-06-19T15:33:58.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Why healthcare's next AI challenge may be connecting the workflow",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa3ZBUmNxa0ZXRzBEa0FQRkxVNnFLVE0yQ0V3R3NwaldLa0tpMG5OYTZsbWRfSEVYZ2NHdnVLeTRLNi00VTFaUm04ZmhuY1Q2cG9WcmwwOGwwNDBFQ1drSWswLTFwOFRXSEhWSmNGQ0JJbVVNMTF3U29DQUJLVmt2Q1dhSjc0Vk9qSmJOT3RhTGl1WFBPWlFxQ2pWdEdqUUE?oc=5",
       "source": "Healthcare IT News",
@@ -982,6 +974,14 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-06-19T13:59:54.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "MGB online leaderboard tracks LLM patient care performance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVhCU3Vvb1k5TU9kdG9OT0dWS3piWTlzZ20wNFhYN2JQREQ1anYxd1h1NFZwN3ZPVXVSSGZYZVAzdE9wMkt4V1dicXMtU0Q2OWFtaTNnN0dWT2hGVWNkZ2swaE0zeklvYS1IZ1RfWExkcGZHVjRGM1djSjh3WjhZWVl6NXFfTU8tUGlkYWxoUjhRQlJJOV93QmtOazA?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-19T13:30:00.000Z",
       "snippet": ""
     }
   ]

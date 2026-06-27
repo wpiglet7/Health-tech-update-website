@@ -1,0 +1,70 @@
+{
+  "date": "2026-06-28",
+  "generatedAt": "2026-06-27T22:06:45.599Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 9,
+  "sources": {
+    "MedCity News": 2,
+    "STAT News": 1,
+    "MobiHealthNews": 3,
+    "Healthcare IT News": 3
+  },
+  "summary": "Documentation AI continues to reshape clinical workflows as health systems seek efficiency gains, while regulatory scrutiny remains active across multiple fronts. The FDA closed a warning letter to Whoop regarding its blood pressure monitoring feature, signaling progress on wearable device compliance, and the EMA determined that Amgen and Vifor's inflammatory drug no longer presents a favorable risk-benefit profile, prompting a significant safety review. The remote patient monitoring space is consolidating as ChartSpan acquired Validic to expand its care management capabilities, while K Health extended its Hartford HealthCare partnership to cover endocrinology services, reflecting growing adoption of virtual care models for specialty conditions. AI deployments are addressing healthcare access gaps in underserved areas, with implementations in maternity care across Texas and sexual assault forensic services in rural Idaho, while Mass General Brigham launched an LLM performance leaderboard to track clinical AI safety. An epidemiologist's analysis of the Supreme Court's Roundup ruling underscores a fundamental disconnect between how law and science interpret causation, a distinction with potential implications for future healthcare litigation and regulatory decision-making.",
+  "items": [
+    {
+      "title": "documentation AI Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05c3h1R3AtaFpwei1iMFUtUFBMcDlLOHByS1FsUS01eC11R3NEdFhROHlSOV9SeTRJRU9kNmttU0U3NHFnMl93dk9vOTAwa3A0ZTQ0N3czSlQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-27T14:11:16.000Z"
+    },
+    {
+      "title": "Opinion: Supreme Court ruling on Roundup points to a confusing difference between the law and science",
+      "link": "https://www.statnews.com/2026/06/27/roundup-glyphosate-cancer-monsanto-v-durnell-supreme-court/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-27T11:00:00.000Z"
+    },
+    {
+      "title": "EMA: Amgen, Vifor Inflammatory Drug’s Benefits No Longer Outweigh Risks",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUDlFUW1GSHBUU05OdFZSTlFDdUdWSEpwbmxEVjhZamdNSnZaTVFTMFlNV1VzR01QVmZWbHZDTS1LUllWa3NrNHF6a1M4Y3RfaXg4UVNhNTZXSlUxS01jY2FFZUNTQk9LZkp1YllTS211eVNqLXJvT1dIQklUYTZpNkdRS0pxU25jMFQwR2k5TW9XazZlWUFVYnNXZGZJbDEzSnc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-26T23:43:22.000Z"
+    },
+    {
+      "title": "FDA closes warning letter to Whoop for blood pressure insights feature",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYzdJaFRDLWxPeGFxVzJvTnZmMURCNWJoT1otczhqby1BTnVsdVhXUDlnYkU4SDBkS1F6NVk2dWhTaXlEeW1QQnFkQXYtdWE0WkxUOGJyQ3BKT2dTYlgzcDd2M2ZvUzZub05IcWlyenhMNVVlT1VjenNPakxzZmFqMzFKU0tNNUMzRE0yTThoUlJOYk91SmFiSXRDTVhiTEst?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-26T22:13:50.000Z"
+    },
+    {
+      "title": "ChartSpan acquires Validic to expand remote care management platform",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1BzenBpQ0JmUGpEUjF2SjZsWTAyZmsweEpHREE1S0pkcHlHbHUtcHBxSGtvOGVseldjRm5ub1N0bjNTSmZFRWhlWTZDS2JzNDktc0xTWXdEMHJianF3Z1E5NHY0M3ljclhZNjVmd2N2dS1xVFczQjVaSE5LaVMtUzczclh6c2tyQW9FdzZMVkg2NkZxVXNwZ1dEQjFhMm5MbTVz?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-22T20:08:49.000Z"
+    },
+    {
+      "title": "K Health, Hartford HealthCare expand partnership to include endocrinology care",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVhFRTB4bFFvMm1RTjJqb0dTV3ZmRDBOenEzX210RDJFYU0wdERjTnBTalIwY1Z4aHo5QlF2NHVycGpCWGNmZGd5Qk1FZVE5VzVZZXZ2TnlwenpPV25JTGpiZklqRV9aRUVBQnFJOG4zbHRibDdfN09tWnh2d2ZrLTVEWVlOSGhXYjdBVlluRzR3NUdTVVpxazlzSkRQZ0VRMUl2Zy1xMTdzYnhjcWpN?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-22T15:21:38.000Z"
+    },
+    {
+      "title": "How AI is helping bridge maternity care gaps in Texas",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb2FpYVpiX092Ukdqb2l5YzZyOTFkeElEZXpHTXVnSW53RGJ2UW1LelA5cDNYNnNYajY0dDJaVEl5NmNHRlUzblA3T0NiNkhlTEVBdWgwQWxHSmFEUEJZM0pWLU84bC0yTzVCdHgxOFdkaDA4RThwRlNyYlFfdEF6Z09LelpTVlhiZHhScFZ2VQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-22T13:22:00.000Z"
+    },
+    {
+      "title": "How St. Luke's is bringing sexual assault forensic care closer to home in rural Idaho",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRG92TEtQb2xHb1ZjZlItTWxleDBSMnBvUnhwVzNZZjhiZVNhQ3cyWnVhTzJjdmVWQU1fTkpXUndaWmhPcUxiRi1rck1WbXhhMEFGa2lnUzRDQnZCeklkTWtnbE5kVFhKZjZIRkctbmZycXNoUWRlU19fTXlRWTBZQ1RjcDVaNlBvYkFVYWxvQU5Oc3FrNUJwVWZyUkx4N21lcEVhN3ZUR1UzU1NYNnFxcVNB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-22T13:20:01.000Z"
+    },
+    {
+      "title": "MGB online leaderboard tracks LLM patient care performance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVhCU3Vvb1k5TU9kdG9OT0dWS3piWTlzZ20wNFhYN2JQREQ1anYxd1h1NFZwN3ZPVXVSSGZYZVAzdE9wMkt4V1dicXMtU0Q2OWFtaTNnN0dWT2hGVWNkZ2swaE0zeklvYS1IZ1RfWExkcGZHVjRGM1djSjh3WjhZWVl6NXFfTU8tUGlkYWxoUjhRQlJJOV93QmtOazA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T13:30:00.000Z"
+    }
+  ]
+}
