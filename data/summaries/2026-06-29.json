@@ -1,0 +1,68 @@
+{
+  "date": "2026-06-29",
+  "generatedAt": "2026-06-28T22:04:58.348Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 9,
+  "sources": {
+    "MedCity News": 6,
+    "Healthcare IT News": 3
+  },
+  "summary": "The FDA's approval of Viridian's thyroid eye disease drug marks meaningful competition in a high-value market previously dominated by Amgen's blockbuster treatment. On the policy front, CMS is recalibrating Star Ratings for health plans while expanding Medicare coverage of GLP-1 medications, though analysts question whether the latter addresses broader weight management needs comprehensively rather than serving as a piecemeal solution. Healthcare organizations face persistent operational challenges, from organizational culture gaps to clinical terminology inconsistencies affecting cervical cancer screening to the ongoing difficulty in articulating healthcare value and pricing transparently. Meanwhile, technology adoption is advancing in radiology where AI tools are demonstrably improving radiologist efficiency, and the government is investing $2 million to catalyze next-generation healthcare innovation through the Office of the National Coordinator.",
+  "items": [
+    {
+      "title": "FDA Approves Viridian’s Thyroid Eye Disease Drug, Competitor to a Blockbuster Amgen Med",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSDhfeVJzSTg5NFBGZlRhc0hHdHBwSFNCME43RTN6REV5X1hBZ0RmR0NBeFIzQ2s1YmxTNTVMSGo3eF93bWRnbUtFSUpUV2lvbVJURTVtZXA1YjdrZ1JGeEpHQVBQWUN2Snh5OW5qaTQ5c1BDODhwbEJXVkt2c05CLURudFU0RUtwaU12Mjd1WkFuMHEwQkZNVVJGMEdkVTJ1N25zNTBCX05FV3p2Vzh3?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-28T21:03:09.000Z"
+    },
+    {
+      "title": "CMS Recalculates Star Ratings — Again",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aeUgtMU1DQzh0b2V4aVBVT2dmUEFHcE5PNm1UbDhZTldObDNJTEFMLUFiRk5HZEFjWWFIRXBOeUlIX25LWUVaakdPcDJiSjc4aG1rN1BPbktSY01XM2hlQ29Qa09IN2t0YWlhSGpXLWtQR3V1cko4?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-28T20:03:28.000Z"
+    },
+    {
+      "title": "A Bridge to Nowhere? Medicare’s GLP-1 Coverage Expansion Requires A More Holistic Approach To Weight Management",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa3ZUUl83X1hlWlRXQUVCbzJkcG82MEFqTWFMOFIybGhQaTFTbzdWY0FZT252R2VVWlMxT05NdGxrUEVCWWZkQ0VhUkFDT25PV1VyQlNiYkhjM0FaeDF5eGFhZVlPYUxiUUxqekVzR3NrYk9ud29sWFhhQlNaOGs4UkM3RXNySGdYQmR1QnhXZ2dlLU8xUHR6amRfRGVWTV9yUGJINTRqTThSNmdIZlVqTTZyUlU4VUZYbmpFVkNHM2xkaHpGbGo1a3pZOVg4TE1uZ2oyb05vRlY2QQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-28T14:08:09.000Z"
+    },
+    {
+      "title": "Healthcare’s Most Avoided Question: “How Much Exactly Do You Need, and What Will America Get in Return?”",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEpMSVB6Yi1obmtIT2RmeWluc3BrdHB3ME9qbTNlWXY2d3pFR1dnbXdpMTBXQkRQalE4VmVUWjlzQmpOUTB1N0tpUWh4WlpnaE9ocDlheWxJeFlRM0JIV1ZTQ3pPcGcxYV9iSTZ1MGE2SnB1YXJZWTNyUnUxTXJDTVM0TXRXcTRsYmYyOEpoTGxEYTI2aTZrLURQSEJuZ2FPSzJkQzloMHB4MEhKUmtjTTVKeHNpU1NwWHFBejZBWVFLWmdjVEQ1aGZyUQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-28T13:48:09.000Z"
+    },
+    {
+      "title": "3 Traps Health Systems Fall Into When Trying to Improve Their Culture",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCRFZqOVZ4LWVzUkd1elQ4NVdrN2d4eE1FaGVkOWx0Mk1CYnpjS1JFTjhCVkh2X1JQNE9lQ3NkU0Q4MFJJVGFlVTFyTFltQU1RVzlyT2hMc243ZjMxbklPaGlR?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-28T13:48:09.000Z"
+    },
+    {
+      "title": "The Terminology Gap Undermining Cervical Cancer Screening Guidelines",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMXZRRTNScDRXNHBsVUhLSDlDU1FoZS0zeFRZM1ZWTzBVNEVHa3NjYXFFaV9BVWhUT0FhVDZPV0VhQnkxY3JsNTdKaXB5bENkLUxSX1RPbk1HWWJEQ2FRTEFhUUdvWl9tcURqODhLSngxa2NBYXZxSGtvSjc4UzBZMWtGcFlxTjExSEdYNk95ZUM1TndHSHZGQjZjRTdCMmVRaUJV?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-28T13:08:09.000Z"
+    },
+    {
+      "title": "Tieto Caretech",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PT0F3UW8ydDY1OGVpQ2loblZGVnJsSWd0a2F5RV9pVGtmSzV2YVpLSDBoa1ZHUXhlQWZpeGtrSTRUUDlZcllIaV9UNElobWQ2TUxrVHpGUW9HOTBfVUw1SVlCY19ELUU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T21:00:00.000Z"
+    },
+    {
+      "title": "Many radiologists find their efficiency gets a boost from AI",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObnJGcFpBRjE4azN5ZlVlWjhiSm9JZTVzNER1QnpzUjZCUmMwQUh1TFY2MVcwYVFRQUx6VEFmODQzUGh6RElraHJPb015Sk9QaHp5aWJITWZmam5xaDBCNmtycVZKdWF2cS13eGhJZmRzZ1EwODl2QnRFZkgybUpvdVNGYXh3YWI5ZHhUdmwwbTZxd3RVdm84?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T13:28:00.000Z"
+    },
+    {
+      "title": "ONC offers $2M for next-generation healthcare technologies",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU2xPbjdmZGFORk1WUHBIZVU3RDREM2NsdjhTbkFJckc5RlJyZTdLMGFuZTVSM0ZxZXN5OWdJRFlnMXNCVC15SURjLWJyNXNZVDhwWGt0YUZoZUpOUm13WDM1SXdESEFmNHpXZ1RZQWkzRVgxZm1uU3d0MFgyMFV4aTRfM3RfWFFhT25Yb0VtR1VxTU5XMUE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-19T13:00:00.000Z"
+    }
+  ]
+}

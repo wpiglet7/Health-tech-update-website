@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T22:06:41.680Z",
+  "generatedAt": "2026-06-28T22:04:55.461Z",
   "sources": [
     {
       "id": "stat",
@@ -25,11 +25,51 @@
   "count": 120,
   "items": [
     {
-      "title": "documentation AI Coverage",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05c3h1R3AtaFpwei1iMFUtUFBMcDlLOHByS1FsUS01eC11R3NEdFhROHlSOV9SeTRJRU9kNmttU0U3NHFnMl93dk9vOTAwa3A0ZTQ0N3czSlQ?oc=5",
+      "title": "FDA Approves Viridian’s Thyroid Eye Disease Drug, Competitor to a Blockbuster Amgen Med",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSDhfeVJzSTg5NFBGZlRhc0hHdHBwSFNCME43RTN6REV5X1hBZ0RmR0NBeFIzQ2s1YmxTNTVMSGo3eF93bWRnbUtFSUpUV2lvbVJURTVtZXA1YjdrZ1JGeEpHQVBQWUN2Snh5OW5qaTQ5c1BDODhwbEJXVkt2c05CLURudFU0RUtwaU12Mjd1WkFuMHEwQkZNVVJGMEdkVTJ1N25zNTBCX05FV3p2Vzh3?oc=5",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-06-27T14:11:16.000Z",
+      "date": "2026-06-28T21:03:09.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "CMS Recalculates Star Ratings — Again",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aeUgtMU1DQzh0b2V4aVBVT2dmUEFHcE5PNm1UbDhZTldObDNJTEFMLUFiRk5HZEFjWWFIRXBOeUlIX25LWUVaakdPcDJiSjc4aG1rN1BPbktSY01XM2hlQ29Qa09IN2t0YWlhSGpXLWtQR3V1cko4?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-28T20:03:28.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "A Bridge to Nowhere? Medicare’s GLP-1 Coverage Expansion Requires A More Holistic Approach To Weight Management",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa3ZUUl83X1hlWlRXQUVCbzJkcG82MEFqTWFMOFIybGhQaTFTbzdWY0FZT252R2VVWlMxT05NdGxrUEVCWWZkQ0VhUkFDT25PV1VyQlNiYkhjM0FaeDF5eGFhZVlPYUxiUUxqekVzR3NrYk9ud29sWFhhQlNaOGs4UkM3RXNySGdYQmR1QnhXZ2dlLU8xUHR6amRfRGVWTV9yUGJINTRqTThSNmdIZlVqTTZyUlU4VUZYbmpFVkNHM2xkaHpGbGo1a3pZOVg4TE1uZ2oyb05vRlY2QQ?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-28T14:08:09.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Healthcare’s Most Avoided Question: “How Much Exactly Do You Need, and What Will America Get in Return?”",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEpMSVB6Yi1obmtIT2RmeWluc3BrdHB3ME9qbTNlWXY2d3pFR1dnbXdpMTBXQkRQalE4VmVUWjlzQmpOUTB1N0tpUWh4WlpnaE9ocDlheWxJeFlRM0JIV1ZTQ3pPcGcxYV9iSTZ1MGE2SnB1YXJZWTNyUnUxTXJDTVM0TXRXcTRsYmYyOEpoTGxEYTI2aTZrLURQSEJuZ2FPSzJkQzloMHB4MEhKUmtjTTVKeHNpU1NwWHFBejZBWVFLWmdjVEQ1aGZyUQ?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-28T13:48:09.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "3 Traps Health Systems Fall Into When Trying to Improve Their Culture",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCRFZqOVZ4LWVzUkd1elQ4NVdrN2d4eE1FaGVkOWx0Mk1CYnpjS1JFTjhCVkh2X1JQNE9lQ3NkU0Q4MFJJVGFlVTFyTFltQU1RVzlyT2hMc243ZjMxbklPaGlR?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-28T13:48:09.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "The Terminology Gap Undermining Cervical Cancer Screening Guidelines",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMXZRRTNScDRXNHBsVUhLSDlDU1FoZS0zeFRZM1ZWTzBVNEVHa3NjYXFFaV9BVWhUT0FhVDZPV0VhQnkxY3JsNTdKaXB5bENkLUxSX1RPbk1HWWJEQ2FRTEFhUUdvWl9tcURqODhLSngxa2NBYXZxSGtvSjc4UzBZMWtGcFlxTjExSEdYNk95ZUM1TndHSHZGQjZjRTdCMmVRaUJV?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-28T13:08:09.000Z",
       "snippet": ""
     },
     {
@@ -593,27 +633,11 @@
       "snippet": ""
     },
     {
-      "title": "The Payer AI Readiness Gap: Why Better Data Will Define the Next Era of Health Plan Performance",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZF9vSXBrWXJpOUtVeDBfZjNYanUtdVRJR1E3cXVGWjRaek1BRGh2SGI2T1ZsTFJrdS1UaGFhWklYZ2ZvbG9WdXZMODBKUXZNYTB6YWloY2hPUG1UU04yVzBnZEZqMktJcnZwQ2tjdmV2eG1pOEVlc3RaMjBPS09DMEpEam9IY3p4R1VaUzdWTURhd0Q4bXlBQmM1bEQ2VWw5aFRkdmVNb0hTcDFWbElFaWZhNmpXU1FlNDVSV01ZQWhicHAxQnc?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-24T11:35:03.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Cadence Rakes In $100M to Automate Chronic Care at Scale",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1za1NERFRDWEZuN3ZWU2ZTYldROWJnRVBXd2o1Z1BLdlFvazB6VHRKdDNNekZDWHA3ejJFNjYtQTVEZDZIb09HVzJJSEFOV1RMZHpyNHhTX1JtLVhCaERnUmpoYzhjaTVhUzBz?oc=5",
       "source": "MedCity News",
       "sourceId": "medcity",
       "date": "2026-06-24T04:05:03.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "What accelerates health system innovation?",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUmxydDlhejBqa05xbFBvY1BRYzNFMFlFd2FWOEpYMUtneWsweGlaOVZnc3JLc0pHZHVmbGI5alJ3c1daQXdTN1VKVGFZU3JaRHNhTndMWWloRTh6b29mNHRBb1lKUVo2MFlLeGdUVEkwMEI3VUxXZjhNcm5Yd01TdXg5UWRQRkc2UElwVg?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-23T23:37:26.000Z",
       "snippet": ""
     },
     {
@@ -721,22 +745,6 @@
       "snippet": ""
     },
     {
-      "title": "Washington’s Medical Debt Push Risks Missing the Bigger Healthcare Crisis",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1RfRGtldWJqUFU2bkprU25ObmVHb0FpRUpQWlZkeHRtdml0YXZjYnNua3dzVEVuUjhWM2gtRXNfOEN0LVduakd6cjVQc0d3ZzNCTDlEczhhUTllOHlxdkhYenMwRHQ2NUV0WDZvSDVYcFNEMUdrdEhiMHVZNmxWMldPZ1h4ajFvWUxCdVlxTEhvWW5mSTBEb3ZSZjhXQ0NORU4xNmVQWWk?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-23T13:26:30.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Slide-free pathology imaging system unveiled in Hong Kong",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdHZWQTVHcll2eDZQN0VhbXVUMXZDYnlNT0NCZ2pJbTJQaFFLUEwyRlhDRUQxM185WWlZVTU0dzlZYUtKdlJUN2NQNXNkOXJNZGctNFcwQndxQ3BxcEpWallkMld6ZlRVeXc5VklHY1RjMl9WaU90QjRDYjhuYWppLTJ1WlhlZVZ0MW5ZSVltRmE5b0NHcWMtVDRIZw?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-06-23T11:37:26.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Everlab enters global consumer healthcare market with $46M Series A funding",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRE5QMzhESXZFX3BuV1lnWjNsRmRjV0t2VldDZnQ5U1dHQXA4dUpTcmpVVHUzR0JWYWNFTGN1ajktZ0ZhTWhuYWdtVzhlcVAtYV9yc1hiM2FUVG5sZTk4Q1JhX2IwTmhyTmJVVy1vLWY4ZE5iRmZja2dlV2oyU3pFQmwza3JUVDl6VjBhMl92Nk9qMFZZRE92aVgxclMwRGp0elhDMVVFaFZTaUE?oc=5",
       "source": "MobiHealthNews",
@@ -750,22 +758,6 @@
       "source": "MedCity News",
       "sourceId": "medcity",
       "date": "2026-06-23T05:56:30.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Hospitals Cry Foul After Eli Lilly Withholds 340B Discounts",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MUHY4N2hpQS16dU9CSVZhaWU3M2p6ck9GTzc5RDl6d0VDREZWTVhWSGZDVXA0U2hrSURQQ181ekg1UTlNYmhXb2x6WDdoR2UzMGtLUzJEbkMwZzF3Y1BQc0U2MTZfRlJv?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-23T02:26:28.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Abarca Health and LucyRx to Combine to Scale Independent PBM Model",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTZsYzJzd05XelZYZGd5R1B4SVJCSkFoMFdzQVlKUi1HTTFMOUNLVkpMQTlNWVpSdmxPQks2a2Z5MVNPNGNHQVlBV3VmM3ZKRTZOWk14VTBfOGxCZUVYbXZHd3ZkOVhsRm5YOUpONFVYNVdnaDVwdktXbmZQVXRPamIzcmlKYnlLdWhvTjE2YkpmUjhIZ3UyeENsSDFSSTAw?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-22T23:50:21.000Z",
       "snippet": ""
     },
     {
@@ -857,27 +849,11 @@
       "snippet": ""
     },
     {
-      "title": "Is It Likely That the WISeR Model Will be Repealed?",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOejdIcDJUZ3VLalNtZjFkMnBUdnBaXzRQLTZmZXpNVUYwV0lwZ3E5WnM5OUNCMGRLZkVaSWt3SlNjMGFleFJBM2l2OUdQb3Vra3U0OVFuNU9SNE5raGt5dEdsYVdIVUd4NXRpMzFIdzM3REpIVWtjcFBZbkIwVzJna1J4d1EwbVdKQ21z?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-21T14:21:20.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Dying Without a Safety Net",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyLXhkSUJOOEZkRzAxOUdwRl9QSjliYWpsQ09lbmY4bkJrR2RRMHhNTmgzNU1wLWt2RVRMZXpTcXBMQk9Qam4tTjRmb1NsWExGR29WSzdEU05ZXzNrUl95d3g0QVlUOWp2Q21v?oc=5",
       "source": "MedCity News",
       "sourceId": "medcity",
       "date": "2026-06-21T14:01:20.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Medicare Advantage’s Big Decision: Reset or Retreat?",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3lOdV81ODhsUmlmWlZ1Y1BPSWZmOXhYS3lZOG5CdmJyWGNZaFhPejlkTDh1S1huZFlpYlA2aE1PUWYyb0dVeTIwUGxheFFIOWtLTFRaeFNhdEtud0g5UV9sZHVrMGpaOTRQVzBReG9zWEkwNzFkQmdYM0F1ZVBhQ2p4SHh4bHE1Tmc?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-21T13:36:20.000Z",
       "snippet": ""
     },
     {
@@ -907,6 +883,14 @@
     {
       "title": "Why healthcare AI must balance innovation with trust and transparency",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjlDMG9lOEMtRWdPdVBsV0NMNFQ0VmxMUFNYWWM2NUJ1YmNSSmZHZ0FyNFVCcFhPemk2dHpYTTN5UmZYVFVRTVpOdW1BWjNLbEVyRWhYd0R1UGxnd1A2d0RFYkdpQTh6Y2JiT2NDLWpET2NKUHZwcU1hRU55MGk5SXBodFVleXZqS28xMWxTWVpBQldwdHpNWDQySHFkS1d4RUtnYnREUWRBRmNf?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-19T21:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Tieto Caretech",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PT0F3UW8ydDY1OGVpQ2loblZGVnJsSWd0a2F5RV9pVGtmSzV2YVpLSDBoa1ZHUXhlQWZpeGtrSTRUUDlZcllIaV9UNElobWQ2TUxrVHpGUW9HOTBfVUw1SVlCY19ELUU?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-06-19T21:00:00.000Z",
@@ -982,6 +966,22 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-06-19T13:30:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Many radiologists find their efficiency gets a boost from AI",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObnJGcFpBRjE4azN5ZlVlWjhiSm9JZTVzNER1QnpzUjZCUmMwQUh1TFY2MVcwYVFRQUx6VEFmODQzUGh6RElraHJPb015Sk9QaHp5aWJITWZmam5xaDBCNmtycVZKdWF2cS13eGhJZmRzZ1EwODl2QnRFZkgybUpvdVNGYXh3YWI5ZHhUdmwwbTZxd3RVdm84?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-19T13:28:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "ONC offers $2M for next-generation healthcare technologies",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU2xPbjdmZGFORk1WUHBIZVU3RDREM2NsdjhTbkFJckc5RlJyZTdLMGFuZTVSM0ZxZXN5OWdJRFlnMXNCVC15SURjLWJyNXNZVDhwWGt0YUZoZUpOUm13WDM1SXdESEFmNHpXZ1RZQWkzRVgxZm1uU3d0MFgyMFV4aTRfM3RfWFFhT25Yb0VtR1VxTU5XMUE?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-19T13:00:00.000Z",
       "snippet": ""
     }
   ]
