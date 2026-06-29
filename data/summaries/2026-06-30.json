@@ -1,0 +1,226 @@
+{
+  "date": "2026-06-30",
+  "generatedAt": "2026-06-29T22:12:20.550Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 35,
+  "sources": {
+    "MedCity News": 7,
+    "STAT News": 16,
+    "MobiHealthNews": 6,
+    "Healthcare IT News": 6
+  },
+  "summary": "A significant leadership transition is underway at the FDA, with the agency's top gene therapy regulator departing amid broader management changes, while regulatory pressures continue to mount across the healthcare sector—AstraZeneca settled a $34 million kickback case with Texas, and 26 states are suing to block Medicaid work requirements they argue will deny coverage to eligible beneficiaries. The investment landscape remains active, with June funding announcements and notable deals like Ipsen's $450 million acquisition of a blood cancer drug and the merger of independent PBM firms Abarca Health and LucyRx, though senators are also pushing to expand insulin price caps beyond Medicare to private insurers and the uninsured. Technology adoption is accelerating across multiple fronts—TEFCA surpassed one billion records exchanged with new HHS oversight funding, while AI is being integrated into clinical workflows through partnerships like Sword Health's Portugal contract and Edison Scientific's biotechnology platform, alongside emerging regulations like Rhode Island's ambient AI scribe opt-out law. Broader policy debates are intensifying around healthcare equity, including concerns that federal loan policies are pricing women out of critical healthcare roles and disputes over how hospital operators are exploiting patient protection loopholes, while advisory panels are reconsidering restrictions on peptides used by longevity and wellness practitioners.",
+  "items": [
+    {
+      "title": "4 Notable Health Tech Funding Announcements in June",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS3NmZDJrSFBid3pYVEFZaFZRQnZXWGVjY0NhenB2b0tJUlVpX2l0LU81NVVQUFBPNHo3VW94aWI2OEJIOVpMNm1aelRHUE1MUTludzFVQmh5YkJjMlE0RzZteXJlLU4zMzZrZ09uWlZoc29GVzczaEtXMUxFWTFSbk95STMxNTA0a1FvVw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-29T21:58:09.000Z"
+    },
+    {
+      "title": "STAT+: FDA’s top gene therapy regulator is leaving his role",
+      "link": "https://www.statnews.com/2026/06/29/vijay-kumar-exits-fda-office-of-therapeutic-products/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-29T21:46:06.000Z"
+    },
+    {
+      "title": "STAT+: AstraZeneca to pay $34 million to settle kickback charges filed by Texas attorney general",
+      "link": "https://www.statnews.com/pharmalot/2026/06/29/astrazeneca-kickback-charges-texas-settlement/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-29T20:17:43.000Z"
+    },
+    {
+      "title": "STAT+: 26 states sue to block Medicaid work requirements",
+      "link": "https://www.statnews.com/2026/06/29/state-lawsuit-block-medicaid-work-requirements/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-29T20:11:47.000Z"
+    },
+    {
+      "title": "Ipsen’s $450M Deal Brings Drug That Could Make a Standard Blood Cancer Therapy Better",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPenVEWEI3U0JBNFhIUHlKZE1pUnVFdmZMd1BVMkhBcXFwNnc3QkFQR2UtUjV4MVdhQjBkbmhpQXNZNFBZVlJ0LWtNSHRtWVI2ZjB3U3lUVnFEd29zLXRtd0xnM3hVMFE2MlJ1YVEtOVhhVEV2LV9NaERYbDF3SHN0cFZoTFVsUFJiZG9tWDBCUGI4c2pDYi1QZ1M3NUFYNEZNcFhvNmZHYkQ0cV9oRWJUTnZVWkRPdw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-29T19:53:28.000Z"
+    },
+    {
+      "title": "SandboxAQ to bring scientific AI models to Google Cloud Marketplace",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWxVa3BnTmFkMjFnUnpMM2lFbkpkYWxOUkI0Vy1QT1U0Ry10ZlZNMjVBLXUyV01icnpzMnpDRm9kWVRxZW5HU2tob1d5b3J2aVMxajk3czNwcDFyQ050a1Z6X3BGZHZYRUFLV1pUUURTa0lvX0o2UDJndjhaTWxjcWJuUmRfX0huSDd2UUZ5TFQtR25wZ1NFbmU1Ym1hdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-29T19:26:48.000Z"
+    },
+    {
+      "title": "TEFCA hits 1 billion as HHS invests $1.28M in network oversight",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZU5lU2VsTE1tT1pfZW80dFdwTG50dGNKNVlLY1ZPWFpnNWcxWmUwUzJFUE52SlYzVXp6cXlRbHpSS05tRnYxZXJSd3g0dVg0eVF3OEJHRFlQVUxrZDlIMEFkZnl0VXNZOEtNbUdjY0llcVF2cmJDaU5NVk9aUUFUbkVrNUFvNjdwdzR3QjNJQjZWak9INWpmRg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-29T19:26:03.000Z"
+    },
+    {
+      "title": "5 takeaways from STAT’s investigation into micro hospital operator Nutex Health",
+      "link": "https://www.statnews.com/2026/06/29/nutex-health-investigation-takeaways-stat-news-no-surprises-act/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-29T17:28:16.000Z"
+    },
+    {
+      "title": "Doctronic, Simple HealthKit partner to expand AI-powered at-home testing",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUtZcFYxbFJGSHZXTktyNzhSNlRxd2FrbUFkRzN1YWQ2UURpdGJna2J0eVFiVXV1aDhRZGF0eUZhY0hXVHhEYTRtOFI0WEJ3NVZOZHZUWVMtOXdZQ0pYbVg5UElYaUVFVkNfR1I4V1dJUVlmSXNsVGVzMEdhYUJheEFZbVFjZlA0SkpibGF3VG9JWG1jN0JUQzBENHVYSi10ZE1J?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-29T17:10:47.000Z"
+    },
+    {
+      "title": "STAT+: Unredacted comments from California hospital lawsuits show stunning admissions and a ‘forced’ McKinsey collaboration",
+      "link": "https://www.statnews.com/2026/06/29/healthcare-news-unredacted-ca-hospital-lawsuit-sad-mckinsey-tax/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-29T17:03:13.000Z"
+    },
+    {
+      "title": "STAT+: Longevity, wellness physicians named to panel advising FDA on peptides",
+      "link": "https://www.statnews.com/2026/06/29/new-fda-peptide-advisers-compounding-committee-conflicts/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-29T16:51:35.000Z"
+    },
+    {
+      "title": "Healthcare AI's next big leap: Removing friction from clinical workflows",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRlpyNTdXVncxQS1QbkF2b3ppZ2V4clV4TFV1LVJvclhSbFVfWXhRMEQ1VS1tSmhZal80VHdWdHQ3ak5yNkt1QzIxcDIzUG9HVGRWZ054STN2SnNVcmpwRl9xaFlocXNxLVMteWthUzZ5dXQ4Tjlfd3lIY3RkdjZyTDgzUDVOQVh5T2VCbFVleW5yUjdhSUpzWExRSnRBN0tfUkU3c1VR?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-29T15:00:00.000Z"
+    },
+    {
+      "title": "Federal Loan Policy Is Pricing Women Out of Healthcare’s Most Critical Roles",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb2YzQVc4UWZPVnUtMExTMlRQTVRmZ3BCMkx3cVQ4VHJSQnYzMWVMRmRna1cxNmdSdjlnUUJGTzJ3LW9ocE9wNjFLUm4wRElkYVNXNFBkTzUxejFMYWlSdDNCaFNQbWhGeWFRaThqNzVfa2p2dEhXY2VFTHA1WmU5bEx3TFdlc2cxUGhNVUQ1MXpIcEZ0TzNILTl3SmdMSXVFcHJWYVFRMlBaQV8w?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-29T14:32:58.000Z"
+    },
+    {
+      "title": "Improving behavioral health requires more than data visibility",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcXA5aUpKVHdXUXlsMWpidmpyeEoyUDJvejFMT0x0aXAxUnNCYWdEdlA2cGNjU0swZGdVRGV6ZktnRU1CY0NWNGZtNUVZdTVwQnU3X3huQjdRY0FQUWU2VnZxaWhtMlFsQ1BoREdPdXl0SElUaWplcDVXT3llaGRxR28tZ0pIcDNXS2d4WUJRQkhUS0g4TE51a0Nn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-29T14:14:24.000Z"
+    },
+    {
+      "title": "STAT+: Talawar bets bispecific approach can shake up eczema market",
+      "link": "https://www.statnews.com/2026/06/29/biotech-news-talawar-bets-bispecific-approach-for-eczema/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-29T13:52:48.000Z"
+    },
+    {
+      "title": "Radiologists Need AI That Works Where They Work, Not Standalone Software",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYU5KaVpQdjktazZ2WmtIOGlkdG1kVjl6bU54RlhBOHh5X0pRSlFlMENPak5jQTgzeEdzaXJ4dDVqbzRSWHVTYnJQNG5VQWhobDJaMHlnSTBXMmIta1BSM3A1RFY1eXZma2JLWHNIOXFwWXhHdkFuTmpHTndhUnFRSnczdzQyX0VnMWkyZGd1SHVZdWpzaVhCb1czbUU0aVQtV1JXYVRRSQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-29T13:50:57.000Z"
+    },
+    {
+      "title": "Don’t Celebrate the Wrong Win: What CMS-0053-F Actually Changes",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa1hTdnhzaEdCZzRmUExUQ3lGVThlbWlPaFZ0OW9LVXo1TEh3b1JUbXJrRmVyRDNpRU1GeG5wSTFaQXRKSC1HUl9NMGRMMDFqRGVOWGhRaHRxdWUxUXphMUpVRVEzREhvVHpTdmFSMmI5Yy11bGNWVlF0SDZXeDNkdU9rUVpTNlBIQVBHbkpyYzduelBXbjUzekRR?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-29T13:33:09.000Z"
+    },
+    {
+      "title": "Why integrate payer data into pediatric care?",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbmM5X0kwZUFhLWtGcXZ1UFJRX2NlTEdEeUZENnAta3hmd184Y3gxN2pNd0MzUkd2NVZqdDF1Q2dQVVpka1ZiUjVmc0dPcU45UEFxYlh6NXVsWlFDWjVVLTEtNERSN1NsYnpLRVRnSWN6Mk1oSG9xdUphWHd6cTg3Zk1uMGk?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-29T13:23:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a broader $35 insulin cap, a former FDA cancer drug chief, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/06/29/insulin-cap-revival-former-fda-cancer-drug-chief/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-29T13:07:35.000Z"
+    },
+    {
+      "title": "What’s next for 988 LGBTQ+ services?",
+      "link": "https://www.statnews.com/2026/06/29/health-news-whats-next-for-988-lgbtq-services/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-29T12:04:42.000Z"
+    },
+    {
+      "title": "STAT+: Moderna co-founder Kenneth Chien on the future of mRNA — and Moderna",
+      "link": "https://www.statnews.com/2026/06/29/moderna-founder-kenneth-chien-on-cancer-vaccine-and-mrna-future/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-29T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Investor Clive Meanwell on designing biotechs for population health, and AI’s role as a catalyst",
+      "link": "https://www.statnews.com/2026/06/29/clive-meanwell-population-health-partners-on-ai-biotech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-29T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Sword Health contracted to provide AI-supported physical therapy for an entire country",
+      "link": "https://www.statnews.com/2026/06/29/sword-health-portugal-deal-ai-supported-physical-therapy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-29T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: STAT+: The U.S.-China biotech crackdown may hurt the scientists America needs the most",
+      "link": "https://www.statnews.com/2026/06/29/china-biotech-perpetual-foreigner-chinese-american-scientists/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-29T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Banning gender-affirming care doesn’t protect children — it makes it harder to help them",
+      "link": "https://www.statnews.com/2026/06/29/gender-affirming-care-trans-youth-plastic-surgeons-statement/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-29T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: The ERs that can turn patients away — and are reaping millions",
+      "link": "https://www.statnews.com/2026/06/29/nutex-health-micro-hospitals-er-loophole-idr-profits/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-29T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: AI scientist company Edison Scientific tapped by team behind Metsera to create new biotechs",
+      "link": "https://www.statnews.com/2026/06/29/edison-scientific-population-health-partners-deal-to-create-new-biotechs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-29T04:30:00.000Z"
+    },
+    {
+      "title": "Viridian Therapeutics Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zN2k4d2tWQTNmQ1lucEozV2QxYmtMYTJKWEN2T25hTmdrRnA0clNrcGhBWUdaektUZjZlMWszSF9fWG5XRXR1RlhFTWNWN3FZT2g3cS14SDV4bkFpU2gw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-28T22:43:06.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15S3J5NzJDNW8xZ05xdWdmOUszUXhkTGduX0x1VkNyM0VJVmtqYzlFUHdiZzh5V2tQWm53WEF3bEFHSlVWV1h2dDJjeUFIMktVeHNpbWxNVGpHUlRKb3FTV2Q4aTdMT1BlSkVxS25FV1JucTkxT0Y0?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-28T08:39:52.000Z"
+    },
+    {
+      "title": "Madrid pushes ahead with digital health",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1RLT3F5NEdpZU8yZ001OTdIdFV1UmJvT1lpTkt1ZjNudEtWbFVRMkZ2WHlfeGZPLTMxQWVPdFFEemJyLXhYMXhtRExGRjl4c3JCSXRXN0s1WVR6RUVBNEs5bkNieEo0OXhzUEhPbWZGMVdqNVBYeE92LV9zY2xvc3lOSU8?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-24T18:59:00.000Z"
+    },
+    {
+      "title": "HIMSS certifications guide Madrid's digital maturity progress",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdE8tNmZLYUlTa3VhMlotZnhUbjBGektqdWRPNzFPNGVvRTIwLUhVbkxpU0tVcVZSeTMzQlBPaWlaWHNhUk1uT2dpS2VfOURIcXdla2pPYmVIT1ZKa19XbDRTRWFsdEFnTEgxajNwaFJxOGh1OUtPam5fcTZFSW1xbXJzWHNFdjdwMHFpS0p0bmMycUZBM1FuSEdFanRWazg1TWgxWg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-24T07:00:00.000Z"
+    },
+    {
+      "title": "Rhode Island passes ambient AI scribe opt-out law",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWk1mRkw0VEQwdHZBMkpORGdRZDB2dUlUQnQ2M194WDRzRFg1MUs3X1VFN0ZNNmFnWDVhRktnbjF0N2FUNEVoNkNVdjI0OUM5cS1mcEN1WWZUVGY1R3hSSkY2cjFSb0NiMW0yeXprTlIzNGlINEtXSWFmTFVEcUJWVHlpbzFNUENETkREMVFjb2w?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-23T17:41:15.000Z"
+    },
+    {
+      "title": "Owensboro Health uses AI to improve revenue integrity, OR workflows and more",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlVScWZBMWxUMGFPV0FDRkNfMEotdm92ODlBQld2U3lFdGEwNldYZy1zanhmU0VPTXZVWnlxRDJaalBqekFBYW9pSERHdmFPSjdvV2VOV2p3OUJOamVFRjNqYkt3UlhIeWg4S1Fvb2tvVk05Z05MbVZMQ3ZUalkzdW5OM1lJQVQ2ZjNiZjB6Nzk0MEd6NDFxRHMwcTdaSHgxYVRJUTJ3a1JwUEpuMFcw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-23T16:03:45.000Z"
+    },
+    {
+      "title": "Slide-free pathology imaging system unveiled in Hong Kong",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdHZWQTVHcll2eDZQN0VhbXVUMXZDYnlNT0NCZ2pJbTJQaFFLUEwyRlhDRUQxM185WWlZVTU0dzlZYUtKdlJUN2NQNXNkOXJNZGctNFcwQndxQ3BxcEpWallkMld6ZlRVeXc5VklHY1RjMl9WaU90QjRDYjhuYWppLTJ1WlhlZVZ0MW5ZSVltRmE5b0NHcWMtVDRIZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-23T11:37:26.000Z"
+    },
+    {
+      "title": "Abarca Health and LucyRx to Combine to Scale Independent PBM Model",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTZsYzJzd05XelZYZGd5R1B4SVJCSkFoMFdzQVlKUi1HTTFMOUNLVkpMQTlNWVpSdmxPQks2a2Z5MVNPNGNHQVlBV3VmM3ZKRTZOWk14VTBfOGxCZUVYbXZHd3ZkOVhsRm5YOUpONFVYNVdnaDVwdktXbmZQVXRPamIzcmlKYnlLdWhvTjE2YkpmUjhIZ3UyeENsSDFSSTAw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-22T23:50:21.000Z"
+    }
+  ]
+}
