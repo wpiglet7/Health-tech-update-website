@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-02",
+  "generatedAt": "2026-07-01T22:21:16.487Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 30,
+  "sources": {
+    "MedCity News": 8,
+    "MobiHealthNews": 7,
+    "Healthcare IT News": 4,
+    "STAT News": 11
+  },
+  "summary": "The health-tech landscape shows major momentum in three key areas: pharmaceutical benefit managers face new regulatory pressure with proposed transparency rules attracting significant attention across coverage, while Anthropic's AI platform Claude Science is gaining traction in drug development with backing from major players like Evernorth's $100 million specialty pharmacy investment. Healthcare organizations are increasingly deploying AI for clinical and operational tasks—from EMR-based algorithms identifying cancer therapy risks to workforce planning and documentation tools—though executives are being cautious about implementation and governance remains a collaborative challenge. Notable regulatory approvals include Orca Bio's T-cell therapy for blood cancer patients and Aurenar's breakthrough designation for a brain-bleed device, while emerging research explores synthetic biology and pandemic-preparedness diagnostics alongside growing evidence that GLP-1 drugs may benefit peripheral artery disease patients.",
+  "items": [
+    {
+      "title": "Evernorth Invests $100M for AI Specialty Pharmacy Program",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOURPTk9pRjZ4UGc2T1Z6RUFyZ19YVmtzNVNhVF9NNFZwVWd4bFhRQXd3V0dsZjM5YmlwemFJUDVDWlNTb2w3bV9DU3ZfSERDWjB2REt2OFBmVjNSUWlaS2VBdXZSUVJ2QXdvR2NLanZXZFJIa2NEUEJ4NTJlQnBmdms3Y3BjWWFuNWV5SnV0Y0Jidmc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-01T21:49:01.000Z"
+    },
+    {
+      "title": "FDA grants Aurenar breakthrough status for brain-bleed device",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGg4MzZCNHVzOWpGRldSYjBkX1RkZTNYeHV0SWhCR1ZrQjhDaFpkREhLRjVFd2hseGtTVUItV3FQeTRld1JOYURITHllLUZnZU1pc3U3akxnOW4zY3B6Y0FwX18wOG1nTGc3NHRncGVTczNkcnJOa1VfRzNkNVFKTHpRMkR0N19HWUw0aWZmTXRYdlBHOHJfQw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-01T21:08:20.000Z"
+    },
+    {
+      "title": "Proposed rule brings greater scrutiny for PBMs",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUJCWG1pcE9zSW12SGV1dVJUcXNtM2pNRU1UUGVLd1ZsWVFVWkVvTXZDZG1RSFZfRmtJTFI4TkM5MDZBQjlVZGo2OENmMkNiT1AwVGFPZWZmMm9uX2FwVDdQUmtWMXJlNEZ6Sko2dk1nZGFXWjhuTUFYSGpobk5EZUZPUHBSdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-01T21:07:40.000Z"
+    },
+    {
+      "title": "Possible effects of proposed PBM transparency rule",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeTdpaHRrelB1cll5b0tMdVdoTnU2MVRRZVlOQmg5cW9aVGRoWnI3QUhsMWgxT2RSM1hOTEV0S1pRSHp6VDVNeWlVaGtEQzNpTy1uZWdnbjBZSTZVVjdpc0FVZzZOWG9xUEpaekQ3d3dkNDN3TE9xMk5aNGVNMmVYaUlvRFJJcTI5cjVkSy1rOA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-01T18:35:00.000Z"
+    },
+    {
+      "title": "OpenLoop acquires AI communication platform Hey Revia",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOFA3Sk9XNklZSjlkT2dvemVRLUNkc1Zuazd1aUdVRTlrZ3ZaYk1TSXY3WUhQcjF2a0F0dkM1c3VuWDNwaXAwU0ptWF9mS1dZQ2JiV1pCdlRUSnRwekZ3RlBjRGZ1QmNsLVNLTnBsRnpEdkVxUjlDSm1UV0JDOGNPZV8ydXZOeFMzMEs2XzhqWHRNNEE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-01T17:58:54.000Z"
+    },
+    {
+      "title": "STAT+: The moment Anthropic convinced me it’s serious about science",
+      "link": "https://www.statnews.com/2026/07/01/anthropic-claude-science-convinced-me-its-serious-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-01T15:11:47.000Z"
+    },
+    {
+      "title": "MedCity FemFwd: Inside Winona’s New Women’s Health Research Initiative",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEJONTFDU3U2dUNhb3ZWd3FRZW5ic19VTTdFVFBfMDZVWDlWR0tpMFIyTnhxZUh3aUxlS2NNZFpmck1QYWFIT25lUXllcmd0UnhyNG9zRHNWeFNmZ284TlFVVUxESGVKSE11QnJGbGVBQ2dsTExucFl0SGx3VGVKMElwclhjTUNBTFgyRlFUTGl2NTdIa3Z2SHFCQlRjM0JGaFE?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-01T14:41:11.000Z"
+    },
+    {
+      "title": "Future healthcare workforce depends on AI",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaWlrR2ZWWVRISGhhOFlRNlM5bkR6dzhwYVBVSnpiN05KLWpQYkh2THNzX2xYU21qQ29JR3l4a3d0Tks4R19iSlFLbU43bHRacE9WcjI3a2FEeHdPVi1Ma1BZZnM0TFFHWGRYTUdqcEp6eXowbmExTDFod3lWbVI4Ng?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-01T14:33:27.000Z"
+    },
+    {
+      "title": "STAT+: Synthetic biology researchers think they’ve made a cell. Is it alive?",
+      "link": "https://www.statnews.com/2026/07/01/synthethic-biology-researcher-announce-creation-spud-cells/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-01T14:17:19.000Z"
+    },
+    {
+      "title": "American Hospital Association announces new CEO",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQlEtY2pLQkRCamM4NkZtdWx5S0k4WGI5QUNxcTZ2SFFzV2UyTmxhc2tZN0hQaXRzU0VaenFkY3otSnc1bjF6Uk5zeDhsMS1pbkxnajdSMFZ6eWx3d2dJZlI3emMxdzFQNVVtcGM3Tk5oZkpIclBHMkUyMG1qUE16bmZkNzB4Szd6VWs3eUNn?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-01T14:11:47.000Z"
+    },
+    {
+      "title": "Your Healthcare AI Strategy Is Probably an Architecture Problem",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcmlTZnprZldVejA5OE1sQjNDOXdOTkxWLTJVemprSnRkNnJTc1pjXy1lZlFkb3BGaFNJUWNHNkRWQXJvZUtXWkxubjN6LTZONVpwSDczZWFpTXVhVW5sc0k3QkF3ZGxXWlE3ZVdXOWMtUU5TeDJYSmRpeTdURTk1REdNRk9Rb1d5VUQwR0p2NG9sMmV5ZDVwVEtFV1I?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-01T13:54:09.000Z"
+    },
+    {
+      "title": "AI governance challenges need close attention and collaboration",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlU5U1RrSld6UTBHMTZ5TUFWZThmNGJ1Y1p6TGtOcnZHaHNjbXhoSEUwTDdDdWpXUjhEdjMzZmFyLWVNbTQ4a0M0SFcxNkU2STlucmhuakZXMmpQOV9pT0tOS2hLVzJYamdBSmdYekVGRF9GS3BpbWRMd0RueW8tSURTZzJnUGhMRGFvRDZmSW1XUlRLYW1Uc1NPZGdORHJRbmNr?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-01T13:49:46.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Anthropic drug development goals, Trump drug plan snags, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/07/01/anthropic-drug-development-goals-trump-plan-hitting-snag/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-01T13:41:23.000Z"
+    },
+    {
+      "title": "STAT+: More signs that GLP-1s may help with peripheral artery disease",
+      "link": "https://www.statnews.com/2026/07/01/biotech-news-glp-1s-may-help-with-peripheral-artery-disease/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-01T13:37:58.000Z"
+    },
+    {
+      "title": "Providers are being judicious with how they tackle AI use cases",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSWN2cDJKdUYwNkhUUUc3OVJZa093RDc5azUtaG1hS2Z5MkxNZGxOeUxqSjV4eFR0RWFsNng5Qnpwd0RMRXRtZzRyb2JPa0tJNThMd1J2cU4yb05XUXBURm9QTjRXWDcxYnh5SkVzWDRHREFJb1FsZU16OVZNeU1DZ1ZudnVJR3hKMGxWQjF1Y3lQNjJnUENCRFpKM0trdw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-01T13:35:00.000Z"
+    },
+    {
+      "title": "Healthcare Retention Depends On Better Pathways, Not Just Better Pay",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFNSQWNwdW9OWVZCWG1DTDVGb3FRZmYxQkw0bTFSYmVzdDBuRjIxVDBCRjgxOUtWNUczWXJDY3N1bEpETnV4UWEzcXN3SHdvTWxmb1ZTQTFqcWc5UUpaMzhIdEpJZkptd3BuVEpzOGpwWU54NjJCX2NPanlad3d4X1RtY29LV3BwaTFxb3BEMkR1N0JIWlN2R25FQ2F4MnhiVmc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-01T13:25:39.000Z"
+    },
+    {
+      "title": "What Healthcare Leaders Should Know Before Implementing AI-Powered Documentation Tools",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdldXa0Jtb25qeDRLR0UwNGE0b09pYW1PWTBmSFMxS01yTEJzTGlqaUNEZ1Z4THhTdURtakQwOTZLREtKa2swMklJcC1FallGd2h1RXJmaGNYWkR3UEhNSExjLUl0cnp1bG5DYVFXa0RaVUt1SVRudWdSYlhPTVd4eDZFZmdWODBmOHM2YmZ5WFdYaE8zVFFXZHFDdXBRV1lYQ2FRaE1mRDJxR0tGZU41bFpXNnZNMWZGeGhJ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-01T13:06:11.000Z"
+    },
+    {
+      "title": "FDA says Zyn can market its pouches as safer than cigarettes",
+      "link": "https://www.statnews.com/2026/07/01/health-news-fda-says-zyn-can-market-pouches-as-safer-than-cigarettes/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-01T11:50:18.000Z"
+    },
+    {
+      "title": "STAT+: FDA approves Orca Bio’s T cell therapy for blood cancer patients",
+      "link": "https://www.statnews.com/2026/07/01/fda-approves-orca-bio-treatment-blood-cancer/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-01T11:38:17.000Z"
+    },
+    {
+      "title": "Opinion: What Ebola and Marburg are teaching us about the next pandemic",
+      "link": "https://www.statnews.com/2026/07/01/ebola-virus-outbreak-bundibugyo-marburg-testing-krutika-kuppalli/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-01T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Maryland Gov. Wes Moore: How to improve young men’s mental health",
+      "link": "https://www.statnews.com/2026/07/01/young-men-mental-health-loneliness-despair-maryland-wes-moore/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-01T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: The biotech scorecard for the third quarter: 15 stock-moving events to watch",
+      "link": "https://www.statnews.com/2026/07/01/q3-biotech-scorecard-readouts-approval-decisions/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-01T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Booze schmooze: The alcohol industry, frazzled by headwinds, wields its power behind the scenes",
+      "link": "https://www.statnews.com/2026/07/01/alcohol-lobby-immense-power-explored-deadliest-drug-part-7/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-01T08:30:00.000Z"
+    },
+    {
+      "title": "Anthropic Launches Claude Science to Court Pharma Ahead of IPO",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GU1hISUJhTFc2ejM4X2FUcmVnWHRydUpfQkcweGVIbEVUNTdtdlVjYzBEOG5MSG8ybEsxSGtLYWk3YVdKZEZVeDFWOWNwNGxuUHg1bmpVdEszTk80RXRhNmNFMUFwUm9oakR6MA?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-01T04:35:02.000Z"
+    },
+    {
+      "title": "Spotlight: Payer Challenges and Opportunities",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iX3dMQ0R5N3VkSHNrZVFyVUxJN3Fub2xQTWt4Y29GemFvbFV5Szc5Nkc2NTFqMWJLVXE4amVINGNqM2VBQktHaGNTSDlVek1GNlNXbEdBeUlVUXpxdnlERXNvTmJjMFppYXhlTnhTY3VZaDluU1F2cW1adjJlQQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-01T01:50:16.000Z"
+    },
+    {
+      "title": "Frederic Scaerou Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56VWtvd0NVTmVxaXZ2SnBjUEpqd0QxTlZORUdXWk9tdEJKY2huNTk4Q2xSOEFkTnE2ODZYVTQ2ZEhaMlRzVU1nTE5JTVBndWZfNlZQMzlJbFk?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-01T01:50:16.000Z"
+    },
+    {
+      "title": "EMR-based algorithm identifies patients at risk of serious cancer therapy side effects",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa3paWkFPY2JaQ182YWZva19JUEt1eXVSd21LZ3owcWxxclpiZjJabzRGN3RaMlpZOHhJSktrb0dTaTBFTjgtS0RsNFp6b2Q4ZDZ3ZXctY2N3a3JZZzhHVjZSS3FKZklmTkFqcnhpRWljUGhYdTVWRjczU21tVV9XZE56Z0g2amdIVzd4bFdtY3NGN0lEU3p3UHpPa3NWYWNQcjlRcHllVlQybzFqeTlhdUEtZTlzX1JxYWFYMQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-30T23:32:37.000Z"
+    },
+    {
+      "title": "Indian lifestyle app bags $7M and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQblVVc0dWWERoMFhZd3Fxd0s5VzAyMFJ3c2tPTzdWUlF4WUR5enU0WTNCRUY0cmdRSDJJQVVZUlVESzVmbkVrTGRHTlFXX2ZTVjBBRHJCRmhJWlcyekstNW0xQWU3S0VOUnJjX2h1eDZZem51UWhkaUVxZHI3cERLd1JZVUxYdXJVdWRGLWRR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-30T23:30:15.000Z"
+    },
+    {
+      "title": "STAT+: AI company Anthropic announces it will begin developing drugs of its own",
+      "link": "https://www.statnews.com/2026/06/30/anthropic-ai-drug-development/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-06-30T22:48:28.000Z"
+    },
+    {
+      "title": "Mount Sinai taps Signal 1 to manage growing AI portfolio",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0s2dGozYkNqZGM0Q2NKMlphSjg1dVc0OE1leXZDRVFMSGM2T0pBY0NFXy1vbldCSk1yVk5xN09XQ2ZETW5vcnUxNXktRFRfZTVXclo0UHE5OWtIdkJZczdmWHNDWjlaSjhUUzVoSVNRRUFyZ1FHLV9fQVFGSDFRMlh1dGtXQkd5QmRPaDQ1blhzRUU?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-24T17:47:15.000Z"
+    }
+  ]
+}
