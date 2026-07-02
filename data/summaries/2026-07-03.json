@@ -1,0 +1,286 @@
+{
+  "date": "2026-07-03",
+  "generatedAt": "2026-07-02T22:11:22.287Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 45,
+  "sources": {
+    "MedCity News": 14,
+    "MobiHealthNews": 4,
+    "STAT News": 17,
+    "Healthcare IT News": 10
+  },
+  "summary": "Today's health-tech news reflects significant momentum in biotech innovation alongside ongoing regulatory and policy debates. The FDA cleared several notable advances including the first neurostimulation device for PTSD and a landmark cell therapy from Orca Bio, while Roche announced Phase 3 lung cancer data claiming advantages over competitors and Neuralink achieved its first Canadian ALS patient implant. The biotech sector continues its strong rally that began in April 2025, with investors showing renewed confidence in the space. Policy tensions dominated coverage, particularly around the 340B drug discount program, where both Medicare and lawmakers are pushing back on hospital pricing, while a federal judge blocked Colorado's attempt to cap Amgen's Enbrel drug price. On the technology front, AI integration in healthcare faces persistent adoption barriers centered on clinician confidence and trust, though companies and regulators are still calibrating how to interpret FDA guidance on AI tools—with some observers arguing industry is being overly cautious.",
+  "items": [
+    {
+      "title": "Color Broadens Cancer Expert Medical Opinion Program",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmMyXzR5VmYwQk9NTDhoWFVqZkY3M25nWHF2eExFcGY0SlluYlNDSWNNb0FPbG41ZTFZd3daMXJpbktCWkd2aVdkQ0d6NF9xd2dWWWhnYkIxRjBPall4V2pqMFlvN3pud0xtcDZOelBZREkwTVlZX0xJek1xTkI5Z1FWSGlDRXA5ZEt2SXdn?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-02T22:00:44.000Z"
+    },
+    {
+      "title": "First Canadian ALS patient receives Neuralink brain-computer implant",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnFsd3diR3Etbk9vU0Y1THdrWnl1Y2ZfM1IwMmwxU0lzVUN3LTVoREJwVGFtdmd0b0pwQkhMT1prd0lnVkotNlZ2LXhhUmVYODZTY19qNHFueGFrN1Z2SlVtb0pSQ2dCM21WWXVDS0YzSkV1dzRBV0tuVGxNMmktaloxVDdtSEM5by1wTVdLdEh1WlVmOVcwcC13SzVwT2hRRVlyREF3cw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-02T20:28:18.000Z"
+    },
+    {
+      "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
+      "link": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-02T19:52:19.000Z"
+    },
+    {
+      "title": "STAT+: Lawmakers urge HHS to force Eli Lilly to provide 340B drug discounts to hospitals",
+      "link": "https://www.statnews.com/pharmalot/2026/07/02/lawmakers-urge-lilly-to-provide-340b-drug-discounts-to-hospitals/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-02T19:52:14.000Z"
+    },
+    {
+      "title": "Why the Office of Personnel Management Needs Access to Government Employee Health Plan Claims Data",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnk3b3QtWjl4c21YRGFSS2ViTnBLeHVVbUdBelBnNFBSY1hCeHE4X1dLVjl1bkJha3FQM3l1Z3VsZVJvRDJGTU9ORUZmQmF6ZmZNZWJ3OXFFamFpVmhsNF9aQnFvZGRreE5waS1OaXgxR0FCckh1WWZzRzRLYkRMTEEzRGxVZlBwMDlOWjROQU14X21kV0NYN1pIWUFibF9kU2pybzRfNjR1aVl5ZlpXcXc3R1Z6R2Jfb0J4WWFoc2NTQmFQdFNrdDdkWQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-02T19:17:03.000Z"
+    },
+    {
+      "title": "divarasib Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BTVQyWTMzS1RvUVVIT0NnUGo4MXJnUUJZRFBFVXFmUFZQdU82S1JMdTFVRzFkSlBOTTFvVzBHeFhPaDdlMkVuY0FtOTN1dVk?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-02T19:07:43.000Z"
+    },
+    {
+      "title": "With New Phase 3 Data, Roche Claims an Edge Over Amgen and BMS Lung Cancer Drugs",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNzc3ZWNYalBmTVAycXdyUnVTVXk2ZENId3RPM2JrWmg0WEw5NE5fdTRxV0RYanZCbGlaNHpoNlVXbWh3X0FOUV9EWFQ3V1hHQlJmS1g3X1dyWHZaaXo0bk1EQmNON3RWa0RyeVRfWUR2YnFROTRLcl9EejlIRmJZRjMwLVY0dkV6Y0JzdUd5c1ZuRjI0ZHppRXFB?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-02T19:05:43.000Z"
+    },
+    {
+      "title": "STAT+: Elevance sues government over $115 million tied to Medicare Advantage star ratings",
+      "link": "https://www.statnews.com/2026/07/02/elevance-lawsuit-medicare-advantage-star-ratings-clover/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-02T18:34:05.000Z"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "link": "https://www.statnews.com/pharmalot/2026/07/02/pharma-biotech-jobs-ladder-vertex-gilead-astrazeneca-lilly/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-02T17:32:09.000Z"
+    },
+    {
+      "title": "Anthropic debuts Claude Science, renews access to Fable 5, Mythos 5",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZDh6cldnS2tXQmJCY2sxSUpfMFZseEQzSC1IQzVfMEgzdUhvZlloTThKRjJGMGhlYTZDN2VLOGdud0FVMzR1QWFUWDI0MDV2X0NQeWdPMjBQZW9ZTTVDX3d5UUFuVGlQRjVUbEFxTGYyVTVLRUZlc0plZXRJanA3bTBwQlFwM2xjN25KM3FwcmFxU0RMa3pGM1FSeUhma3c?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-02T17:27:35.000Z"
+    },
+    {
+      "title": "STAT+: What does DeGette’s loss mean for pharma?",
+      "link": "https://www.statnews.com/2026/07/02/degette-loses-to-kiros-pharma-presidential-fitness-test-dc-diagnosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-02T16:09:48.000Z"
+    },
+    {
+      "title": "Debunked Episode 28: A Little More Transparency, A Little More Action",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTRUT1BjYzQ0ZkV2TVV0Z0ZKMFhlZnlua3Z5U29BSzdYVG91ZS1tTldhUnJOcDY5b3FaSXQ5NjladjVEa0VzRVZlQTdsOFdRS01GUURtUFNxbEFmUnZPZGZ3OUlyR1hIS21TMWRBNzZ6T25wY1RoQTExQ1Bqc1NhUkxfUVd1ZWM0NFRyVXJ6UVJ0cVpHUTZpNFNMLVRRYW41R2c?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-02T15:49:02.000Z"
+    },
+    {
+      "title": "All of Us of Research Program hits major milestone for precision medicine",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUVTdDYxeHZCSzVuUXpRTmMtbHR0WU5hclN4bldXdmpkUmdzQTkwT0I1QTVSZW1oeFpyUGV1VGFBMi16VG45bjFHZ3RDWS1rSFBzekg3WlFmSENjaUxzdHZoU1JXYmVPOXlzWWZMR0JCMHc4VTJWQVRrTEJqZDRQSDQwaEd1QTRoVUcxSUo3emJVOFktMjBDZjY5ZWJXd05pY2d3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-02T14:33:10.000Z"
+    },
+    {
+      "title": "Why enterprise architecture has never mattered more for integrated health systems",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMkR6WDY3dmxTVThDOUNQZURqa0dwUEVpMVlqZWdXQzNVUDE3TVBNcnJFeWRDbjhBMjBDU1ZBbHhFY0Fjd0duMUZTVW41azhUWmVENFFsbzRIWWZxeG1PamNlaDBadTlFUnc2alJuTGtGcGpLQjRFY1k3ZHFmbUtKeVJQWktya0J3UHpXaTJpUjhocEJtdUhKampUTTdaMUFjbnp3TjJZSm9nZlA5QWQ4VFNiMkpKUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-02T14:32:52.000Z"
+    },
+    {
+      "title": "Blog",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11d3prVzhEZXV1TEJTb0tsVXBDNE1MSVJIUHptZnZKWG1hdm0yekl3R0lMMkYyZktkTFUzeC1YczUwVktRVWE4LWJ0Wk5YUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-02T14:32:00.000Z"
+    },
+    {
+      "title": "Prashant Akolia",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Zb1cwZHowbXNTNmNXVVFCY0pfdER2ZnJKTzFYWG1lT1l6ZkFtSERuYlJvLVZPLTZ4ZWoyS2VzSjMxaW1oakRwV2dMZk5JREhVSmdpU25nTEFqcUFqbnV2Mzl0cjRRZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-02T14:32:00.000Z"
+    },
+    {
+      "title": "HIMSS offers assistance as demand for AI guidance grows",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVZmaEhZa3BOS3BzSGdNSkFEb2xsM2xHZkYyUzd1R21FLXZtSzRmOV8xS0N1TUQ0R3dGTDF6TnZ6clVQOUpqX3gxZFVXS3hyM2hPalZVc0N5TEVZMkgxQmVEaG91Zy05WVExODNjaVZrelpEMEV6UmZweUthNGxneDJyTnVXMnd5ZDkyTDVB?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-02T14:25:48.000Z"
+    },
+    {
+      "title": "STAT+: Roche drug sets new standard for KRAS-driven lung cancer",
+      "link": "https://www.statnews.com/2026/07/02/biotech-news-roche-drug-sets-new-standard-for-kras-driven-lung-cancer/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-02T14:13:27.000Z"
+    },
+    {
+      "title": "Hospital Networks are Becoming Targets in Cyberwarfare, and They’re Unequipped to Deal With It",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnNuOTZPaFFDQ2t1c1ZSb1BzQnd6aUtpaURhV3FLd3VSbkdZRDhpanFBazNnWnpBbzhtVEJLTFVUclFDUkRaQTJvUXFINXdZTHZPeG5KT0dDQVBCVWNRdnRZWFFmdTZNNkV6MEF2b2RNVkN0WVBOVGVOWkFGVXpMTkV5RnpNZ0Q3blVwMEZ4TFFLcWcwVHpRVkRsb29la3BwZTlzWTd5NjA0ZFNKMUt3MW1yQWVUQmxDbnVIcFZ2MG1qRXc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-02T14:04:33.000Z"
+    },
+    {
+      "title": "Hantavirus Is the Warning Signal America Should Not Ignore",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa3pJaXJTU1JXS1JfRnVTR3pMSzk4NDJ0dWtfbFVpdWJKaVVoR3l2aGJTc1g5WmVRVzFmeWluU01qZC14STVGV1VVTjl4MTRVaDd3UzhqRlNMeV9EU2JSbWlVVFA4T3o2SjgzWXBUajBTVDBzTHFSa3dzU3VscnYtTHRudW9tTWdNaTNzb19mN2lMWUJJTWc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-02T13:54:01.000Z"
+    },
+    {
+      "title": "What Happens When AI Stops Answering and Starts Handling Healthcare Tasks?",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMl9sZE5TTzgxb3NYS1BHQXNSekgwWDdZRUdGVDBkNGxOWC1vVWlndlN0bXdfdURSZm9OUHlMdjVjaE41WlFRaHpEMkJWaFZHd2lmZjZwQmg1emRkNlc2UHpTN1V3aG1oMDFNbGdIaVhWWFo4eFNfS3NjZkpNZndmd2U5eWI0Vnd3VE1ld19SVWMyYTNOdkd5MndDandlLTc2bnVma0FjUG5fUQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-02T13:39:01.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a court win for Amgen, Novo seeking supplier discounts, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/07/02/amgen-court-win-novo-seeking-supplier-discounts/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-02T13:25:04.000Z"
+    },
+    {
+      "title": "One common barrier to healthcare AI success: Confidence",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkYxcG5Xb3hJSTluS1duTURLaFdPb1NMd2NJZHhzZzBIVjNqT0FQSnR5ZmM3cmFYLWtLRFd6SlhiSUlScFN3SkE0OXlVcUw5aE0tN1M3UnlHU1VUSXFQOUp6YWhueTlnbGFBZmpfZDE0YktibnJpR0c2a3M5TlhiS1U5MHpZdWI2YnUyMURVQlNZWm5S?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-02T13:21:00.000Z"
+    },
+    {
+      "title": "Can AI really rescue clinicians from the burden of admin?",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdXZkRTNqdnE4VWtiUVVuTExSSi1yZEJqUE5zekktYTlodjZTQkNaSXRsZlkyakN4aWRlY0gwRmFrSnA4b2o4cUp0bm9CcXJrVjJXbHRENWxxYjVMQ3JqU2x5WTNSc2U5RkZ4UWRkM1JfdUtzUjNBNVVUci1BVTVEazBNUGUzZUNmUzZES3J0bzA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-02T13:05:49.000Z"
+    },
+    {
+      "title": "STAT+: U.S. judge blocks Colorado’s first-of-its-kind price cap on an Amgen drug",
+      "link": "https://www.statnews.com/pharmalot/2026/07/02/judge-blocks-colorado-price-cap-on-amgen-enbrel/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-02T12:54:40.000Z"
+    },
+    {
+      "title": "STAT+: More frequent, more intense, and longer heat waves pose health risks for Americans",
+      "link": "https://www.statnews.com/2026/07/02/health-news-frequent-intense-heat-waves-pose-health-risks-for-americans/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-02T11:24:59.000Z"
+    },
+    {
+      "title": "FDA Clears First Neurostimulation Device for PTSD",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ldkt3NmEyWE9wQkhIMi1iWFRzN2x5MV9NZWpTclZCSEdyd0VjdFRtemVYUkdKUEt6OTFuZ3QwTEVaZ3lJcURja3dkU1RrdnRPQlVSVDBqWlgyZ3RQZktnZHVtYzY4cm5fRmc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-02T10:48:52.000Z"
+    },
+    {
+      "title": "STAT+: Halfway into the year, biotech is booming",
+      "link": "https://www.statnews.com/2026/07/02/biotech-sector-booms-capricor-fda-meeting/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-02T10:30:00.000Z"
+    },
+    {
+      "title": "STAT+: A ‘historic’ FDA clearance raises the question: Is the LLM an interface or the decision-maker?",
+      "link": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-02T08:30:00.000Z"
+    },
+    {
+      "title": "The new presidential fitness test is a positive step, not the solution, experts say",
+      "link": "https://www.statnews.com/2026/07/02/presidential-fitness-test-will-it-boost-physical-activity-youth/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-02T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: A year after distressed buyout, what’s become of Bluebird Bio?",
+      "link": "https://www.statnews.com/2026/07/02/genetix-david-meek-bluebird-bio-turnaround-effort/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-02T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: A former AI regulator, now in industry, says biopharma is reading FDA’s guidance wrong",
+      "link": "https://www.statnews.com/2026/07/02/fda-ai-guidance-pharma-industry-caution-tala-fakhouri-explains/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-02T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: CDC leadership continues to try to manufacture a scientific debate on vaccines where none exists",
+      "link": "https://www.statnews.com/2026/07/02/measuring-vaccine-effectiveness-test-negative-design-cdc/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-02T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Teens are turning to chatbots for mental health help. We need rules to keep them safe",
+      "link": "https://www.statnews.com/2026/07/02/teens-chatbots-mental-health-rules-bans/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-02T08:30:00.000Z"
+    },
+    {
+      "title": "New app guides allergy prevention in Aussie babies",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPblN4dUl3WWtPT3o3VUQ1NS1LbjJTYU1jbDZvSHpNeW1IWFFqRGp2YTFFYi1ZSzVJdHZhQUw0TERRVEZpRG1rZ0FNVERzRmY4bWNRMG4yS2NKeDcxR3ZCS0RYaEthNDNKZFU1bGdRa21LU05mLVpCdklSLW41d3pjaGpNR0h5cHJiWmZpY2NuSVk?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-02T08:11:05.000Z"
+    },
+    {
+      "title": "Neurovalens Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zTVpPa1plYk5KUU5NVElhMTZQNnBGUk9xODJuWXliWVkzQ0NpTFVfa2drN3pXUFF6RmZ1bDRYeWxZbWVRNmo2OWcyMGVnMUZqTXc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-02T04:54:59.000Z"
+    },
+    {
+      "title": "Belfast Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FUVZkZThqdGp5Nlloc3pmV2xYdDVUZl9nT3F1T2V0SVJQWEpaelA1Z0U4eGZnaDJNUXdCMVlCVW9ZVnhSZGQ5b3JQQnc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-02T04:54:58.000Z"
+    },
+    {
+      "title": "India launches health terminology service",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ253Wm1hXzZ2Tk9MdEhMOV9kNzdQNGx2VnNEbm5CZVpiWklRaldOc3Fhb1dqaXpRNUxUcDFJN0hzd2dFVnZjcnJFT0tSaUtiV2tmMGxLWkxRajBjV0hTdnFFbGRreFVmbExBSld0RXlXZDZTbndQQVhGZnRuTExBcEtVYWJzWUFVMURTMQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-02T04:06:28.000Z"
+    },
+    {
+      "title": "India links child health data systems",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSjJPVThyLURRTS1VcENNV3E5LXNRN1Qwc19SeVhyWVd3V2UxRlA0Z1ZQZGZVdTNaWm1LRVd4U2NKTlFsRmJ0LU9pZk05V0VsWlltZVJ2Tm9pMVp4ckhZRnUtaENPamo5dUh0MWVHVjBnelZ0MGZYV0FwTjR2a3Nfb1ZGYkRvYWs?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-02T03:17:43.000Z"
+    },
+    {
+      "title": "Nate Fernhoff Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VbHBaMy15dm4wXzlqZ0J6UUFMdnhXTlh6bzZXSlcxa256OHJfRkZSSV9Ic1lMZ010UzRVNXFMV0ZPLXo0NU9jX18zQnVGNWJZQS0weg?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-02T00:47:36.000Z"
+    },
+    {
+      "title": "Orca Bio Cell Therapy Gets Landmark FDA Nod for New Kind of Living Medicine",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNW9ZdW1UOERLUjZ2QnN3bjkyaXE2M1ZzSzJ1b1IweTFOYUFFUWViQzVyeHoyZFlOb0pTaEtLYlBXSFZpS1R6R190YzJSbGE1ekEwb1loNUJISjR0dkNPZkhMbUNCSmpJMS02cEhUb0ZESjdhd3k5M2tfVFJVSEZ4R3N4QnRGa3Z6Z1R4cDFtN3JQSVBCWXZPQ0ViS05UT29pQ2JzQllBTEwxa0M1QzIycDRtb0NUOGpYVkQ0?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-02T00:34:01.000Z"
+    },
+    {
+      "title": "Statins and blood pressure drugs changing health risks of obesity, study suggests",
+      "link": "https://www.statnews.com/2026/07/01/lancet-obesity-blood-pressure-cholesterol-study/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-01T22:30:00.000Z"
+    },
+    {
+      "title": "ReferWell Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YUWxFTnJFS0xMSDRfb3NxemdUX1FNNVNvN0R6NTlMVkthQ2RWYVltcThZNE9nRlBxcjlTRGY5TGhYNms0TFlQSFU1X1hZVXc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-30T08:41:54.000Z"
+    },
+    {
+      "title": "Clinician trust remains one of healthcare AI's biggest adoption challenges",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTEwbURkYWJfQmI2Q295M2N0ekVUZ202Y1FTdzZsYlEydVdNMG9uVUNSQVhRdHJpR3FSdUc1MW9MZkZFTGhGNGNZblZGMjcxaVpnS1AzcW1kY2dXNWpBU2NWUTQxSUxpZWV4V1JCMTgwN3kwbUdGRmJJT2dUbk5acHJFdjNkaVRNRGNfLVRfdGMzM1M0SlE4MzlyMnlFY2MxdE1kVFoyMUdKRUNhZnVnRGFKcDY?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-26T20:56:00.000Z"
+    },
+    {
+      "title": "Heidi",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14WDNJUFIxVEpqVlcwVTFZeU5KdzgzMWpWWl9kME5Rc0FPd1VxU3NpVFdTWGZnbXBCelBoQnhDVXNjRHR3c1ZiVGQxX0hXa3psakExRlBBOW11TXc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-26T20:56:00.000Z"
+    }
+  ]
+}
