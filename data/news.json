@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T22:11:18.372Z",
+  "generatedAt": "2026-07-03T22:08:50.079Z",
   "sources": [
     {
       "id": "stat",
@@ -25,11 +25,67 @@
   "count": 120,
   "items": [
     {
+      "title": "brain bleed Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vSnhtY2lSak1mSTVUX0FIMWZsLThTOGhPeFp4UGpBZlRRZFdiVm15TWRNV3VMTWhnQkh4SV9rWi1wTGtMbDhQa3RTeDdESmI3bmc?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-07-03T13:14:51.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "UHG Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05OE9RUjdjdkEtV1dFREp1SEVSdUpfdFdGYl81czQ3YTBreXhYdTZuRXJCTm5aaTBsOEVONmxQd2NNSEZiY05r?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-07-03T10:04:58.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "This Ear-Based Device Could Save Patients from Brain Bleed Complications",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzeW90U3REbmtMV09lUjBmUUlnV3BDSG80NUpmV1ZLc0JaM3gzS05FYy10VlRxS0xuVjE3NGVJWXpDOW82a3R3SnNYa2w2MXBVSXloUGI2ZFJCSlFwVGFtS3p3SWIwRHdpRi1j?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-07-03T09:23:10.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Telehealth, IVF services tracked visitors online without consent",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkNWYWxDeDFuaU4ycVpUa3JENGttMzVueXRMRjJGVUU4WldHeWpQSmJ4NW1zYjRvVlM2cG5Uckxjc2ZSeGt3WlQtdVkxS0FHWXhiWEMwUl94dXRzUXRsYU5LTm80N1dXSW1oTmczS2FJUDZ0RnM2WDNDNi1wUnlXZHAyOG8xall6TU5KQWU3RjhQOGloUjFvYUxnaFZEcTA2c29FbVBPYTM?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-07-03T06:52:03.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tODFzUHJaZERlRVh6bnN1bHJiZk9kendSMnhHNGIzR2U4bl9EVXBwVHVwWDRxTFA0REU4b1loTFRrNWM1MnowWWI3bFBrRi14OFNPaW02dF9pdmVON3J4ZEpxdzhCTWRGb2xoTDc1cGVmMGE4UGZvOVN1dw?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-03T06:37:19.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Te Whatu Ora plans robotic surgery adoption and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMlh3WUFIbWRDUUY3QmpHZHBzdlhrQ0l6elBuc3R3YVZFQzVfSWNCX2ZaZUR1TFMxbXdEclVoNUltMDV6THpwdEJId0RCSHdBTTRaMkhTWWJYWGdVVGRySGFIOUZTamRSbkd5bWNGLUJ4azIwNEk0Q2VXNU9jcWkzWkk1eWRWM1RJb0tuR2NmZUR0RVUwRHFsSmFtNnlUazVPWmNz?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-07-03T03:47:05.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Color Broadens Cancer Expert Medical Opinion Program",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmMyXzR5VmYwQk9NTDhoWFVqZkY3M25nWHF2eExFcGY0SlluYlNDSWNNb0FPbG41ZTFZd3daMXJpbktCWkd2aVdkQ0d6NF9xd2dWWWhnYkIxRjBPall4V2pqMFlvN3pud0xtcDZOelBZREkwTVlZX0xJek1xTkI5Z1FWSGlDRXA5ZEt2SXdn?oc=5",
       "source": "MedCity News",
       "sourceId": "medcity",
       "date": "2026-07-02T22:00:44.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Claude Science",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sM1RjZnQ4b1QyekNsejRKMFVmT2xJV1FDTWhkQVBzNF9BWUlTcndoREczU3I2U2xQV1lBR1dBSUdXYWM5SXBLeXR0aXdxWENNc1E1RFEzUGJtMkJxcGc?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-02T21:51:38.000Z",
       "snippet": ""
     },
     {
@@ -77,7 +133,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNzc3ZWNYalBmTVAycXdyUnVTVXk2ZENId3RPM2JrWmg0WEw5NE5fdTRxV0RYanZCbGlaNHpoNlVXbWh3X0FOUV9EWFQ3V1hHQlJmS1g3X1dyWHZaaXo0bk1EQmNON3RWa0RyeVRfWUR2YnFROTRLcl9EejlIRmJZRjMwLVY0dkV6Y0JzdUd5c1ZuRjI0ZHppRXFB?oc=5",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-07-02T19:05:43.000Z",
+      "date": "2026-07-02T19:07:04.000Z",
       "snippet": ""
     },
     {
@@ -87,6 +143,14 @@
       "sourceId": "stat",
       "date": "2026-07-02T18:34:05.000Z",
       "snippet": "The health insurer says CMS didn't calculate its star ratings appropriately."
+    },
+    {
+      "title": "Sword Health brings AI physical therapy to Portugal's NHS",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTVubm0tUU93NmQtQTRGTVZ0QU40SjBhU3puU2pFSWtoQWg1MDZ2bUFiY29oM2w4RjZneTd2eDZXNnQyV1ZxQWhGSFpuc3l5M0hDbEM3emxpaWdQbEFCVVNIVlctNGY1YWRveGtTeUtDRTNwbGV0YjV4RXVXOENJQW1pNm5Xb1FYRjdPRDc0UjBLQUU?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-02T18:20:15.000Z",
+      "snippet": ""
     },
     {
       "title": "STAT+: Up and down the ladder: The latest comings and goings",
@@ -313,14 +377,6 @@
       "snippet": ""
     },
     {
-      "title": "Belfast Coverage",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FUVZkZThqdGp5Nlloc3pmV2xYdDVUZl9nT3F1T2V0SVJQWEpaelA1Z0U4eGZnaDJNUXdCMVlCVW9ZVnhSZGQ5b3JQQnc?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-07-02T04:54:58.000Z",
-      "snippet": ""
-    },
-    {
       "title": "India launches health terminology service",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ253Wm1hXzZ2Tk9MdEhMOV9kNzdQNGx2VnNEbm5CZVpiWklRaldOc3Fhb1dqaXpRNUxUcDFJN0hzd2dFVnZjcnJFT0tSaUtiV2tmMGxLWkxRajBjV0hTdnFFbGRreFVmbExBSld0RXlXZDZTbndQQVhGZnRuTExBcEtVYWJzWUFVMURTMQ?oc=5",
       "source": "Healthcare IT News",
@@ -342,14 +398,6 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-07-02T03:17:43.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Nate Fernhoff Coverage",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VbHBaMy15dm4wXzlqZ0J6UUFMdnhXTlh6bzZXSlcxa256OHJfRkZSSV9Ic1lMZ010UzRVNXFMV0ZPLXo0NU9jX18zQnVGNWJZQS0weg?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-07-02T00:47:36.000Z",
       "snippet": ""
     },
     {
@@ -505,14 +553,6 @@
       "snippet": ""
     },
     {
-      "title": "Frederic Scaerou Coverage",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56VWtvd0NVTmVxaXZ2SnBjUEpqd0QxTlZORUdXWk9tdEJKY2huNTk4Q2xSOEFkTnE2ODZYVTQ2ZEhaMlRzVU1nTE5JTVBndWZfNlZQMzlJbFk?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-07-01T01:50:16.000Z",
-      "snippet": ""
-    },
-    {
       "title": "EMR-based algorithm identifies patients at risk of serious cancer therapy side effects",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa3paWkFPY2JaQ182YWZva19JUEt1eXVSd21LZ3owcWxxclpiZjJabzRGN3RaMlpZOHhJSktrb0dTaTBFTjgtS0RsNFp6b2Q4ZDZ3ZXctY2N3a3JZZzhHVjZSS3FKZklmTkFqcnhpRWljUGhYdTVWRjczU21tVV9XZE56Z0g2amdIVzd4bFdtY3NGN0lEU3p3UHpPa3NWYWNQcjlRcHllVlQybzFqeTlhdUEtZTlzX1JxYWFYMQ?oc=5",
       "source": "MobiHealthNews",
@@ -609,14 +649,6 @@
       "snippet": ""
     },
     {
-      "title": "At Mercy, product development principles lead patients to the care they need",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQWFuUkxvZXhLVXlNQlF5YUIxSzgybzdIdVB6UzBKX09ENER5X2tuUkx1aDNLVWFaYnJRYUk5am5ZWlNvNkdGc0ZIc1ZPaDdfN3lXR3BsRFQ3UnFCR185VzlfRGJuN3RXSThYX2ZaV21sdXltWWc2T2lTTnFxdW43RU9rbXdLN3R5eVNSRjhSQlZiblhNbW84ZFYzd2pSWG1tdmF5SkFB?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-30T14:38:47.000Z",
-      "snippet": ""
-    },
-    {
       "title": "HIMSS forum enables discussions on AI deployment, adoption",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ09JZFVhOU9EOEdZRUlBdFVZOW12RklJbnZxSFU1aFFhbF9RTk5EczhIZEJYMkZOYmFCRUwzOVljSDJsMW5OenJTdkd5MDB0cTRad25ZU24yVlJhQ1FhOG45eVZYUm5ocmVZQUNkV19YZWdXYk92bXRHazRldWhwOHRKbGVJalZoNXpSVkJEVnRYNjA4Y3c?oc=5",
       "source": "MobiHealthNews",
@@ -657,27 +689,11 @@
       "snippet": ""
     },
     {
-      "title": "financial experience Coverage",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBheUk0djNFSlBaakFhU1hIRUljZVFJQ0xwQUYyR0VWdGJPMDVuZDY4cHJ1ZDcwTUU5c0VGQTBNcHJoRHZqSDZrbHlGZm1HM3JHN1BYMDBDU3g2RGlIQ1E?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-30T13:31:48.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Headache Disorders Have Been Part of the American Story for 250 Years",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTFhMUHR4V29qaFduQWtmMVQ5Njcwb2lyWG1zU1BlR3VhenBuVlRHVXR6Qlk0TXdoNFEyTmdyS3E1MkJXSmp6NXRjd1pmMEtmZko5RWl4bkRUSUx6QXhKaWU0VWpBdy1WNWVFYlBOZl9kYkI3Z0VidGdwZ3dZU1oxRzc4ZFZLRkJLZ05wMkx6bVhrT1ZmdEZ1R2JkdXZMMlgwTUF1TQ?oc=5",
       "source": "MedCity News",
       "sourceId": "medcity",
       "date": "2026-06-30T13:28:10.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Step by step: digital transformation the Nordic way",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHZIMmJlclRzaDhONVVzMkZ0c3d5Wm54Q0s4U2VoUFpxOEJBdW0yazhlRXFDUU03MFc2Q1BHWEVNTDJ1Ym5kSDMtLTZObU5EanR4NzdwTXVHQVFEUjA5WWVWVDdNYmRGbUp0M2pVcmQ2UG16d08wZlNtdXo5YjhGWmhOdVRZMU9tNjBWZmxDUQ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-30T12:17:08.000Z",
       "snippet": ""
     },
     {
@@ -697,27 +713,11 @@
       "snippet": ""
     },
     {
-      "title": "ReferWell Coverage",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YUWxFTnJFS0xMSDRfb3NxemdUX1FNNVNvN0R6NTlMVkthQ2RWYVltcThZNE9nRlBxcjlTRGY5TGhYNms0TFlQSFU1X1hZVXc?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-30T08:41:54.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Unlocking AI's value through 'phygital' care",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTGRIb3lWdVl2azdKaGZsb2M4cDNVQlowSmxFdjRRSWpzRlBjQkcwTDNsRkVhRVozajRIdHpwT196eEhnd3VoVWZKNjJWTkVqR2NhblZlUHl4NDNNdnhCUlNaeHBjUmlGWVhYa2x6YmZGVnhUbEhGeGJsVzU1cVoyNUV2dWI5bVkxVm9KSg?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-06-30T08:36:10.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Adaptive Innovations Coverage",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80bmRRQUk2aEN5MHh3UUlDTklnbncyRDB1QmpBREJTUXNzYlF3UjRFTk1TeGxPNmJUWXVQVi1uNVd0YlpVeVBVZnJvdVNKbjNHeFVmenNoSGk0SkpOSlE?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-30T08:17:51.000Z",
       "snippet": ""
     },
     {
@@ -750,14 +750,6 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-06-29T19:26:48.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "TEFCA hits 1B exchanges as HHS invests $1.3M in network oversight",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZU5lU2VsTE1tT1pfZW80dFdwTG50dGNKNVlLY1ZPWFpnNWcxWmUwUzJFUE52SlYzVXp6cXlRbHpSS05tRnYxZXJSd3g0dVg0eVF3OEJHRFlQVUxrZDlIMEFkZnl0VXNZOEtNbUdjY0llcVF2cmJDaU5NVk9aUUFUbkVrNUFvNjdwdzR3QjNJQjZWak9INWpmRg?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-29T16:45:00.000Z",
       "snippet": ""
     },
     {
@@ -897,11 +889,11 @@
       "snippet": ""
     },
     {
-      "title": "Documentation Tools Aren’t Just for Doctors: Inside Reid Health’s Deployment of Abridge’s Nurse Tech",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MUHcxV0dTMUhPWUh2ZWZRTnB6dDVNMjFtc3BYNkR4MmxMMjFVX1V6VlBIMEsydUNmb3RwRVZxM2I2emQ0MjhLUmI5Rmx0SEpUc1IzNW1DU21uc3BUdm13dERqZDhxUFlHTU1fdTB6cVRZT1ZvbkpwS0lrcjZFSWM?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-26T18:10:08.000Z",
+      "title": "Healthcare transformation starts with 'where people are'",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPellLN3hObHZBNGdPb21Od1pzWTNkSDVOMWNheGxzSFpiQUVCczhkVEZsVTFPYjJQQ0tMVVZDUG84VV92bTc0alQ3R2Rsa0I5VW5aVmpUeEpaZ3dmYkVxVzdnZjlVb1hkYzlVeDFiZ1JqS0J0YzdvOUtrMG0yR0RDTS03end6Nk40UnRDZjR1QkM?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-26T16:23:38.000Z",
       "snippet": ""
     },
     {
@@ -918,6 +910,14 @@
       "source": "MedCity News",
       "sourceId": "medcity",
       "date": "2026-06-26T13:15:08.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Why are many clinicians still distrustful of AI?",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWNwM3FRRDlETGVHRFJ2R19DR2xCeWNhQzlkZ05EMkJmZVh2bU4wV1FJR0dsYzBqT1ctcnNYanhkWXZnQUh4TUpiSXlaNzY3bVNLQXV1ZW1wLVFTX2dXYmljTVpXdGdoWGRlUXFLS1AtVTd6TVB4QTd0Tl85d01EX3lYWFNLZ1lja3BJ?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-26T12:25:00.000Z",
       "snippet": ""
     },
     {
