@@ -1,0 +1,63 @@
+{
+  "date": "2026-07-05",
+  "generatedAt": "2026-07-04T22:02:06.652Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 8,
+  "sources": {
+    "MobiHealthNews": 3,
+    "Healthcare IT News": 3,
+    "MedCity News": 2
+  },
+  "summary": "Artificial intelligence continues reshaping healthcare operations across multiple fronts. Assort Health secured $120 million to expand its patient journey AI agents, while Mount Sinai is enlisting Signal 1 to manage its expanding AI portfolio—underscoring how health systems are betting heavily on AI but recognizing they need better governance structures. Healthcare IT leaders are being cautioned to strengthen foundational systems before scaling AI initiatives, particularly as AI applications address cognitive burden in clinical settings and accelerate revenue cycle processes.\n\nBeyond AI infrastructure, the sector is tackling broader healthcare delivery challenges. The CDC is advancing its public health data strategy to modernize disease tracking and response, while patient education gaps in breast cancer care highlight persistent gaps in how information reaches patients. On the pharmaceutical front, the FDA's new approval for Gilead's breast cancer drug maintains competitive pressure in an active treatment landscape.",
+  "items": [
+    {
+      "title": "Assort Health lands $120M to scale patient journey AI agents",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1c5RzdIYmZKOU85NzZBSHRIekJPM1JsSEN2VkhES3M3aE1vbmUxeWotd2pmYkRObFAwb1Q4eXZmWmVfd05CRjVncXVvN1dxb1FaZ29oSUZQY3Nnd1lGWWNxLUhob0xaLUsxcVNYVWZ6VDdYa1FTZDVUazNFNHlxcmhpaFZkbzVTWUY3X3ZicFJmZ1U0b0I0?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-25T15:40:37.000Z"
+    },
+    {
+      "title": "Modern tools further public health's mission",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVER6YUNocjhhdF9IS1Z4XzlxMkEyVkdFX01JMy1WM3I5STVnWDhwQ0JaQWdjQWhPT21oZEdOUEhNeXg1aC1rNXdfdFV5eVpWNDhrTmg5elZVNEF5NzUxamF1VXRyckEwNG51VTI3aEtzMzlhQ01yVlY2YUpGeDJjd2RWaGd3QVk?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-25T15:17:46.000Z"
+    },
+    {
+      "title": "AI can help reduce cognitive burden – and speed revenue collection",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUjFHNGJ3WVdWaXd6TmFfS2IyblhyS0M2UHRfd3JQU1U1b280ZkM1T3phVjEwOUZSM3p4a2FTYXlkMGYyb2w1NEhlamlVN1QyRW1RWkZBSWdJaW80RFkxdTNBT1RCZGdYLU1jd05KbzhlMWJLZ1JGdkhEeUpCZ2RlaTdWcDFYc2EtOXlqX1RWQ1UxbG95MVdmRWprdHNZazBZS3hv?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-25T13:54:36.000Z"
+    },
+    {
+      "title": "Where Patient Education Breaks Down in Breast Cancer Care",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUUo0TElsMTBaZnNGSThobVEtQjBGYVlIeHg3b08xeDZwT3BmWUxTcXhkWmxqUGlxeDBNa05YUWVZRFVOT1Y2V2FaMTV0UUg3THoxV1cwS0xvYm9WTktOYkRIWUswU0dhblFCNk9VMEE3OTE0NTl2TThYdFA3bUZhOThSZUxRN0xWcUlNSWRBdlV3LXB4?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-25T13:10:03.000Z"
+    },
+    {
+      "title": "How the CDC plans to boost its Public Health Data Strategy",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3BjRFRoTThJYjNEM3NoMnRsMUpsZXBMNVhRcmRQVE43T2JEcEpEeHIwbHJHNFd6X0lfQ290MlB1a1Y0OWhMQWZSYXdEZHF0SEpWTUZ6NlpQSC0wYWs1STR6b2xJUlFKMF9tc0h0eTNxb3dyekhVMkc5NXhQOVZ3YXJpYzhPZG5ZNDVHQWR5U01tdzBF?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-25T12:50:00.000Z"
+    },
+    {
+      "title": "New FDA Nod Keeps Gilead Drug Competitive With AstraZeneca & Daiichi in Breast Cancer",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmk2WTA0VkdTRUNTNkE0bDFoY1VwT2dEeVFkMHdtU0FaRTFsZl9MVzlXbEtKbjlzMElqSmRKeHBBOTdsdFZ2NnpfbnI3bjRSVnQ5OG9aUHRrM2pZRGxkM3lqbUdkMmx3RmM3NTNjS29EYi1LeWYzb0lXQlRqMEwzRHVoOHh6N1lzbWZaVVp3S1F5S05RSFpwUFVRMGg5aWdFZkhfYkFRRmxtRGltVWxMWHhzYWs?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-25T05:05:03.000Z"
+    },
+    {
+      "title": "Mount Sinai taps Signal 1 to manage growing AI portfolio",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0s2dGozYkNqZGM0Q2NKMlphSjg1dVc0OE1leXZDRVFMSGM2T0pBY0NFXy1vbldCSk1yVk5xN09XQ2ZETW5vcnUxNXktRFRfZTVXclo0UHE5OWtIdkJZczdmWHNDWjlaSjhUUzVoSVNRRUFyZ1FHLV9fQVFGSDFRMlh1dGtXQkd5QmRPaDQ1blhzRUU?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-24T17:47:15.000Z"
+    },
+    {
+      "title": "Why healthcare CIOs must fix their foundations before scaling AI",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNUVWaDdTR1dNaGktaFlDOTJlUllNNXMzVk5Pb1N3MW1leDBTOE5ESnJSXy1CQzB0X1NMQjh2OTd1TE01Tk02QkMyMTd3Vmk2XzRnVGd0X3hjcmVRLTdJWllTbWlWbEIzQ1YwWVlKYV81TkRFdVN2aHBDRnR2WWttdEhhenI0QzJsQjlsa0tucjcyQUJnbFVVR1k1TQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-24T16:15:27.000Z"
+    }
+  ]
+}
