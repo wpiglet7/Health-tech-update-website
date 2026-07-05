@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-06",
+  "generatedAt": "2026-07-05T22:05:49.377Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 18,
+  "sources": {
+    "MedCity News": 9,
+    "MobiHealthNews": 3,
+    "Healthcare IT News": 6
+  },
+  "summary": "The health-tech ecosystem is experiencing significant momentum across drug development, AI implementation, and care delivery transformation. Celea Therapeutics secured $180 million to advance its pulmonary fibrosis treatment into pivotal testing, signaling investor confidence in specialized biotech approaches. On the technology front, multiple articles highlight the critical need for thoughtful AI integration—clinicians must remain central to mental health applications, payers face readiness gaps in leveraging AI effectively, and health IT leaders are actively deploying AI while planning future capabilities. Beyond traditional settings, the industry is reshaping care delivery through alternatives to skilled nursing facilities and modernizing Medicaid program integrity, while consumer-focused innovations like Oura's partnership with LillyDirect and Everlab's $46 million Series A funding round demonstrate growing commercial interest in personalized health monitoring and disease management outside traditional healthcare infrastructure.",
+  "items": [
+    {
+      "title": "Celea Therapeutics Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ndl96c19JMk1qS0JaYmZBZVUtMWhLdWh4LVQtMkoteDZ1ejluLU92VmtBUUVVSjVTZDNXQTBaWGNWdWxqWkZfUHZyNUlVclc5XzFvQk96WDI3NUE?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-05T17:53:48.000Z"
+    },
+    {
+      "title": "Lung-Focused Celea Secures $180M for Pivotal Test of Pulmonary Fibrosis Drug",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWdUNTFuZnUtOGZrbE9Kc19oVmROaVdZYzhHdFFRZUFJQS1TZ1pJVHdVVkZ5RWZaUlZoZHppX3RUYTVaQUNTa3UzWjFFb2R3Vk9iSVNjc2RmOHI5Q0ZNY25GZzZuT0JnUnJIQU9KaTV0d2NLQ0tpWTZySmU4S0NTM1BxUDVNYXhqdXUtNzhPWWpzV01ybk9VQ2xOTnMyR3pXU043aHVXV1VSYmVUNWc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-05T17:05:46.000Z"
+    },
+    {
+      "title": "Modernizing Program Integrity in Medicaid Self-Directed Care",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRFhIZ2s1MEZibkZ5TlhudmNNdVVtYnFoNU5vT0lfbjlRMGdVdXFTMC1KN2VGWDlkN3RpY014Q3hVNUxlTWpxWjA1SC1EM21CNUg5azduWTBrSUlOTlVFNGoyalpvbE1QeXZ3Ujh0MWI4X2ZDSXhuSVFqRDdBcGxpWHZNa1haVl9xMFlLWnZac3VPNmF4Z3JlZg?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-05T14:10:46.000Z"
+    },
+    {
+      "title": "AI in Mental Health: Why Clinicians Need to Be in the Room",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORE5odzB0VVoyR1dPY3ZIY0hrSWVhd3Q2T2RINFZqMWQ1M2I0XzdPLTlpb0xfc2N1NTJOd24yV1pHWmZVNnhqWGExQWRaUkZRZy00TlJUcXlHVmNLT0lJM0dRM0V0TDlEbkxJbWlCYUFjMmR2RFloeUFrWWxrblVzM2FXbERoS0h4bmhMcEVIU3FQSkxq?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-05T13:25:46.000Z"
+    },
+    {
+      "title": "When Evidence Gap Becomes a Commercial Liability",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdi1sT0FVc0xSYU5POEdUSnE4WEprUFd6Z2JwU3N2N0g4UXJFMkM1V3ppSWtOVGVXVHctQURPS0lPdXFGbzZ2LTR3ZTRJSWN0Mlh6bGVhUVc1c1lGQ3JtcHpsNlB4Nzh1OVY2REFxOTlkZ1hMZC04RHhPeVdRVzVwTG5uenBSaERr?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-05T13:11:08.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ3ZGd2FtRkUzRTk1N0NqbkFjODJOc1ZmcGpZclpNUjljV09jS1hPMWUyMU5mZy0wMFFaZHpiZFF5Zkx5ZlpjVUxtWXF5SlZ3U2MxMUh4YnNmQjV6Rk1WUWdrR2tLbU1wZzI2T2ZTZnBGTjk3MEk0MnZkdjhiUGJHZFpxVm4yOVpQWmtENTBpQnFOdkV3amdDOQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-04T19:00:34.000Z"
+    },
+    {
+      "title": "Women’s Health Is Not a Wearable Feature — It’s an Operating System Problem",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNjlRVDRKWXBUN1lVS0VOOW50RVZZMWs4aG5kd1A0eFlOY2E2Ulc1LVJmVDZFZjlyb3NGbVptWGJSQkhlcWZ2OHVvMDZMZHI1VFA5WERLUjdubDNzVDBnOUlWVWVnR2RYblE4Q25YTkpSajhuWjZDZ0pkWHN6ZHBiUTE1TDNKUmxfT3RLU05Xb1RCWUNneG0tVWRhcXU3MUQwNTJza29HWQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-24T13:55:03.000Z"
+    },
+    {
+      "title": "From Trial-and-Error to Targeted Success: How Computational Disease Models Can Help Patients and Pharma Companies",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaGxqYmRubnNGSlk3dG5NelhpdkxZSnBydVFoT25rckkyRWNOcVVveVRQMzVUNGFIRVVoOHhYYnI3Xzd1alhlVmROMmQxbV9WTTZKOHhGenFrRmdnZGx6bll6eUNmeFBWaE9wMk1mbi1WM2Fjc1RyYV96d0ZnMU9pTHVud2RtZ3JvMk1vVlA3SENzU2VCQUtXM08tZW1sRjZqRVkxOWV6bE9HLS1qWnBmTTdkSTloVWU0dklVa19GSEtCV25VWTc4WkI4TlZGNUpacjYzeVlZZzF0N2hndkE?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-24T13:30:03.000Z"
+    },
+    {
+      "title": "Care Without Walls: Scaling Alternatives to Skilled Nursing Facilities",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkRvTEhzeW1Camo2ejNfMks3dDkwQ3FHR0Rmb2E4anpsNUN3bGNBZlJKOUo1YUxMTUU5Y0dnTDhWNWU1V1J3YWplWHZYVkd2S3k4c2trNXV4V1N6S1lsT0N6OUFlUmJFYUJpWkFfLTdGYklPVUFrVnBQalBET3hTeldfSEtNUW0xV2VnTWtuM2cyeTJjTWZuSTZ2SFhzV2VZVkQybQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-24T13:20:03.000Z"
+    },
+    {
+      "title": "The Payer AI Readiness Gap: Why Better Data Will Define the Next Era of Health Plan Performance",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZF9vSXBrWXJpOUtVeDBfZjNYanUtdVRJR1E3cXVGWjRaek1BRGh2SGI2T1ZsTFJrdS1UaGFhWklYZ2ZvbG9WdXZMODBKUXZNYTB6YWloY2hPUG1UU04yVzBnZEZqMktJcnZwQ2tjdmV2eG1pOEVlc3RaMjBPS09DMEpEam9IY3p4R1VaUzdWTURhd0Q4bXlBQmM1bEQ2VWw5aFRkdmVNb0hTcDFWbElFaWZhNmpXU1FlNDVSV01ZQWhicHAxQnc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-24T07:00:00.000Z"
+    },
+    {
+      "title": "Oura, LillyDirect team up to support GLP-1 users",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY2M1ODhta0gwemJQT1F1Z3h6dkhuRXd4TkphTFdQZ3VXd05RRVJyTlJiZXpZemhRamhnT1BvVlBmRUpMUFAydldOV1huWGFBamlmYmpGUEhob3gxWDVBbW02b0hIaG1lbmZxUzVFWTlJR0xZTkt1b3RBYzgxS2s1Yy11QQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-23T18:10:21.000Z"
+    },
+    {
+      "title": "Everlab enters global consumer healthcare market with $46M Series A funding",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRE5QMzhESXZFX3BuV1lnWjNsRmRjV0t2VldDZnQ5U1dHQXA4dUpTcmpVVHUzR0JWYWNFTGN1ajktZ0ZhTWhuYWdtVzhlcVAtYV9yc1hiM2FUVG5sZTk4Q1JhX2IwTmhyTmJVVy1vLWY4ZE5iRmZja2dlV2oyU3pFQmwza3JUVDl6VjBhMl92Nk9qMFZZRE92aVgxclMwRGp0elhDMVVFaFZTaUE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-23T11:37:22.000Z"
+    },
+    {
+      "title": "Dr. Patsy McNeil",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jTTFzYXN5SjdNTnRfWG1QblNLWjFfaGdEUFc2VlYzVmRPNEZYT3pRaVIxTXBtR21CMkFFUk9qQnM2SGJveTFhVXo1dW4wQ1JKVGpVRzk3ZGVXdjZBUkc4ZjdvU3FNQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-23T07:00:00.000Z"
+    },
+    {
+      "title": "Medicaid cuts are coming, but health systems can respond with integrity",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdjM0dWxRN0hqeXFjYnBla2ZQQVNQdS1XbFRaeWJJNmNVczNsSXFwT2hHei1IVmpNOG9LNi11cV8xZzZoSVlLcXRDVnZLelRTOHpwM285NzRkX0N2dzRNWWlFdFh6UXZneVRDWlE5c3VXd2Vmc2NIRkRnUEpUOHZWUFRJMzhWTVpKclFmVjZFYkJhaG5FVWQzMFBycndXcUJa?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-23T07:00:00.000Z"
+    },
+    {
+      "title": "Personalising cancer therapy in Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUN1RHI4a2FFNndEb19TVkZ5SG9KcEdYd1owLTlYVFFFWFNxZWNWdzZXa3JILUM3OXROZkFZc1MzWWJwSm9mTktwUE84MHVCbWNWTExTd2U1ekdvbXZEVy1Vd096NnRoYkpZeTZLMF9IUDRqZnJERWlITFVBTHI0OUlVWk9qWjg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-22T03:32:22.000Z"
+    },
+    {
+      "title": "Patient Engagement",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNLTQtRkxHZXF4d3pQNFBPNjJKRl9wRjRPTFp3X1JTREZXM2MxR09JcHZveEc1dEd3OUFSa0ZIbHVJT2s1NVJ2Q1B3OVFRWGFCU20zX09UYVYxNXE3TWRpQUhNVUsxemlfeVE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2025-07-09T13:58:07.000Z"
+    },
+    {
+      "title": "Analytics",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Gbm1JNFVLVzdOdlFPT2VHYVp0MDRma09IaEtlOTlkRWw0QU9rU3dpMUttVV9zaG9wWjZmYnVnZEhwcWNfczBwRHdTc1Fidno1Qnd3aUhjbzRiUzVkRnc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2025-07-09T13:57:52.000Z"
+    },
+    {
+      "title": "How health IT's leading innovators are using AI now, and where they see it going",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbXh4QkJHUV85cl9CbUJ1UlIybVJxa05OTkZjMDREUTExYm05NTdnVU5QUUhyZzBWZHJBQlhyRDdxMzlRampyR2hlX3hFTzl4RVFFNXE4RGFaTk5aLWRrTzY1LW9ET3JiaXRxN1ZTanhCN3dfMm8tb0NiZ1JoUWs0VmVBNzdhalp4bUZIUzFkeUVDenhDN2dnZkQ2cFE0VWZPTFZEN25rMlc3Y0lwZm0ya1ZfekdKVUZGOU9Sbw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2023-09-27T18:31:51.000Z"
+    }
+  ]
+}

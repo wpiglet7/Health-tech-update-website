@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T22:02:03.052Z",
+  "generatedAt": "2026-07-05T22:05:46.196Z",
   "sources": [
     {
       "id": "stat",
@@ -25,19 +25,59 @@
   "count": 120,
   "items": [
     {
+      "title": "Celea Therapeutics Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ndl96c19JMk1qS0JaYmZBZVUtMWhLdWh4LVQtMkoteDZ1ejluLU92VmtBUUVVSjVTZDNXQTBaWGNWdWxqWkZfUHZyNUlVclc5XzFvQk96WDI3NUE?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-07-05T17:53:48.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Lung-Focused Celea Secures $180M for Pivotal Test of Pulmonary Fibrosis Drug",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWdUNTFuZnUtOGZrbE9Kc19oVmROaVdZYzhHdFFRZUFJQS1TZ1pJVHdVVkZ5RWZaUlZoZHppX3RUYTVaQUNTa3UzWjFFb2R3Vk9iSVNjc2RmOHI5Q0ZNY25GZzZuT0JnUnJIQU9KaTV0d2NLQ0tpWTZySmU4S0NTM1BxUDVNYXhqdXUtNzhPWWpzV01ybk9VQ2xOTnMyR3pXU043aHVXV1VSYmVUNWc?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-07-05T17:05:46.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Modernizing Program Integrity in Medicaid Self-Directed Care",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRFhIZ2s1MEZibkZ5TlhudmNNdVVtYnFoNU5vT0lfbjlRMGdVdXFTMC1KN2VGWDlkN3RpY014Q3hVNUxlTWpxWjA1SC1EM21CNUg5azduWTBrSUlOTlVFNGoyalpvbE1QeXZ3Ujh0MWI4X2ZDSXhuSVFqRDdBcGxpWHZNa1haVl9xMFlLWnZac3VPNmF4Z3JlZg?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-07-05T14:10:46.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "AI in Mental Health: Why Clinicians Need to Be in the Room",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORE5odzB0VVoyR1dPY3ZIY0hrSWVhd3Q2T2RINFZqMWQ1M2I0XzdPLTlpb0xfc2N1NTJOd24yV1pHWmZVNnhqWGExQWRaUkZRZy00TlJUcXlHVmNLT0lJM0dRM0V0TDlEbkxJbWlCYUFjMmR2RFloeUFrWWxrblVzM2FXbERoS0h4bmhMcEVIU3FQSkxq?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-07-05T13:25:46.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "When Evidence Gap Becomes a Commercial Liability",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdi1sT0FVc0xSYU5POEdUSnE4WEprUFd6Z2JwU3N2N0g4UXJFMkM1V3ppSWtOVGVXVHctQURPS0lPdXFGbzZ2LTR3ZTRJSWN0Mlh6bGVhUVc1c1lGQ3JtcHpsNlB4Nzh1OVY2REFxOTlkZ1hMZC04RHhPeVdRVzVwTG5uenBSaERr?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-07-05T13:11:08.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ3ZGd2FtRkUzRTk1N0NqbkFjODJOc1ZmcGpZclpNUjljV09jS1hPMWUyMU5mZy0wMFFaZHpiZFF5Zkx5ZlpjVUxtWXF5SlZ3U2MxMUh4YnNmQjV6Rk1WUWdrR2tLbU1wZzI2T2ZTZnBGTjk3MEk0MnZkdjhiUGJHZFpxVm4yOVpQWmtENTBpQnFOdkV3amdDOQ?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-04T19:00:34.000Z",
+      "snippet": ""
+    },
+    {
       "title": "brain bleed Coverage",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vSnhtY2lSak1mSTVUX0FIMWZsLThTOGhPeFp4UGpBZlRRZFdiVm15TWRNV3VMTWhnQkh4SV9rWi1wTGtMbDhQa3RTeDdESmI3bmc?oc=5",
       "source": "MedCity News",
       "sourceId": "medcity",
       "date": "2026-07-03T13:14:51.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "UHG Coverage",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05OE9RUjdjdkEtV1dFREp1SEVSdUpfdFdGYl81czQ3YTBreXhYdTZuRXJCTm5aaTBsOEVONmxQd2NNSEZiY05r?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-07-03T10:04:58.000Z",
       "snippet": ""
     },
     {
@@ -54,14 +94,6 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-07-03T06:52:03.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Provider",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tODFzUHJaZERlRVh6bnN1bHJiZk9kendSMnhHNGIzR2U4bl9EVXBwVHVwWDRxTFA0REU4b1loTFRrNWM1MnowWWI3bFBrRi14OFNPaW02dF9pdmVON3J4ZEpxdzhCTWRGb2xoTDc1cGVmMGE4UGZvOVN1dw?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-07-03T06:37:19.000Z",
       "snippet": ""
     },
     {
@@ -593,14 +625,6 @@
       "snippet": ""
     },
     {
-      "title": "Sharecare taps AWS to power AI health navigation tool AskMD",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMWU0aGUwMDdRZ00tTkNxOGd0aXBGVktuSE41QUtEM1llM0hvY2lJQWpXUEJ1dkg2MnJOWkxKVlBhZi1BSXBCX1lyeGVFVTdsR21vUFlOZ1pwelQwd2FmWUNsMnNGNUNxUU9SS1QtVVZTNHlQMkZRaklTaU1tRG1CSDJTWldMY3NoNlM3ZHZsZFdnT1ItNlpN?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-06-30T20:03:33.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Upside garners $20M for healthcare-focused housing stability platform, and more funding news",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcGFsMy0xck9VUHZxMGd3WjM0eEVvM1RaTENHU3lWajF3dXhHdVdkLTJlMHI2eHZ2SEFfclFpS1JiOS03M3FzVTAyaHRoMnhrUkpJZ3VrOXFyUVgtbnlQWXd3RkMxVkFFa3Nvb3k0Z1VUOHJXLUtYX0RDRDFSUVNMbFV4MmJaZVFJeldiWWoyR0VkLUdmczZxaWswcUVaZEtOeG9ZbEI1NlNZUXhCZ0RGS0c0YzV6VnF3a29FbWFwRQ?oc=5",
       "source": "MobiHealthNews",
@@ -673,14 +697,6 @@
       "snippet": ""
     },
     {
-      "title": "How Payers Can Use AI to Improve the Healthcare Financial Experience",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY2VSRVVaWHlmOWI2TUN0SXRqcm1rWkczZE42ME1Ia0JHOHNFSTZtcGFpOVRuQ01ENkpBRG1Bakx0ZjJ6Wm9hdlNxcnNBZFZBWWtUckt2UGxvR1FLdnhOVTFGWWZHd3FmX19aQTFnanJSUGNoN1RsOFdWdEwxaTcxM0FaZnBCdTFnajFGWExaaUtNOG5DY2FqRGVwQkkzV3MtdTFZ?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-30T11:53:10.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Unlocking AI's value through 'phygital' care",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTGRIb3lWdVl2azdKaGZsb2M4cDNVQlowSmxFdjRRSWpzRlBjQkcwTDNsRkVhRVozajRIdHpwT196eEhnd3VoVWZKNjJWTkVqR2NhblZlUHl4NDNNdnhCUlNaeHBjUmlGWVhYa2x6YmZGVnhUbEhGeGJsVzU1cVoyNUV2dWI5bVkxVm9KSg?oc=5",
       "source": "Healthcare IT News",
@@ -713,14 +729,6 @@
       "snippet": ""
     },
     {
-      "title": "SandboxAQ to bring scientific AI models to Google Cloud Marketplace",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWxVa3BnTmFkMjFnUnpMM2lFbkpkYWxOUkI0Vy1QT1U0Ry10ZlZNMjVBLXUyV01icnpzMnpDRm9kWVRxZW5HU2tob1d5b3J2aVMxajk3czNwcDFyQ050a1Z6X3BGZHZYRUFLV1pUUURTa0lvX0o2UDJndjhaTWxjcWJuUmRfX0huSDd2UUZ5TFQtR25wZ1NFbmU1Ym1hdw?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-06-29T19:26:48.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Healthcare AI's next big leap: Removing friction from clinical workflows",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRlpyNTdXVncxQS1QbkF2b3ppZ2V4clV4TFV1LVJvclhSbFVfWXhRMEQ1VS1tSmhZal80VHdWdHQ3ak5yNkt1QzIxcDIzUG9HVGRWZ054STN2SnNVcmpwRl9xaFlocXNxLVMteWthUzZ5dXQ4Tjlfd3lIY3RkdjZyTDgzUDVOQVh5T2VCbFVleW5yUjdhSUpzWExRSnRBN0tfUkU3c1VR?oc=5",
       "source": "Healthcare IT News",
@@ -750,30 +758,6 @@
       "source": "MedCity News",
       "sourceId": "medcity",
       "date": "2026-06-29T13:33:09.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "CMS Recalculates Star Ratings — Again",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aeUgtMU1DQzh0b2V4aVBVT2dmUEFHcE5PNm1UbDhZTldObDNJTEFMLUFiRk5HZEFjWWFIRXBOeUlIX25LWUVaakdPcDJiSjc4aG1rN1BPbktSY01XM2hlQ29Qa09IN2t0YWlhSGpXLWtQR3V1cko4?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-28T20:04:24.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "A Bridge to Nowhere? Medicare’s GLP-1 Coverage Expansion Requires A More Holistic Approach To Weight Management",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa3ZUUl83X1hlWlRXQUVCbzJkcG82MEFqTWFMOFIybGhQaTFTbzdWY0FZT252R2VVWlMxT05NdGxrUEVCWWZkQ0VhUkFDT25PV1VyQlNiYkhjM0FaeDF5eGFhZVlPYUxiUUxqekVzR3NrYk9ud29sWFhhQlNaOGs4UkM3RXNySGdYQmR1QnhXZ2dlLU8xUHR6amRfRGVWTV9yUGJINTRqTThSNmdIZlVqTTZyUlU4VUZYbmpFVkNHM2xkaHpGbGo1a3pZOVg4TE1uZ2oyb05vRlY2QQ?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-06-28T14:08:09.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Consumer",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15S3J5NzJDNW8xZ05xdWdmOUszUXhkTGduX0x1VkNyM0VJVmtqYzlFUHdiZzh5V2tQWm53WEF3bEFHSlVWV1h2dDJjeUFIMktVeHNpbWxNVGpHUlRKb3FTV2Q4aTdMT1BlSkVxS25FV1JucTkxT0Y0?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-06-28T08:39:52.000Z",
       "snippet": ""
     },
     {
@@ -825,14 +809,6 @@
       "snippet": ""
     },
     {
-      "title": "Healthcare transformation starts with 'where people are'",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPellLN3hObHZBNGdPb21Od1pzWTNkSDVOMWNheGxzSFpiQUVCczhkVEZsVTFPYjJQQ0tMVVZDUG84VV92bTc0alQ3R2Rsa0I5VW5aVmpUeEpaZ3dmYkVxVzdnZjlVb1hkYzlVeDFiZ1JqS0J0YzdvOUtrMG0yR0RDTS03end6Nk40UnRDZjR1QkM?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-26T16:23:38.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Trase lands $107M to scale AI agents for healthcare and high-stakes industries",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUkFscjhxTnFRM01zN0JLWG5JRC1pSF90R1BLaF93azlHd0RleUs4XzRNd0pGMjlYbnBfQnE1aGFQU0R3Mk9HcVg4aVdTNkF4NFdUdnBnM3J5VlhWNWpRbngxYnJ4Ykt3c3RZR1FMdndnV2FvU0RiMUp4MDIzNTZNT0U0dHVPVW5PbWNac1FQekRjYmJvQ3Bzd0ZDTC1oVTJ1ZEZscnU4VDduQQ?oc=5",
       "source": "MobiHealthNews",
@@ -849,14 +825,6 @@
       "snippet": ""
     },
     {
-      "title": "Why are many clinicians still distrustful of AI?",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWNwM3FRRDlETGVHRFJ2R19DR2xCeWNhQzlkZ05EMkJmZVh2bU4wV1FJR0dsYzBqT1ctcnNYanhkWXZnQUh4TUpiSXlaNzY3bVNLQXV1ZW1wLVFTX2dXYmljTVpXdGdoWGRlUXFLS1AtVTd6TVB4QTd0Tl85d01EX3lYWFNLZ1lja3BJ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-26T12:25:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Korea covers AI, IoT devices in new senior-friendly products designation and more briefs",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV1Q2YURnbDR5c1QzZXEwbE5saEFjWmsxLUhranBfN1liZHdja0psTmlITlNCdjY4YVI0RzNyM2RRU2pBbUpCSUVuQjBTNTFXQW5qSVZaV0JzRVlTUXFLUkFkbTJzY3VtV2pMVmVjaFVQMVNSQmhzZEFFM3VRYTdnYkZxXzBLTkpCZUF1VXhaZGllOEc0RWhLc09sQU51ZW9NWTBmMUV4Yld3MjN3OVF1ZEVNcEw4dG53YTVtX1MtUUw5TUwxR1E?oc=5",
       "source": "Healthcare IT News",
@@ -865,27 +833,11 @@
       "snippet": ""
     },
     {
-      "title": "Australia developing virtual care standards and more briefs",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaFBsSUlWU1RWa3ctdWpzY0ZHd1VKVy1WMVNCOUs3Y3NMQ21PNEpkUWJDTnNRTDJra3BtMlA1UzVNX1BWQl9sX2xqblR0V0hyUzZFVV9RbmMyRUJFSE10aGlJQlR3MlFHS1lTbXpubG9jTWlPYlBKQmpBcWpRNjZYWFJUQzNVY1pYTll2VWJMS1F5UkRDM01MTXIteUVpUHZaSmJV?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-26T08:56:24.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Severance Hospital to lead $13M wearable humanoid project",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRURiN3Q2YnhWcl9rS1pRS3RMc0pXemdOY203ZVB4c2JlUUJwelBnODBkaEVlSlFnLWRFU2VvSklBbFhnMTVBeFAzOEtQVUhfcW1uNEZCeDBtTUl5RER5NURhbjVRYklVdFVnNldaRzJmWVZHajdfYlpnajAwcFRES0ZVM3FPYUROaGlQSGlCZUF4ZGJuenlESDRB?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-06-26T03:52:33.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Adopting VR in community senior services",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYkZUTHRMVDdidW90a05vUFpHeTFhcjNabTlQTmxrc1JWUHdfeW5fQURSSXVMMmd5UWZRMlE4SldVS2FVWFZpcVQzRUk0TFZpRTI0WVI5eV9ORFV2NnRzXy1ZNGs5cFo3eUZOZ29WTUJ1SkZyZ2kxMEl6TXhXOXJ6TWVFLWJTdw?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-26T03:45:37.000Z",
       "snippet": ""
     },
     {
@@ -921,43 +873,11 @@
       "snippet": ""
     },
     {
-      "title": "Assort Health lands $120M to scale patient journey AI agents",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1c5RzdIYmZKOU85NzZBSHRIekJPM1JsSEN2VkhES3M3aE1vbmUxeWotd2pmYkRObFAwb1Q4eXZmWmVfd05CRjVncXVvN1dxb1FaZ29oSUZQY3Nnd1lGWWNxLUhob0xaLUsxcVNYVWZ6VDdYa1FTZDVUazNFNHlxcmhpaFZkbzVTWUY3X3ZicFJmZ1U0b0I0?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-06-25T15:40:37.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Modern tools further public health's mission",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVER6YUNocjhhdF9IS1Z4XzlxMkEyVkdFX01JMy1WM3I5STVnWDhwQ0JaQWdjQWhPT21oZEdOUEhNeXg1aC1rNXdfdFV5eVpWNDhrTmg5elZVNEF5NzUxamF1VXRyckEwNG51VTI3aEtzMzlhQ01yVlY2YUpGeDJjd2RWaGd3QVk?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-06-25T15:17:46.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "AI can help reduce cognitive burden – and speed revenue collection",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUjFHNGJ3WVdWaXd6TmFfS2IyblhyS0M2UHRfd3JQU1U1b280ZkM1T3phVjEwOUZSM3p4a2FTYXlkMGYyb2w1NEhlamlVN1QyRW1RWkZBSWdJaW80RFkxdTNBT1RCZGdYLU1jd05KbzhlMWJLZ1JGdkhEeUpCZ2RlaTdWcDFYc2EtOXlqX1RWQ1UxbG95MVdmRWprdHNZazBZS3hv?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-25T13:54:36.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Where Patient Education Breaks Down in Breast Cancer Care",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUUo0TElsMTBaZnNGSThobVEtQjBGYVlIeHg3b08xeDZwT3BmWUxTcXhkWmxqUGlxeDBNa05YUWVZRFVOT1Y2V2FaMTV0UUg3THoxV1cwS0xvYm9WTktOYkRIWUswU0dhblFCNk9VMEE3OTE0NTl2TThYdFA3bUZhOThSZUxRN0xWcUlNSWRBdlV3LXB4?oc=5",
       "source": "MedCity News",
       "sourceId": "medcity",
       "date": "2026-06-25T13:10:03.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "How the CDC plans to boost its Public Health Data Strategy",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3BjRFRoTThJYjNEM3NoMnRsMUpsZXBMNVhRcmRQVE43T2JEcEpEeHIwbHJHNFd6X0lfQ290MlB1a1Y0OWhMQWZSYXdEZHF0SEpWTUZ6NlpQSC0wYWs1STR6b2xJUlFKMF9tc0h0eTNxb3dyekhVMkc5NXhQOVZ3YXJpYzhPZG5ZNDVHQWR5U01tdzBF?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-06-25T12:50:00.000Z",
       "snippet": ""
     },
     {
@@ -969,19 +889,99 @@
       "snippet": ""
     },
     {
-      "title": "Mount Sinai taps Signal 1 to manage growing AI portfolio",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0s2dGozYkNqZGM0Q2NKMlphSjg1dVc0OE1leXZDRVFMSGM2T0pBY0NFXy1vbldCSk1yVk5xN09XQ2ZETW5vcnUxNXktRFRfZTVXclo0UHE5OWtIdkJZczdmWHNDWjlaSjhUUzVoSVNRRUFyZ1FHLV9fQVFGSDFRMlh1dGtXQkd5QmRPaDQ1blhzRUU?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-06-24T17:47:15.000Z",
+      "title": "Women’s Health Is Not a Wearable Feature — It’s an Operating System Problem",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNjlRVDRKWXBUN1lVS0VOOW50RVZZMWs4aG5kd1A0eFlOY2E2Ulc1LVJmVDZFZjlyb3NGbVptWGJSQkhlcWZ2OHVvMDZMZHI1VFA5WERLUjdubDNzVDBnOUlWVWVnR2RYblE4Q25YTkpSajhuWjZDZ0pkWHN6ZHBiUTE1TDNKUmxfT3RLU05Xb1RCWUNneG0tVWRhcXU3MUQwNTJza29HWQ?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-24T13:55:03.000Z",
       "snippet": ""
     },
     {
-      "title": "Why healthcare CIOs must fix their foundations before scaling AI",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNUVWaDdTR1dNaGktaFlDOTJlUllNNXMzVk5Pb1N3MW1leDBTOE5ESnJSXy1CQzB0X1NMQjh2OTd1TE01Tk02QkMyMTd3Vmk2XzRnVGd0X3hjcmVRLTdJWllTbWlWbEIzQ1YwWVlKYV81TkRFdVN2aHBDRnR2WWttdEhhenI0QzJsQjlsa0tucjcyQUJnbFVVR1k1TQ?oc=5",
+      "title": "From Trial-and-Error to Targeted Success: How Computational Disease Models Can Help Patients and Pharma Companies",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaGxqYmRubnNGSlk3dG5NelhpdkxZSnBydVFoT25rckkyRWNOcVVveVRQMzVUNGFIRVVoOHhYYnI3Xzd1alhlVmROMmQxbV9WTTZKOHhGenFrRmdnZGx6bll6eUNmeFBWaE9wMk1mbi1WM2Fjc1RyYV96d0ZnMU9pTHVud2RtZ3JvMk1vVlA3SENzU2VCQUtXM08tZW1sRjZqRVkxOWV6bE9HLS1qWnBmTTdkSTloVWU0dklVa19GSEtCV25VWTc4WkI4TlZGNUpacjYzeVlZZzF0N2hndkE?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-24T13:30:03.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Care Without Walls: Scaling Alternatives to Skilled Nursing Facilities",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkRvTEhzeW1Camo2ejNfMks3dDkwQ3FHR0Rmb2E4anpsNUN3bGNBZlJKOUo1YUxMTUU5Y0dnTDhWNWU1V1J3YWplWHZYVkd2S3k4c2trNXV4V1N6S1lsT0N6OUFlUmJFYUJpWkFfLTdGYklPVUFrVnBQalBET3hTeldfSEtNUW0xV2VnTWtuM2cyeTJjTWZuSTZ2SFhzV2VZVkQybQ?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-24T13:20:03.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "The Payer AI Readiness Gap: Why Better Data Will Define the Next Era of Health Plan Performance",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZF9vSXBrWXJpOUtVeDBfZjNYanUtdVRJR1E3cXVGWjRaek1BRGh2SGI2T1ZsTFJrdS1UaGFhWklYZ2ZvbG9WdXZMODBKUXZNYTB6YWloY2hPUG1UU04yVzBnZEZqMktJcnZwQ2tjdmV2eG1pOEVlc3RaMjBPS09DMEpEam9IY3p4R1VaUzdWTURhd0Q4bXlBQmM1bEQ2VWw5aFRkdmVNb0hTcDFWbElFaWZhNmpXU1FlNDVSV01ZQWhicHAxQnc?oc=5",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-06-24T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Oura, LillyDirect team up to support GLP-1 users",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY2M1ODhta0gwemJQT1F1Z3h6dkhuRXd4TkphTFdQZ3VXd05RRVJyTlJiZXpZemhRamhnT1BvVlBmRUpMUFAydldOV1huWGFBamlmYmpGUEhob3gxWDVBbW02b0hIaG1lbmZxUzVFWTlJR0xZTkt1b3RBYzgxS2s1Yy11QQ?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-23T18:10:21.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Everlab enters global consumer healthcare market with $46M Series A funding",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRE5QMzhESXZFX3BuV1lnWjNsRmRjV0t2VldDZnQ5U1dHQXA4dUpTcmpVVHUzR0JWYWNFTGN1ajktZ0ZhTWhuYWdtVzhlcVAtYV9yc1hiM2FUVG5sZTk4Q1JhX2IwTmhyTmJVVy1vLWY4ZE5iRmZja2dlV2oyU3pFQmwza3JUVDl6VjBhMl92Nk9qMFZZRE92aVgxclMwRGp0elhDMVVFaFZTaUE?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-06-23T11:37:22.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Dr. Patsy McNeil",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jTTFzYXN5SjdNTnRfWG1QblNLWjFfaGdEUFc2VlYzVmRPNEZYT3pRaVIxTXBtR21CMkFFUk9qQnM2SGJveTFhVXo1dW4wQ1JKVGpVRzk3ZGVXdjZBUkc4ZjdvU3FNQQ?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
-      "date": "2026-06-24T16:15:27.000Z",
+      "date": "2026-06-23T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Medicaid cuts are coming, but health systems can respond with integrity",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdjM0dWxRN0hqeXFjYnBla2ZQQVNQdS1XbFRaeWJJNmNVczNsSXFwT2hHei1IVmpNOG9LNi11cV8xZzZoSVlLcXRDVnZLelRTOHpwM285NzRkX0N2dzRNWWlFdFh6UXZneVRDWlE5c3VXd2Vmc2NIRkRnUEpUOHZWUFRJMzhWTVpKclFmVjZFYkJhaG5FVWQzMFBycndXcUJa?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-23T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Personalising cancer therapy in Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUN1RHI4a2FFNndEb19TVkZ5SG9KcEdYd1owLTlYVFFFWFNxZWNWdzZXa3JILUM3OXROZkFZc1MzWWJwSm9mTktwUE84MHVCbWNWTExTd2U1ekdvbXZEVy1Vd096NnRoYkpZeTZLMF9IUDRqZnJERWlITFVBTHI0OUlVWk9qWjg?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-06-22T03:32:22.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Patient Engagement",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNLTQtRkxHZXF4d3pQNFBPNjJKRl9wRjRPTFp3X1JTREZXM2MxR09JcHZveEc1dEd3OUFSa0ZIbHVJT2s1NVJ2Q1B3OVFRWGFCU20zX09UYVYxNXE3TWRpQUhNVUsxemlfeVE?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2025-07-09T13:58:07.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Analytics",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Gbm1JNFVLVzdOdlFPT2VHYVp0MDRma09IaEtlOTlkRWw0QU9rU3dpMUttVV9zaG9wWjZmYnVnZEhwcWNfczBwRHdTc1Fidno1Qnd3aUhjbzRiUzVkRnc?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2025-07-09T13:57:52.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "How health IT's leading innovators are using AI now, and where they see it going",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbXh4QkJHUV85cl9CbUJ1UlIybVJxa05OTkZjMDREUTExYm05NTdnVU5QUUhyZzBWZHJBQlhyRDdxMzlRampyR2hlX3hFTzl4RVFFNXE4RGFaTk5aLWRrTzY1LW9ET3JiaXRxN1ZTanhCN3dfMm8tb0NiZ1JoUWs0VmVBNzdhalp4bUZIUzFkeUVDenhDN2dnZkQ2cFE0VWZPTFZEN25rMlc3Y0lwZm0ya1ZfekdKVUZGOU9Sbw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2023-09-27T18:31:51.000Z",
       "snippet": ""
     }
   ]
