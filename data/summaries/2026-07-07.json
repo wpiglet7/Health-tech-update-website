@@ -1,0 +1,238 @@
+{
+  "date": "2026-07-07",
+  "generatedAt": "2026-07-06T22:17:27.389Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 37,
+  "sources": {
+    "STAT News": 11,
+    "MedCity News": 11,
+    "MobiHealthNews": 6,
+    "Healthcare IT News": 9
+  },
+  "summary": "Biotech consolidation continues at a brisk pace, with Vertex acquiring Crinetics Pharmaceuticals for $10 billion and Novartis spending $1.1 billion upfront to acquire Myricx Bio for antibody-drug conjugate development, signaling sustained industry appetite for strategic deals despite broader market conditions. Healthcare organizations are increasingly deploying AI across multiple functions—from patient intake at Penn Medicine to safety vetting at Mayo Clinic to disease tracking via ambient health data—though clinician skepticism about AI reliability persists as a meaningful barrier to adoption. The regulatory and policy landscape is shifting notably: Obamacare enrollment has dropped sharply in many states, the FDA faces pressure to establish clearer frameworks for peptide regulation and ensure clinical trial diversity, and interoperability initiatives like TEFCA are gaining momentum with over one billion exchanges recorded. Meanwhile, quality and affordability gaps remain pressing concerns, particularly evident in oncology costs, workplace mental health coverage, and the discovery that telehealth GLP-1 prescriptions often lack adequate clinical oversight despite their rapid accessibility. Leadership transitions are underway, including Epic President Sumit Rana's planned August departure, while healthcare systems grapple with broader structural challenges like pediatric care deserts and the need for better diagnostic test utilization practices.",
+  "items": [
+    {
+      "title": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&A booms",
+      "link": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-06T20:52:29.000Z"
+    },
+    {
+      "title": "Why Penn Medicine Is Deploying AI Agents for Patient Intake",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qUjZUNFJWMlBULWU3ZGlRWERpcDRYY2ZBUUkwSE1LOXdqbldKQXVjYl8zSEhXSG5zUWVBZnIyWkhtbHN3SzR2a1NUWGZJSUY2NC0zZnBoYi1TSTJTZ3lNeWNmVEFNeThL?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-06T20:45:29.000Z"
+    },
+    {
+      "title": "Healthcare interoperability starts with people",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMWNPYkNYeF9vWFBOZkw5U1pxblowU0hzRm5RUTJpdHNCQ21TbHZKb0tIMmVkMDVuYWtmX3p1RVpQNVBmamktWTVMNXdPSDZDMUVPblJqdEdBWi1xRG5JZ09tTklYNVZ0Smc4c0tqVUJmVTNGN3BPYkRoQ1V0YWRsMGtCTVQ4cExhRlo4?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-06T20:28:37.000Z"
+    },
+    {
+      "title": "Cumulus Neuroscience, Muse add at-home sleep EEG to CNS trial platform",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0xET2NLTnV2aVh2U1dNZEh4d2V2QXFkNmNfRV9QRjZNMEFEQkEyNVdLLU8xalcwR2F3S2JydlJVNFNvb21qSGxkV0t5U1VJeFZNdnhFbTdKTjhlamF5U1JZaFNkSTRNbzU2WXBhN3pseW1EU2VlaTkzSEE0VGV0VDNYMzZ1VTFGS3ZScm1KZThoVWZJNXRINnVBdU5ZbWV4?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-06T19:59:35.000Z"
+    },
+    {
+      "title": "Obamacare rolls shrank dramatically in many states over the past year, new federal data shows",
+      "link": "https://www.statnews.com/2026/07/06/obamacare-rolls-shrank-dramatically-affordable-care-act-states/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-06T19:58:23.000Z"
+    },
+    {
+      "title": "Enabling trustworthy healthcare decisions with retrieval-augmented generation",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUZTZEV4cDYxVmxCbmctQ3JFSmIyVWFObFNKeEd2bGpiRHNlNGNwOHJkUGJoZU1DaXNsSjI2Sk5FNHBFLXF0NFRvcUJjOVB6S2FhWTVSYVRicmxXQzZKMzVHRUlZdnBDRFlrTENzSnBieDV4dHdtNWlDSEs5OTVXMWNpYTVzMVczTVlWcXB4dFNZNGZ1bEEwSzBMbTlDZTNRMlZMTm1tVXM5bVNOZ2kw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-06T19:54:00.000Z"
+    },
+    {
+      "title": "SAS Institute",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLN2xKb2YwZEF0TnNqem4xWjFsN3FsOVhVbXZpOGFrRmg4d0M4aEptcnhSQVphNldsazA4bUJyaFY2WkNnZHJVX09KZGF0VmxrSWFZR1BoSDRqb1E0Q0RUSzZhOG1ZZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-06T19:54:00.000Z"
+    },
+    {
+      "title": "IHE Catalyst advances cross-border data exchange",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWFTVjVjRWJPeXhSeXRPSkIwalJjQ1p2c2RPV0RkSW5PRWYwZEZMcW1uMldTa2xtWVlqcmVCVWRGR0p6QW1TOExLTHAxY1FqZ3o2dE9PQTBVTjNRY0xHTk9TUzhBbUNtQ3I5bmtBQmlRWnoxMy1sTkFGWXhWZXBWQ2tiLXA1Zko1ZTN0bWN6aFJoRDhlX0w4?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-06T19:52:00.000Z"
+    },
+    {
+      "title": "Abu Dhabi partners with MIT Koch Institute to advance AI oncology research",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXFZSk5QcEdmMk5sTkhoc2FUWGhXVTdrMEtGeldVNE1VV0ZWMXVYNXFfXzRNVDg1WXNYNVpIQXg0WF81Z2plVUpyVUhHa0dvT3BWb0xTTXk1YVo3dHNQNldQM21SS1dUazB6UlpkR0tBN1hJaUZndzY5SzVsVUg2Si1oVm9xRFZzTU93YTZxTXg2dDduQ1R6TEFYdGRiVjJvRDdkMg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-06T19:37:18.000Z"
+    },
+    {
+      "title": "A $1B Acquisition Gives Novartis a Way to Stand Out in Crowded Area of Cancer",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2pXU2I1S2xZU2JsN2ZUcVdfbnU1cFM3VnFsaUg5T0oyZ0VaNy1yeGxCeVE2c0s3UW5uWGJabWRWX1FhSWtGclBERHNLYUZpaVZrWFFCM3ZhNVE5WnR0S09xMmFlM0FhUE9SeUFtMFZWTUJqZVRUb0doMUE0WHh5aHBtbmx6WV94dWNLY0doZEQtOWZ0dEt4V2o0YXp5VUgyTmNuNFd0ZzM5ZnRVQVZFYU5qZw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-06T19:15:50.000Z"
+    },
+    {
+      "title": "How Mayo Clinic works to ensure its AI algorithms are vetted for safety",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYXVydlVWNHdGTGZyMDBzWFRob205b0ZnaTI3b3hYLXlSM2ZKME43T3g0ZksyUFpiWnZJWFdGa1BKdm9laGxoYU1QZFVxZzh6R2hsRnRrQ0xyWWloTWZBTWxOZUg0QWFGQzNmdkRvaXZBVGtwTWxXaWp1TlJxMWN5OTdpYmYwZHFIYjQ5MWZnZVU3cVJ5enFkYlZwR3J2Q241bWpHaA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-06T17:00:32.000Z"
+    },
+    {
+      "title": "Pediatric care deserts need a new delivery model, not just more clinicians",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0Z4YndYa1Y0VVU0TFV6UTRKSXptZVVhV25xVC1MWVNzUjRzejNxTDZhYlZZVEtRLTFjY1EwYVlBbGszdEdaTWZpSDVMekhPZGpKSEFOXzZ3RHJ3T0FHN1JrSDF4cms5eEp5dFZ4ZWVqcjhZN0pnS0YweXdfLXMwY0hGZDhINm8yWUNVMEV2RTFsNmhveVE1MzNqN3h0aWpTOUxZVGptV1E1WGNPNVE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-06T15:50:55.000Z"
+    },
+    {
+      "title": "STAT+: Online GLP-1 prescriptions are often fast, easy — and low on clinical oversight",
+      "link": "https://www.statnews.com/2026/07/06/glp-1-telehealth-prescriptions-jama-yale-secret-shopper-study/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-06T15:00:00.000Z"
+    },
+    {
+      "title": "Epic President Sumit Rana to step down in August",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnlXQnd4SUV3ZWtZZDN4WDRvLUpYTTNZbDZzbDZVYVBwcWFfaDNmb1NFSEluVkVsWE10Ykp4VHc1SllDbFpZRUREQnRWY25nT09EaGhvOGFIcUYyVG9yWEpic29INGR5WDRpMHludXVWRHhPbzBYNE00bVptczlBWHEyODBwb2s?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-06T14:56:23.000Z"
+    },
+    {
+      "title": "Commure executive on ambient AI for Ebola tracking",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOTBhTHdhM3EtNG5MSi1EalIzb0JaRzFaemdsUF9rcWJIUk41VXE3T0VGb3U5ZVBNNU56N3dQbElLWGJjbWVwamY2SGF3WTRORERLS2pBVG1tUVBkUUtiRGt4N0RCd1dUSGpGWnVkdzlTbWRnbU9FSHBlRzBHdW53M3k3bW1pc0k?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-06T14:19:28.000Z"
+    },
+    {
+      "title": "employee assistance programs Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04bndhZnpzQ2Y5WTUwRUNSX2N6NEJjbFg0UVRfS2VtN0dRcW5wWDZYeE1WeWZDRUxleS11dmN0RmIzZzhXMllMa1FtQ3g5TDBZOC15cnBPUjcycG5ZdFRFV3FsSXFzdDN3?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-06T14:17:22.000Z"
+    },
+    {
+      "title": "EAPs Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrcmJzVkhLeGc4MmNhalJqMjd2ZzNmTGxmSTR5RW5NSGQ4VnRkbzFva29jWVhsOVNZaDh6UDNwWENRRk5uYXFrNw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-06T14:17:21.000Z"
+    },
+    {
+      "title": "quality bonus program Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85TFdBNTZKRHIxR0dRMzQzNlJnRnRsOEEwWmFvWXRDQ29OYjJEVnNVYnhIWjJIdXVWN3luaDFOZlg2bDhlNnQxd25MZ0NUaGVMa0NsX0RoOGtGOVhiMEdJ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-06T14:17:18.000Z"
+    },
+    {
+      "title": "In Oncology, the Cost Problem Goes Beyond Predictability",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU256cHZpQWN1QUZuaGN6UThyQ3NxZ1J1ajhkM1NiZF9naUwtNUVZM1B3bVFHMXVXNFlZUnZwa2pCckVsbXJYTzEtdlNwLU1ybFBqQ3V6LWZpRWVFT3RWY18yNGVlTm5UYVg0UFZ2NXA1QUllWVQ5TVMtc2JKUWY5QlBNdWp0ci1ma0FVS0VZUXVDZw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-06T14:10:50.000Z"
+    },
+    {
+      "title": "Closing the Quality-Affordability Gap in Workplace Mental Health",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaENGZ0ZkQXg5WUlwTEpkZXhHN1lWQWtpakZJbTdYNUdReEVWWlM4TkJKT3Vza2VJTm5kbzdNUUJtWlFZcHBWdC1zU2lFOG9iaDhiWDkxdnlMenlIRUdkU0liZEVEVWE0eTdlRUVBQzFkN2FGMkJ3dWNPNTkzTVUzWXR2NHhkczY2ZjA2U3lqZlVCUmJuUmpHU25PWHMyUQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-06T13:44:48.000Z"
+    },
+    {
+      "title": "The AI Playbook for Health Plans: 5 Steps for Leaders Who Don’t Know Where to Start",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWhqZXFVb3BIR2d5TG1DYTZId0ZxT3BfcUtWR21zUzVLeEZnXzA0X2x3TUxEU0RxamZhdDc0ZGJwaktybmVLbzRrSWtNMEhZVEt0emNNY0tKRENRcmltS1A5dm9XTTRFbUxPUHQ2VWtVYlp3cXM5TFM0am96dThWRjRIZE9IZzZxd0NlMkptSEwzaG1uTkVScXlJTnZPY2xaRGQyX2dvN0RCbTNJVl9vckRxV1g?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-06T13:44:48.000Z"
+    },
+    {
+      "title": "STAT+: Four major biotech updates to catch up on",
+      "link": "https://www.statnews.com/2026/07/06/biotech-news-anthropic-ceo-dario-amodei-tempers-expectations/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-06T13:37:50.000Z"
+    },
+    {
+      "title": "Ambient health data could help track diseases",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeHNiRlBqb0NGSXlEWEZhajFCR1ZkSDluWkFkQ1dBbG10eDVmRHdYSzltZC1YVFllQXBXbzJTWTYzbWJPdjU1RUxoR0FkNE5acEJpSEd6bXB1Q1BVd0haZDVtVlQ4MGFYR1pmdHYzNURJcE5JWEJGT205SXh1dGtHektyc3VYOUZQVWlqMw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-06T13:23:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a Novartis acquisition, Republicans backing clinical trial diversity, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/07/06/novartis-buys-myricx-republicans-back-clinical-trial-diversity/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-06T12:56:19.000Z"
+    },
+    {
+      "title": "The race for an Ebola therapy begins",
+      "link": "https://www.statnews.com/2026/07/06/health-news-race-for-an-ebola-therapy-begins/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-06T12:08:48.000Z"
+    },
+    {
+      "title": "STAT+: I spoke to Anthropic’s CEO about how AI may affect biotech. Here’s what I learned",
+      "link": "https://www.statnews.com/2026/07/06/anthropic-ai-biotech-impact/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-06T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: GOP lawmakers push Trump’s FDA to make sure clinical trials are diverse",
+      "link": "https://www.statnews.com/2026/07/06/republican-lawmakers-attempt-clinical-trial-diversity-protection/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-06T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Stopping doctors from ordering unnecessary diagnostic tests requires a structural fix",
+      "link": "https://www.statnews.com/2026/07/06/unnecessary-medical-tests-diagnostic-stewardship/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-06T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: The smart way to regulate the peptide boom",
+      "link": "https://www.statnews.com/2026/07/06/peptides-regulation-fda-middle-ground-ban/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-06T08:30:00.000Z"
+    },
+    {
+      "title": "What does content creation do to mental health?",
+      "link": "https://www.statnews.com/2026/07/06/vidcon-topic-mental-health-content-creators-status-report-alex-hogan/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-06T08:00:00.000Z"
+    },
+    {
+      "title": "Korean researchers developing paediatric emergency AI app",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVXpXUlZ1Ukt5RjFGSXdkVEdUdjRRNGVEY0FPX3hLQXdxSzQ3TG15bURnTjJiMVpVV3Y4Y1BfMVNyc2d5a3A2d19PTzk5WGdWYUN5UEFpQ29LQmk1cndxZjFhMHI4akl0QV9OMEh5U0ZrbElYeUF0NFY2OUJ0UHZEUnB3X1hqYnVuVjZYcmJSQk5QbTNYeHg2R05YNEY4Z2M?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-06T03:35:46.000Z"
+    },
+    {
+      "title": "What to Know About CMS’ New Proposed Outpatient Payment Rule",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93SmpyX1N6TFo5QkR2eERfbmJXSjNPdWQ5U1FNZXg2a1VBbE5Kell4b1U5djdHc0xaSUFGOVNvRnpVbzg1dHR0S0lmRTBLMHhTemd0VHpwS2VicXdoeDRQS0N0TnU2UWs2MEpiTTdWVQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-05T07:00:00.000Z"
+    },
+    {
+      "title": "Medicare to Spend $13B on MA Quality Bonus Program in 2026",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE5DTkxjNndYd0pRMnVBT25jM2lNQTVBbTBLd3g5NXVpT0ZqNUlXRjRseDladm01QnJJSDcxbWE5MHY4ejRacmJJT1ItOWItSWFEUmoxb19WbkdBSUxHRUFOa3gyOVlwZ0J6aEJMWndIa0pjV0R5VVdZVllJSDZlRExlTzk5YjNBWjd3NU53bWtnYVc2?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-05T07:00:00.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdHlxNngtX2R1RHRSU1E0dk5rWV91Q3FqTlY2SkFYZlNMZmpzS0JXZWVnSVVpTmxkOVBEd2ZPb1gtcWs0dW5MeEppejZjc01HRlg2YmtzQzNFMHQ1Y1JLOEJmRlJITnRVZTk4VVRtUHBUc3l6enZaSXpMNl94Uk5fZTc3aWhCa2lTa0hYRTZCek5qYlk5N2d4UG1rclRWSmc1TExtV1VpTUEzcHpHV1BGckpwemJZVHo2dFowMGtMcmQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-05T00:49:06.000Z"
+    },
+    {
+      "title": "How Payers Can Use AI to Improve the Healthcare Financial Experience",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY2VSRVVaWHlmOWI2TUN0SXRqcm1rWkczZE42ME1Ia0JHOHNFSTZtcGFpOVRuQ01ENkpBRG1Bakx0ZjJ6Wm9hdlNxcnNBZFZBWWtUckt2UGxvR1FLdnhOVTFGWWZHd3FmX19aQTFnanJSUGNoN1RsOFdWdEwxaTcxM0FaZnBCdTFnajFGWExaaUtNOG5DY2FqRGVwQkkzV3MtdTFZ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-30T11:53:10.000Z"
+    },
+    {
+      "title": "TEFCA hits 1B exchanges as HHS invests $1.3M in network oversight",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZU5lU2VsTE1tT1pfZW80dFdwTG50dGNKNVlLY1ZPWFpnNWcxWmUwUzJFUE52SlYzVXp6cXlRbHpSS05tRnYxZXJSd3g0dVg0eVF3OEJHRFlQVUxrZDlIMEFkZnl0VXNZOEtNbUdjY0llcVF2cmJDaU5NVk9aUUFUbkVrNUFvNjdwdzR3QjNJQjZWak9INWpmRg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-29T16:45:00.000Z"
+    },
+    {
+      "title": "Why are many clinicians still distrustful of AI?",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWNwM3FRRDlETGVHRFJ2R19DR2xCeWNhQzlkZ05EMkJmZVh2bU4wV1FJR0dsYzBqT1ctcnNYanhkWXZnQUh4TUpiSXlaNzY3bVNLQXV1ZW1wLVFTX2dXYmljTVpXdGdoWGRlUXFLS1AtVTd6TVB4QTd0Tl85d01EX3lYWFNLZ1lja3BJ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-26T12:25:00.000Z"
+    }
+  ]
+}
