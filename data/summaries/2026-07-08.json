@@ -1,0 +1,214 @@
+{
+  "date": "2026-07-08",
+  "generatedAt": "2026-07-07T22:13:54.501Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 33,
+  "sources": {
+    "MedCity News": 6,
+    "MobiHealthNews": 8,
+    "Healthcare IT News": 6,
+    "STAT News": 13
+  },
+  "summary": "Vertex Pharmaceuticals is making major waves with a $10 billion acquisition of Crinetics Pharmaceuticals to expand its rare disease portfolio, while smaller biotech companies like Vera Therapeutics and Celea are advancing specialized treatments for kidney disease and pulmonary fibrosis respectively. The broader healthcare landscape faces mounting pressures on employer-based insurance, with STAT's reporting revealing that small businesses and entrepreneurs are increasingly dropping coverage entirely, creating a systemic crisis that threatens the traditional insurance model. On the technology front, AI is becoming central to healthcare delivery across multiple domains—from enabling proactive care and accelerating drug development to powering remote care platforms and patient navigation tools, though industry experts warn that AI accountability remains a critical unresolved challenge. Personalized medicine capabilities are expanding through platforms like CurifyLabs and GLP-1 access programs, while therapeutic robots and digital health devices are gaining traction for patient stress reduction and engagement. These developments underscore a healthcare system in transition: consolidation at the enterprise level, erosion of traditional employment-based coverage, and rapid integration of AI and robotics into clinical workflows.",
+  "items": [
+    {
+      "title": "Vertex Pharma’s Growth Strategy Leads to Its Biggest-Ever M&A Deal",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVU9YUmdhT1lQV1p3bzB1OWNpOWJUU0hNMUMwTjBWNXhhQkdhLUM3b1Ywc1FaRzZRcDRZME1LQW9BT0lmSXp5eEVpdHY4RTFEQ3BFZ2FRd29yWEJvUWo2dG9QY2hVZkZoUnRjZ0FmRUVZV0ItUmk0ZWdsSzYycEVaMkFxbU1xc1FjRTUyTDU5eDhFMk4xeGpQZ3FBVloyWW1mdXRPWkg3cUhWanh4dnVlQTZNOGRZTVpWQXpnSA?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-07T21:16:08.000Z"
+    },
+    {
+      "title": "CurifyLabs raises $14M for personalized medicine compounding platform",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZW84Q2dpX2JVekRTNmJsNjBqZEc5cnNHNnRYVHdXTHB2by1DT21WZTRGeDlPU2FkWlZ2a05JWWpUTnF0M04wWjVQNlFlQzdZdUFXbjBNV1htRkRyVExYaGN3WjduX05mTktWcnNPSmFqd2lSakRxRkVUeXFtRUpSRGVSWWRveTJ4aDlQLXViYnVlUUd1bU5fY2tUNkJkQ0Z6MUE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-07T20:24:45.000Z"
+    },
+    {
+      "title": "The Foundation Is Built — Now We Must Secure the Future of Interoperability",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNVRfRnMtLWs3YWc3N09NNjl2TW1KdHQ2b3dCWUxpb1gzYVNnM0tReUZSYlU4SUo4Y080T3lBY1IydnVibmxfYjRzbnFmbXhiZklVUFR6bDdEZHZhdEpxQ3lMbTNoalFVaXVpSlhKcGhGQ3VHQklOQjl6eGs0cTV1czNjUjFrckxOWHAzV0Y2aEhublF2YVpVM3A4bmpndDZDUTY1STk1UENOdw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-07T19:52:30.000Z"
+    },
+    {
+      "title": "Connections with therapeutic robots can reduce patient stress",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlpZd0FCeS1jZmxOQUN0eDdhT0tjRkVUbDFod2FMWHI4WWpUdENBeXdGXzNXVnNkRzVaNF9tTTRRQkp0cWRhOXFzUmExdjdjZ3ZCeG5lV0tiTWRaeFVjRGQ4OGk4NXFIZm1veXp3ZTV5WGxiV2tBOE0xYmZtdkliSzlFT0dTZnFQZzFpTlltY05mMkEzU00xZWRpMXpHS1E?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-07T19:40:16.000Z"
+    },
+    {
+      "title": "How patients' mental health might benefit from robots",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWFQyODZSUjRnR0NtbVR0STNSWFBMQWFPcjVveFF0V050RElNM0NMXzRDanlwU3VNOVVJUXE0U3MzQ0FKUmgyZ0xzbmhZR3BlREN3VVYtUGVGMngtLWlsaGtKQW8xTGxPeGNNaFg4X3Zjc3FPUlI3M1I1WWo1ZDJkZ2J2QVI2dEoyNkh1UEZTYTJSS0FhS3c?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-07T19:04:00.000Z"
+    },
+    {
+      "title": "Brook.ai, SRHO partner to expand AI-enabled remote care",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLTlRZVZLY0xHR3RHUkZVV1Y4cXg1T2xmZUM3cENiaHRHZUpBOTM1MHplMnNSNnRVMDROSGh0eDg2VWFrZjlCZVRUUzRQWGptR2F0bFpqMHBma0sxM0pXSjRERXByQzdaRTJJblJnd0x5bm9HajliWkx4aUdDcklESHBJSDI5VWhnQ1huV0gtcw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-07T18:39:03.000Z"
+    },
+    {
+      "title": "Philips releases AI-powered toothbrush and more digital health news",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYU9CWGh6Tk02UllxQUw3YVhDZEJUcnZ0LUQ2RjRyUTQxNWgtYXZvVl9qaXdhQnVoV0prb21WcXdEZWtLWWNPdDlKTWVXV3RPb29rREZWQzF0YVBwNm5hV284aFhiWlc3dmtEclI0WDBFNFZ5V18xSU5JZy02dkljS2l5a0RHQUNfbHlucFNjYXVVblRlbE5WdF9hbjc3UFZDbEhDT3Bn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-07T17:53:37.000Z"
+    },
+    {
+      "title": "STAT+: FDA approves Vera Therapeutics kidney disease treatment",
+      "link": "https://www.statnews.com/2026/07/07/vera-therapeutics-kidney-disease-treatment-approval/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-07T16:44:36.000Z"
+    },
+    {
+      "title": "AI accountability is now healthcare's next big challenge",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOall1R0ljVlRtTmxhcUlGVHpmNVFiUjZiSWRreWVRWEFyclBCZ0hBaWF5VkdENnZDcnJnX3N1ODBPMzNkal9xbVgwNHJoaFhSSGpIQWVRMGtCaGlwd0VGQkZiUFJGblh0NXJDQ0JYUUN3bndOblY5TnB1M2d2NXFuNVh0RnZhVDRHUWJpZXBVNWFzMWxk?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-07T15:46:36.000Z"
+    },
+    {
+      "title": "STAT+: The crumbling employer-based health insurance system",
+      "link": "https://www.statnews.com/2026/07/07/health-policy-news-today-dc-diagnosis-newsletter-john-wilkerson/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-07T15:40:29.000Z"
+    },
+    {
+      "title": "Crux, eMed partner to expand employer access to GLP-1 medications",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTZBVHFtb3B4eVRBSktaQU9lbU5Sb3M5c2pYaG01TWFGU20zeTVqazdqMF8wd2tGUXA2QlJoYnQ2MlZaXy1PSU54a1lpM2ZyOU5OXzF1Si0xNExmMXYtazBzdFpFclBVZTBxb3hKVlotcDc3andTUUhpTVJDS0EwdkVqZE1sbF83NXpUUVFBcm9pNlhkUktlU1hn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-07T15:34:53.000Z"
+    },
+    {
+      "title": "STAT+: Compass says depression drug has long-lasting benefits",
+      "link": "https://www.statnews.com/2026/07/07/biotech-news-compass-reports-depression-drug-has-long-lasting-benefits/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-07T15:04:50.000Z"
+    },
+    {
+      "title": "STAT+: America’s employer health insurance is decaying",
+      "link": "https://www.statnews.com/2026/07/07/insurance-affordability-crisis-health-care-inc-newsletter/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-07T14:58:06.000Z"
+    },
+    {
+      "title": "How AI tools can enable more proactive care",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZTVINTFobzVmVVItY0pabkR5eU5GQUlOTkY4aFFQM0hab0VfQWtDTW1ES1ZuWFlJVHVKQkQ5UGk2V2VZOWEwSnRZc1Z3bjNtLWcwQ3k2SksybkxGdkJSTWtvNlVsdVRKM2RfQml5YUt4WHp6VkFleWF5TFIyRk01LVdHQ0RXbHc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-07T14:45:10.000Z"
+    },
+    {
+      "title": "UCSD aims to put AI research into practice",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHTzU4Zk91TUJYT2Z1cDdpX0JYaXU2SzNrZmxkd2VDZXRpVVI1SVNXVEVhQ3E1Sk01b2Mxb0tMdFl1WVZNSGpKMWxXOVZLc05XRXY3ZXFMT1paZE9rMjB1R3FtckJXa01QZDh3RUxrR3dZWXgzWmEyc3FiY2w?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-07T14:34:20.000Z"
+    },
+    {
+      "title": "The AI Use Case That Healthcare is Overlooking",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObC1kbXJrbkxRcFRLNXBNbXNnY2R3SnM0ZzlpZUNFVExVSDhxam5RbnlWNmRjTm92VENvX0dZNnVCNEJadUpXUHR6ZFgtRFdDV09fUmhzNjRjb280RXMtalVTc2owVU1PTENzRVdlUWlYUFNDa2RSdjFGcmhzTjVvbzVlWEV2Zw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-07T14:30:50.000Z"
+    },
+    {
+      "title": "At MGB and elsewhere, AI enables new therapies sooner for patients",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY1dMWm9DbUZWNnRiS1Z2N1pkVzh6NzJqSDNqdHA4WHpTQ19oNEswYmJpWjExNHNpYTcxWHlELVRxTFlSYlkzZ3A3dWtXSC1vOTVyd2dGOU5VQnVhOWQ2OThRUjJJLTBIZ29NODNaTDNELVZ2TnhFNFIyVGI2djRWbERkMEpVeWxsTlZGT2VyampaVnFFa0JLU1hyZjhTZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-07T13:52:00.000Z"
+    },
+    {
+      "title": "STAT+: ‘Secret shopper’ study probes GLP-1 telehealth sites",
+      "link": "https://www.statnews.com/2026/07/07/secret-shopper-study-glp-1-telehealth-sites-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-07T13:47:51.000Z"
+    },
+    {
+      "title": "The Truth About Testosterone in Women: What Medicine Has Overlooked",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNE1ZaTdjM1lORk5yYTA4OEdlVEROWnIxdXBkTVRMS0hiV29NdnI5YUFSenBhNDZJeDNWQzF0enNRVWFDdlZwUjBCZjVQTTg4TnZTbTdQbldkb1VoeU5wQXNZMDd2bE1sdlZTRlFZMHotXzJnbUFwNGtNU0lLUktheXlUX3dweEhNUlY2dXc2RS0wb25oRkNiTnlObC1xNUd6?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-07T13:35:50.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a $10 billion Vertex deal, the pace of FDA drug approvals, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/07/07/vertex-buying-crinetics-fda-drug-approvals-kept-pace/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-07T13:14:01.000Z"
+    },
+    {
+      "title": "Ebola outbreak exposes a fractured outbreak response system",
+      "link": "https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-07T12:06:47.000Z"
+    },
+    {
+      "title": "5 takeaways from STAT’s series on the soaring cost of health insurance",
+      "link": "https://www.statnews.com/2026/07/07/why-health-insurance-costs-so-much-out-of-pocket-series-key-takeaways/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-07T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: What if this Ebola outbreak can’t be stopped?",
+      "link": "https://www.statnews.com/2026/07/07/ebola-outbreak-drc-uganda-endemic-control/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-07T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: This whistleblower took on a health insurance giant and a political machine. She’s not stopping there",
+      "link": "https://www.statnews.com/2026/07/07/employer-based-insurance-whistleblower-out-of-pocket-series-part-3/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-07T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: America’s small businesses are giving up on health insurance",
+      "link": "https://www.statnews.com/2026/07/07/small-business-health-insurance-costs-out-of-pocket-series-part-1/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-07T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: For a Georgia entrepreneur, health coverage has never been affordable",
+      "link": "https://www.statnews.com/2026/07/07/aca-health-insurance-small-business-out-of-pocket-series-part-2/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-07T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Medicine thinks Gen Z is too soft. It’s wrong",
+      "link": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-07T08:30:00.000Z"
+    },
+    {
+      "title": "First robotic surgery network in Vietnam launched",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjI2WWJuc202SHpUb3BVMXM2d1ZrcGZXbjZWa3NUR0hYaGZsUVpLd1o4b0ZtQ2dMLVh4Xy1SN0paMjlxOEs2Z2xLUmVWUEI0WkgzNnkya2x1UnNBMmMtbE5pYUN3elJhUC0yRFlrOHJfM19ubkdocFZMQk15eFNhSHl3XzZpV1c2akY3WDJpQ1E0ejA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-07T03:56:05.000Z"
+    },
+    {
+      "title": "Eve Bender",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aWDZrVjhCbUtlQ3ZCV0xnbkJxQzEzWnBWcjE1WE1LVldRbVFVdUFqVXdzMDYwRjk0ZWpQV3REVHZ1TERNRUo4X0lLWkpuVFlTMmMwODI3SjNoNVVCbGVuTzZPTTR6Zw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-07T03:26:21.000Z"
+    },
+    {
+      "title": "Report Highlights Private Equity’s Lesser-Known Strategy: Nonprofit Joint Ventures",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWERpVzNld0ppV29Fd3ptUU9yR2t1eHJsUmh5TUZTeG5Bd2VhOHFFbmVPVS1qaXctMVVUNU5JWS1YaG1jTmt2Y2s0SjNlQ2IwbzFSbzByV25UdmlCcXE0SHRrUFFOVTl2cW15TkVyY0J5VmUtWmloenJWNmlNNUhscnMzSGJiSTR1Njh1Y19ublhvWGtMSWl4NHBiREQxYnp5dFkwM1oxSkktTFJNLU92N3BtNA?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-06T22:20:50.000Z"
+    },
+    {
+      "title": "Lung-Focused Celea Secures $180M for Pivotal Test of Pulmonary Fibrosis Drug",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWdUNTFuZnUtOGZrbE9Kc19oVmROaVdZYzhHdFFRZUFJQS1TZ1pJVHdVVkZ5RWZaUlZoZHppX3RUYTVaQUNTa3UzWjFFb2R3Vk9iSVNjc2RmOHI5Q0ZNY25GZzZuT0JnUnJIQU9KaTV0d2NLQ0tpWTZySmU4S0NTM1BxUDVNYXhqdXUtNzhPWWpzV01ybk9VQ2xOTnMyR3pXU043aHVXV1VSYmVUNWc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-05T17:05:46.000Z"
+    },
+    {
+      "title": "Sharecare taps AWS to power AI health navigation tool AskMD",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMWU0aGUwMDdRZ00tTkNxOGd0aXBGVktuSE41QUtEM1llM0hvY2lJQWpXUEJ1dkg2MnJOWkxKVlBhZi1BSXBCX1lyeGVFVTdsR21vUFlOZ1pwelQwd2FmWUNsMnNGNUNxUU9SS1QtVVZTNHlQMkZRaklTaU1tRG1CSDJTWldMY3NoNlM3ZHZsZFdnT1ItNlpN?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-30T20:03:33.000Z"
+    },
+    {
+      "title": "At Mercy, product development principles lead patients to the care they need",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQWFuUkxvZXhLVXlNQlF5YUIxSzgybzdIdVB6UzBKX09ENER5X2tuUkx1aDNLVWFaYnJRYUk5am5ZWlNvNkdGc0ZIc1ZPaDdfN3lXR3BsRFQ3UnFCR185VzlfRGJuN3RXSThYX2ZaV21sdXltWWc2T2lTTnFxdW43RU9rbXdLN3R5eVNSRjhSQlZiblhNbW84ZFYzd2pSWG1tdmF5SkFB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-30T14:38:47.000Z"
+    }
+  ]
+}
