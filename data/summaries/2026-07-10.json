@@ -1,0 +1,238 @@
+{
+  "date": "2026-07-10",
+  "generatedAt": "2026-07-09T22:26:10.091Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 37,
+  "sources": {
+    "MedCity News": 11,
+    "STAT News": 14,
+    "Healthcare IT News": 7,
+    "MobiHealthNews": 5
+  },
+  "summary": "The health insurance and pharmaceutical landscapes are both facing significant headwinds. ACA marketplace insurers are proposing a median 14% premium increase for 2027, while a major setback for AstraZeneca and Ionis in heart disease treatment highlights the competitive pressures facing drug developers. Meanwhile, the FDA leadership transition is drawing scrutiny, with three contenders under White House review amid questions about healthcare costs and industry oversight. On the technology front, hospitals are grappling with the practical challenges of deploying AI at scale—while nurses are becoming more comfortable using AI tools, health systems recognize they need stronger data governance and discipline to implement these systems effectively. Separately, funding is flowing into specialized care areas: Handspring raised $19 million for virtual pediatric mental health services, and Pearl Health secured $110 million to support value-based care for Medicare patients. Finally, a diarrhea-causing parasite outbreak has exceeded 1,000 cases, marking one of the nation's largest in recent years, while ARPA-H is investing $160 million in custom gene editing drug development across seven labs.",
+  "items": [
+    {
+      "title": "ACA Marketplace Insurers Propose 14% Median Premium Increase in 2027",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMV92WlV2LU84d3JldEdFN1dkZFNkNWVnM0xDbTBTTkkteVB4S0RGYUdyY2V5b0d5dzJERmZ1WjlIc2d2NVdwMFV4OC1ZZ25YSFAxV2JoYUxkTDhQNGxJalp6RFRIc0F1Q2F4VG9LNFRUVFFhUmtnLU1EZFAzR29CM0p1UFpfeExyLUZBR1ZIakw5WmlMQWV6ZUFQUjZOVFlKWmc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-09T22:05:50.000Z"
+    },
+    {
+      "title": "Phase 3 Failure Keeps AstraZeneca and Ionis Out of a Growing Heart Disease Market",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc2tyMU1hUXpUMWlERnIzaVg5dWFzaHpabnVVYUFyZGdOWmdaZWNQX1JPQ040NzhzVjBUSTliQlk2YWF2S1pMM3hrSEp3RjBpVGV1X2ZfYlBNWDI1STVyVHAtaWNsVDFDU1FkbW9aQ3c0Q0VwVXl6YkFIbUt4WGVYVG95YmNYY3BaeXRuaE9nZjhlWWhqTkRySnFyektUNnVFVjc4dE1nc0c0QmlMWDV6STJLOW9OTHMxVlhIdHFDT1BPbXZfNFkyeDFocVo?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-09T20:30:50.000Z"
+    },
+    {
+      "title": "Whistleblower takes on health insurance and FDA commissioner candidates",
+      "link": "https://www.statnews.com/2026/07/09/readout-loud-podcast-fda-commissioner-candidates-health-insurance-costs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-09T20:07:54.000Z"
+    },
+    {
+      "title": "HIMSSCast: Scaling AI in hospitals is harder than it looks",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVU5Ea1RuWmZEbE1JVTJ6d1J4QTJDODFhNXFFQURKbGVKWnZjbzh3MFVqNHpuNkJNcTJPdk9rZmRxQmhhVVE2b0paYUs4aEk5NUMtalN6UGpfQXI1SklpeWE0bDRGQzBtWG1uQTMtckNZQ0NiQWk1SkdBWmN2bE9GZVdlaTNySk5aZWhfakNqcFFTREVkSWlz?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-09T19:51:42.000Z"
+    },
+    {
+      "title": "Handspring raises $19M to expand virtual pediatric mental healthcare",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaW9TN2lhVDY5ZkhlN1NXYkdJdExuUGVRcDhXMGpOVFg2dzV2Q284LUdTYU5KaVBUV1pTbkVoOHNLcHo0LU9yWGNUNGNFV3JTUDN6eUhYWDVBM2lNQVZ2RnBac3JLR1Z0U2NSVlhzNEFXVVJJeV9PRHBqT3lnY1hHLWRMZTVZS3FPbVN5cVRZMTQ2dkVhSUlka214R3JmbUhrOXc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-09T19:45:17.000Z"
+    },
+    {
+      "title": "Q&A: How a Missouri health system prepared for the World Cup, part one",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3Q5WHdZdjFyTThDemhjaDg2NnhiVDBJTlIwcnJZdlpiVkE4ckJYaEFkMUk5ZGY1ZDhFLURna0swQTRHeE5BMEVsRENDQ08yVnkycVlaa3NmZmNyWnVXV0NkRFVIRVhFVWpwd0E1ejFKZGhWMHFzUll3ekxWTlBNQ05HcFFNMTNwNy1wSDZkcmtMNnhrTi1tcg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-09T16:22:32.000Z"
+    },
+    {
+      "title": "Could 'Dr. AI' soon practice medicine?",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oU2ttWnlTdWZQTzNIOVlOcjczLVlXUzhqZHNyYUVtaGhKblk0TVFILXFzNVFsRW1Zamk0RHRMVXByMGJrc3ptcXA0akJTSmc5dGNmd1R2c1ZlbzJKS3g3QjRzSEVaeHRlYlAxaWdFeWhVMk0yMzYwcmV1Y3o?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-09T16:17:31.000Z"
+    },
+    {
+      "title": "Health systems need data discipline for effective AI",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWTBDbXdOTXExYkZwS09FLTBzbF9Jd0lQYUN5ODZTQ0dQZGx2Nm5GTXRDNkxUbkEzXzhiSXlqaUdqaE1JZEV0Y2FudnlSMGhSMlJOa2U3OU5DVDRva29XX1ZJLU85eV9PUWJpeTRkVXFvN3o4d2U2TVQ3a3kxOEtEOVVMbFZLZlJYM0FtcDhxMA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-09T16:06:58.000Z"
+    },
+    {
+      "title": "Outbreak of diarrhea-causing parasite grows to more than 1,000 cases",
+      "link": "https://www.statnews.com/2026/07/09/cyclospora-outbreak-faq-diarrhea-causing-parasite/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-09T15:01:27.000Z"
+    },
+    {
+      "title": "STAT+: ARPA-H launches $160 million effort to develop custom gene editing drugs",
+      "link": "https://www.statnews.com/2026/07/09/arpa-h-160-million-custom-gene-editing-funding-rare-disease/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-09T15:00:00.000Z"
+    },
+    {
+      "title": "STAT+: FDA finalists under review",
+      "link": "https://www.statnews.com/2026/07/09/fda-commissioner-finalists-under-review-obamacare-premiums-surge-again/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-09T14:50:49.000Z"
+    },
+    {
+      "title": "Aspichi explores VR for mental health in Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcDRYdGNBRFBuTnplTlJyNmFrdE1pbG51NEdTZklVZkxmbnNRdTE0M0pHNmVhenpfQVBjcDg4anZuYW9hUXhjM09fbzdwZ3hUUDcxV0VWRTlsRkZFNnFpODE4bEdOd05jSjJ6QzJaTlF0NlN1WFhySFFQT3Z4SVkxSDNFLUc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-09T14:45:36.000Z"
+    },
+    {
+      "title": "Menopause Is an Overlooked Driver of Cost in High-Risk Populations",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZi1HTXRhamh1YTRPUzFYcll1U1dXa2RKYXRmSUdMME5QVVdXQlRnMDRid3YtcFRBZS1OMjMxN0loNEViZ3p0NkpPU1RKWnlzRnJ4Yk5lZGloeFIzd1p2MXRCbWl6bjB6ZFl0UEFHVUJvY2JJZGtvYjFkckdMN2NCOUE5THczSmtnVGdVQkRyeWEtaHlydkJzX0R0UjVBZEFR?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-09T14:38:56.000Z"
+    },
+    {
+      "title": "STAT+: Prime wins Beam arbitration, clearing path to clinic",
+      "link": "https://www.statnews.com/2026/07/09/biotech-news-prime-wins-beam-arbitration-clearing-path-to-clinic/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-09T14:05:21.000Z"
+    },
+    {
+      "title": "Aspichi explores VR's role in mental health resilience",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMFpmck9Halp4X242dXo5MTh1V0ZkenU3aVBjbDN6US1ZSXViNm1kb2xXSVVycV9hQjVIVVRlTzB1Z2FjYmR5UXhIUDNTc0gwZWh4VmZSRUFZaHUwLVFTY0NWNjk4Y1ZpQVVjX0Zzdi1rc1NEc1ozOWM4RjhzaWtJU1Z1U2laMWR5c2RmYXdIZkRfVnM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-09T13:57:00.000Z"
+    },
+    {
+      "title": "Specialty Pharmacy Is No Longer Optional Infrastructure",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUnJVXzRkaVoySWNsc1YtWEhNR285SkN5LVRfZ3RLeEI2TE9teXhNdXV0TmZwOEtMVjFCNmJEZG9LdWwxczJvS050enppUXZJdHUxd00tRGsyc3VaQWhkM0RxMm9VWlJjRmtvOGttV0tZQTBtWWxGeTlNT2EtUTlmX0NyM2l4ZEExXzZ1ZUZSd18wdw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-09T13:38:06.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about FDA commissioner contenders, a heart drug failure, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/07/09/fda-commissioner-contenders-reviewed-astrazeneca-ionis-heart-drug-failed/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-09T13:18:02.000Z"
+    },
+    {
+      "title": "Brain Interfaces Don’t Need Surgery to Be Transformative - and the Distinction Is Now a Strategic One",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZzRkbjRRMFdCZWhRUHVJNHp2MTlTTTRqWnB3V2JkQktiNVpMcHFPX2s4emQ1alk0SkRwWlJDRUdCVmQxUENCZTAzRXJXanpRMGUyUmVfUXZhVE9kRzlKNWNPcnpEZUdSRWI3QlUyNzNNeVY5TUNFazFKaVVnYUNlNGNBMWFJeUJMTDAzQ2szN3R6N1hYdC1PcEVfcmtHRTRJZnRMckIzdkg2WHhOdDdvY25MMk12TjVGLTVhREpndkVyTE5DNm91cE5faw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-09T13:10:50.000Z"
+    },
+    {
+      "title": "STAT+: OpenEvidence backs study that finds it beats LLMs",
+      "link": "https://www.statnews.com/2026/07/09/openevidence-backs-study-that-finds-it-beats-llms-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-09T13:05:54.000Z"
+    },
+    {
+      "title": "Nurses are fearing AI less – and using it more",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLWJSU3Z3RVlsM2I1OVlOUm01QnhLS2VnclE3Zjk3V0xBXzQ3WVV1UDdlN3V3NmFxcEFPbUdPT01LY0VrdzhHYm5ERkFWZS1Xbi1jMEd4X2JnQkx3TmFmTGRvZ2VVVVZxOUVOMDI3dUs1UHp1WEJHbFlxa2NvSmxYa2RHTkdxcUdxWnc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-09T13:00:00.000Z"
+    },
+    {
+      "title": "Top Epic leaders to take on new duties as president preps departure",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTlVFbVhXcUZld1FRY0tpMmFaUTVvMUFMd3NKcklsdXJhYUxZWnVMM24td0hhYjN0dFY0WFp0VDE0TjlkSC1FRDQxN2lQVUQ0RGZnTDdSd2h2NUc2VHJZN2x5S3dzSzFmZ01xWllhd1BjT0Y0ZlBneDVsVVd0VVFvWHowbm9sbVNKYjgtUm9SR19FbDZhSkRwY0dDZjY?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-09T13:00:00.000Z"
+    },
+    {
+      "title": "Viz.ai, Cortechs.ai partner on AI imaging workflow for MS care",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSEtlRWNBRlBVU1pmY0FNc1NtMmlCMW5qc24zY2VzT2czeFhORDFiV2lnd3pxTWMwMnVpRXFabjBpVmdBMWZtQjhha1FsSGdjZEZIcEVnNUZ1aWZVU1UxUWJrZkRKXzZfTnkyYlFCTVRkdUxXVzZ1SjZXTXU4a3p2b284U2VTVThfVnJFbW80QmY0UQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-09T13:00:00.000Z"
+    },
+    {
+      "title": "Who’s going to run the FDA?",
+      "link": "https://www.statnews.com/2026/07/09/health-news-whos-going-to-run-the-fda/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-09T11:24:36.000Z"
+    },
+    {
+      "title": "STAT+: 931 days. The drug approval scandal hiding in plain sight",
+      "link": "https://www.statnews.com/2026/07/09/northwest-biotherapeutics-brain-cancer-treatment/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-09T10:30:00.000Z"
+    },
+    {
+      "title": "STAT+: AstraZeneca, Ionis report major trial failure with heart disease drug",
+      "link": "https://www.statnews.com/2026/07/09/astrazeneca-ionis-attr-wainua-trial-failure/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-09T09:13:42.000Z"
+    },
+    {
+      "title": "What happens on ‘MAHA Monday’?",
+      "link": "https://www.statnews.com/2026/07/09/maha-mondays-great-american-state-fair-status-report-alex-hogan/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-09T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: The quest to save Grace — and clear the way for rare disease patients everywhere",
+      "link": "https://www.statnews.com/2026/07/09/matt-wilsey-grace-science-rare-disease-drug-development-ngly1/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-09T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Who benefits from classifying obesity as a disease?",
+      "link": "https://www.statnews.com/2026/07/09/obesity-disease-classification-glp-1-eli-lilly-novo-nordisk/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-09T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Your grandparents are using cannabis. Doctors can help them do it safely",
+      "link": "https://www.statnews.com/2026/07/09/cannabis-seniors-medical-marijuana-legal-thc-cbd-chronic-pain/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-09T08:30:00.000Z"
+    },
+    {
+      "title": "Vivodyne Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwQjZFaEdKVkZuSEdOUElWby1GRHhrRExZRFA4TFVaLV9oVFQ1UTBBRHBPY2NuakQ5dXJoOWgxZGRSRzFiSzcxVE5VUlp5UQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-09T08:07:25.000Z"
+    },
+    {
+      "title": "labor strike Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVc2I5VHBmYVRISGphRXM0SUNYVS13RGF0cWRaR245N0FPX0xKT0tOVW5FZWJKeUMwa1E2Vi1ya3R5WHdXVFAwVy1jdWRSODlmeV8w?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-09T05:30:47.000Z"
+    },
+    {
+      "title": "MGB Nurses, Home Health Staff Launch Strike Over Wages, Benefits",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQM0dBZGI0Y25fQkhnRnFteGhMN1RuNDNLcUtfZG1CSFlQR0x3cXhnRzNjMnJVeTBsNzZvZVhMR1doakRXZ3BhVG01Q3FvWFdGZGVjeDhKWUdzeUdnVmhSOGZacFJvenM?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-09T04:00:50.000Z"
+    },
+    {
+      "title": "Vera Therapeutics’ First-in-Class Kidney Disease Drug Lands Speedy FDA Approval",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlhMeU9jWHd6U3lIXzNpY2M2WDBkMnhyZTBOLVBqR0c5VHljNUR3VklGN3FJWnhoOXpuLUhfdG5zOEJBcVVOZDdjUlFXZkJIOUFOQVJkQURPY1FVcXVOT3B3elZIbnlSa0dLdEhCT1ZQaERlODc0T19aS2QzSTFnaDBsV3RQTC13NDdRUG9JUzBQYWNWcGhLMnA2dnRZVFJ4MS1Vdm9rUnJrWXpyb0c4RS05NVE?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-08T22:57:44.000Z"
+    },
+    {
+      "title": "Pearl Health Lands $110M to Support Value-Based Care for Medicare Patients",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqR3ZSZWR0c1k4Ylp4aThmUW9PWW5xZWIxMEUydjdnZzdiZEpjUU8zdFNBV0VBUXdKMkx3b2F0OTB0R0tUaUtWejlUWG4tS2pRUExyUEVFdkgyZktxTldIcUZJdw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-08T22:50:50.000Z"
+    },
+    {
+      "title": "Organ-on-a-chip, Organoids, but Drug Testing on Whole Organs? This Startup is Betting On It",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLTlqdVpfSFRtUERDMHlsUkMtQ3BCTnBKc0k3TmZoVjV5aE5HLXVqQ0xMbUY0MV9VbVhQTWRpanh3LXM2Z2pBdWwzcEF4N3lZb3hUWm5TZlhiNjB3UktyY3VFQ2FpZmNubEdLSVg3cm5saTZXd1k2NVRmRlozU2NmeFhfYUFYXzZJa0I4elJnT2Zpd0MtVGh5d1dEOGR5UXJyclhkdnZLTFdOZl9fd01Kb2c5aTVnZ3pyTXVyZ1Zn?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-08T22:25:50.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHVOeTlMQ2x5WFFWUDJuc2JjNjhnLVU0ZVJkNEcySlRkMGhRQ0ZPa2xwczdST240NzlodF9vV1FuY0ZJaEdQblZnZThicm92d1FqTnp3djE4YTJEWGdCSVU5a1FuSXBNMHNUQ0V1cGRlUWFzR245NnBHR19DWUNCbXo5YlU?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-08T13:23:20.000Z"
+    },
+    {
+      "title": "Limited visibility into ultrasound usage creates challenges for hospitals",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQzdSS0Y3RjZ5RThXMlpCRTZhcktNeXhxLU5SVkFlNnd6YjJUZ1lGeEp3aVZPR3J3U3JWYmZlVmNZOG04MXF0NDlQQXliZ1RucXJkUk1WRW9UcW5POTJvbG4zYTF1QkF5XzJ0VTVabWFRWUQzRzZ2T3JyQ3pfYlBSR1lITGZQWE1OQ3NEdnFTZzRpa2VudDJVWS1BTGtMWHExSC1rMjRYbHhwN01n?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-02T20:44:00.000Z"
+    }
+  ]
+}
