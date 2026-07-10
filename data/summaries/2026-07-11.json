@@ -1,0 +1,184 @@
+{
+  "date": "2026-07-11",
+  "generatedAt": "2026-07-10T22:09:30.226Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 28,
+  "sources": {
+    "MedCity News": 7,
+    "MobiHealthNews": 10,
+    "STAT News": 7,
+    "Healthcare IT News": 4
+  },
+  "summary": "Artificial intelligence continues driving significant changes across healthcare delivery and operations, with multiple systems now supporting primary care at scale, improving clinical note-taking to free physician time, and strengthening proactive care approaches. Zeta Surgical received FDA clearance for a robotic transcranial magnetic stimulation system, expanding the technological toolkit for patient treatment. The healthcare IT infrastructure landscape is evolving with the Linux Foundation launching a new AI initiative focused on open source digital health transformation and governance frameworks emerging as essential for trusted AI deployment. On the business side, UnitedHealth Group introduced a new employer-sponsored spending account benefit, while IKS Health acquired TruBridge for $557 million to expand its healthcare technology platform. Policy developments include FDA delays on an electric shock ban and a federal nominee facing questions about vaccine positions during upcoming confirmation hearings, signaling potential shifts in health policy priorities.",
+  "items": [
+    {
+      "title": "UHC Unveils New Employer-Sponsored Spending Account Benefit",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTk9yaktJYkFwc2JXRGdnNXE3Rk9OaEE0b1NaSm1FbjlKdzRYR3VXTzVVa1BIcUpwT0NiVnBHMmF5TGZLb1FKVTNnS0pnemhGeWx6TDZveV9WbENCenkydDhJRTlhNHd2MldoLTZEdEtlUkkwRkVnSkhHd0xxYkt4aUhCZDMtbE10TUVyNVZVU0FrVlVmSVdJ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-10T21:17:15.000Z"
+    },
+    {
+      "title": "Zeta Surgical’s robotic TMS system receives FDA clearance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMThISXFOclQ2ME91QVB1RUROdDJsdjBDNHNWY0F0YU9oTlJLQjlwNl9iNlFiWFVaeFN2dVZVVm9aYmRFN1BHeTRtSzJmMUMycXd4WHhzcm9GQkNzZXZNX1F3VUMzN2wxcU56T29KaGFtOVhqNEF1N00wd3FMck5DczVRZVUtMzM0eXFFdUtwVkJYM2M1X0xJ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-10T20:43:04.000Z"
+    },
+    {
+      "title": "Glaucoma Drug Fails Trial, But Bausch + Lomb Sees Opportunity in Another Eye Disease",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObV80eHhxZUstS3RwNGpwZWdkT1NtOGNEV2Vfcm4zdUloRkFKSTZRVUxwYXFLWkZFZzVmZVcxSjlnSkUwbmxnV1J4OWFqajNtQ1B3NzZYdVBzNDlSMGJNcTM0aVkxSHI4YUkydGxDTTlFY20temRUS1AyakV6azZlMGlYODFWQ21nQjR4ZXJmckQxSFZKekRRbg?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-10T20:07:15.000Z"
+    },
+    {
+      "title": "Advanced AI models strengthen proactive care",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVUtRUHpWMlJJOHprSGlKQnVKTHJPRENEb1BObVoyTVVyN3lWSi1CSWNnbmx1M0VDOWhBWEUwOWJodnNKX2taYlBZV01QVl9QSXl6emZVUnZtbENEbjYzNXlYYmtwSGZhMDV4UGgyQXZxanpZaDZYVFd1WDZESDU1VnRxUzI5UG8zTnEyZ21kQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-10T19:57:22.000Z"
+    },
+    {
+      "title": "Nominee for key federal health role has a history of questioning vaccines",
+      "link": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-10T19:27:36.000Z"
+    },
+    {
+      "title": "How AI can help support primary care at scale",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeDd1b0xrdzFWT3JxU1ZnNi1zTF9ocGZCZ2lNbDVkVXY5UzkzSkN5eF82ZlNQQnFRUzJKLVcxaFV0U3V0U1BDanRRanlHUkR2WGkzWTQtVGphM1ZzY3lzaGtlb1ZzQ09oQUNKeEJPT0VUTFEwam5xNjRnXzRvenVIUENNRUUxUVB0SnNKUkpYVQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-10T18:42:00.000Z"
+    },
+    {
+      "title": "OpenEvidence expands clinical AI tools across NYC medical centers",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVZtVEFQbEpubjNiVW9OdEhvQ3RHQ1JGcTc0ZkppZjZUYllGQUk3bm1yTEZrNWxLSFZ4NGlSNFhZRGJsUUh1c3FGMWt3QjVVNTNEUTdQNDk0N0xfN3FDUXJodUNaMmJKRmp5cER6bWhyM3J3UWNoSWRIbWxtY1lSUzdZQURqRmJKN29NQ3VDZUhTWjJpRHdrN3l4QkpIczdKOVZn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-10T18:40:03.000Z"
+    },
+    {
+      "title": "Q&A: How a Missouri health system prepared for the World Cup, part two",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVN6SE0zalAycjNHNjYyX1NYYl9pUnlNUXlVb045T3BqSnRoNkRFVnVuNk9GdXh4Tl8xTFY3SWg5S2lHR1NEQTJqSDFLQUd0Rng0eFhDWmowdGZJbGdILVMxUlpJZTFiYmZ1bHNoeXd3WWJvWDVPSzJBZWp5THRmV2pvcnZWaEFWaW85MjBNRGptR2dXSlZEQw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-10T16:18:55.000Z"
+    },
+    {
+      "title": "Q&A: How a Missouri health system prepared for the World Cup, Part 2",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYkxwb1pjZDVBZGtWTnBjSVo4V2dPRFFtUHZTU2pfX2ZQN1c2SUc4NXpEMVg5bW5iR3pvUFhzNHJLMWJZOHVOQWNQanVEWjRXYXZxakpzUE1RUjYxQ0dNWXIzbE50cWdMa3FZZWxsSUFvOTNoMWZQamhubC1wSU9nS05hcXNianl6TmphZkJ5Y2c3WTlneVE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-10T16:18:55.000Z"
+    },
+    {
+      "title": "AI note-taking helps clinicians reclaim patient time",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOXzUyLW40MUJ2MEZTN3Z5eUVDc0F5M0twOTNoNmJhei01NFNveGoxVERWNC1DZUR1dE1Ja3FtN0hsRHI4Q21HaWVLbXpSUEVtemJMVWxBY0NuUFd1NFBQTFJtMXlMa3I4elFpU0lua1VQeXZrN1MyTmxLZjJwRlJJUHVzM3ZqekZMM3lvN3g1WGdjNGJu?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-10T15:27:04.000Z"
+    },
+    {
+      "title": "ROI alone can't measure healthcare AI's value",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVnVPX2sxSngyeUI0ZDc0VkFJUXBoUERzNDJ2cFBfQ2RzVUdtVGoySXlubTVzUmV0NTVLdEtQZXBmTk5ndEFtSkRVYVJzQkprOVFWdTlCODFsMFNEWHpYdmVvRmFMcEhDVnJnSXBieC1VTndyaVVmNnI5MjRaZVcxVmFyN0tjSDg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-10T14:37:17.000Z"
+    },
+    {
+      "title": "How AI Can Support Better Mental Health Outcomes — With Humans at the Center",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFk4dmUybmttZUIwWjVHYmg4NTQ5MldVbW04ekdFa1RaWFNFYXU0UkxrMEV4LWRTdWJSSmdmX1NqWFB1YU1zV3NqVS03MHZ4bE9VT20wTDdCUjRydE9IdTU5eHBEdElMTHAwa2VldGpjdWhNRHQ3NFN5MDF1UkxUN1JEbTZQbl9IbjlRSGNVSnlZMjZlandKb1BvOEIyTTlmQUt2TTYwa01zOVk?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-10T14:07:15.000Z"
+    },
+    {
+      "title": "Why Most Healthcare Brand Strategies Fail the First Time Leadership Gets Tested",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSnVFLTBuMk9MWHU4VGlGZ2xkQkdDVDlyMW8yVlBpYWY4RVAyWFVJbm5aaFVZVFhULS11a3hZMzFNV2tEVTZLNVhQOHg4TFlKd3lKQnRsY0IwVHFGeDJYY0hHb1RWQURkLTRuZE9PaTRrVm1RaWR1cGQ4UXRQanpJcnU2d3h2MG91VXhuanMtcy1xUXNiV0g3LW90WUJSUk50N2lsakpJdTlMUGZmT2F6U1Zn?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-10T13:57:15.000Z"
+    },
+    {
+      "title": "Linux Foundation to launch new AI initiative for open source digital health transformation",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejdEWXZSNjVQQzdLVjh2R0JmNlZJYzNib3RjVld2Y1FEd1hXTkxNdG9BeThCUFJtMGtocDZrZjhUcHJzc0JiNGpHUjU4TzBnSk51WnhUSHIzWldzT2lDaXd3WmxWcm5xU0hmWVVhQVh3UWZ1WTVra2M5RGZkQTU0QzhmbXIwQzFKRjlLRkpEYmJTTUp1ZHk2dFdWdHA5NUtyTVpuLWZWU09wbEtXb3EyVzNlNjNGV0F0X2J6dVF3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-10T13:47:38.000Z"
+    },
+    {
+      "title": "Trusted AI deployment is boosted by a governance plan in Canada",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVjZRWjZVQTZQQWc0ZUI4dTZtUDQxWHUxR1llZGdMdmFUQkpIQ2d5NWl4Yzh4OEZGRWxrRXpnWmhwM1dnUElhLWdQa21mMUJfeHJrMXgyUndQYXhXdDlXQUhmYVNlNkFPdl9WMHVFTFFYS1Rhc3JjTWhNRjY5ZXZyQlhiZDh3QUpiZ09wMkswcC1oZm9BMmc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-10T13:36:00.000Z"
+    },
+    {
+      "title": "STAT+: Roche ends Huntington’s gene-silencing programs",
+      "link": "https://www.statnews.com/2026/07/10/biotech-news-roche-ends-huntingtons-gene-silencing-program/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-10T13:35:37.000Z"
+    },
+    {
+      "title": "Why Fall Prevention Must Be a System-Wide Priority in Healthcare Settings",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWd0U1VtbkVRU1doaU1jYUcwNFRkTGhuNWgyUWl1ZFZjbzFQWFd2dTg2OFZTdGN0RkxOOEFkc1N6Z0xaZnhCR1l6Y0c0V2ppMUNrQzVBRWVieXRBN0RNb0xIOEVYcmhlc1huQ3c4RkJoa2JPdXdqZDRXN0lGS012YzZHaG55d1RSY2ZLakJtdHB5QzJLR0I4OFlUcmtaZTdhUlU2ckRpS2VrZw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-10T13:33:32.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about bigger drug discounts in Germany, drugmakers embracing secrecy, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/07/10/germany-seeks-bigger-drug-discounts-drugmakers-embracing-secrecy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-10T13:13:20.000Z"
+    },
+    {
+      "title": "FDA quietly pushes back deadline on electric shock ban",
+      "link": "https://www.statnews.com/2026/07/10/health-news-fda-quietly-pushes-back-deadline-on-electric-shock-ban/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-10T11:51:52.000Z"
+    },
+    {
+      "title": "Preventing Medical Errors in Patient Identity Through Data Matching, VBC, and Interoperability Standards",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU0V6U3dvNTE3bHEwRXVxYWxvVXZiTklfb2FPSE1KYzlqNHlvZHZWUUtueHdrZGtpQVJPRTdvVFdmZlQ4LTJPTE9XSk9VYU1yVUtvdF91SFVEcmU2YWk0UE5odjE5QnRia1RTT0V3M3hhME9BRjdjN0lWdGo2NGZxd0tKX0dkaWdpSEpHVVhmNkNOR3J0QkV6T1lwUE9jQWlmamwwVUoxb25BQ3lZajdlQy1PRHAzNTVMV0c5cnRjQW1xTHR0NVlWVUpkZS1kUHpp?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-10T11:38:21.000Z"
+    },
+    {
+      "title": "STAT+: How a Boston doctor built a following as a ‘loud and unafraid’ voice in the Trump era",
+      "link": "https://www.statnews.com/2026/07/10/jeremy-faust-inside-medicine-trump-era/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-10T08:30:00.000Z"
+    },
+    {
+      "title": "New York boys club has a time-tested recipe to protect members’ mental health",
+      "link": "https://www.statnews.com/2026/07/10/bcny-approach-boys-mental-health-connection-belonging-mentors/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-10T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: The primary care crisis paradox",
+      "link": "https://www.statnews.com/2026/07/10/primary-care-data-pcps-health-care-crisis-investment/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-10T08:30:00.000Z"
+    },
+    {
+      "title": "Pregnancy app reaches Australia's Top End",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa3lsU1JDYlk4cHJIYzhkOVdHdGJpcTVHcnVBT3lpcVJDRXZPZlExYVRoZmlBT1luTTlfTWlPQ01fVEJmeW9nM1hYVDdqX25pX2VoUGVHbzJwalJ4TlZuUC1ENHRJY2lxaFo3aFduZ1JkbzdpUUVJNkRCbUNHRjA4dlNTY1hiSG8?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-10T04:18:55.000Z"
+    },
+    {
+      "title": "IKS Health Beefs Up Its Tech Stack with $557M Acquisition of TruBridge",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjF6QmUzQnpabVFkY0RNem93RGVtakdiWnpmXzhxTDJoeU15R2pHZElQUjhhVTZvbjctVW5udVhvaWlIcDdWcEJOU1VzU2Y4VWpjS2JYWlp5OWZXV1dPYnhoNEFlamh4MGg2SVNqUGVYcGRDNVdWREhpSGJGWTBFY3J3?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-10T03:15:52.000Z"
+    },
+    {
+      "title": "Handspring Health raises $19M to expand virtual pediatric mental healthcare",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlB6cmxxa0dGaWE1OTNsa2o2SXRzcFIzck1pZHBnQ3VuQmUtSVpNRXR0dndQU2d0aFk3YTd3WTBCZElTM0Z5SUFlRHhkTkxnY3paRVNHdURHR0Rfai1lSHA2dkxmTmlkREFvUFZmOTQ3cVNqU3VzdE8xbElzZ0w5LUZDZnhvakFYUlUwUlhxMWJnMkt1cmNuV0VPc1hCMmpzLTlGU2l4QjJFUk0?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-09T19:45:17.000Z"
+    },
+    {
+      "title": "Q&A: How a Missouri health system prepared for the World Cup, Part 1",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDY4WEoxTldTWVdsQVVXV2JnWkpzMlJsbmtGTW9OenV1am9OQW1FOTFGUUZGdTZwN2I5T2I4M2FMS205dG5wVDBBZGVXcGhSZGZpRlpWQ0RLbTljaVk4Nm9fRnNpSkVhNFZOdTFZRjE1U0J1YnBIZ1E5Tzc4V2t0enlNUTZ3aHVsajNhMWgzOTh2UWlxd3c?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-09T16:22:32.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT0RBZWFSSXpoOWUwTlhsR1V4MFRzZ242YnNlak42MTlWZ21hOHF1MlU3Q0ZZNFB6TmhVcWJyc2M0QUdBTDhMQnBLdG1pRFJyOGlJVUlmb04yR1Bqdmhfc1JWLTNNREdIT0tFOVFpNkUtNWJta0J5R194aTBXTHdfcFhzUE9jZmN5SXJpRExmazJ0ZVF0OHZjLUtaR1BxUjBWUlVHb0p4MkY1Tm5UWFE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-09T01:08:06.000Z"
+    }
+  ]
+}
