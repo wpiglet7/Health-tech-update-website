@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-13",
+  "generatedAt": "2026-07-12T21:55:58.672Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 15,
+  "sources": {
+    "STAT News": 1,
+    "MedCity News": 7,
+    "MobiHealthNews": 2,
+    "Healthcare IT News": 5
+  },
+  "summary": "The health-tech landscape today reflects tension between innovation and implementation. Researchers at an Alzheimer's conference are making progress on tau-targeting therapies and blood-brain barrier penetration, while the oncology space continues consolidation with Novartis's acquisition to strengthen its cancer portfolio and AstraZeneca pursuing promising molecules from China. On the operational side, the industry faces mounting challenges with prior authorization remaining a stubborn administrative burden despite AI tools, and Medicaid plans grappling with how to actually reach their accountable populations. Privacy concerns are also surfacing, as telehealth and IVF providers were found tracking visitors without consent, while enterprise healthcare systems are increasingly turning to AI and robotic surgery to drive efficiency—though achieving meaningful progress requires stronger governance frameworks and data standardization rather than technology alone.",
+  "items": [
+    {
+      "title": "STAT+: Tau in the spotlight at Alzheimer’s conference",
+      "link": "https://www.statnews.com/2026/07/12/aaic-in-30-alzheimers-treaatments-focus-on-tau-blood-brain-barrier/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-12T20:01:45.000Z"
+    },
+    {
+      "title": "AstraZeneca Turns to China for Molecule That Might Top New Merck COPD Drug",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTQwb2FWUi1rUW14ZWh4cGZpTEs0TmctUUZsQkQxS3dsb085eFB1c0tqbU1ab0xkc1Ywb0NmckE4dHhZVjhOdUNOQ3dHZ2o2SDhuYnZ5d2prQnZUcUNuQWpFVDNfNmZaZnF6Y25tbmsyMEdxejNfYk5sV3lBYlZxZlpTLTIwRkI5TkdhXzk2TGlKRHhpWno4TXJfUnMxUlFxTm1pSUpLZzRkaTd0QnJ5UWRtcm5VOEZq?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-12T19:37:17.000Z"
+    },
+    {
+      "title": "Prior Authorization is a Fight and AI Won’t End It — Stop Pretending Otherwise",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0pGdHN2YVJCQ2lTTV9hVW5FX2pmTmVKbVNySjJVb25iZkdwc1k4X0hJWVV5QlRjQ21Td1NfQXJOY1ptOERMV256eFY0SmxKOXlxNW03aUlqcFh6ZVFUZUFKYlhzVnQ1bFRYYWM2cEZnaElXQ3dnbTFtQTgzbDFxRGxhMEVrc0gxcUF1RWd1Z3VfNkZnQTYxckhXdW0zSEh2VmduU25kaVRyZVY5?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-12T14:17:17.000Z"
+    },
+    {
+      "title": "Medicaid’s Next Performance Test: Can Plans Reach the Members They’re Accountable For?",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2EtTUZzTFRyWFBfVXpIS0theTlWVDlLcmpSelhYa09HZUxXV1U2UjI4Tm1QVGYwN0ZsazN4RE5NYnlCZ0dDLWJ4WENEeEZiV0loWlNQU3hMU3V3RVBGc1Roeno0X0tqdWNPc3ExejJLNmVZZkVfbVJ5QnJPS2FQel83N2lXREM1TEc0M0dYMUN5WTItbjFUdnpyMzRCQ01xV01YSWV3TlNraDQzWnByQkdndTJLQQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-12T13:37:17.000Z"
+    },
+    {
+      "title": "Stop the Revolving Door: Why Five-Year Contracts are the Key to Saving Medicare Advantage",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX19xQlFCcTFKc2Q1aTIyZ0JXV3dXWGRiNUdnb29qTV8xaHRzVTkxdzh3RjhMeGlSSHNHbHFFUkc5ZkNna0lUQTJJRmFTcG5LQjdUZXE4Rzl2U0RDaTIxMEdxRFJFNjlhcnFyZkZUY2I3eVo0a2JVNlRneTFyOFBFT25QQjBWMUVZZTB3RkZvaFBwQS1acmNocXRlTDM0bFdnM2Z5aTR0TjFXMUVfX0Z3bjFCa1lfdVBpNGc1TGln?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-12T13:12:17.000Z"
+    },
+    {
+      "title": "Q&A: How a Missouri health system prepared for the World Cup, Part 1",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDY4WEoxTldTWVdsQVVXV2JnWkpzMlJsbmtGTW9OenV1am9OQW1FOTFGUUZGdTZwN2I5T2I4M2FMS205dG5wVDBBZGVXcGhSZGZpRlpWQ0RLbTljaVk4Nm9fRnNpSkVhNFZOdTFZRjE1U0J1YnBIZ1E5Tzc4V2t0enlNUTZ3aHVsajNhMWgzOTh2UWlxd3c?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-09T16:22:32.000Z"
+    },
+    {
+      "title": "A $1B Acquisition Gives Novartis a Way to Stand Out in Crowded Area of Cancer",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2pXU2I1S2xZU2JsN2ZUcVdfbnU1cFM3VnFsaUg5T0oyZ0VaNy1yeGxCeVE2c0s3UW5uWGJabWRWX1FhSWtGclBERHNLYUZpaVZrWFFCM3ZhNVE5WnR0S09xMmFlM0FhUE9SeUFtMFZWTUJqZVRUb0doMUE0WHh5aHBtbmx6WV94dWNLY0doZEQtOWZ0dEt4V2o0YXp5VUgyTmNuNFd0ZzM5ZnRVQVZFYU5qZw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-06T19:15:50.000Z"
+    },
+    {
+      "title": "Telehealth, IVF services tracked visitors online without consent",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkNWYWxDeDFuaU4ycVpUa3JENGttMzVueXRMRjJGVUU4WldHeWpQSmJ4NW1zYjRvVlM2cG5Uckxjc2ZSeGt3WlQtdVkxS0FHWXhiWEMwUl94dXRzUXRsYU5LTm80N1dXSW1oTmczS2FJUDZ0RnM2WDNDNi1wUnlXZHAyOG8xall6TU5KQWU3RjhQOGloUjFvYUxnaFZEcTA2c29FbVBPYTM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-03T06:52:03.000Z"
+    },
+    {
+      "title": "Te Whatu Ora plans robotic surgery adoption and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMlh3WUFIbWRDUUY3QmpHZHBzdlhrQ0l6elBuc3R3YVZFQzVfSWNCX2ZaZUR1TFMxbXdEclVoNUltMDV6THpwdEJId0RCSHdBTTRaMkhTWWJYWGdVVGRySGFIOUZTamRSbkd5bWNGLUJ4azIwNEk0Q2VXNU9jcWkzWkk1eWRWM1RJb0tuR2NmZUR0RVUwRHFsSmFtNnlUazVPWmNz?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-03T03:47:05.000Z"
+    },
+    {
+      "title": "Prashant Akolia",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Zb1cwZHowbXNTNmNXVVFCY0pfdER2ZnJKTzFYWG1lT1l6ZkFtSERuYlJvLVZPLTZ4ZWoyS2VzSjMxaW1oakRwV2dMZk5JREhVSmdpU25nTEFqcUFqbnV2Mzl0cjRRZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-02T07:00:00.000Z"
+    },
+    {
+      "title": "Evernorth Invests $100M for AI Specialty Pharmacy Program",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOURPTk9pRjZ4UGc2T1Z6RUFyZ19YVmtzNVNhVF9NNFZwVWd4bFhRQXd3V0dsZjM5YmlwemFJUDVDWlNTb2w3bV9DU3ZfSERDWjB2REt2OFBmVjNSUWlaS2VBdXZSUVJ2QXdvR2NLanZXZFJIa2NEUEJ4NTJlQnBmdms3Y3BjWWFuNWV5SnV0Y0Jidmc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-02T03:48:29.000Z"
+    },
+    {
+      "title": "AI governance challenges need close attention and collaboration",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlU5U1RrSld6UTBHMTZ5TUFWZThmNGJ1Y1p6TGtOcnZHaHNjbXhoSEUwTDdDdWpXUjhEdjMzZmFyLWVNbTQ4a0M0SFcxNkU2STlucmhuakZXMmpQOV9pT0tOS2hLVzJYamdBSmdYekVGRF9GS3BpbWRMd0RueW8tSURTZzJnUGhMRGFvRDZmSW1XUlRLYW1Uc1NPZGdORHJRbmNr?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-01T07:00:00.000Z"
+    },
+    {
+      "title": "Data standardization is vital to Spain's healthcare AI future",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZTFKaUxkaGZPangxekd5TVhzT2JLXzM1QWtYTmxmd0pjRXN5UGd5TThjWUs2MzdEb1ZGVUhJNHp6UFhjamFGcU5yX3ozXy1OUFRYQWN1bWRfbU4wZW4zeTZjanV0YU1tQ1FkUUpWMHNVZ013WlNBWFVWV2t1NFJfOHJrYVd6NFRaTzJiVmpUTU5GRUtnalNFQUJDbEo?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-30T21:37:55.000Z"
+    },
+    {
+      "title": "Tieto Caretech",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PT0F3UW8ydDY1OGVpQ2loblZGVnJsSWd0a2F5RV9pVGtmSzV2YVpLSDBoa1ZHUXhlQWZpeGtrSTRUUDlZcllIaV9UNElobWQ2TUxrVHpGUW9HOTBfVUw1SVlCY19ELUU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-06-30T12:17:00.000Z"
+    },
+    {
+      "title": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFU25KZnZSemdiZXo1QzQzYjRvM1NrbWw5ZnNVMFZlOHhwX0NNWUhTbERXRV9qWlJLZEt4RDJoTFluRUFsRU9pU2F2MHU4LWplTV9EdHp0RDVXeXZvRDVVd0FkcHJkc2lLS0lxX3JwaC1PWWpfMVpj?oc=5",
+      "source": "MedCity News",
+      "date": "2026-06-30T07:29:37.000Z"
+    }
+  ]
+}
