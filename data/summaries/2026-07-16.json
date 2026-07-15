@@ -1,0 +1,256 @@
+{
+  "date": "2026-07-16",
+  "generatedAt": "2026-07-15T22:05:53.393Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 40,
+  "sources": {
+    "MedCity News": 12,
+    "STAT News": 20,
+    "MobiHealthNews": 5,
+    "Healthcare IT News": 3
+  },
+  "summary": "The health-tech sector is navigating significant regulatory and operational shifts. Neko Health's $700 million funding round underscores continued investor appetite for AI-powered diagnostics, specifically full-body health screening platforms. Meanwhile, Medicare is proposing to ban vendors from providing remote patient monitoring services directly to doctors, a major policy reversal that could reshape how remote care is delivered and reimbursed.\n\nPolitical scrutiny is intensifying around artificial intelligence in healthcare, with bipartisan lawmakers pressing Medicare Advantage insurers about using AI for care denials, while Senate Democrats also grill Trump administration nominees over vaccine skepticism and pandemic preparedness. Supply chain vulnerabilities are drawing attention as lawmakers seek to investigate U.S. reliance on foreign-made pharmaceuticals and ingredients, and Elevance Health is retreating from Medicaid amid persistently high costs.\n\nRecent clinical progress includes improved Alzheimer's diagnostic accessibility, new findings linking Epstein-Barr virus to multiple sclerosis immune responses, and Celcuity's FDA approval of its first breast cancer drug, though healthcare organizations are grappling with complexity in AI implementation and data quality standardization across payers. The Ebola outbreak in Congo continues to worsen with over 2,000 confirmed cases and mounting healthcare worker strikes amid resource constraints.",
+  "items": [
+    {
+      "title": "Neko Health Secures $700M to Support US Expansion",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWlUVV9QVlVfOTc5NF9waVl2bVctRHkzcHNOemdnbnZQRFlaZDd0STJmbjR6ZXJpdGpJemh0X0IzVmJHNVQyQ0RPNzhpYWhGX2szRVJZdXlXd01MX0V6OTMxdEc5RTBzeXhXWF9qcml6Q1JfNVN4QklFdW9RdWllUy1rci1ZdmNu?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-15T21:50:36.000Z"
+    },
+    {
+      "title": "STAT+: At key hearing, Kennedy’s ouster of former CDC director looms over nominee to replace her",
+      "link": "https://www.statnews.com/2026/07/15/schwartz-kaufman-senate-confirmation-hearing-key-takeaways/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T20:26:04.000Z"
+    },
+    {
+      "title": "STAT+: New study untangles how Epstein-Barr viral infection triggers immune response in multiple sclerosis",
+      "link": "https://www.statnews.com/2026/07/15/epstein-barr-virus-immune-response-multiple-sclerosis-new-study/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T18:17:51.000Z"
+    },
+    {
+      "title": "STAT+: Improvements in Alzheimer’s testing could make diagnostics more accessible, informative",
+      "link": "https://www.statnews.com/2026/07/15/aaic-in-30-alzheimers-treaatments-dementia-conference-diagnostics-treatments/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T18:08:44.000Z"
+    },
+    {
+      "title": "Cassidy grills Trump nominee on  past vaccine comments in heated exchange",
+      "link": "https://www.statnews.com/2026/07/15/bill-cassidy-sean-kaufman-confirmation-clash-mrna-hepatitis-b-vaccines/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T17:56:52.000Z"
+    },
+    {
+      "title": "Neko Health raises $700M for AI full-body health scans",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeExpWGRMSldLVUVhRVNlaG91NkJmd0phcEloUkNMZklvN2FIY3RCYjV2NVVPS1l2MUFEYUhGYkF2cElrd09nSXJ0R2NpYnZZOTJhbndnTDVPQXRaMTY4eTBjSlNveUxISk1Tem9tdllCRWx2dGFVVnZMQ3FoQUgtNkFxeHlTcXNYRFZBMnFB?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-15T17:47:25.000Z"
+    },
+    {
+      "title": "STAT+: Bipartisan lawmakers want to require U.S. to probe reliance on foreign-made drugs, ingredients",
+      "link": "https://www.statnews.com/pharmalot/2026/07/15/bill-would-require-us-probe-reliance-on-foreign-made-drugs-and-ingredients/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T17:26:49.000Z"
+    },
+    {
+      "title": "STAT+: Elevance plots a Medicaid retreat as costs remain high",
+      "link": "https://www.statnews.com/2026/07/15/elevance-health-shrink-medicaid-portfolio-high-costs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T17:12:56.000Z"
+    },
+    {
+      "title": "STAT+: The whistleblower, The Lab, and the fine print",
+      "link": "https://www.statnews.com/2026/07/15/mayo-whistleblower-sutter-abridge-lawsuit-news-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T16:28:32.000Z"
+    },
+    {
+      "title": "STAT+: Glenmark to pay $29.6 million to settle price-fixing allegations in long-running battle with states",
+      "link": "https://www.statnews.com/pharmalot/2026/07/15/glenmark-pay-29-million-settle-price-fixing-allegations/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T16:21:08.000Z"
+    },
+    {
+      "title": "A big challenge for healthcare AI: Simplify the stack",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFFTZHgtTGJ3WjFFS3lWWDJXVmdKNVRMUWU3TEhoNld3S2F0ZUYxT1NwdlU0OThWU0dCWmxMWXBHRWtuWlZTVFowNk9XSlNabTR2VDZqQ3QyRjVadFhHNFVDTVNRWE03R3ZubXl5a2pEa2RqdElMN0FFRnN2UVZrRFQ4TnJMRkE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-15T15:45:13.000Z"
+    },
+    {
+      "title": "STAT+: In a major policy shift, Medicare proposes to ban vendors from providing remote monitoring services",
+      "link": "https://www.statnews.com/2026/07/15/cms-proposes-ban-medicare-remote-patient-monitoring-vendors/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T15:41:50.000Z"
+    },
+    {
+      "title": "STAT+: Celcuity’s breast cancer drug approved, its first",
+      "link": "https://www.statnews.com/2026/07/15/biotech-news-celcuity-breast-cancer-drug-approved-in-a-first/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T15:09:21.000Z"
+    },
+    {
+      "title": "Deaths from coronary artery disease have fallen, but more progress is within reach",
+      "link": "https://www.statnews.com/2026/07/15/coronary-artery-disease-progress-prevention-jama-study/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T15:00:00.000Z"
+    },
+    {
+      "title": "Answers at the Speed of Thought: Healthcare Analytics in the Era of Agentic AI",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXdUQ0lJMUdFamhmazRKbDZjUHlybjctU0JkaFlwbmhuWV9lZzNWSlJ4Z3lGU3BFdFVaeThLTTgweWpyX1ROY1EtN192S0l6S2RyTWlqTUx5QlE0eWdHMGZDaTJrM0pvU2xFeEdoa25YU1JZNWJVXy1mMmlPS1lmN2VVZTZwQ19Ib2pEWnllVGpnczdwNjdkRTFGWlVmU3lTeW9XMEpYeHhwdVVKNWRz?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-15T14:32:25.000Z"
+    },
+    {
+      "title": "AI helps with delirium detection and reduction",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU0tOY3l5VXl6Qk1KZnlKNHpSY2dCTU5FNEZtTW1UamVvQWJXTk1ZSE11dmhvMEV2Y3hnZG1HNWJwWVllNkxVYWd0OTFkTUdydzUyZnJST1Fkcmx6ZmtvWW80cDNzR0xuZnZ4R1cxcVFLZUQ4cWpMQmZLRF9lV2lVSm14SHU?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-15T14:28:39.000Z"
+    },
+    {
+      "title": "More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths",
+      "link": "https://www.statnews.com/2026/07/15/ebola-outbreak-congo-2000-cases-health-workers-strike/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T13:58:00.000Z"
+    },
+    {
+      "title": "How one hospital-acquired condition could be spotted faster by AI",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRWZ3UzNSeFU1MGpsNGJGZWtERENKWVNqMWM1cmtuVm8yRXVTTHMtNU5CZWxpZHZMQWtCN1JNUHdqMl9CcEU3LTh4Tk1LN1VfQWJBSUhxdFI1TDJDaWdvV1EzNXJfTjY4cE5KdENrREVheHNoM01QUDhDV1RMVDlVTzRDM2llYTJ6NVJRaHUyTnlxenVMUkx0VFo0NnRNUTdtdTY0?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-15T13:46:00.000Z"
+    },
+    {
+      "title": "The Measurement Problem Behind Two Decades of Neurology Trial Failures",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWlZNQ0NSVjhDeHJpcmRqcWp2UW5jWmNNNm14MWIxM19VVGVBVGRUeU9XeG9tOWR3Uk9HZ2paeDZrXzVVdVpmT2RmMm5wTGJiLTJnWGJhNl9IWGVjZzVMcC1yV05ZeGFKYmpQQVV3MDA5LVBEb1JCbmRMUmVYbEJVQWZjZlRhSHU1ZXdjNll0Vll0cThTVHlNcFFhS19HaHpxdFhEN193?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-15T13:31:19.000Z"
+    },
+    {
+      "title": "Off the Radar: How Unapproved AI Is Complicating Healthcare Cyber Risk",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNUozSm9nX0tPZTdST0NXMlhGbXZYN1pPeGpja1JXZHpYRHJJSnFiQldkTzQ1aF9XM1ZKYlRDVGVHczI3QUF5eE9rVWNyWk5pUFdCMHMyRHp2T0MyZkFxeWlUNHFja2pLd1ZRTE1NdFpyVlVVLVZEcmE3bFh2bFRFY2FZZzh5alExSnh0SFZQOGs2MWVra2RFbkp0UDNfUTFZM0l1Sg?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-15T13:17:25.000Z"
+    },
+    {
+      "title": "financial rebound Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LRFc4VktCRFdwQnBILVQ1UXBCa0prWFdxUWxSTnNqanpGNGp0Um5vMXRwWUMyQ0hRTzlKcTlwVEZIamwyaWZHUUlobEZfWmVwaXItXzlJLVRRZw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-15T13:10:05.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a Biogen Alzheimer’s drug, skyrocketing 340B drug sales, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/07/15/biogen-alzheimer-drug-skyrocketing-340b-drug-sales/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T13:06:40.000Z"
+    },
+    {
+      "title": "What to know about the parasitic diarrhea outbreak",
+      "link": "https://www.statnews.com/2026/07/15/health-news-what-to-know-about-cyclosporiasis-parasitic-diarrhea/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T11:58:15.000Z"
+    },
+    {
+      "title": "patient identifiers Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YRjYtRTdVQy1YWHFOd2ZrSjBqX0h2dmwxQnNmZzN4VW9iM3ZLc1U0QzlidGJmLURCd3ZyekRwWm1BaXFMNHRtVWR6c3JxdEUtSXptTXUtMU1FWmF0?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-15T11:57:44.000Z"
+    },
+    {
+      "title": "Payers Who Improve Data Quality Will Define the Next Era of Health Plan Performance",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOckQtdFhLXzRQWW1qZzZKUkNzMEx3d1U5R3hObW12ZjEyTld3N0ZzNHJLNmRGOC03blBFRWZub1BqRWUtdS1TWXppTDVmYk5aQzR6d0F6a2tqXzJkYkFhNnRuZ3VBMHh4YS1lVURmNkpWUjVnRi1NWllLMjRrcnlWWVNIdnJIc3Q4dDdDUmphY2FGZWFYQzJ2RU9oX3AyQWQ0WklYQWtXOEhUUzFydkh0aTRIZjFiRUk?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-15T11:32:25.000Z"
+    },
+    {
+      "title": "STAT+: Medicare Advantage insurers face new bipartisan scrutiny over AI and care denials",
+      "link": "https://www.statnews.com/2026/07/15/medicare-advantage-ai-care-denials-probe-blumenthal-hawley/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T09:00:00.000Z"
+    },
+    {
+      "title": "Flood of comments on White House grantmaking overhaul is largely negative, analysis shows",
+      "link": "https://www.statnews.com/2026/07/15/trump-omb-grant-funding-proposal-comments-95-percent-opposed/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Swing Therapeutics acquired by medical VR platform XR Health",
+      "link": "https://www.statnews.com/2026/07/15/swing-therapeutics-acquired-by-xr-health/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Why we still don’t know what foods are the source of the cyclospora outbreak",
+      "link": "https://www.statnews.com/2026/07/15/why-cyclospora-source-remains-unknown-epidemiologist-explains/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: A new biotech startup tries to tackle obesity, but not in the way you might expect",
+      "link": "https://www.statnews.com/2026/07/15/mwyngil-therapeutics-weight-loss-drugs-startup/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Under a new leader, the FDA’s biologics center moves to steady itself after stormy chapter",
+      "link": "https://www.statnews.com/2026/07/15/fda-cber-acting-director-karim-mikhail-return-normal-vinay-prasad/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T08:30:00.000Z"
+    },
+    {
+      "title": "Coalition Urges Policymakers to Reject No Surprises Act Enforcement Bill",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbjV0TS04Tl9hMTNNd2tpbWI5UHNoMlZLMklpR2FzRU4xTEwtWTB2NjMxRzlPQXJmdTIwMHNVZEdadTR0d2lkdnNmSWk5cE50ckhOQ3V2aHRwTXBMTUhFd1ZJbUZBemR5by1Nel9uU21RTENmREtyenRpcE1Ybl9zV2ZfOTdHaVVlRDQxVkJJRjFWVDlkM0V0MXhuMEtoMnlRTUJZVE1jQmg?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-15T06:42:19.000Z"
+    },
+    {
+      "title": "How Fairview Health Services Turned Around a $315M Loss",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PQnJmZlFuNUFGc0xIS2NicGYycnNDMWRoZXRtNy1CT0JqcXRvV2VTMlhQSW9VVm9HVG54U1lwMGZyUzFjeVhzLU9SRjhaNjV4ejhWdFRxekliY2hqSTZ6cld0Si0zN2t6SldCWkxMWmQ3UWdmZ2Z5LXduZnlkNFU?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-15T05:43:56.000Z"
+    },
+    {
+      "title": "coalition against surprise medical billing Coverage",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VUnV5M3pvTmFYZlcwRGFpdzhWdzVhMGJSTHB0M1A2Y2NjY3d2MjVtQ3Q2dEp0Z0E2U18yVVVGOUg0RU9ocV90WUN1RWxaZm9ycHdKRVpNS1pDTWp3QVdiZHpuYnZFWTNkMHg4bnM3LWhmN2J4S19VcV85OA?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-15T05:27:48.000Z"
+    },
+    {
+      "title": "Full coverage: HIMSS26 APAC Health Conference & Exhibition",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUnN5b2tvMHRLZFhsaGhlcGdMdUh2SF9RQzljSktpSU9Sc1FIMV90TlY0WUZfM2FoUDRhU19sTjdJZUFVRWVwcV9ndVNWcU5ZY1RUaEl1S0pDY1hZV1huQkRTcFlGSC1RWnA1SS1HNGtDUW9uVnhKbHEtbXhBV19VQjZhRTJLYjRrX1pnYUg3WnpzT3B2R29tZlZsaE5saFBDQV84Yg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-15T02:43:04.000Z"
+    },
+    {
+      "title": "Queensland institute to trial AI screening in pathology labs",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3Z5Z0dFejFhVG5zbmFoMmNnS29Yemh0T2tHWngycW45dkpLR0l4TWYwbVRPd2U5RURLUDY2ZTNrQVRVVHd6SkJjRU1SekdxS0hUczZNN0lJZlc2RjNPZWNUU0NvTE9XZUwtUkhocFRhQXl0N1ZKNXVuQkpYWHZjemdWTmRDM0F0SmoweDFGWDg3NnNDa2JSR2ZR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-14T23:29:06.000Z"
+    },
+    {
+      "title": "Privacy Policy",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YOFk5dXdIcUJNdjJYZjZKZnJNZWZKSFRQclB1MUxTT1NNcEFaY3l0QW9ZbUs5b3hiMi1BVGluMnBmRTMyN2pxT1FjdU93dWph?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-12T07:00:00.000Z"
+    },
+    {
+      "title": "patient identity Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ySDdvaU0zWUVra0plUjlEcUZEdFdKTGVaS1QxemV6X0pHWGxxMU1mbFNCNEpCSUYwNzlOTzRna3ZkWWlWajBpc1BmcEFINTY0WVdCZkxtS00?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-11T12:02:28.000Z"
+    },
+    {
+      "title": "Q&A: Teladoc Health becomes virtual care provider for the National Basketball Players Association",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUlFSbnF3RW5JNHJOcE5Za1hwVV9qWHEtR0MtdEk0R3BhWVVqd0FlSDFXNzUxUFZfQ2NTUERfNkt2TWp0bDFFb0l1bUVVT1NmTnVid21MTUVtVm1CWjZRWWJ6U0JuaWdmc1hOSXJYelF2ajB4aWhpblJtbk9MMnBlOXJPeDl5NmZMOUEyczdDQXlrNUY0RXV4TUExcVpWSUk5VW5LcGJSXzI1bzVDWGxTVnRscnhlcFU1NXJSZlFQRVg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-08T12:00:00.000Z"
+    },
+    {
+      "title": "Brook.ai, SRHO partner to expand AI-enabled remote care",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLTlRZVZLY0xHR3RHUkZVV1Y4cXg1T2xmZUM3cENiaHRHZUpBOTM1MHplMnNSNnRVMDROSGh0eDg2VWFrZjlCZVRUUzRQWGptR2F0bFpqMHBma0sxM0pXSjRERXByQzdaRTJJblJnd0x5bm9HajliWkx4aUdDcklESHBJSDI5VWhnQ1huV0gtcw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-07T18:39:03.000Z"
+    }
+  ]
+}
