@@ -1,0 +1,256 @@
+{
+  "date": "2026-07-17",
+  "generatedAt": "2026-07-16T22:06:05.884Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 40,
+  "sources": {
+    "STAT News": 18,
+    "MedCity News": 11,
+    "MobiHealthNews": 5,
+    "Healthcare IT News": 6
+  },
+  "summary": "Healthcare-AI payment models are undergoing significant regulatory revision, with CMS proposing major changes to how it reimburses remote patient monitoring and clinical AI tools, while also attempting to ban third-party RPM providers and seeking to establish standardized payment structures tied to patient outcomes rather than pure technology deployment. The biotech and pharmaceutical sectors are experiencing notable shifts, with Eli Lilly acquiring psychedelics-focused AtaiBeckley for $2.8 billion to expand its neuroscience pipeline, Merck receiving FDA approval for an oral PCSK9 cholesterol drug, and prediction markets now entering biopharma through Kalshi's new offerings on clinical trial outcomes and regulatory approvals. Meanwhile, breakthrough neurotechnology is advancing—a brain-computer interface successfully restored sensation and movement in a quadriplegic patient—while digital health companies like TytoCare continue raising significant capital and pivoting their leadership structures. Administrative and governance challenges are also surfacing, including internal censorship at the American Diabetes Association journal, division among medical experts over Defense Department testosterone screening mandates, and ongoing questions about private equity's impact on independent medicine. Finally, emerging technologies from \"headless AI\" systems targeting healthcare bottlenecks to virtual reality applications in mental health are expanding the digital health toolkit, even as new risks like cognitive spoofing and fake AI expertise demand scrutiny.",
+  "items": [
+    {
+      "title": "STAT+: Fresh turmoil roils American Diabetes Association following controversy at conference",
+      "link": "https://www.statnews.com/2026/07/16/american-diabetes-association-annual-conference-controversy-continues/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T21:38:04.000Z"
+    },
+    {
+      "title": "Why CMS Is Trying to Ban Third-Party Remote Patient Monitoring",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XLWpqSEZHNmtSVTNmRFoxMlNjUXE2X1pON0x6QlpfVmdYM1pKMnFQS3VzanJlamUydEF1YmpUbndCalhxM0R3RkV2M1IyTVBXbWZPdmRuVzBDZ3lib1dKNzhkMUFIOXZ2ME1sdjd1Zw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-16T20:40:35.000Z"
+    },
+    {
+      "title": "Predicting biotech clinical trials & a new Alzheimer’s drug controversy",
+      "link": "https://www.statnews.com/2026/07/16/readout-loud-podcast-predicting-clinical-trials-biogen-alzheimers-tau/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T20:06:43.000Z"
+    },
+    {
+      "title": "STAT+: GOP blocks effort to end Medicare test of AI prior authorization",
+      "link": "https://www.statnews.com/2026/07/16/medicare-ai-prior-authorization-pilot-wiser-senate-vote/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T18:53:23.000Z"
+    },
+    {
+      "title": "OpenEvidence, Boston Children's partner to study AI's impact on clinical care",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ05nTTZoeTlCZU5pYTlkdW1IajE5UlMzbVJDamtLVzM0NkVkWVo3LWQteG5zNnZHcW5xZ3I1NVRaYkZZRlQweGRpcGJzTGZRaXB3WVpoQThqU2t6RFBUQ21WSDU1N1Nab3NkeHRrTGRSN1dpMUVjZEtLS3M1aU9aMDZnek91T0JBUUx6eE5ScTdOUDRVSnRscVdOVzhIQnpjeGVCdWVaZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-16T18:26:50.000Z"
+    },
+    {
+      "title": "Lilly Expands Its Mind to Psychedelics With $2.8B AtaiBeckley Acquisition",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNDczUnVQMmI5LUN1aTVOaGE3djBhRUd3d0s4QjI2ZFFlYnZTdGR6WHZGLVZhZk9GNXYxM1h2UUNrc0Q0aDN0Wkxrd2VYNGRnTlM1OWpUTVVnYjJTWnZmLU8wT2F4ZzZVVlF3cUVwdzNVajJYMjdDZ1IzSThEVzA3anV6c2dnblI0czBseFBTWk9iN0VPRTM3UVNLTGM0Z1FrZUtQYTdKUEtvQlJhb28xUE9B?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-16T17:49:57.000Z"
+    },
+    {
+      "title": "STAT+: Despite earnings celebration, UnitedHealth signals more financial pain for employers",
+      "link": "https://www.statnews.com/2026/07/16/unitedhealth-employer-insurance-costs-medical-spending/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T17:34:01.000Z"
+    },
+    {
+      "title": "Pete Hegseth’s announcement of annual testosterone screenings for service members divides medical experts",
+      "link": "https://www.statnews.com/2026/07/16/hegseth-testosterone-testing-proposal-reactions-range-promising-crazy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T17:20:31.000Z"
+    },
+    {
+      "title": "'Headless AI' aims to eliminate healthcare bottlenecks",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRFdMZkVvYUpyX3ZfbE9tSnEwVHlGd19iTUswellsY0dpSE41N3RqT3hVcTVHZnpZSzJDNENZXzFqNVdlVTd5QmdFYTFsWm1KYmtTVm1GSklNVEdMS0xhV2ZKMHg1eFNGNG9FcVN3c2hZQnhnaEQ3a0hlaGUweXpQU3hZY1JlU2Z0UUNlcjFpMG4?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-16T16:57:18.000Z"
+    },
+    {
+      "title": "TytoCare scores $25M, appoints new CEO and COO",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUFIN2FkcVF1dzNJTGFFZFB3eGZRc1ZZTEVxZ2FBc3ZLMU1XcXp6VkJrSHVGZzR0c1lHWTNpWkJmY0pVc2lfYjVkX2hybTZJYWR3UzVkdXJqUFhkRDlZN29hcW5TY01KS3IxMmJuY1VkeTNZYWlZUjVvc0QyakI3d3gwLUZEVWc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-16T16:50:46.000Z"
+    },
+    {
+      "title": "New genetic programming platform could advance precision medicine",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbFBNZ3pNdmpsMnByQU04WHdVMklrZmVRaC1wODBKUzBpUEo3SGZQdFQ0RnRQN1hVanhadUFzaUdwcS1TcjVsRmNOcHRDN013S0hIRE9ZNklfcWZJMVNHd01fcTNSSUxqM1BZLWlvTGJuSm5MNVRwVmtzeG1icWxjLXk1MndUcXg3bDJDX1JTWjI3bHRnclBPb0JLaTdOV1Zvbzloay1B?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-16T16:33:28.000Z"
+    },
+    {
+      "title": "WHO: Uganda is silent on updates following disclosure of Marburg outbreak",
+      "link": "https://www.statnews.com/2026/07/16/world-health-organization-wants-marburg-virus-update-from-uganda/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T16:22:07.000Z"
+    },
+    {
+      "title": "Trump Admin intros AI initiative to find and fix cyber vulnerabilities",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcjVPN1M0NUdNSFBfb0gzMUs2RURCNkV2NEtuMHgyRXA3ZENPMW15eV9ITThWdmV4M2xiZXVwMXI2eVRwWUp0cGdaOC0xZDBnWTl6Q01keG9oN0JCYXRMelNqWHFaX1R6ckh3X1dPUmVBVkZvX3MwNS1MaGJDaFJseklpTzJ2WUJFZTR3YUszSGhGYllzcTlad2xRaEREbXRSOUZoMkh6Ync?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-16T16:03:47.000Z"
+    },
+    {
+      "title": "STAT+: Brain implant restores the sensation of touch in a person with quadriplegia",
+      "link": "https://www.statnews.com/2026/07/16/brain-computer-interface-implant-restores-sensation-double-neural-bypass/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T15:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Medicare wants to shake up how it pays for clinical AI",
+      "link": "https://www.statnews.com/2026/07/16/medicare-shake-clinical-ai-rpm-payments-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T14:48:19.000Z"
+    },
+    {
+      "title": "Hospital turns bedside TVs into patient interaction hubs",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQy1RNEYyQ1F4c1cwWTB5S19DN1c3el9GWTlOQTM1VHYyNjZ4bENjMHZ5dUl4NmVEYWo2UTFvb2VWeXZKWjJhTlUxR0hUbkQxaExfcHZLTzZDbmQ4OUVIcFJXSGxmVk1Sckl1NnpEZDRXSWZwWnZDVEpEQ3BEVGN2Y2JMNmwybXo4TVYxcjBWY1FwUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-16T14:24:07.000Z"
+    },
+    {
+      "title": "What Happens to Independent Medicine When Private Equity Shows Up With a Checkbook",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMnp2emFoM0RjY0Z1U0FLeFgyNEtTSWdSS2VlUDZYeXF6ZC1hYjFFNjdGZUFHcjVNMDBNSlV5OFJ2ZUI2aHV0c01jRWtqUW1yOVJzWi13dEN1N09iMldaV3k5eDYyZXl3elF6SGNHZG1LQWFuWVljYkx6WWJUY3hxdWU0N3piSmwxaHZkdFpKTGxtZW1VNmZYZVFFOFJRZ0RxNjRsZjlQS2x1d1pNSUw2ZmhOejRVdw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-16T14:14:35.000Z"
+    },
+    {
+      "title": "Building a smart hospital begins with the patient experience",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa1UyclUwV1UtbHNQX09zVHNlWlczNnVMVm1BaDhJRGlFWUxFdzljOVBILXQ2Wjd0Y2xiemFWWlpPS3VTOUstQmk2S2VHeDUwNDJEVnhzMmpKM0ZwWVlWakNxVy1GT0VtUDRKdHdBWjZYS3RZaW8zeUlKdzAtcXl0UlgxV3l4cm9OTGVyQVJzbmJDUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-16T13:47:00.000Z"
+    },
+    {
+      "title": "GLP-1s Are Working — Now Medicine Needs to Measure What Matters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMEtsTDg1REhQa0VkRGFLZEVFQmY0TFpiVUozX2dRaVQwQXRaVGJnT2I1Z0tQV2VWUjZpMEhLWHBoY1JDV2U4VHp6LThUckMxeGJOaDY5elBkaTRKYnE1RU1sTWxaM3JyRUE1cEIyTndpM3BXMzhFbjlxUHNRR0lZSVJjMG14S0dJTGliZGgxbkZMemNtU2cxdHJn?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-16T13:29:57.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Kalshi bets on clinical trials, a Merck cholesterol pill, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/07/16/kalshi-bets-on-clinical-trials-merck-cholesterol-pill/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T13:14:44.000Z"
+    },
+    {
+      "title": "Building AI-Ready Public Health Data Systems for Faster, Safer Decisions",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTURiRTRpcWk4V0p3d18yX1Awc0ZsSlBjdlVIXzNDckVUTlNzTzdPZ1luMmFmdFZLdzlIWnhVUWZaamNHYWNMRkpMLTJDREVmWThHdXhmZm1hNDlPQ1JJczNLX2VOejhXZUl0U1puV01yWTc4SlpsMXdzVEUySlFVQ3lDZDJhVkFHMlNJNmdodmpvYkFzT3BvNmtHSE15MWVDbEtzSVdSQQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-16T13:09:57.000Z"
+    },
+    {
+      "title": "STAT+: FDA approves Merck’s oral PCSK9 drug, a first",
+      "link": "https://www.statnews.com/2026/07/16/biotech-news-fda-approves-merck-oral-pcsk9-drug-in-a-first/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T13:04:36.000Z"
+    },
+    {
+      "title": "- MedCity News",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBMbmVwOFk4ZXljdFlkWXJkNDBKZkV5NzFVTnZhWGZJTmM1bW1ZN1ZNUkVVY29XX3poSU85dDFNTUFlVEYySUFudFln?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-16T12:47:57.000Z"
+    },
+    {
+      "title": "STAT+: Kalshi comes for biopharma, with prediction markets for clinical trials and FDA approvals",
+      "link": "https://www.statnews.com/2026/07/16/kalshi-new-offering-prediction-market-clinical-trials-fda-approvals/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T12:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Eli Lilly to acquire psychedelics-focused biotech AtaiBeckley",
+      "link": "https://www.statnews.com/2026/07/16/eli-lilly-acquire-ataibeckley-psychedelics-depression/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T11:28:27.000Z"
+    },
+    {
+      "title": "STAT+: Spring forward forever? Another daylight saving debate arrives in Congress",
+      "link": "https://www.statnews.com/2026/07/16/health-news-another-daylight-savings-debate-arrives-in-congress/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T11:09:27.000Z"
+    },
+    {
+      "title": "STAT+: Amylyx nears pivotal endocrine drug study readout",
+      "link": "https://www.statnews.com/2026/07/16/amylyx-bph-avexitide-biogen-diranersen-agios/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T10:30:00.000Z"
+    },
+    {
+      "title": "Celcuity Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tY1ZJUTJUMV90TjRIeUkwM3IwSzRMVlNGSDhSb0d1X3ktcjFaT1E2S3BlNnQ3aUhrTnl3QnpBR0s4ZUk5eDg2Y3liZzRSQQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-16T09:47:19.000Z"
+    },
+    {
+      "title": "STAT+: CMS signals intent to revamp how it pays for clinical software and AI",
+      "link": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Medicaid and SNAP cuts are exacerbating the intertwined problems of hunger and mental illness",
+      "link": "https://www.statnews.com/2026/07/16/snap-cuts-mental-illness-hunger-psychiatric-emergency/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: The growing fang-to-pharmacy pipeline",
+      "link": "https://www.statnews.com/2026/07/16/glp-1-weight-loss-drugs-gila-monster-venom-pharmaceuticals/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-16T08:30:00.000Z"
+    },
+    {
+      "title": "‘The Moat is No Longer Technological’: How Digital Health Fundraising Changed in H1",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CM3IyU1RoemVFdmQydnQwUE1EOWx5VjktTjRINktaeWF6eFltbVpBYTVoZW1fdThQLTZUT3c4OUR4NlRIX2xjVG4weW5mM1BLVkNadmh3cm1saWNqSXJkMnBrLVNjYlJQaDhlUVRvWEVPVTFfOE11bVhoSTJJX2c?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-16T07:38:06.000Z"
+    },
+    {
+      "title": "digital health fundraising Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHVkJ6Tk9xc1g4VW1ESk0yRWZfNHlNdUh6MzZIZ0taTmRLMWVRT0RubGR6S3ZodWtMdDBaYmlCVjRqM1l3YzNVUjZsZkdPTmNKT2Y1azdlSkdxdEtGUVVibDNaSXY3Zw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-16T00:31:17.000Z"
+    },
+    {
+      "title": "Celcuity’s First-in-Class Drug Gets FDA Approval in Most Common Type of Breast Cancer",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcEV4MlctMWVLZjVMUXl0d0w2eEtia05aZWVkSnp4dlcyRkEyc2NJX0QwdmRlN013RWxmZmJVMjVnWVJnTFc2UU82S2tvQW4zX1dOQ0hMU25lTDdwVEtxLVdkeFdZSDZ0TEY5akdJMEg0YVdHM0YyMTRFWk9iUmt5c1g2WWpFYmNLUG8xME41WXBOOGFmdjNQMllDcTBzSmd5Y3BhVE5zLTJJQQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-15T23:14:57.000Z"
+    },
+    {
+      "title": "Graham’s death from aortic dissection raises questions about preventing the rare disorder",
+      "link": "https://www.statnews.com/2026/07/15/lindsey-graham-death-aortic-dissection-risk-prediction-warning-signs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-15T23:02:48.000Z"
+    },
+    {
+      "title": "Lyric acquires Concert to expand AI-enabled precision-medicine payments",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGhrRm5ZdXRzM0lpSzJXZlk0OS1NeVlXYktOSzVlYjNMSnBTaDJmdHBzZ0pISF9Tam91VDZVNjhCSF9zRU9wZkNSeHZ5eGtoMXN1XzlWTlg4Q1F2SHlEaENyMHlTVU5uaW14MmZvZjdYSXlrcTI3RE0zSjR0M09RVlgwR2pQLTk1d1JvZnJtVGpKN0dVRVh3OTdadTk5Yi1rNVVCNnlvYw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-15T22:24:18.000Z"
+    },
+    {
+      "title": "New AI risks: 'Cognitive spoofing' and fake expertise",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMDRiXzkzWndjSl9TUzhnRktEVTZOQWxmc3FFR0U4bXBmR2ZwMFVGYkhEZldZTUQ0NGdjTWN3Rlh6OC1hSUJFMi1UbkpuTU1BQ1Y1c1FHRHdGc0J2aGJldHF4dmprMGhFYVJtemh1YVRtVUZDWEtBakhpY1dYUXhTZ2ZLdTVDVjgwRVFXY05mQTduUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-15T15:57:33.000Z"
+    },
+    {
+      "title": "Investor",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0ZDVMQURJSVU0d1dYSk1sM3pzNDZQOEdnbXJLRzdCaEQ4WHhRYUt2NlJSYTB6Wk5sRmFDVTBKSUVfTW4tcURkYmh5UTNta0NoM1FGS3dfbmJKb2tBQXdGQVp0d0pqTWY4eE5OZEs3a0hSZFJxWElSOFcycFM?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-15T13:44:55.000Z"
+    },
+    {
+      "title": "AHA Leadership Summit Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45bk9xMUZaWDlKaGhVcGx5RkRaaklIcXltMUFNTk14R25Ed3JUQ1pQLWg2Y2FnN1I0cGVubktyQ244SjR4dVJ4ZnFOMVVjOGNhNFhPMEFWT3hWejNWQ0Jv?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-14T10:37:47.000Z"
+    },
+    {
+      "title": "Aspichi explores VR's role in mental health resilience",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMFpmck9Halp4X242dXo5MTh1V0ZkenU3aVBjbDN6US1ZSXViNm1kb2xXSVVycV9hQjVIVVRlTzB1Z2FjYmR5UXhIUDNTc0gwZWh4VmZSRUFZaHUwLVFTY0NWNjk4Y1ZpQVVjX0Zzdi1rc1NEc1ozOWM4RjhzaWtJU1Z1U2laMWR5c2RmYXdIZkRfVnM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-09T13:57:00.000Z"
+    }
+  ]
+}
