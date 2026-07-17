@@ -1,0 +1,208 @@
+{
+  "date": "2026-07-18",
+  "generatedAt": "2026-07-17T21:57:26.386Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 32,
+  "sources": {
+    "MedCity News": 7,
+    "Healthcare IT News": 9,
+    "STAT News": 11,
+    "MobiHealthNews": 5
+  },
+  "summary": "Today's health-tech landscape shows several converging pressures on the system. Administrative friction remains a major focus, with multiple initiatives targeting prior authorization delays, check-in workflows, and the rising costs driven by automated denial systems that create a \"bot versus bot\" dynamic between providers and payers. Meanwhile, AI is being positioned as a solution across multiple domains—from reducing no-shows through human-supported systems to supporting public health agencies and enabling data-driven decision-making at health systems.\n\nOn the clinical side, reimbursement incentives are shifting to encourage preventive care, with Medicare proposing a 19% increase for smoking and alcohol cessation counseling. Industry consolidation continues with IKS Health acquiring TruBridge for $557 million, and specialized ventures like Juno Bio raising capital for vaginal health solutions and Hemispheric securing $52 million for an AI brain foundation model. Some clinical setbacks are notable, including GSK's chronic cough drug failing Phase 3 testing, while broader public health concerns range from medication shortages reaching 227 active cases to foodborne parasite outbreaks linked to Mexican lettuce at major restaurant chains.",
+  "items": [
+    {
+      "title": "Juno Bio Raises $3.8M to Support Vaginal Health",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa3hWRWxubjZkVm5qQkpENm1Rd1cyTkdFTHlScWc2Sk5UMG1IcXRBbW1oazBFVkpYa2xLRnRNSV9UNXBtcWJ1WmpyRFNHRDdiYVVxNV9keHhDUEdNeWlxVGJmeVZBOFBlWmVUSU9iUGJzOUtuVUN5X1J6QVV6WVFhenNKbnoyQQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-17T21:30:35.000Z"
+    },
+    {
+      "title": "Remove Barriers to Care with Verified Trust for the Clinical Workforce",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXlwRmQ0SkpaNjB0cjZaMVFXaEJDamVOUnhRSmxrc0RtenRBOGNiXzVpSldBQzR2elFZalhWTXVSMmJoSWVqb1VPSS1HMXZKQWppaThfeWUxVDRKcEhiZGo0NUNXYUNsLVRRV0NHMTNMdG5TaHkwUlgxd01HUW5ZTnpVc2hXX043NVdmLU92T3gyWDExdlU4MWNOX0E?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-17T21:14:19.000Z"
+    },
+    {
+      "title": "Reduce check-in friction with a connected documentation workflow",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR096LVdNQnJVMzZCcmNZa0xvY1R0ek1RVFdJYXpleUZ2QUs5R3doSTFpQlJKeHl1bkhydVdia0ZoOXVlYXFPTWNicFMxQzVBMm1ORFRKVnJwTHlSaVBweUk0dHRyeEtqWXlnU19QNVpxRG42dm5JMll1LUI4ZHFkM0FqN2Jqdk5mRV9RT3psdUZiT0tXTXNFQWNSQl8?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-17T21:11:38.000Z"
+    },
+    {
+      "title": "Opinion: What the 20th-century war on smog tells us about today’s wildfire smoke",
+      "link": "https://www.statnews.com/2026/07/17/wildfire-smoke-air-quality-smog-policy-climate-change/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-17T20:48:10.000Z"
+    },
+    {
+      "title": "Preventing avoidable denials at the source",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX0sxMmtBTVQzdllWUGRMQThMZWhDb19FeDFvUktlQk44b1ZoNkM2RGxBNDhlaWZVYU5XdjBIN3hBSTBKQVZEblRLbFFVRGhoTEJ3N2xpekZiWHl6QTFRSUw2dVVkMlV1dHl0bW4tTlYwaC1tSmptdndMaE5tT085cGZ5TQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-17T20:39:12.000Z"
+    },
+    {
+      "title": "The ‘Bot Vs. Bot’ Dynamic Between Providers & Payers Is Driving Up Costs for Everyone",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jTEFXaGhEM2kxWTZXUDJ2a2ZzN0VxRDVWWGEtWlZ5VkRJN0ZyTjVFdnlpMnNGU1hMSlBIR3ZhN3RxNFRHZEJ5U0hrd3RLcWNzSmg1TlI1OEV2cnRvUDhV?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-17T20:20:35.000Z"
+    },
+    {
+      "title": "CHAI seeks to support public health agency uptake of genAI",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUpjLXFoZVRZekU4UzdEcl94bjRqeHpfdmVINGlqVGlhM3h3Rk5fSm8xbXR1MmV2ODMwV0F1bmNPQWtuWjZXS3pPbXdMUHBtVUo5cWFuQU9jZjdHSFNlam5kXzZfZS1NRFJHblFCWFBLWEtndGtGQ2Vad1dCWHhqelBFN2JMRlV4QUozV0p1X1phdFNN?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-17T19:48:25.000Z"
+    },
+    {
+      "title": "GSK Drug From $2B Deal Sputters in Phase 3 Test in Chronic Cough",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEtnRzlIVHFGa1picjB1aWdQMW1ucFFZTG5nMmFqUmdUbjlUMHNsVDFrMTc2cW1nODAxWlJkUmNuanFJX1FFalFkYkt5MkRRbGhIZ291U1N6TTFJc05CY3RiZkxFa1phUlY5VlNwdDlRLXRDSTEtY2lxU2ZpUjl6eUZDUE1aUGE0cjRZcjlzNF8?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-17T19:47:52.000Z"
+    },
+    {
+      "title": "HIMSSCast: The Isle of Man's 2026 Global Innovation Challenge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVmdpWVJNWU5EMDNVdGN2VUVpNUhUU2IxdDdnVkMtZ1VsZjNWSElIN3N3STR5NlRoVFFfQzlVU1B2ZmlIajlPZk5NN1FJQ1c0VHBWUWxONjM2VlB6eGFIdi1ZSUU3NUlFSlYtVURubnJPZ3JBNWUwMnNQbU9MSlEwNTk4NWpGblhGcUdiZDVWWVdodw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-17T17:14:36.000Z"
+    },
+    {
+      "title": "AI with human support reduces no-shows at Graybill",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVWpVMlpkNmo1b0tWbU50Ym5pbTRMSFYxQkpSQlpjVndheDd4VllURlBva0NyZ0NTME5zbFh3MGJGZXNLd2t5TGxrOTRDRzcwRUV0RDV1LVJtUUI5clBVMEE3eGRWU3VSOUtsaktOQ1dQcW1PU3daOS1EZEo0bnk4R3pLVFpyaWs?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-17T16:19:59.000Z"
+    },
+    {
+      "title": "Quitting smoking is hard. A Medicare change may push doctors to give more help",
+      "link": "https://www.statnews.com/2026/07/17/medicare-smoking-cessation-reimbursement-increase/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-17T16:05:04.000Z"
+    },
+    {
+      "title": "Hemispheric raises $52M for AI brain foundation model",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2t2Q25XMXpJSjYwZ0U2SHIzNDhIRzhlSnlDN3UtZVZvdmRWa2dxV3RqbVdmUFFnZkhoa3ZLODFRMkhoVUNqQmE2MW8tMnMxV3RCQm1KSTdZeW1reG50eDBrdTZEa0FJVTNSd2daNHR0SUFaSzZreHMwbVJRT1RyMmt5aUtrMDAtT2R5TA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-17T15:33:16.000Z"
+    },
+    {
+      "title": "AMA convenes new SNOMED CT to CPT mapping initiative",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1B2eVF0em5YUzBIemFfZXl1UHJ3SEtEaVJEc3pYU2hrVGFTTE1RT0RGR0pRS3VrTjNhc0N5am5OTHU2SXU4MVhDV3BpSTlHY2M5dnhxenZsQURzS1NIM2dzMWZwTmJfT1V2WmpBS2JIeFZfUUNWektIMDg2TVBQLTVFT0JXY1BKNHpVbVdQcVg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-17T15:17:14.000Z"
+    },
+    {
+      "title": "Lettuce at Taco Bell in five states confirmed as a source of diarrhea-causing parasite",
+      "link": "https://www.statnews.com/2026/07/17/cyclosporiasis-outbreak-traced-taylor-farms-lettuce-taco-bell/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-17T14:52:38.000Z"
+    },
+    {
+      "title": "STAT+: The end for GSK’s chronic cough treatment",
+      "link": "https://www.statnews.com/2026/07/17/biotech-news-gsk-chronic-cough-treatment-meets-the-end-of-the-line/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-17T14:40:12.000Z"
+    },
+    {
+      "title": "Technology enables more proactive, personalized care",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa05ObC1jS0FucGh4N3dBcmo0X1hPdnN2V25PeUtiMEx1R2tSUll6VEhKRlYxaU9MaXNxZXUyRE4xQTZ3LU12a1lzR1FUaTI4R0dJZHFIM1d5cFJLaDZzeXB0cF82Mmh3RjNWLXVzbVZDM1FQNGxzdjdXX1VuQmNhMVRGelJ3NXdBQlVzZkE2M2NLdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-17T14:14:18.000Z"
+    },
+    {
+      "title": "CIO Spotlight: El Camino Health's Deb Muro",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQU1BcWFvcE9BZlQ5QlEwY2l1R1lHTVFRMzVNbUhENGk3RDQxYkZreGltYm9VaFo5cmxMeU9sWlNjU2JrQkZNbWdrbEVYb3I3ejdvTlg0VkFFanMxLXo1M1YzQmdyc3d6d2FWZ2VLcXBlZUpzYXNoQlNVcllwV0pwWTVsWW85Zw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-17T13:45:00.000Z"
+    },
+    {
+      "title": "Why Specialty-Specific Measurement and Intervention Are Essential to Address Healthcare Burnout",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbFR5WFhPTU1iY1ZPbnlfOFE0SFVyRFFmd19KeGllU2RlRS1Zak9EUEk1aU96Ynh6ZGxVaUJBNnBrUEUwX2FtdWFUNEJRRXN1dE16NVhNVlIwSHNTdm1ubjIwRXNnWEZZTUtTWmFqMG1OQ0dDMjU3dnR0NXlqbUZBVjFySUFpVmhoYXhFRmhPWlFOUEdyNjN3bWh4bWhGQmUyUUFYN3RSRTRCUW1uMTZNYmJwUDc2ZlVpQUJTNk8xOHFDQmVhN2hF?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-17T13:30:35.000Z"
+    },
+    {
+      "title": "Why Settle for Acceptable Versus Optimal Outcomes?",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMm5ROWhMNHE5TUh6VlF6Z2o5ZVhYNWZaeTNkaUdYTUpFRHhtcnNvbzlSMm83aDY5YVNUbUw0S2tZRU4zUVVmZ2o1cW9QMDE4SXVDcUNtNC13YTEybjBxWmJJeTJGaWNVM0NMRjlNWTd3bC1lQ2RneThRajBLbjBCTXhKM2g1TV9aVEE?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-17T13:15:44.000Z"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "link": "https://www.statnews.com/pharmalot/2026/07/17/up-down-ladder-jobs-comings-goings/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-17T13:04:34.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about rising drug shortages, GSK coughing up a trial loss, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/07/17/rising-drug-shortages-gsk-abandons-chronic-cough-medication/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-17T13:02:11.000Z"
+    },
+    {
+      "title": "Who can access testosterone hormone medication in the U.S.?",
+      "link": "https://www.statnews.com/2026/07/17/health-news-who-can-access-testosterone-hormone-therapy-in-us/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-17T11:53:20.000Z"
+    },
+    {
+      "title": "Why affirming trans identities can be critical for suicide prevention counseling",
+      "link": "https://www.statnews.com/2026/07/17/trevor-project-suicide-prevention-counseling-for-trans-youth/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-17T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: MDCalc is scoring the clinical calculators used by millions of doctors",
+      "link": "https://www.statnews.com/2026/07/17/mdcalc-quality-ratings-clinical-algorithms-for-bias-validity/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-17T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: MAHA is rewriting the vocabulary of American mental health care",
+      "link": "https://www.statnews.com/2026/07/17/maha-mental-health-care-vocabulary-rhetoric-wellness/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-17T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Can ultrasound unlock the power of gene therapy? A startup makes big claims",
+      "link": "https://www.statnews.com/2026/07/17/sonathera-ultrasound-duchenne-muscular-dystrophy-treatment/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-17T08:30:00.000Z"
+    },
+    {
+      "title": "Healthcare Groups Praise Unanimous Committee Approval of MA Prior Auth Bill",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNm1JeU1Ea0VXQURadllacFlkdEZjU1QyN0VVY1ZqM1FKQWd5aVpwWDhWRzJxanNzVHd1TUduTlNkalNKSmVlb1JpdERGV2JTMnBSOXg5Uzhnbkg5YjhyTHBMVXA3RmlqdUdRUHRGRGkxS0hwX2tQZW9ySWtIZlhaY1pEckl0SnlCUXh2T1dCcE1NanY3dU9KV3YzVk9mWjJ6aWYyZUdMa0JiYVJ4?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-17T06:58:44.000Z"
+    },
+    {
+      "title": "Neko Health",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42SEZmbVN2WV9uSUkyVEhBaF9xdFJCTFMtaE5EY212RmlfSVhNeE81VkFtZ3pDYmdrYkxSV2FDNzFNR2lxbEk5RUdMNXpCc2ZfVmtPbkVTOTN5UQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-17T03:05:14.000Z"
+    },
+    {
+      "title": "Full coverage: HIMSS26 APAC Health Conference & Exhibition",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUnN5b2tvMHRLZFhsaGhlcGdMdUh2SF9RQzljSktpSU9Sc1FIMV90TlY0WUZfM2FoUDRhU19sTjdJZUFVRWVwcV9ndVNWcU5ZY1RUaEl1S0pDY1hZV1huQkRTcFlGSC1RWnA1SS1HNGtDUW9uVnhKbHEtbXhBV19VQjZhRTJLYjRrX1pnYUg3WnpzT3B2R29tZlZsaE5saFBDQV84Yg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-15T02:43:04.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0RIVk9lY1E2VXFtb3pVOGdfZlU3UzhaUUFiTklwaTRCeWtpSWhfejBzZnZHbEdiVVBxLUxqa1NsbXYxLS1iZnZHS0JUQUlyd1NMZHozUnUzVTlSaDlwc1JpNFctN3k1MzR2LWlGSEFUeUZYaC1md202M0dRM2YtbGdR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-14T10:26:31.000Z"
+    },
+    {
+      "title": "IKS Health Beefs Up Its Tech Stack with $557M Acquisition of TruBridge",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjF6QmUzQnpabVFkY0RNem93RGVtakdiWnpmXzhxTDJoeU15R2pHZElQUjhhVTZvbjctVW5udVhvaWlIcDdWcEJOU1VzU2Y4VWpjS2JYWlp5OWZXV1dPYnhoNEFlamh4MGg2SVNqUGVYcGRDNVdWREhpSGJGWTBFY3J3?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-10T03:15:52.000Z"
+    },
+    {
+      "title": "Health systems need data discipline for effective AI",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWTBDbXdOTXExYkZwS09FLTBzbF9Jd0lQYUN5ODZTQ0dQZGx2Nm5GTXRDNkxUbkEzXzhiSXlqaUdqaE1JZEV0Y2FudnlSMGhSMlJOa2U3OU5DVDRva29XX1ZJLU85eV9PUWJpeTRkVXFvN3o4d2U2TVQ3a3kxOEtEOVVMbFZLZlJYM0FtcDhxMA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-09T16:06:58.000Z"
+    }
+  ]
+}
