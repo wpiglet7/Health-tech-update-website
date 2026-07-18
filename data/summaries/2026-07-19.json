@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-19",
+  "generatedAt": "2026-07-18T21:55:33.204Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 10,
+  "sources": {
+    "STAT News": 2,
+    "Healthcare IT News": 3,
+    "MedCity News": 2,
+    "MobiHealthNews": 3
+  },
+  "summary": "Today's health-tech headlines reflect growing momentum in value-based care, AI deployment, and digital health expansion, alongside ongoing debate about preventive screening programs. Pearl Health's $110 million funding round and Italy's nationwide digital health scaling efforts signal investor and government confidence in infrastructure supporting alternative payment models and remote care delivery. Meanwhile, the sector is grappling with how to responsibly implement emerging technologies, with multiple stories emphasizing that successful AI and virtual care adoption requires genuine understanding of clinician and patient workflows rather than technology-first approaches. A notable cautionary note comes from an opinion piece on military testosterone screening, warning that well-intentioned programs can produce unintended consequences—a timely reminder as health systems scale new clinical protocols. The primary care field is also pushing back against specialty rivalries, with major medical associations urging policy focus on integrated care rather than zero-sum competition between disciplines.",
+  "items": [
+    {
+      "title": "Opinion: Beware the unintended consequences of testosterone screening for military servicemembers",
+      "link": "https://www.statnews.com/2026/07/18/military-testosterone-screening-supplements/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-18T21:21:10.000Z"
+    },
+    {
+      "title": "Opinion: STAT readers on the value of primary care, obesity as a disease, and more",
+      "link": "https://www.statnews.com/2026/07/18/primary-care-debate-letters-to-editor/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-18T08:30:00.000Z"
+    },
+    {
+      "title": "Reduce operational friction while maintaining high-quality care",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnFuR0M3QXpaWm9IN0xDWHRxelBJRHh3d2NiNDdtMUkxN09walhERHNLTFFLWlFpQlFwVGdlamNkaDVtREF5Y3FoUVo3a2pDcGdlUGRISUdkVmV5Rkk0ZzJYSWRXVmFFbXlKRUZEZ0dGWWdQUFVwRE1iOW80UnZtcGNFUUs1YUk2MEQ0VlhYSklCR3pLclBXTFRGelh6eHo1ZVpKcXJMYTg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-17T21:24:28.000Z"
+    },
+    {
+      "title": "house ways and means Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NUzZuNXBDRkxZMDkxNjZ3Wkpzbkk5c2FCX2NXZGdnVm5SNV93TVlHYWRVUGszcDVQUlVPeHZVN05qQ1h4SG9WMWFpUzdlVlZXSjg2c200NnhtNkV6aFE?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-17T18:35:35.000Z"
+    },
+    {
+      "title": "Could 'Dr. AI' soon practice medicine?",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oU2ttWnlTdWZQTzNIOVlOcjczLVlXUzhqZHNyYUVtaGhKblk0TVFILXFzNVFsRW1Zamk0RHRMVXByMGJrc3ptcXA0akJTSmc5dGNmd1R2c1ZlbzJKS3g3QjRzSEVaeHRlYlAxaWdFeWhVMk0yMzYwcmV1Y3o?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-09T16:17:31.000Z"
+    },
+    {
+      "title": "Aspichi explores VR's role in mental health resilience",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMFpmck9Halp4X242dXo5MTh1V0ZkenU3aVBjbDN6US1ZSXViNm1kb2xXSVVycV9hQjVIVVRlTzB1Z2FjYmR5UXhIUDNTc0gwZWh4VmZSRUFZaHUwLVFTY0NWNjk4Y1ZpQVVjX0Zzdi1rc1NEc1ozOWM4RjhzaWtJU1Z1U2laMWR5c2RmYXdIZkRfVnM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-09T13:57:00.000Z"
+    },
+    {
+      "title": "Pearl Health Lands $110M to Support Value-Based Care for Medicare Patients",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqR3ZSZWR0c1k4Ylp4aThmUW9PWW5xZWIxMEUydjdnZzdiZEpjUU8zdFNBV0VBUXdKMkx3b2F0OTB0R0tUaUtWejlUWG4tS2pRUExyUEVFdkgyZktxTldIcUZJdw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-08T22:50:50.000Z"
+    },
+    {
+      "title": "Italy aims to scale digital health initiatives nationwide",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX2V0R09ta2dEbkZFNW54MWxfTnBmcVhJV2RqM0NvUGpQZHh4b2JPaUpYdE1JN1JVMWc1cTFZLXpYcmRoQU1odHdvTjh0X2JXOFl0S2Z6Q1FKdXM1WHI0b0NMRHg3aGtjQVc0Z04yMUpwSjNrQ295MFlUOFRZdE53Ul9fbDRGRXpEN2lYWXp4YU9kYVc3clBqVnI4d2k?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-08T21:10:32.000Z"
+    },
+    {
+      "title": "Successful AI innovation requires understanding patient/clinician needs",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1NTZTlvZmhaM3dGRjRRX3RXMGZjTHkzTDVlNG1wM05RWWMxbDlBVWNESVpLNnhJQlUzZ2JMajhiZndPdGxJTmliTjFIb2hvXzFyRjJ1VHdTUXVqUVhpbGo4YThVamJrVEFqR3ZDX0dsdWdYQmpYUG9rbDJMNk1adEd6Tjh0RmxiTkltb3VoRE9OeG84OG9jb0oyOEtKdjYxbDRVeFVTcURDMWs?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-08T14:05:32.000Z"
+    },
+    {
+      "title": "Q&A: Teladoc Health becomes virtual care provider for the National Basketball Players Association",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUlFSbnF3RW5JNHJOcE5Za1hwVV9qWHEtR0MtdEk0R3BhWVVqd0FlSDFXNzUxUFZfQ2NTUERfNkt2TWp0bDFFb0l1bUVVT1NmTnVid21MTUVtVm1CWjZRWWJ6U0JuaWdmc1hOSXJYelF2ajB4aWhpblJtbk9MMnBlOXJPeDl5NmZMOUEyczdDQXlrNUY0RXV4TUExcVpWSUk5VW5LcGJSXzI1bzVDWGxTVnRscnhlcFU1NXJSZlFQRVg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-08T07:00:00.000Z"
+    }
+  ]
+}
