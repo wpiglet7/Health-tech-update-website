@@ -1,0 +1,93 @@
+{
+  "date": "2026-07-20",
+  "generatedAt": "2026-07-19T21:57:46.193Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 13,
+  "sources": {
+    "MedCity News": 6,
+    "MobiHealthNews": 5,
+    "Healthcare IT News": 2
+  },
+  "summary": "Merck's new oral cholesterol-lowering medication marks a significant expansion in treatment options within a growing drug class, while the ACA Marketplace faces headwinds with insurers proposing a 14 percent median premium increase for 2027. On the technology and infrastructure front, the health-tech sector is grappling with systemic challenges: questions are emerging about an interoperability trust recession, pharmacy benefit operations are struggling to meet regulatory reform standards, and hospitals are discovering that scaling AI implementations is more complex than anticipated. Meanwhile, open source and clinical AI tools are advancing, with initiatives like the Linux Foundation's new digital health AI program and OpenEvidence's expanded tools across NYC medical centers signaling ongoing innovation despite these operational hurdles.",
+  "items": [
+    {
+      "title": "Lipfendra Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13RUE5cEl0NFowVDJGNkU1SlI1M19BN2ZMM3ROVEhMbW84dndZZHFWZlM4QW8xazdZazZxODlyYVR2SkVGRE9fLTg5LUFXS3c?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-19T17:22:46.000Z"
+    },
+    {
+      "title": "Merck Pill Becomes First Oral Option in Growing Class of Cholesterol-Lowering Drugs",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOanpWNmZoS0h2TmJ1dXN0SVJrS0lDN0RjbE04TkYzcWhLWDh6b0F4bUFhbUh5aXo5Y2E1eWVOSmk2Z3k4aVFuaDQ3SkFpSW41Tl9Mc044aDBCLXFhQV9kVW5iOExBZkZDenhuUHZBRlBxeE10ZDRlaklqV05kbFY4RWk5bUN5NWVJRWhMbHJoMU93ZUVleHBaS2VacG1DN3FtamlqOEprS1QtUHdLUjFQSXNsbkFsUQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-19T17:17:26.000Z"
+    },
+    {
+      "title": "Hybrid Financing in Life Sciences: Unlocking Growth Amid Market Challenges",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTV1Zm1teWc1emZrTkhobmhMTHFKMmRLTkN4LTFyZkxleFkxbW5vRWRzSjNKYUtiRWhKVWZsazNObzhLQTdDOTd6UDZTdmxkYV9MR1FmUFctblhlazViTWNOUGZmbkdZVFhwVUhSVlJ4YUp6MHFtM2psU2NCQWJEZTBxV0RGek1pSmluZ09sa0tMUF9RZ1BMT25kd1YyYkRFSWdrZTYzSmFBdw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-19T13:30:17.000Z"
+    },
+    {
+      "title": "Are We Entering an Interoperability Trust Recession?",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLVNuOXRHcDFOMGZNeEpZSlB6ZmNYMzNuRWpOWW55dHBmM2xETG1KNlRFbzRRaGRVZEJZV1R6eUwzSEl4QVFGazN1U2UxMlpoeE9HOW9mdEZ6OFliRXB3enVWTm5iUk5EVExNNTJlUVpXNXZTUTBQNFhCZ0k5YmNBNUxnWGh6LUpzNk10aA?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-19T13:02:25.000Z"
+    },
+    {
+      "title": "Neko Health",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42SEZmbVN2WV9uSUkyVEhBaF9xdFJCTFMtaE5EY212RmlfSVhNeE81VkFtZ3pDYmdrYkxSV2FDNzFNR2lxbEk5RUdMNXpCc2ZfVmtPbkVTOTN5UQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-17T03:05:14.000Z"
+    },
+    {
+      "title": "Pharmacy Benefit Operations Infrastructure Must Rise to Regulatory Reform Standards",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRXJRQTNqVDBjbVV5SFo5UlJSeUl1NnNVdkNCdnJwaVd5TUxuek5td3NyYXVQbFIyYkE1Ykdwb1I1YUtkSU5XZ2daWm9Cdlg0UFJJb19VSzVGUWlvMEZIN1dHVFdHdEJ3VTZBSkl0ZlBOSTRJSXpUSWZUR1AtNGhqVFR5RUZWQ0lWZlpDcExFcmt1YVJYWTlRTzNtcmlGWmluVU9DckRvYlAxNXpiWUtBUGhkZzlKS1U?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-14T13:27:22.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RQ3RSdC1QczQzTDNUcHdsb1FSSVNJbUF1S01zTTdUZVRFOEtwbC14Uk1McEhLenJlNHo1dUhWcVc2VEYwcUQwRFlESi1STDNSRHZHRTh6TzhxUlhDZzJXMUFkN3NHM3N2U2drQzRUS2hkcEF3WjAxcGpDZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-13T03:49:30.000Z"
+    },
+    {
+      "title": "OpenEvidence expands clinical AI tools across NYC medical centers",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVZtVEFQbEpubjNiVW9OdEhvQ3RHQ1JGcTc0ZkppZjZUYllGQUk3bm1yTEZrNWxLSFZ4NGlSNFhZRGJsUUh1c3FGMWt3QjVVNTNEUTdQNDk0N0xfN3FDUXJodUNaMmJKRmp5cER6bWhyM3J3UWNoSWRIbWxtY1lSUzdZQURqRmJKN29NQ3VDZUhTWjJpRHdrN3l4QkpIczdKOVZn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-10T18:40:03.000Z"
+    },
+    {
+      "title": "Linux Foundation to launch new AI initiative for open source digital health transformation",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejdEWXZSNjVQQzdLVjh2R0JmNlZJYzNib3RjVld2Y1FEd1hXTkxNdG9BeThCUFJtMGtocDZrZjhUcHJzc0JiNGpHUjU4TzBnSk51WnhUSHIzWldzT2lDaXd3WmxWcm5xU0hmWVVhQVh3UWZ1WTVra2M5RGZkQTU0QzhmbXIwQzFKRjlLRkpEYmJTTUp1ZHk2dFdWdHA5NUtyTVpuLWZWU09wbEtXb3EyVzNlNjNGV0F0X2J6dVF3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-10T13:47:38.000Z"
+    },
+    {
+      "title": "Pregnancy app reaches Australia's Top End",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa3lsU1JDYlk4cHJIYzhkOVdHdGJpcTVHcnVBT3lpcVJDRXZPZlExYVRoZmlBT1luTTlfTWlPQ01fVEJmeW9nM1hYVDdqX25pX2VoUGVHbzJwalJ4TlZuUC1ENHRJY2lxaFo3aFduZ1JkbzdpUUVJNkRCbUNHRjA4dlNTY1hiSG8?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-10T04:18:55.000Z"
+    },
+    {
+      "title": "ACA Marketplace Insurers Propose 14% Median Premium Increase in 2027",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMV92WlV2LU84d3JldEdFN1dkZFNkNWVnM0xDbTBTTkkteVB4S0RGYUdyY2V5b0d5dzJERmZ1WjlIc2d2NVdwMFV4OC1ZZ25YSFAxV2JoYUxkTDhQNGxJalp6RFRIc0F1Q2F4VG9LNFRUVFFhUmtnLU1EZFAzR29CM0p1UFpfeExyLUZBR1ZIakw5WmlMQWV6ZUFQUjZOVFlKWmc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-09T22:05:50.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHUzemh1dnUya09ZOHdpZ1pCUjFUQlM5XzZKZVVhWjJJUjRTSW4zQUFmbHRZVUdhenZzWVY3X2I4Q2RTZ21haWZNTGQwRGNBdllNLXp2dVJyRTB6MVUzcTdCbVNKWkhJUmMzZU5sSUNpT0NSYW5nY2VDU055Q3FKelFn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-09T17:50:22.000Z"
+    },
+    {
+      "title": "HIMSSCast: Scaling AI in hospitals is harder than it looks",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVU5Ea1RuWmZEbE1JVTJ6d1J4QTJDODFhNXFFQURKbGVKWnZjbzh3MFVqNHpuNkJNcTJPdk9rZmRxQmhhVVE2b0paYUs4aEk5NUMtalN6UGpfQXI1SklpeWE0bDRGQzBtWG1uQTMtckNZQ0NiQWk1SkdBWmN2bE9GZVdlaTNySk5aZWhfakNqcFFTREVkSWlz?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-09T07:00:00.000Z"
+    }
+  ]
+}
