@@ -1,0 +1,256 @@
+{
+  "date": "2026-07-22",
+  "generatedAt": "2026-07-21T22:06:37.883Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 40,
+  "sources": {
+    "MobiHealthNews": 9,
+    "MedCity News": 9,
+    "Healthcare IT News": 7,
+    "STAT News": 15
+  },
+  "summary": "Health-tech M&A activity continues with Wildflower Health acquiring pelvic health platform Every Mother and Tempus AI announcing a $1.5 billion acquisition of genomic testing company Personalis, reflecting consolidation in specialized care and precision medicine. The competitive GLP-1 market saw legal action as Novo Nordisk sued Eli Lilly over allegedly deceptive advertising claims about drug efficacy. On the regulatory front, the Trump administration is deferring over $1 billion in Medicaid payments to California and Minnesota citing suspected fraud, while orphan drug manufacturers are lobbying for exemptions from new federal pilot programs aimed at cutting Medicare drug costs. Healthcare organizations are increasingly deploying AI-powered tools across clinical and administrative functions, though governance challenges remain around trust, resource constraints, and preventing misuse of these same technologies. Poland is accelerating its digital health infrastructure readiness and European Health Data Space adoption, while U.S. health systems are rethinking EHR ecosystems to better support telemedicine and point-of-care innovations. Separately, pharmaceutical companies are facing pressure on multiple fronts, including Agios Pharma discontinuing a sickle cell drug after disappointing Phase 2 data and broader concerns about post-pandemic policy directions affecting public health preparedness.",
+  "items": [
+    {
+      "title": "Wildflower Health acquires pelvic health platform Every Mother",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWktEVkV0TVNsSkZEOXIwTjJrOUhZTUpWdHJPbXplUThfRnpKdmpqbFY4bTlzQUpJOWJzYmhnd1Z2emdhR29FTnV5OVNEb2tGeHY3SmN4R0wzSkVjUkNXSTZnVDhUVVZRU2VsWldhNTdsemJHZVpZVnBPNVVHU0o5WjFTWUNadEw1eC1FVlVVNWxBOFN4a3d5QnBpeGxjNGM?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-21T21:35:46.000Z"
+    },
+    {
+      "title": "EHDS readiness is Poland's next priority",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUlRVc0JKTTZoTWFEY0hURzdHQUR3MkdFdURka3gyM3ZMWFlIWGV0SWU4R2tyX3JkcjdrcHduaHZ0TG1MOEJvVUdSdkl1NWZ6WlZGRWI3S3Q3Y0w4YlI5a2JsSkQwemNmT2FZNk05dXdhZVBmU2dZSlRrbHRMbTBLbWZILWo?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-21T21:04:20.000Z"
+    },
+    {
+      "title": "Agios Pharma Drops Sickle Cell Disease Drug After Phase 2 Data Disappoint",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGJEemV3dGJnU0dqWXJNTXJaRmxfZ2tjLWpNclJWWERDc2JZdVBOR1RSNFBfZ2VBOVM5Z1pUaXRXWDRibjRvSEtGcExMTkphcWVkeWdZekYwUG1ESjZYQ3oyV2JzZ3Jzdm83bmprOVRRVktOcVZfeE1xYS1pUFRvYXRWUDlKdTNoQlZLRV9aMA?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-21T21:00:15.000Z"
+    },
+    {
+      "title": "Digital transformation efforts gain speed in Poland",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc1kwUWxBYkhCWjZvTTc2ZXJ1QTNsamRIRXZydTlnVWYzbWtEeloySEIweWJzeUtXUnVjZ0xFYTRPeTgxR1d3WUFkSHVoM0FFcXVzNkpycFZaOFpHWFNONXVyY1QwYlNjS2JwMUZIZ1U5Q3pDZVVaejhKbWt2NlJTNjVnUjh2VEtTRGpsSG9UWTJyY0l5Zlhv?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-21T20:21:00.000Z"
+    },
+    {
+      "title": "Doing More with Less: Extending the Blood Bank Beyond the Lab with Enterprise Point-of-Care Blood Management Systems",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS0U0Ujd6Q0tud0dEZ29KSlYxTi1WTjJkR0dpdFdUYklERW1fS3dHYTI1dWZ3MTQ2U3lxNF93UUZSR0xCYWZIeWh6cGdubzdOVm9wTkU5X1dtWXFnbVhXSF9mRzkyenV0bXp1YWZRTTRIU1N3YjNISzd1T0hLQzE1RG9qWER1UkFwQkw3NmJMSVBzUC1ncVlpYVlVcG5PWDlrSlZCUThkV2JvaVRGODF5LXhMdUJjZ2ZfRUM1SnFTQjYyTkhPQ09v?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-21T20:12:06.000Z"
+    },
+    {
+      "title": "Trump administration says it’s deferring $1B in Medicaid payments to California and Minnesota",
+      "link": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-21T20:10:43.000Z"
+    },
+    {
+      "title": "How healthcare AI is actually being used today",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNckJXbHRfaVhrSy1LM1NvMjRtc3JNZ0J4Z0JibjdNTXpPR0gzZU1qUG1oUUJSdTNkQ05reWduTFZvSkhtWlpUb2xlVE1adWlMZVctQUR1ZEQ2bHBkOF9VNENtekZYTTJEbTN6LURqdVZEQ3RZVUN4M2Jpb0lHcXgwVjJQNE5RYTk0SlZGWFNB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-21T19:26:03.000Z"
+    },
+    {
+      "title": "STAT+: Rare disease drugmakers try to avoid Trump price cuts",
+      "link": "https://www.statnews.com/2026/07/21/rare-disease-drugmakers-avoid-trump-price-cuts-pbm-state-laws-dc-diagnosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-21T18:17:34.000Z"
+    },
+    {
+      "title": "Novo Nordisk sues Eli Lilly over alleged deceptive GLP-1 ads",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQWhaRmNRWk9wdjh1OGs0dzhTemZDNEF1OURsYkRUVlFGUGFBb1FWMWhXdGdHaVlXUzMxVXJZdmlITF9hQlhINFZVZmVHeWVhZTkyTGlDNXpFRXhqX3kySm9MQ2kxUzV3VTRqX3Z0WnoxbmRsNi1lOWVaMXlVcVNTNjVxeGlKNjBCV2Z1OEQ5LV9RcU1CZlRwdmZ4aVE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-21T17:20:20.000Z"
+    },
+    {
+      "title": "DiMe launches initiative to build operational AI governance tools",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNME9USFVheVBmUDd5bHFhNWVuOG9hNXNUbVB0SVVVMTc4ODJVX1hnUWdSQUZZQkFWVlg4cnVfZ0QxaFRRRHNDNFBWUFQ3bXJmNERVWEh4dktHTVFzbXNpdTVMRnpkcHlLVjc3SEVvUHhVUUU3NEJSX0c4QXpXZ2JkVXBidDZzdWRDTUp6Y2NvUnh2Q0lIWWFxNHhLeDJPc1ZPRVE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-21T17:15:00.000Z"
+    },
+    {
+      "title": "Telemedicine's next phase demands an EHR ecosystem",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQazl6dTJGVlg3amZYaHc3eWprV3NnNF8tSE95VV9iR3hodTZNc29jZVNSRGJ2MkxSZjF4VVZBS0FjLUFKUWU3aXdqeDVsbmtramJYU3hXV3pNaURqQmlLYmZqSk40ZGQ3ajBFaFlVNGhyUXdOb1RlQnc2SWxTMjVaZVZaSGM3OTZ1cUtYaQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-21T17:07:36.000Z"
+    },
+    {
+      "title": "Why Pharma Companies Should Look To Social Media For Better Patient Insight",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWE5eGRRd3RpaTRsRHlQSGpxOG4ybW1kLU9XRG1kS3pMUWVfcjI5X2dDUkxnaDVpN0lCV0dIOVF6NC1hZ0ZBOHR6a3RPcGg0dHBRbUpyR3o2eHkwdGx3a3BCX3RvaFYtZ1c2c25Bbkg0emtfMHNFZzZUanA5aEJReFI2Z1pkRW1USjJvYXVjNXJySHBsbHoxNTcwdjduUUVHUEJMMHBJazBhS1JR?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-21T15:31:21.000Z"
+    },
+    {
+      "title": "Opinion: Pete Hegseth, ‘The Odyssey,’ and the testosterone myth",
+      "link": "https://www.statnews.com/2026/07/21/connection-between-odyssey-military-tesosterone-screening/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-21T15:15:44.000Z"
+    },
+    {
+      "title": "STAT+: Advocates say federal funding is being cut from groups fighting HIV",
+      "link": "https://www.statnews.com/2026/07/21/hiv-aids-prevention-advocates-fear-deep-cuts-cdc-funding/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-21T14:24:32.000Z"
+    },
+    {
+      "title": "How Diagnostic Precision in Allergy Care Supports Mental Well-Being",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2hkZGZwV1l4ZTJBRTF3SXJhVHBuLXF1Z2pPb3RsRjJ5MWltUEVtTTFfb1F0dzd6YVZNanBqSS1iLXRZT0QzdG9CdW90QlFiUkg3TGtnRW9MZEtlcmtlUURMTnZ5aEprdHRWeEctM1ZqVF9PeUU0aXBCUGVzV1BndVJraUtYNHhiV1FsSDNyOU9oUnpjTzBvWjRhcFdTR1Vtcnc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-21T14:02:01.000Z"
+    },
+    {
+      "title": "Workforce education will advance AI's future",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWZ5RllndTRUek94MjRKam45dTJWNjBteG5ZN3NnTFJ3OFNmMmpsMGN0eGV5blp4Rm00NTloemhqRlpsYVllSWpFX1B4MlBadW51cnZibHJXb09ndmdDRUhiRUZkUTJJclRrSFBpOE5nYlFrT19yUlp5WF9DSllnNlR2WXJXODQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-21T13:54:16.000Z"
+    },
+    {
+      "title": "Is there an exodus underway at Epic?",
+      "link": "https://www.statnews.com/2026/07/21/is-there-an-exodus-underway-at-epic-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-21T13:43:43.000Z"
+    },
+    {
+      "title": "STAT+: Broad Institute, partners unveil new initiative to develop gene therapies for rare diseases",
+      "link": "https://www.statnews.com/2026/07/21/center-for-therapeutic-genetics-rare-disease-gene-therapies/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-21T13:37:33.000Z"
+    },
+    {
+      "title": "STAT+: Anthropic deepens work with rare disease drugs",
+      "link": "https://www.statnews.com/2026/07/21/biotech-news-anthropic-deepens-work-with-rare-disease-drugs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-21T13:36:20.000Z"
+    },
+    {
+      "title": "Doing more with AI despite limited resources",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbk03akhZUGFpUFlDMW8wY1F6WnRwdUtRcGlsV3hVb1hwYXNLd1dLVkc3Z2pxbEVPcWpxR2pCWDFmM0NiZ180a3lzM0Y4djBVaFVqa3ZBWTFVYlNLeGNRd1UteU1VbV9teW9aZWtIbTNQMmZZN04tMkMxMnNRcVdiOTA0M2E?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-21T13:19:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Novo suing Lilly over ‘deceptive’ ads, a fugitive’s secret life in biotech, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/07/21/novo-sues-lilly-alleging-deceptive-ads-fugitive-secret-life-in-biotech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-21T13:08:39.000Z"
+    },
+    {
+      "title": "STAT+: Nabla’s new CEO on plan to gain market share in a competitive AI scribe environment",
+      "link": "https://www.statnews.com/2026/07/21/ai-scribe-nabla-new-ceo-plan-gain-marketshare/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-21T12:00:00.000Z"
+    },
+    {
+      "title": "Health systems building AI agents must balance trust and token budgets",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQanlMU0J5NjFMcTdBOG1laTJuRHdRd21oYTdzejd3WWl5Rm9uX2hlcHpPcU9FRHF3WDF3RkJPdUZRbzRqdE90WFU1LU9MSjUwTngwc1pNR053YkRpWE1aTXUxMWhvUXRyTTAteVZwZTBwR2NFb2JqalNGSmFQVVJVdzB4Y3RMb1ZyYTBaa2lzcEFUbldHQnhEUXZVVHppUHJ4MzVsNk1WWWFFeFZt?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-21T12:00:00.000Z"
+    },
+    {
+      "title": "Q&A: First able-bodied individuals receive brain-computer implant",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR0VOYUZYMUh3Y3BmalAwUkxIUEZyTi1fVDgyOE9ZbGNQTC1ZOHVFNDA5RVNsQzNRZTlRTno5R1NId3dlM3JqTUpicklHNXpVYklqN2I3d0lDaC1LbTNPZVVJUVR6X1NkSDgwUE5GME1QWXlCUTdORE80bllYa3B6Rl9FLWdRUG55c0tHY1U5M0lsQUgydFB5Q3ZtY1lNVkJ5?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-21T12:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Novo Nordisk sues Eli Lilly over GLP-1 drug ads it calls ‘deceptive’",
+      "link": "https://www.statnews.com/pharmalot/2026/07/21/novo-nordisk-sues-eli-lilly-glp1-drug-ads/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-21T11:35:00.000Z"
+    },
+    {
+      "title": "A renewed push from the right against abortion pills",
+      "link": "https://www.statnews.com/2026/07/21/biotech-news-a-renewed-push-from-the-right-against-abortion-pills/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-21T11:34:38.000Z"
+    },
+    {
+      "title": "Where Will AI Deployment Benefit Payers the Most?",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVE5rZGxWakZDNzdKeHNFc050YlJESGU1UGNPSWJYVXloMU5mQ0lvVDYzME5mWnpKaDRQMFRNUkZVanpQQXVVQ3VyNTExYWFvSkREQU1BVFVmSE1qWUlLXzZRQWQ3ci05MWVTQml4YVRhQm5xdFVHcVNYejVlTi1TLW15MkR5V3Jj?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-21T11:31:43.000Z"
+    },
+    {
+      "title": "STAT+: Makers of rare disease drugs seek exemption from Trump’s price-cut pilots",
+      "link": "https://www.statnews.com/2026/07/21/rare-disease-coalition-orphan-drug-exemption-medicare-pilot-price-programs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-21T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Science and the public are learning the wrong lessons from Covid",
+      "link": "https://www.statnews.com/2026/07/21/covid-non-pharmaceutical-interventions-masks-distancing-research/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-21T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: How a controversial rule could hurt the NIH’s ability to manage risk",
+      "link": "https://www.statnews.com/2026/07/21/omb-nih-grant-review-politics-scientific-risk/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-21T08:30:00.000Z"
+    },
+    {
+      "title": "THC drinks are sold beside sodas, iced tea, and even chocolate milk, often in violation of state laws",
+      "link": "https://www.statnews.com/2026/07/21/thc-drinks-risk-accidental-ingestion-issue-labels-regulations/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-21T08:30:00.000Z"
+    },
+    {
+      "title": "The Same AI That Helps Patients Is Being Used to Attack Them, Hospital Exec Says",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mU3JDbHh0RG81elIySDFrRXZYZVhBbE4xaTc4OHRkUUhvaEIzSENaSjdkRFY0azVjb2dFNUNLMW5YdDVhVWFfR3ZHT0prOHBfek1FNUtOVU5XZ2lfc1ZoNHZNZGs3dElobUE?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-21T08:06:36.000Z"
+    },
+    {
+      "title": "Resolving Australia's AI governance problem",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTlqUnhWczJvVXBaVlVjX3IzZjIwdGVlb2dYSmpGMU8yR1IyYjZKVFExenNDME41S3U0U2U0UVNHN09zUnNIZVVYTFY5c3dsRXRxS2JqS3lqSmVjS2cxR2ozNmZrbkZxWERXaXpjeXp4ZWlyZjhPblI1RXNPOE1jYWhmT01FQVRpemc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-21T01:36:05.000Z"
+    },
+    {
+      "title": "BP ring maker files for $20M IPO in Korea",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQalYzSGRXbzU0X2VnVTZjQ1ZFUlRCc2JaME5CVkVhRWFsTVEtQnF1WFpBQXJfM044ek5FNzdIemxaTGMtN0VmTjZPd0FyWFRXamFia05xR2R0Wk1yOE05VUdzVHF3NFFiaUVSSFI1bVk3alVzYnVZbWw0V01aMWc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-21T00:13:24.000Z"
+    },
+    {
+      "title": "How Should Clinical AI Be Paid For? 3 Takeaways",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSk56cXIwRjY0eEFVU09zMzNGYXI3dW52SHBNSmJ2RFhMb0VHR1dtMEZoNHJYOUNSZ0lKdFZPbUR1dm9aN2ZFa1VOVmhJOEtyRmdWY091bXlHYU5aTlVSekFDYzVnTUVqN0gtTnluX0lNZEZOeGMxYTlEV0UwV2JISFNBeW5VZw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-20T22:31:41.000Z"
+    },
+    {
+      "title": "Tempus AI Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92VDFOUThqUTJ5YXVVeVBuSGNFVFEwbjZKQlBjU0NMeTIwZlhKUUV5RTlrdnl2WW9VRWtRN0Vpd1hGVHJoNHc0NWtaU3ZncGM?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-20T21:49:49.000Z"
+    },
+    {
+      "title": "Personalis Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82OUVYeDQ2SGxoRG54OUgyRERSUTYzbHR2azNudkstSWZwa2phbVBwR2JuaElDMzl3Z0hncVVTQy02RjRSa29CZ1g4MmRWbGdh?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-20T21:49:48.000Z"
+    },
+    {
+      "title": "Tempus AI to acquire Personalis for $1.5B",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FN2N1bEFsMVJ4bTF2VXBRRmp0d2VSSm9Hc0Fvc2dIc0NaR29VOVR5bENBM1E4V0x6WXNiLTUwRkljbW9XMDhoQU9qbGlxY0ZSNnBwQUhvUllPYUoyRTdzNVFHZkwwLWpYSUF5eDlvTENndFQ2S3B3?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-20T19:03:50.000Z"
+    },
+    {
+      "title": "Tempus to acquire Personalis for $1.5B as stocks dipped",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY2NkNkJpZldNTmg4R3AxX0lIeENHWklLczMyTGhRZkJWZDVLTVo3N2M2dU1kZlZ4S0pDbVFjcEk0X2FfQmtweDRyZ2k2NTAwRk14dHV0ZEptOENaX1dxNlFGNzBvNUNzQ1lrektJNW04ajlFeG1iQ294WmNsVmRNUVRJbVpZdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-20T19:03:50.000Z"
+    },
+    {
+      "title": "Coalition Urges Policymakers to Reject No Surprises Act Enforcement Bill",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbjV0TS04Tl9hMTNNd2tpbWI5UHNoMlZLMklpR2FzRU4xTEwtWTB2NjMxRzlPQXJmdTIwMHNVZEdadTR0d2lkdnNmSWk5cE50ckhOQ3V2aHRwTXBMTUhFd1ZJbUZBemR5by1Nel9uU21RTENmREtyenRpcE1Ybl9zV2ZfOTdHaVVlRDQxVkJJRjFWVDlkM0V0MXhuMEtoMnlRTUJZVE1jQmg?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-15T06:42:19.000Z"
+    }
+  ]
+}
