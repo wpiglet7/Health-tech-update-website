@@ -1,0 +1,238 @@
+{
+  "date": "2026-07-23",
+  "generatedAt": "2026-07-22T22:07:47.064Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 37,
+  "sources": {
+    "STAT News": 13,
+    "MobiHealthNews": 11,
+    "MedCity News": 8,
+    "Healthcare IT News": 5
+  },
+  "summary": "The health-tech landscape today reflects several converging pressures: artificial intelligence continues reshaping clinical operations with debate over governance standards and alternative architectures like \"world models,\" while revenue cycle and interoperability challenges persist despite new platform funding and regulatory efforts. Candid Health secured $120 million for AI-driven revenue cycle management and Assured raised $19 million for provider operations, signaling investor confidence in automation of back-office functions, though questions remain about appropriate AI oversight in hospitals. On the clinical side, Merck's Ebola vaccine showed promise for broader protection in the DRC outbreak, and Science Corporation's retinal implant for blindness launched in Europe ahead of potential U.S. approval in 2027, while debate continued over whether a new cholesterol drug represents meaningful advancement. Broader workforce and access challenges also emerged: a new study found 24 percent of American workers stay in jobs primarily for health insurance coverage, and federal health quality research grants worth over $200 million faced early termination, even as proposals advanced for ACA public options and improved behavioral health prescribing practices.",
+  "items": [
+    {
+      "title": "STAT+: What is a ‘world model’? Nabla’s Alex LeBrun explains",
+      "link": "https://www.statnews.com/2026/07/22/what-is-a-world-model-nabla-alex-lebrun-explains-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-22T21:22:07.000Z"
+    },
+    {
+      "title": "New study supports testing of Merck’s Ebola vaccine in DRC outbreak",
+      "link": "https://www.statnews.com/2026/07/22/new-study-supports-testing-of-mercks-ebola-vaccine-in-drc-outbreak/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-22T21:00:00.000Z"
+    },
+    {
+      "title": "Assured raises $19M for AI provider operations platform",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGF3OF9KTFByOHZwSTdRc1VmYjFxMzJncE9RdVJRc08tVUktOS1laVVfVlRBendnTE94WmQ2YWhBUWxKUGNza3hDN0ZQamJfWGptVm16S2dLN3FaYW5kMUg2Y1JTM2lzM2QyLU00NzFsRm9DQmF0Rkd1cEY2SE1YNlVualVraS1KbGNsVVVjWQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-22T20:31:04.000Z"
+    },
+    {
+      "title": "Headspace Teams Up with 4 Companies for Specialty Care",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalFYMzh5NkEtbldyTVRKdHM0WnUtLWlBc09PUGdFZTRVNVFxT1NvU1I5dHNuN1FOc3NjQzU1VDU4NkJMQXQtVWhYTDZaZ2RhM3Q0YXNNckFrc1EzdUNKbmhzWVBXbFpTZl9HQTFnNHU5eVdSdEdKcXowakNmVEk3cWtLWGc5NGVacDROR3ZKajc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-22T20:23:02.000Z"
+    },
+    {
+      "title": "Germany builds digital health consensus",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGdZdExEU1M5THNKdVRBc1pMTVJ5T1kyVHByeWZmQ0lGYTJkc1o2RjNTTTlJcWFOZUZwRlRuOEJLZUdBelhobnl1X2hKMDh1VWhWc3JWb3dPcVloVmQ3WTdteEJud2cwRkVEdG5FTTFCX0kwX0o1WU5RX1JtcV96QTEyT3Joek5p?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-22T20:05:33.000Z"
+    },
+    {
+      "title": "Hilo launches blood pressure tracker with $19M funding boost",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDJfS2VUbEUwVkRUNjBsUk8yRkdwQlRydTM4N0htc2RWc3ZzYTZDT1dCNXBqblROLXcydW13Z1hPSXNOQnRlUGJHMnZyeS01cS04bFNSYVMxMXhOOVdHZjRwcHBJY2VRTjdTVEZxbkNiazVRbllKWEw5VTA3OVgzT3NGOHlNejBxU2hkZmhyVlBHSE5V?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-22T20:03:48.000Z"
+    },
+    {
+      "title": "Hidden in Plain Sight: The Cost Crisis in Women’s Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObS1sT005SWhxcHBWMmNqYTZsQkNGNkxPblM3bjBBXzJGTzAtWGs5aHZ5cmd6b1N5eFUwN3ljUGI0OEY5VmoyN241ZzZ1YWRJaEZlMjZ4cS00OU8yWjVPVUJNb2h3YkRlVTQ4ODV0WGxLbGNQNWxFWjFGb2djV241X3JramJmbWhsOVlNS1pZN2F6dmpvcGc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-22T19:59:08.000Z"
+    },
+    {
+      "title": "Germany's approach to evaluating hospital digital progress",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXc5T0UwcHJyM2pxb0NyN0JTN0s1VWJveFVJRHU4UFdMeFhvUWlkX1JyUUxDc1lOU1dYSGpCLTZCWHd4ZFE2MG03UjAwWVBxcnFVZDFhM1JqZ28yVW03UVVYQkJDRnRmTVRBb21yOC02X0ZGTzlTb291RkFuUnpralM1TmhOdUlScU5yX1hwX1otOTBWNllJSFhZWWRDd0k?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-22T19:30:00.000Z"
+    },
+    {
+      "title": "Former pastor sues OpenAI over ChatGPT health advice",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTHRWc0ZkWU9qOU1xVWxaanpUVnZCSlZUNkQ2VHdrdVFxX0RWdWU3dTFQTHdEbWllTDF1NU9QNjM1dFZTeVpqZ0pUbFVubkxXLWVVSDloQjhwaHJhU3ZsR0c0UHY4NFhEQ2J1S3ltbHdodEVSMXl6Q0l1WW9qZnJNYmROT1d5NDh6ZDFnZngtNXNlZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-22T18:55:02.000Z"
+    },
+    {
+      "title": "Candid Health raises $120M for AI revenue cycle management platform",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWm1yWVRBanFZUU05WmZmbUhud3R0LXZzV2pvV3pidFJiR1d5UzF0S2VmY05ld09pX051UkUxbjdGRHJRSlI4NDBKRnRMbW53R2Jhdy1DdmlvWlVGV1FzdXA1LVU5UUZaNFpxbkNXd2tpSU9yc3hXTTl5Sk00ZGl2WE1zWDI1WVZwMWFRN2hHNlRKREJJSDNObHJfVDYxdlE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-22T16:54:15.000Z"
+    },
+    {
+      "title": "AORN maps a safer path for AI in the OR",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4RFZGYXF4U0UyWDY3R1FtUE04eXJYYlo5TDJvRkhpeU9xVGM2TGpKLTc2QVZOZzNydk1zMVpOOXB0eHc1aXdVUzdlQTBmNDdqNExJOGRPaGZhNk01X05manc5Z09Wa1VjdUQwTzhueDRhZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-22T16:42:27.000Z"
+    },
+    {
+      "title": "ATA Action flags 'stark contradiction' in CMS Physician Fee Schedule",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGlNRFJUOVprVXVacUtIVlpQT1l6aUhMc1VmdVFoZEdrTWhoZ2Y2ZnhHSmZzbnV6ZzNYY0JIUGh4QmVFSDg3U0VhZGJMaHQtU254czZCUEk2MTF4R0wtVTZZWWlqeHR1MnE3X2ZIYkpNX2lVM3RyVDFBQUtLRnFra0VFNndsR1JWMkNJMDFVbkFuOHNtVVAyWjgxYXhuNDBYQzJz?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-22T16:40:29.000Z"
+    },
+    {
+      "title": "Opinion: What Argentina’s World Cup loss should teach American hospitals",
+      "link": "https://www.statnews.com/2026/07/22/world-cup-argentina-loss-hospitals-lessons/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-22T16:25:44.000Z"
+    },
+    {
+      "title": "Congo’s Ebola outbreak has killed over 1,000 people",
+      "link": "https://www.statnews.com/2026/07/22/congo-ebola-outbreak-1000-deaths/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-22T14:52:30.000Z"
+    },
+    {
+      "title": "Q&A: NVIDIA on the future of healthcare AI, Part 1",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtdE55eUFlT2thLUxJY3NER19jeXVLTzF1Z2JqeXVGc1VRQm5xdE5FbVhUSUgyemxKREFiQzQ4NjZPOFRWRjZVNjRiMmQyVjN1eUZDd182ek1fVnBzaDB1dnVGUVFhelpsN0Jod1hYZE1ubnM3YWxBRlVZeWZfQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-22T14:43:07.000Z"
+    },
+    {
+      "title": "STAT+: Pharma tries to tamp down broad China restrictions",
+      "link": "https://www.statnews.com/2026/07/22/biotech-news-pharma-tries-to-tamp-down-broad-china-restrictions/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-22T14:18:47.000Z"
+    },
+    {
+      "title": "Interoperability and TEFCA fill clinical record gaps",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ3NzcDBKM09PT3Uwc1pLeDE3Y2h5V21Ndm9ZdlBRN1FXRHFuMUE1Q2hEN095UG1IVjlxVkVVMXlKVktYd2huckNnU1RfRkhIVEtZUk91eWFJX1EtcWVIWUNUUGdhLWRDb093TVh0TXA0alBfOTExSlVqM2FQVmRrTnlVUkZpY0xxTURSN1VfNVlfcE0?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-22T14:01:26.000Z"
+    },
+    {
+      "title": "Primary care data needs coordinating among different providers",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVHQ0VldZQnZQUFl5VTNDS2NrWnhudlB5SmdDdmQ1Uy1OX09sNzl4WVNjeklnaUlYSXBwV2N6ZGlXSnZfYUN2b3g0S01ZM1VqbUpubkpINHBtTGVYZjJkaHh5YVppa2VNUnlYLVRyRHJLX3dUdF9reWZMc1RrU1MxSng4cTc3WDRhS01RUGoxb0tVbE1kRW9tR2JwRk5sUkZBdzZr?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-22T13:26:00.000Z"
+    },
+    {
+      "title": "What Healthcare Organizations Miss When It Comes to Reimbursement Accuracy",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3gzZm5wX2VfeGdrbW5vYi1aT180RXUwY1otV1lhbUlMR1NuQ3kzSW4zbDQteHRsRUNFcl9rS3NSSVpyZzN6MGtxUUozTnVobTN4WDZ0N2dpOGJaeXNpRERfcXg2N2dVUml4T0JEQzBRVE00YktpVVFqLTlnTlJKTGYtX1NRZFM0OVFnNnppUFRFWkNWU0QxTlZVQ2N3MTI4NXFLSDRuQ0pWd1k?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-22T13:20:08.000Z"
+    },
+    {
+      "title": "Better Prescribing, Not Less Prescribing, Is What Behavioral Health Needs",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLVpfd0ZDalRKam5BUXhSQjhzVG5EWWhxQkpndXZqUzRXQjhFdWZZTEl2a0FSVThESjRpYTBSRllGSHdLbF9CR2tuRDhzcUtUT0k3NE9pSjhjd2lKREwxQ0kwZ3RDZlhNVndNR3F2MV80cW8xUUdqcVRUb211UzZFZG12WENTbG5qb3FtVHpYX1pyX3JaRXE5QUNFVWpleUJoQUZ1ckNpMA?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-22T13:15:08.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Trump’s plan for tariffs on generics, a Merck and Gilead HIV pill, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/07/22/trump-plans-tariffs-on-generics-merck-gilead-hiv-pill/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-22T13:13:56.000Z"
+    },
+    {
+      "title": "Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds",
+      "link": "https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-22T11:52:58.000Z"
+    },
+    {
+      "title": "STAT+: ‘Cochlear implant for blindness’ debuts in Europe, could launch in U.S. in 2027",
+      "link": "https://www.statnews.com/2026/07/22/prima-retinal-implant-for-macular-degeneration-us-timeline/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-22T10:00:00.000Z"
+    },
+    {
+      "title": "Corner Health",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82Wm9sN3BLSmZ5dmEyS2VORUoyNW9ZdzQzaGpOdkdHRHRad1V1RWhTbm5uZENvbHQ3VjFJRzdFRE84eURPRkJQenAyWEEyMll0N0VwSjFmVG51VFRV?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-22T09:10:26.000Z"
+    },
+    {
+      "title": "STAT+: Federal health quality research grants worth $109 million ended early",
+      "link": "https://www.statnews.com/2026/07/22/ahrq-grants-health-quality-researchers-lose-109-million-funding/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-22T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: STAT+: I’m a cardiologist. I’m not sure the new cholesterol drug enlicitide is a game-changer",
+      "link": "https://www.statnews.com/2026/07/22/lipfendra-enlicitide-merck-cholesterol-barriers/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-22T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: STAT+: Hospitals’ AI may be drifting. Who’s watching?",
+      "link": "https://www.statnews.com/2026/07/22/hospital-ai-systems-ceo-leadership-accountability-governance/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-22T08:30:00.000Z"
+    },
+    {
+      "title": "As Maui recovers from devastating fires, a study offers vision for new rural health model",
+      "link": "https://www.statnews.com/2026/07/22/maui-wildfire-exposure-study-health-impacts-lahaina-hawaii/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-22T08:30:00.000Z"
+    },
+    {
+      "title": "You Can Now Bet on Clinical Trials Like Playoff Games, But Health Execs Say It Crosses a Line",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlOEo3RDczU2t2VnU1R0pMV0VudEZ4N1VQek5IaC1oTzRmSWhCeUdyMzE4Tl84ZkM2enZDNlhRcjNsXy1yY0E2eGlWZWIzYlN2ZUxoT0xodXVXOVA5VGlLcGp6Mi1qTXpNX3c?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-22T05:27:34.000Z"
+    },
+    {
+      "title": "STAT+: More workers hate their jobs, but keep them for the health insurance",
+      "link": "https://www.statnews.com/2026/07/22/gallup-poll-24-percent-workers-job-lock-keep-job-health-insurance/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-22T04:01:00.000Z"
+    },
+    {
+      "title": "Payer",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObWdjRF85X2hJUlRLeG00UFRwcFN5ZTJpeHZPeFhoVnAycDJMY1hzckxMMWQzYm84Ri1HcEQwcmkzQlNZRXRyUmlkNzRPQmpRZVdkWWlGRVVOdjhmcVNwMVphTzBQVk1iOFNlUHN3S1p6Y0Y1SHVGLVNjaXR4blpXWXhaOGxQbTY3dlRPeDNRczhCTm5yMHBpNWFCTUtRRG5YSnpseTJuWDkxYmJZS3czZzBvb1BMUzZpV1haNmoyaDJ2dFJVRXVQQUQ1S1R2Rm82QkNlUktyc1FfY2c?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-21T23:44:20.000Z"
+    },
+    {
+      "title": "Kalshi Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5welJRX1pXRFZ6OGFQM2lVb2ptazVITlZ3eWw1R2Z0cXFQSkxIaUwtVkVGRVB1b3A4c0VBZ1hoMVNYbTZELUg0YWgwZw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-21T23:38:41.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON05RQ0JfRVc2RHhVUUN1S2lXam9hWFl6ZEtyNGdYVHAweGlGLUMzNlNZbjNXaHEzMGR4ZUtsb3VZVmJBWXFIZTR6bWFHLUFaV2Vkc0hQMmhsbDVITjRzUjlKTGVaalJMS3lZcGtIc2xRVWh1Q1hkMkU4cF9QREdablB0Q3FzWEU4YWd4eVhEV1BZY2htNDdhdUlQSDROZ20xT21CZUJKOEJKSmJKc0xtZ0xmZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-21T22:54:01.000Z"
+    },
+    {
+      "title": "New Bill Seeks to Create Public Option on ACA Marketplaces",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONXFzSm9Wcl9XRDN1R0FwSE1pSVRpRTg2VS1jM2p0M3Ywbm9jRFcwV1p5NVdZMVIxQmVXWHQyUzFxZjR5NGdELXBqcHRUcGJfZzZYZGt0S195QzNYdEQ3bFpseGdpT0FXZ1dzMUJCWXdyZTZLVjFLSFhDV245cXRhTXZaN3BpMkFpc2RQZlFlU29xLTgzRmc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-21T22:18:56.000Z"
+    },
+    {
+      "title": "tebapivat Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mNER6bldMeFdqa1J2ckprQ215S1E3dU9nODk0dXdFbDllM1Q0OUVxY1AyYnFDRExraGRQOWpMLWJUZHp2a3RwMDZRTThoQVk?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-21T21:24:21.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGpmbnY5b1NBU0NieGNJZ25FSkxrSHl0akVxRld3b2tEU09vWWZwS2hiaGhiNzhDUFJkOWMyYTZubnZROUE0cUR4dE5yNzJNS09ONU5pbkRlWi1fM0ZYTk45UW9IX3JRMGtSdEZlRXZtb2g0VlUyN2ZWMXJnbU5TRzlMU1QzNUVvaWNaa0FhM1doYnRx?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-21T20:19:52.000Z"
+    },
+    {
+      "title": "7 Best Practices for Healthcare Website Search and UX",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRHBLRTJFcS1wdVNIREwxM0VRTTBYUy1HNDNyNzFqX3djQWhkYUw0RkZXUjRmVDVRa2pJdUN4enU2aVdTZy1vSlpXM2N3eHhQdjFZX2tqU0p2bTl5MzlTUmxZcE1PR2FJUUZzcHI4elNFbHVNcU5QeHBmc1JKdE5QS04zNlVfS0s3WmUtSXZqRFN6bmlLbWc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-21T19:43:24.000Z"
+    }
+  ]
+}
