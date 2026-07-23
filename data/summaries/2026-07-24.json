@@ -1,0 +1,238 @@
+{
+  "date": "2026-07-24",
+  "generatedAt": "2026-07-23T22:08:05.326Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 37,
+  "sources": {
+    "Healthcare IT News": 5,
+    "MobiHealthNews": 6,
+    "STAT News": 20,
+    "MedCity News": 6
+  },
+  "summary": "Today's health-tech news highlights three major themes reshaping healthcare delivery and policy. Ambient AI and clinical scribing technologies are gaining traction in hospitals nationwide, with Maine General and rural providers using these tools to improve efficiency, while the FDA is actively developing standards for clinical AI implementation. Regulatory and political currents are shifting around controversial treatments and oversight: an FDA advisory panel narrowly voted to allow compounding pharmacies to produce unapproved peptides like BPC-157 and KPV—a win for RFK Jr.—while separately, advocacy groups are pushing the FDA to ban direct-to-consumer prescription drug advertising, and a Senate nominee to run ASPR faces delays due to vaccine safety concerns. Finally, Congress is advancing several health care bills before August recess, with price transparency and prior authorization reforms topping the agenda, while unrelated developments include a new cyclospora outbreak investigation, supply issues with Lantus Solostar insulin, and mixed cardiovascular data on Eli Lilly's obesity drug retatrutide in heart disease patients.",
+  "items": [
+    {
+      "title": "Ambient AI helps rural hospitals do more with less",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ0FJTDY2SExONWFlNEk4YjJtT3p0LVk2VGZXWkxyRWt0SDA4S20xaVBmN2pXdWxWUWRWcXBmMGRHSm1xTXNMSnc5VVhoQ0pLUHhCd3htNmwwY2Nja0MyR3p6cUxUeTY5b0dzZWpmZ005U0lEY3hxdVZVbENhVW92UG82TEIxOE04MjZJVnBrOVg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-23T21:12:15.000Z"
+    },
+    {
+      "title": "MaineGeneral Health’s blueprint for AI scribe success",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQXhKSlE5eG5FbV9KZnMtdm90ckg1RVVaWFZFalNHOWV0UmpKMFhBaVRHNGpJbFlEekZMb3NrbUFka0lQZlVIWi1Ta1dramNUWExMRWgyMDVUT3F1TG9GWWp6Q1VXcEIzS2lTaER5Y29JdUUtb1c5Tk5DTk9VMlVuc01tNTRWYW9SRjhFbDI4Q0xMaUp4?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-23T21:05:28.000Z"
+    },
+    {
+      "title": "Science Corp launches vision-restoring PRIMA implant in Europe",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdWxXdHFtWGpJNC1DbjkzZm5kTVBMcUVSbzkzeDg5MUR0QUU2bHN1VHJVN2ZneVNSdU1FXzgyYWxNOS1sNWxtcFpDOUZTUGRoN3ZQU3VmZWg2bmcxUm1pMUR5UkFJUFBqVG82UHppcVdGb1BJdjY1bktmdnR6RVlDUHpTMU1oTktsaEluLXhNamJIRWVLU3B2OUh6MA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-23T20:26:23.000Z"
+    },
+    {
+      "title": "STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides",
+      "link": "https://www.statnews.com/2026/07/23/fda-panel-okays-peptides-compound-pharmacies-bpc-157-kpv/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T20:08:56.000Z"
+    },
+    {
+      "title": "Teledoc launches AI-driven platform for 'new era of connected care'",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUnoyWExXYnFHakc3V1ZaRDRvZUhDaVJ1Yll0amp3d0RHa2ZJWkZpcUl0MVB4SGQ4bGZNSFpVR2tVNnNIaXNtY1JJVkprMFJXd0lVMVF3alg1T1lyeFpfMlNzV2JrQXZRNERKbDFDVlZLWHZoWkh1b09vOWYxVmZNaW03Z0g1N2VXMjBJUHdOcWRVRmdXTVRVT1hKWVk?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-23T18:52:15.000Z"
+    },
+    {
+      "title": "Suki extends partnership with Austin Regional Clinic",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaEQ5S0xCSVRjcmpTSnk3QXRfa2ZlWlBwR3BDZlR5clNaZjZxdHF4RzB6elRnWnM3RzlZVkd1ZnRic0pmOVl4ZExLQVFuN1k1eDVMNkZJWVpFMDVMMUVGaDZJeFRibDZMSi1yVFM5cWkxTWNDOGIzZWZBZ1o0QzMwQUpXblhPREp1UzRB?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-23T18:29:34.000Z"
+    },
+    {
+      "title": "U.S. health officials are investigating a new outbreak of a diarrhea-causing parasite",
+      "link": "https://www.statnews.com/2026/07/23/cyclospora-second-outbreak-reported-fda-cites-72-new-cases/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T17:25:03.000Z"
+    },
+    {
+      "title": "Assured Health Secures $19M to Get Providers In-Network Faster with Agentic AI",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NR2ZVYkloWl9acGNZdzI3RUFLZk9mUVEtTDJ6QXc0dk1VUVdzLUFEMHVTdkNnUzJxY28xY3pET05HNF9XWGIwckNYc2lxYUJRajhUUXlKOFZyOGtuUXRzTXhLRk5jUXhCZ1RiUG5iQ2d3ZXN1V3dteFVNNzg?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-23T16:43:10.000Z"
+    },
+    {
+      "title": "STAT+: European regulators take steps to bolster clinical trial transparency",
+      "link": "https://www.statnews.com/pharmalot/2026/07/23/european-medicines-agency-bolster-clinical-trials-transparency/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T16:33:02.000Z"
+    },
+    {
+      "title": "STAT+: Popular insulin product enters shortage as other pens leave market",
+      "link": "https://www.statnews.com/2026/07/23/sanofi-insulin-lantus-solostar-pen-reported-short-supply/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T16:23:21.000Z"
+    },
+    {
+      "title": "Senate health panel delays vote on CDC nominee",
+      "link": "https://www.statnews.com/2026/07/23/erica-schwartz-cdc-director-vote-delayed/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T16:18:52.000Z"
+    },
+    {
+      "title": "How Sentara Health built an enterprise AI literacy program",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUTlac0FPUTBHM2pmVG82a2kxaGNFenYwZGtJNXY2ZjdEZnpTV1NKRE9JZ0YzZGVNQzFwaWhSX2V3aG1pOXpDZVE1cE03cW5ZeFIxQUpCRkROcmlwcmlnd0ZxR2ptLXk0OEswdHg4SHpwUHdQcjRwU0F3NjA2OEJKd2hZZldPRDdWT21aZEh1dFVXTjJYcVpvNA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-23T15:48:16.000Z"
+    },
+    {
+      "title": "STAT+: What’s in the last-minute flurry of health care bills?",
+      "link": "https://www.statnews.com/2026/07/23/health-policy-news-today-dc-diagnosis-newsletter-john-wilkerson-3/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T15:26:27.000Z"
+    },
+    {
+      "title": "Teal Health, UC Davis launch at-home cervical screening pilot",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc0ZUcnBkaWxZWGRSM05RT0d2Zng4SFljV0lYSE8tOVluZ29YZ3Q2bWVDakJCektITUhhaWFIWVItTVIwb1JOYTBoYmhaZ2ZjYnJUR2tLTm5FWWJnQUFSRzAybS1rd3dyNXJ4WVp3NkppQUthd3lpbWl0M3A0QS1YQUg0cDhlSVVqU1Y2QlN3VjV4ZHFybmhxVw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-23T15:00:00.000Z"
+    },
+    {
+      "title": "FDA panel confronting peptide controversy",
+      "link": "https://www.statnews.com/2026/07/23/health-policy-news-today-dc-diagnosis-newsletter-john-wilkerson-2/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T14:58:41.000Z"
+    },
+    {
+      "title": "A father’s mission to save his daughter, and allegations on telehealth GLP-1 prescribing",
+      "link": "https://www.statnews.com/2026/07/23/readout-loud-podcast-matt-wilsey-rare-disease-lifemd-novo-nordisk-eli-lilly/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T14:45:52.000Z"
+    },
+    {
+      "title": "STAT+: Vote on key federal health nominee delayed amid questions over vaccine views",
+      "link": "https://www.statnews.com/2026/07/23/sean-kaufman-aspr-nomination-confirmation-vote-postponed-senate-committee/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T14:03:04.000Z"
+    },
+    {
+      "title": "Four Ways Health Systems Should Plan for the Next Wave of Breakthrough Therapies",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcE1Qa3dQaGZ3T0luOWNOSzZNLURKQ1RDV21JZE91bFF5aElKOVVKdVRqZnBNMVJVMjZBVEhiMmhuUkhlY2hpMGx5eUJhMVJKandHU1lsQ2dDS3lFMGNfTlNxNWhna1VuWDUwa1Nub1N0a0hCNU03d0FLYm1xOXZEWFpzVVY2eWRTWGFYQVVidTRmamhLQTFMNldMY3JFTkRpUG9KWWFrbF9HbEN5eFFtbW93SQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-23T13:59:09.000Z"
+    },
+    {
+      "title": "STAT+: Trump administration quietly picks Timothy Westlake to lead mental health agency",
+      "link": "https://www.statnews.com/2026/07/23/trump-nominates-timothy-westlake-samhsa/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T13:55:51.000Z"
+    },
+    {
+      "title": "Cross-training optimizes Duke's virtual nursing care",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVg5ZWZXTF9ITTNoUjNESTZMemZTbUlpcnBIWlVabUN4QzdvSVZBd1pHbnlIenJvQWRoc1JCOW1YQW5XSG83eC02dWJ6ZEpSU1JmcmVOb3RIcm9IRG4tRTZ0ODI3eWRydnpZRTg1TzhZaFMwWlA4WkRoQUlPQlZxRE5HVDRMVEI4NXZNVHprUlVxZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-23T13:46:43.000Z"
+    },
+    {
+      "title": "Rethinking How Hospitals Measure Behavioral Health Success",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSENUbk42cGk3dDdpcmVYV0hLY1RKaW5ydHpUSVFkRmJQYzJKekFocWdueUxqc3RsNzUtbmNGeF9tRFBURlZqcHJ0b3JBOVI1ZFZ2RFNUNVpGNDl1UFhJeDhuRUdpUXdnNHlBbS11SFl2dmhVdm40OEk4dm4yZHpWRmZJNnEtSllhSFlDYW1CZzlHYU9CbHc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-23T13:41:54.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Lilly obesity drug data, a push for FDA to ban DTC ads, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/07/23/lilly-obesity-drug-data-fda-asked-to-ban-dtc-ads/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T13:21:05.000Z"
+    },
+    {
+      "title": "Duke ties AI investments to enterprise priorities",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWUhGMEFUM1dzMlB1M3Rxa0l3eFUxdGMtY0ZfV202LVE4ZEhrVUpIaUNhVXNfMlRSSDBMblBuYS1sUnhYNHBDQm1aY0JDbGw5WG45emNWalVocmEtTUhoTVZEQ19UamY3XzRIbE1kVXVRYW5YYkdIalRYalUydTZxdWswLVVjQVVkcmR1ZnNB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-23T13:21:00.000Z"
+    },
+    {
+      "title": "STAT+: HHS to convene experts on standards for clinical AI",
+      "link": "https://www.statnews.com/2026/07/23/hhs-convenes-experts-on-clinical-ai-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T13:06:12.000Z"
+    },
+    {
+      "title": "STAT+: FDA is urged by advocacy group to ban DTC prescription drug ads",
+      "link": "https://www.statnews.com/pharmalot/2026/07/23/fda-urged-by-advocacy-group-to-ban-dtc-prescription-drug-ads/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T13:00:00.000Z"
+    },
+    {
+      "title": "Expect a clash at today’s FDA peptide panel",
+      "link": "https://www.statnews.com/2026/07/23/health-news-expect-a-clash-at-today-fda-peptide-panel/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T11:34:25.000Z"
+    },
+    {
+      "title": "STAT+: New data on Eli Lilly’s ‘triple-G’ drug leave open questions on heart benefit",
+      "link": "https://www.statnews.com/2026/07/23/new-data-on-eli-lilly-triple-g-drug-retatrutide-leave-open-questions-on-heart-benefit/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T10:45:00.000Z"
+    },
+    {
+      "title": "Filing of bipartisan Senate bill boosts momentum for office of men’s health",
+      "link": "https://www.statnews.com/2026/07/23/federal-office-mens-health-bipartisan-bill-filed-momentum-grows/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T10:00:00.000Z"
+    },
+    {
+      "title": "STAT+: FDA staff and peptide enthusiasts set to clash at advisory panel",
+      "link": "https://www.statnews.com/2026/07/23/fda-advisory-panel-peptide-safety-compounding-pharmacies/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Good riddance to bundled ‘global’ maternal care billing",
+      "link": "https://www.statnews.com/2026/07/23/global-maternity-care-billing-acog-explains/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: New billing codes likely to raise maternity care costs",
+      "link": "https://www.statnews.com/2026/07/23/global-billing-maternity-care-mistake/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Trump promised redemption for troops who refused Covid shots. A year later, many are still waiting",
+      "link": "https://www.statnews.com/2026/07/23/veterans-face-long-covid-vaccine-reinstatement-process/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-23T08:30:00.000Z"
+    },
+    {
+      "title": "Assured Health Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90aW1GLTVTLW9aX3pQNVZsbGJGS3FlTnpHMzdhMlY4VnZsb2w3Skk3bnl5SWJ1TmN6WnRZdmtFWXhNY1FUcjNLM1I4cWdtQVpDM2lkWnZB?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-23T08:03:44.000Z"
+    },
+    {
+      "title": "$10B M&A Deal Pays Off With GSK’s First Lung Cancer Drug Approval",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTJtejdHYXJLUE40UG9MVFRDNE5FT3htc3FFTHpjOEg3d1RYQjI0MU9JWDhuX0NrWGQwbm9zY0JHdmJvV1NiT2ZaZEFnRDI3R1B4YVJkeW5fc0lNbW8ycVd0ZUhMVndtdmxFdlIwdFFOanJXNXhQSzRHVktnaE1ScTNORXc5QmFuOFRGeUpUWFB5Q1JEQWxxa0lB?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-22T22:53:02.000Z"
+    },
+    {
+      "title": "Personalis",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GMS1Ha1JVU2R4WE5lMU1SM04zVnNnYlIteV95YmZkaGhrOF9XRGRUTkV4STNJZ2d0Nnl4UzBsdXhGVGlrQkNBdXpJbzFMOFdJaVR5QTczT1NMdFhkTDdUYUU3SUE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-22T22:38:36.000Z"
+    },
+    {
+      "title": "Prosper Health Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSME9Ud1VNaS1DOGU0TzI5dHI1dk5DUG93U1dGZzV3azhPREZfU3lRS3dKaDZHdmY3TnR1SFRsNWZYNHhlLWxrU28wR1pDMVRjWXU0QmF3?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-22T20:29:15.000Z"
+    },
+    {
+      "title": "primary care app",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82RFJLWFhTUUJ0MEpyQ1BLaHdVM3FoeWlLUlZndV80UnhHRVhjOHhpTXBNbXlVUWtwX3JBeUZpQnFIdFo1OVVBVGZ0T1p4aHhzVDh5eW5VcFlMOVF5RFYxLW05SWVwVlYwR1NNVE5lQy1hTkVPZ0E?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-22T03:31:42.000Z"
+    }
+  ]
+}
