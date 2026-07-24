@@ -1,0 +1,352 @@
+{
+  "date": "2026-07-25",
+  "generatedAt": "2026-07-24T22:09:08.363Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 56,
+  "sources": {
+    "STAT News": 12,
+    "MobiHealthNews": 8,
+    "MedCity News": 30,
+    "Healthcare IT News": 6
+  },
+  "summary": "Today's health-tech news highlights several emerging tensions and opportunities across the sector. The measles outbreak has surpassed 2025's full-year total with five months remaining, underscoring ongoing vaccine coverage challenges, while separate cyclospora parasite outbreaks raise fresh food safety concerns. On the regulatory front, an FDA advisory panel narrowly approved peptide compounding for three compounds while rejecting one, a win for proponents including Robert F. Kennedy Jr., while broader questions persist about oversight—from federal AI governance to ethical issues raised by a fatal gene-editing trial in China and regulatory gaps among medical AI developers in Asia and the UK. The investment landscape is shifting markedly, with healthcare AI now generating projected returns as high as 100x through new revenue streams rather than cost-cutting alone, evidenced by deals like Tempus AI's $1.5 billion acquisition of Personalis and Priority Health's cancer detection partnership with Color Health and Grail launching in 2027. However, this rapid AI deployment is creating risks: hospitals face dual-use threats as the same technology improving care enables cyberattacks, prediction markets on clinical trials and FDA approvals are drawing ethics warnings about insider trading, and payment models remain poorly aligned to clinical AI's actual value. Meanwhile, operational challenges persist, from pharmaceutical supply chain vulnerabilities to reimbursement accuracy blind spots and fragmented women's healthcare costs, all pointing to systemic issues that technology alone cannot resolve.",
+  "items": [
+    {
+      "title": "Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak",
+      "link": "https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-24T19:54:09.000Z"
+    },
+    {
+      "title": "TidalSense raises $19M to improve COPD diagnostics",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWi13LUhZc3FZUjVtZU5WcHpWN3c0allXVUFzSDJoUW5jeDlnMVB6bjlRZ0hkTFNaeGthcmdZYWJHZkwzT3RGNzlYcEFyMmNROXhHY0NMTHlGODFvYWdfN2lGYVN6c3ppUlQyMFkteWZhMHJyUlBLQlNXV2RZd3ZscTBpblFYY2c5TFE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-24T19:06:31.000Z"
+    },
+    {
+      "title": "FDA advisory panel narrowly rejects compounding of one peptide, backs two others",
+      "link": "https://www.statnews.com/2026/07/24/fda-peptide-compounding-panel-backs-epitalon-rejects-emideltide/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-24T18:41:46.000Z"
+    },
+    {
+      "title": "Priority Health Launches 2 Cancer Support Solutions with Color Health, Grail",
+      "link": "https://medcitynews.com/2026/07/priority-health-launches-2-cancer-support-solutions-with-color-health-grail/",
+      "source": "MedCity News",
+      "date": "2026-07-24T17:14:00.000Z"
+    },
+    {
+      "title": "Why Johns Hopkins is benchmarking AI agents before deployment",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOVo1TmJ2M2NrUmxXalFITWhpMVJjZEozbnNmNm9LTkZjcGpuY3pBNnhabkcwcDEyeW9VYm5rQXhCLURUNXVyQ1c3UG8yYWNQdjdsOTRyeWVVUzlIM1VBQ0kyOVFFdG9ESTNsT1dBcjBkZm9TSF9VUF9WZ0xUeFlsOURqbG1JNmtVX0NDUjl1ejdQM0U?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-24T17:06:52.000Z"
+    },
+    {
+      "title": "There are already more U.S. measles cases this year than in all of 2025",
+      "link": "https://www.statnews.com/2026/07/24/measles-cases-surpass-2025-total-national-vaccination-rate-now-below-key-threshold/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-24T16:13:00.000Z"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "link": "https://www.statnews.com/pharmalot/2026/07/24/up-and-down-the-ladder-rigel-sanofi-pharma-jobs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-24T15:57:14.000Z"
+    },
+    {
+      "title": "Novo Nordisk seeks preliminary injunction days after suing Eli Lilly",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcjl5dTdmVjdTTWdveFdMLWpmQi1VWWFIOWxHSkRNODBwZUpTWm9KcjhwUlRMMmcyTUkwQk9nT2xIb2VNbzF4NWVmWHN5eHJ6bGxyOTBnVm9iMnM0dzZFSEQzQXdoTlVKX0ZzS2VIdmlLVmZkajhHeUFKV0hteS05TGhXWHY3eWpnaU5vZi1tQzdjYWQyeHpIVDVsbTNnekxKSnZkaUhISQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-24T15:35:40.000Z"
+    },
+    {
+      "title": "AI Will Reshape the Patient Experience",
+      "link": "https://medcitynews.com/2026/07/ai-will-reshape-the-patient-experience/",
+      "source": "MedCity News",
+      "date": "2026-07-24T13:45:00.000Z"
+    },
+    {
+      "title": "STAT+: Fatal gene-editing trial in China raises ethics and oversight questions",
+      "link": "https://www.statnews.com/2026/07/24/biotech-news-fatal-gene-editing-trial-in-china-raises-ethics-questions/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-24T13:41:16.000Z"
+    },
+    {
+      "title": "Clinician advocacy can influence policymakers' AI decisions",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOblYzbVpqejhXVmhBRVNpejFLOUJPM2FYZjNxTjBobmV6c0NYX0JVYzZQRFRqVE56NXdEbk82OGVVVTNHOHVXRTVxbERrNTVMb19NZlhnMEFTbXVKZzdiQWdOVXVqZkppQnhYSGNUenl6OWRFVVE2bGhSOVZ5Q2FDRXBvblUzT1BaaV92OThjVGhZY1pFVG1xOHg4dw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-24T13:34:30.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about an FDA panel and peptides, a Merck license for an HIV pill, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/07/24/fda-panel-peptides-merck-hiv-pill-license/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-24T13:28:51.000Z"
+    },
+    {
+      "title": "Healthcare’s Next Source of Alpha Is Moving Upstream",
+      "link": "https://medcitynews.com/2026/07/healthcares-next-source-of-alpha-is-moving-upstream/",
+      "source": "MedCity News",
+      "date": "2026-07-24T13:20:25.000Z"
+    },
+    {
+      "title": "Federal oversight is essential for healthcare AI",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTno0SFRmUU96S05abjJHRkJzX1RINlFBaTRENVQ1SGVzQzFqSHhkREVCTTZYaHY4cW9Vb0JiV0tyWndlUVNULU5pMjZGRjFmZDZhblpWRVVQNjFzd2NEUlJocERSelhIQUJkNzluOGtxbWdHaDFwRUpZYVluMDhYUGNoclRNaFE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-24T12:57:00.000Z"
+    },
+    {
+      "title": "Q&A: NVIDIA on the future of healthcare AI, Part 2",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKampzTlR2ZElCSURsQ2VBcWl4UTlCNFdQbmd0R3A4WjBOaGR6ZHp6SnRraV85XzNyVHM4REpSYXkzU0ctdGVuelFjaUYxVE81eURqX3MwNC1PeUdkUThKQjJjbFljUGNUckdZdnozdVpPR3p4ZGhYaVA5OHR5UQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-24T12:00:00.000Z"
+    },
+    {
+      "title": "A new, separate outbreak of the diarrhea-causing parasite",
+      "link": "https://www.statnews.com/2026/07/24/health-news-new-separate-cyclospora-diarrhea-outbreak/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-24T11:59:27.000Z"
+    },
+    {
+      "title": "Compliance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FbGlsNTBCUVZLTjE3dkNaZXotYVNVa3dmdEc1eVRpSTI4dXNWWk1XYWh6OVIwNTc5MjVicUpnZWdHRkJUX1c3ajlveXFkU2o4ZGREaEo4YXdkcHduekpKcVBBVkd3Q1RPZ0U5cnBXTFVSRjVIZXc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-24T11:17:39.000Z"
+    },
+    {
+      "title": "STAT+: Merck strikes voluntary licensing deals in poor countries for an experimental HIV prevention pill",
+      "link": "https://www.statnews.com/pharmalot/2026/07/24/merck-experimental-hiv-prevention-pill-licensing-deals/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-24T10:45:00.000Z"
+    },
+    {
+      "title": "Many medical AI developers in Asia, UK lack regulation awareness: study",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNREpEMnFia0h1ZktESmJPZzM1cnhFV1hOWFNYSjhUVGk0cEl0LXFMYlJNZGh3YlVWTzhFWTlVeFJ3V21FM1QzcVRwbDkyejFaOHJ1d1QwN1E3bzN1U1h4cm8tOUlSS2t6Zjg3eVFpeXA1N0lqSGVRZ3lVejFmZnBKYUhZOWZLMWRkQmFvdVZiVlZNYUFkNTVmSmwxQ0s2cElTWm1YYUZicjRLaXc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-24T08:57:31.000Z"
+    },
+    {
+      "title": "STAT+: White House offers its science blueprint: More AI, less life sciences",
+      "link": "https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-24T08:30:00.000Z"
+    },
+    {
+      "title": "Senate advances MAHA-friendly bill for food warning labels and junk food ad bans",
+      "link": "https://www.statnews.com/2026/07/24/ultraprocessed-food-warning-label-bill-clears-senate-committee-bipartisan-vote/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-24T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: The U.S. pharmaceutical supply chain problem is not about China",
+      "link": "https://www.statnews.com/2026/07/24/pharmaceutical-supply-chain-resilience-china/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-24T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: I may be one of the last middle-class medical students who could afford to become a doctor",
+      "link": "https://www.statnews.com/2026/07/24/medical-school-federal-student-loan-changes/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-24T08:30:00.000Z"
+    },
+    {
+      "title": "National University Hospital adds smartwatches to inpatient checks",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUHdyWVRmb0o2UEdaZ3hOcm43ejNCbkllb0RtNmpoU0NKcG94c0lqRmROOFhtUU44N0lSbmZfX0Z2bmM5cElTMFM0djU1OUpfLXA5ajgyOThSVjhoa1FZVkpuc2NmTW9sd2lfby1YaHlIVll5MHNEbmliM3BpQU4yd044ZVN0RUlWZTRSeDd3OUg2QlM4OS1sWG9vcW04b0ItbHFNTkJnN2dOdw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-24T08:01:00.000Z"
+    },
+    {
+      "title": "AI use in APAC healthcare rises, but support lags: report",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjMwV3NqUkpJMENkNF9ERHAzdHE2YUJZR1MwSnVGR0pVQXJ2MTRiLUZlNlJfdlJ3U1U4RElDZ3JEa2hJdXR1SUJrMl9TQUZkNkhDdU1ZdFBKaFYwSHJyZWNtWWp4bjVNYnR1RzRqSzhpbFJCd3NIOW01TERTUl93am9VTUdqMGhfV0NLaW8wSE94Mmt5cVE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-24T07:22:23.000Z"
+    },
+    {
+      "title": "CRISPR Biotech Scribe Therapeutics Writes a New Chapter With $129M IPO",
+      "link": "https://medcitynews.com/2026/07/scribe-therapeutics-ipo-crispr-genetic-medicine-pcsk9-ascvd-sctx/",
+      "source": "MedCity News",
+      "date": "2026-07-24T06:30:54.000Z"
+    },
+    {
+      "title": "Healthcare Investors Are Rewriting the ROI Playbook from Cost-Cutting to Cash Flow",
+      "link": "https://medcitynews.com/2026/07/healthcare-investors-medcity-ai/",
+      "source": "MedCity News",
+      "date": "2026-07-24T04:46:02.000Z"
+    },
+    {
+      "title": "Who Broke the Healthcare System?",
+      "link": "https://medcitynews.com/2026/07/who-broke-the-healthcare-system/",
+      "source": "MedCity News",
+      "date": "2026-07-23T23:01:56.000Z"
+    },
+    {
+      "title": "Complete Ambient AI RFP Template",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJTFBIQmVpX3E4Ukl0cDNXN1BKcXR6RkVYeEEyMFRiUWVoSXJaOTk5RFkzQlg5T1RrN0RsT0hKeUQzVm1nOWR2NnRqLUZEak9hVFR2dks3clE5eEF0RkxBdldnYXhBVkhLaXB5aU1vNnZHV2dmQk5xcnRSQnVGN1E?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-23T21:10:13.000Z"
+    },
+    {
+      "title": "Teladoc launches AI-driven platform for 'new era of connected care'",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1dPYUVublBtdnJtWm5XTmNmYThITHZlaWFkVFExWGVOekdZRHFhYkhmbnpEU2lXM1E1N2NfSGNNMVRsbFJhd1dhbXk4SEFlcF9wRHd5SjdvVlNTMzJ1Vk84YWViQU9CMlZkb1IwS0pyeWFxSUExUEllUXU0WVlTeFJZSmxHMk9yeWtTeHczd2d1b1NoVFpJSXZFYlc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-23T18:52:15.000Z"
+    },
+    {
+      "title": "Rethinking How Hospitals Measure Behavioral Health Success",
+      "link": "https://medcitynews.com/2026/07/rethinking-how-hospitals-measure-behavioral-health-success/",
+      "source": "MedCity News",
+      "date": "2026-07-23T13:24:00.000Z"
+    },
+    {
+      "title": "Four Ways Health Systems Should Plan for the Next Wave of Breakthrough Therapies",
+      "link": "https://medcitynews.com/2026/07/four-ways-health-systems-should-plan-for-the-next-wave-of-breakthrough-therapies/",
+      "source": "MedCity News",
+      "date": "2026-07-23T13:02:00.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNDBiVXVUeWJHOExyU0l6OUxiUHJtSUhHcGNBVkhidmZ2U2RPcWZ6X3NrdDBKZHZKTlNmbDA1Q21wRG5TNTV1cHpXZ3V1eGExb1F0X0Q5cmluZnRyeXAybXJQaWZzeV9rYjM2aFE5Z0N1Y1FrRXBLWlY1VENPcktmaEVrNE16eE1Od3F2Uks0Z1RzUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-23T11:00:46.000Z"
+    },
+    {
+      "title": "Assured Health Secures $19M to Get Providers In-Network Faster with Agentic AI",
+      "link": "https://medcitynews.com/2026/07/assured-health-healthcare-credentialing/",
+      "source": "MedCity News",
+      "date": "2026-07-23T05:02:11.000Z"
+    },
+    {
+      "title": "$10B M&A Deal Pays Off With GSK’s First Lung Cancer Drug Approval",
+      "link": "https://medcitynews.com/2026/07/gsk-lung-cancer-fda-approval-nsclc-zidesamtinib-jideytro-ros1/",
+      "source": "MedCity News",
+      "date": "2026-07-22T22:51:14.000Z"
+    },
+    {
+      "title": "Headspace Teams Up with 4 Companies for Specialty Care",
+      "link": "https://medcitynews.com/2026/07/headspace-teams-up-with-4-companies-for-specialty-care/",
+      "source": "MedCity News",
+      "date": "2026-07-22T20:21:59.000Z"
+    },
+    {
+      "title": "Hidden in Plain Sight: The Cost Crisis in Women’s Healthcare",
+      "link": "https://medcitynews.com/2026/07/hidden-in-plain-sight-the-cost-crisis-in-womens-healthcare/",
+      "source": "MedCity News",
+      "date": "2026-07-22T14:19:00.000Z"
+    },
+    {
+      "title": "What Healthcare Organizations Miss When It Comes to Reimbursement Accuracy",
+      "link": "https://medcitynews.com/2026/07/what-healthcare-organizations-miss-when-it-comes-to-reimbursement-accuracy/",
+      "source": "MedCity News",
+      "date": "2026-07-22T13:17:00.000Z"
+    },
+    {
+      "title": "Better Prescribing, Not Less Prescribing, Is What Behavioral Health Needs",
+      "link": "https://medcitynews.com/2026/07/better-prescribing-not-less-prescribing-is-what-behavioral-health-needs/",
+      "source": "MedCity News",
+      "date": "2026-07-22T13:11:00.000Z"
+    },
+    {
+      "title": "Corner Health",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82Wm9sN3BLSmZ5dmEyS2VORUoyNW9ZdzQzaGpOdkdHRHRad1V1RWhTbm5uZENvbHQ3VjFJRzdFRE84eURPRkJQenAyWEEyMll0N0VwSjFmVG51VFRV?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-22T09:10:26.000Z"
+    },
+    {
+      "title": "You Can Now Bet on Clinical Trials Like Playoff Games, But Health Execs Say It Crosses a Line",
+      "link": "https://medcitynews.com/2026/07/bet-clinical-trial-pharma/",
+      "source": "MedCity News",
+      "date": "2026-07-21T23:34:21.000Z"
+    },
+    {
+      "title": "New Bill Seeks to Create Public Option on ACA Marketplaces",
+      "link": "https://medcitynews.com/2026/07/new-bill-seeks-to-create-public-option-on-aca-marketplaces/",
+      "source": "MedCity News",
+      "date": "2026-07-21T22:18:07.000Z"
+    },
+    {
+      "title": "Agios Pharma Drops Sickle Cell Disease Drug After Phase 2 Data Disappoint",
+      "link": "https://medcitynews.com/2026/07/agios-sickle-cell-disease-tebapivat-pk-activator-agio/",
+      "source": "MedCity News",
+      "date": "2026-07-21T20:16:12.000Z"
+    },
+    {
+      "title": "How Diagnostic Precision in Allergy Care Supports Mental Well-Being",
+      "link": "https://medcitynews.com/2026/07/how-diagnostic-precision-in-allergy-care-supports-mental-well-being/",
+      "source": "MedCity News",
+      "date": "2026-07-21T13:59:00.000Z"
+    },
+    {
+      "title": "Why Pharma Companies Should Look To Social Media For Better Patient Insight",
+      "link": "https://medcitynews.com/2026/07/why-pharma-companies-should-look-to-social-media-for-better-patient-insight/",
+      "source": "MedCity News",
+      "date": "2026-07-21T13:30:00.000Z"
+    },
+    {
+      "title": "Where Will AI Deployment Benefit Payers the Most?",
+      "link": "https://medcitynews.com/2026/07/where-will-ai-deployment-benefit-payers-the-most/",
+      "source": "MedCity News",
+      "date": "2026-07-21T11:30:00.000Z"
+    },
+    {
+      "title": "The Same AI That Helps Patients Is Being Used to Attack Them, Hospital Exec Says",
+      "link": "https://medcitynews.com/2026/07/ai-cybersecurity-hospital/",
+      "source": "MedCity News",
+      "date": "2026-07-20T23:19:19.000Z"
+    },
+    {
+      "title": "How Should Clinical AI Be Paid For? 3 Takeaways",
+      "link": "https://medcitynews.com/2026/07/how-should-clinical-ai-be-paid-for-3-takeaways/",
+      "source": "MedCity News",
+      "date": "2026-07-20T22:26:58.000Z"
+    },
+    {
+      "title": "Expecting Massive Test Growth in Cancer & More, Tempus AI Strikes $1.5B Deal to Buy Personalis",
+      "link": "https://medcitynews.com/2026/07/tempus-ai-personalis-acquisition-cancer-mrd-diagnostics-detection-tem-psnl/",
+      "source": "MedCity News",
+      "date": "2026-07-20T21:25:27.000Z"
+    },
+    {
+      "title": "The AI Tension in Healthcare: Patent Strategy, FDA Reality, and HIPAA Constraints",
+      "link": "https://medcitynews.com/2026/07/the-ai-tension-in-healthcare-patent-strategy-fda-reality-and-hipaa-constraints/",
+      "source": "MedCity News",
+      "date": "2026-07-20T13:43:00.000Z"
+    },
+    {
+      "title": "For Millions in Rural America, Medicine Is Still Far Away",
+      "link": "https://medcitynews.com/2026/07/for-millions-in-rural-america-medicine-is-still-far-away/",
+      "source": "MedCity News",
+      "date": "2026-07-20T13:38:51.000Z"
+    },
+    {
+      "title": "Women’s Oncology Market Could Reach $110B in 2030, but Gaps Remain",
+      "link": "https://medcitynews.com/2026/07/womens-oncology-market-could-reach-110b-in-2030-but-gaps-remain/",
+      "source": "MedCity News",
+      "date": "2026-07-20T02:18:18.000Z"
+    },
+    {
+      "title": "Merck Pill Becomes First Oral Option in Growing Class of Cholesterol-Lowering Drugs",
+      "link": "https://medcitynews.com/2026/07/merck-ldl-cholesterol-lipfendra-enlicitide-macrocyclic-peptide-pcsk9-inhibitor-mrk/",
+      "source": "MedCity News",
+      "date": "2026-07-19T17:15:34.000Z"
+    },
+    {
+      "title": "Hybrid Financing in Life Sciences: Unlocking Growth Amid Market Challenges",
+      "link": "https://medcitynews.com/2026/07/hybrid-financing-in-life-sciences-unlocking-growth-amid-market-challenges/",
+      "source": "MedCity News",
+      "date": "2026-07-19T13:29:00.000Z"
+    },
+    {
+      "title": "Are We Entering an Interoperability Trust Recession?",
+      "link": "https://medcitynews.com/2026/07/are-we-entering-an-interoperability-trust-recession/",
+      "source": "MedCity News",
+      "date": "2026-07-19T13:01:00.000Z"
+    },
+    {
+      "title": "Juno Bio Raises $3.8M to Support Vaginal Health",
+      "link": "https://medcitynews.com/2026/07/juno-bio-raises-3-8m-to-support-vaginal-health/",
+      "source": "MedCity News",
+      "date": "2026-07-17T21:27:31.000Z"
+    }
+  ]
+}
