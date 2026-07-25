@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-26",
+  "generatedAt": "2026-07-25T21:59:50.627Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 7,
+  "sources": {
+    "MobiHealthNews": 4,
+    "MedCity News": 2,
+    "Healthcare IT News": 1
+  },
+  "summary": "Today's health-tech news highlights several converging trends reshaping the industry. Drug pricing and accessibility remain under pressure despite overall spending growth, with industry leaders calling for greater transparency in the prescription marketplace to ensure patients can actually access needed medications. On the investment side, health-tech founders are finding success not by presenting complete solutions but by demonstrating self-awareness about their knowledge gaps and assembling complementary teams—a shift that investors see as a marker of sustainable leadership. Meanwhile, artificial intelligence continues advancing across multiple care domains, from administrative burden reduction through automation to personalized genomics and provider operations, with DaVita's kidney care initiative exemplifying how connected data infrastructure enables AI to drive clinical outcomes.",
+  "items": [
+    {
+      "title": "artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0RXR3hxTE5Ed0ZOYm00VGprcDlEQ05URlY2Uk52REpwcW5Sa2ZUVE5yaWtmRV9TcnhTMzlkQWlscjlWYl9GM1ZTLUlkdE8zM0FSNkJLbkh3Y3dxVXVPeEpDNklseVF2ZWxweUFlWjFwSlhselE5QllwcFZDMWdzbA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-25T10:02:34.000Z"
+    },
+    {
+      "title": "A Prescription for Drug Costs: Inject Transparency and Improve Accessibility",
+      "link": "https://medcitynews.com/2026/07/a-prescription-for-drug-costs-inject-transparency-and-improve-accessibility/",
+      "source": "MedCity News",
+      "date": "2026-07-25T06:09:49.000Z"
+    },
+    {
+      "title": "What Health Tech Investors Love in Founders — and What They Can’t Stand",
+      "link": "https://medcitynews.com/2026/07/health-tech-investors/",
+      "source": "MedCity News",
+      "date": "2026-07-25T00:07:43.000Z"
+    },
+    {
+      "title": "HIMSSCast: AI automation and reducing administrative burdens in healthcare",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVk0cm5XekhEa3VlcUR0cXZLMS0tTkF5Qlg1VXE3SDBsVHM1dnVQcGNOZ0tCb0ppTW9KS3VUTUQwZk5rSHIzamNNZDloY3paNzczbUZFMVM4cmxWOWFJeXFnSzNydHV5VUtzX1ozdnNuZ2g3RUFOZ21IVk5mS3JSM0J3RXJlOG5DSmpvN0w5bGtyTkxKSGNPSEpvcmpTSjAtaVV4Ni1OLVRkQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-24T22:11:34.000Z"
+    },
+    {
+      "title": "Personalis",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QOW1QZkRfQWh4ZTVtSkJwYlVyalRfZnhjajQyOXduRnh3d29GRE5NZzRYN0lrNTFuSEpjbTZhcEhqUVVQdXpYRllBSHFuc3daNE1JYmJfcUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-23T10:25:23.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYXNWcHZVbk45Z1paTGhVRVU3bHJsbFlhTlEzOTBTWlJiWUVPLXJSVHI4dlBTM1NDYWIzQnVqZWdFVnZ1ZVllM0JzYUFscFItVXlKY3NrS3hBR2ZrZnZ5TG5QYVRpTk1qVVhTcXJwWHB2RUhzUmVKSW85ZUVXcEpmbEhUU1BuZXh4b3ZkSk9vbHBpRWxWWWpnTjJIN3NiVGd1TjNLR0VEUm4tQy1uNkE0N2VPcHY?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-20T20:03:25.000Z"
+    },
+    {
+      "title": "DaVita puts connected data to work for kidney care",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTNEeFlzSXZVTXBjRkFYRFVLQ1lhenpPVE1mRXlyeGd5OWJrdGNYLXE2UHFULXJ3ZjBPSlJWcXNWcnRaOF9YV1pnekhoRzM3UHdSNG5WOXhJX2FfRS1kcU1VSHZVRWRidlh6aWhqTmhFZm5zVzgtNXZrbWdYYUhxa1VyTXpaR09E?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-20T17:02:15.000Z"
+    }
+  ]
+}

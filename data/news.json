@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T22:09:02.579Z",
+  "generatedAt": "2026-07-25T21:59:47.582Z",
   "sources": [
     {
       "id": "stat",
@@ -24,6 +24,38 @@
   ],
   "count": 120,
   "items": [
+    {
+      "title": "artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0RXR3hxTE5Ed0ZOYm00VGprcDlEQ05URlY2Uk52REpwcW5Sa2ZUVE5yaWtmRV9TcnhTMzlkQWlscjlWYl9GM1ZTLUlkdE8zM0FSNkJLbkh3Y3dxVXVPeEpDNklseVF2ZWxweUFlWjFwSlhselE5QllwcFZDMWdzbA?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-25T10:02:34.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "A Prescription for Drug Costs: Inject Transparency and Improve Accessibility",
+      "link": "https://medcitynews.com/2026/07/a-prescription-for-drug-costs-inject-transparency-and-improve-accessibility/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-07-25T06:09:49.000Z",
+      "snippet": "Drug spending continues to grow, but that doesn’t mean that everyone is getting the medicines that they need. A panel at MedCity News’ Bullseye event discussed the evolution of the prescription drug marketplace. The post A Prescription for…"
+    },
+    {
+      "title": "What Health Tech Investors Love in Founders — and What They Can’t Stand",
+      "link": "https://medcitynews.com/2026/07/health-tech-investors/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-07-25T00:07:43.000Z",
+      "snippet": "Health tech investors say the founders who win them over aren’t the ones with all the answers, but the ones who know exactly what they don’t know — and build a team to cover the gap. The post What Health Tech Investors Love in Founders — an…"
+    },
+    {
+      "title": "HIMSSCast: AI automation and reducing administrative burdens in healthcare",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVk0cm5XekhEa3VlcUR0cXZLMS0tTkF5Qlg1VXE3SDBsVHM1dnVQcGNOZ0tCb0ppTW9KS3VUTUQwZk5rSHIzamNNZDloY3paNzczbUZFMVM4cmxWOWFJeXFnSzNydHV5VUtzX1ozdnNuZ2g3RUFOZ21IVk5mS3JSM0J3RXJlOG5DSmpvN0w5bGtyTkxKSGNPSEpvcmpTSjAtaVV4Ni1OLVRkQQ?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-24T22:11:34.000Z",
+      "snippet": ""
+    },
     {
       "title": "Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak",
       "link": "https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/?utm_campaign=rss",
@@ -57,14 +89,6 @@
       "snippet": "Priority Health partnered with Color Health and Grail to offer self-funded employers virtual cancer navigation, support and multi-cancer early detection beginning in 2027. The post Priority Health Launches 2 Cancer Support Solutions with Co…"
     },
     {
-      "title": "Why Johns Hopkins is benchmarking AI agents before deployment",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOVo1TmJ2M2NrUmxXalFITWhpMVJjZEozbnNmNm9LTkZjcGpuY3pBNnhabkcwcDEyeW9VYm5rQXhCLURUNXVyQ1c3UG8yYWNQdjdsOTRyeWVVUzlIM1VBQ0kyOVFFdG9ESTNsT1dBcjBkZm9TSF9VUF9WZ0xUeFlsOURqbG1JNmtVX0NDUjl1ejdQM0U?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-07-24T17:06:52.000Z",
-      "snippet": ""
-    },
-    {
       "title": "There are already more U.S. measles cases this year than in all of 2025",
       "link": "https://www.statnews.com/2026/07/24/measles-cases-surpass-2025-total-national-vaccination-rate-now-below-key-threshold/?utm_campaign=rss",
       "source": "STAT News",
@@ -86,6 +110,14 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-07-24T15:35:40.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Why Johns Hopkins is benchmarking AI agents before deployment",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOVo1TmJ2M2NrUmxXalFITWhpMVJjZEozbnNmNm9LTkZjcGpuY3pBNnhabkcwcDEyeW9VYm5rQXhCLURUNXVyQ1c3UG8yYWNQdjdsOTRyeWVVUzlIM1VBQ0kyOVFFdG9ESTNsT1dBcjBkZm9TSF9VUF9WZ0xUeFlsOURqbG1JNmtVX0NDUjl1ejdQM0U?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-07-24T15:01:35.000Z",
       "snippet": ""
     },
     {
@@ -409,11 +441,11 @@
       "snippet": "Groundbreaking new therapies have exciting potential to treat and cure diseases while minimizing burden on patients; however, they create major clinical, operational and financial implications that must be planned for years in advance. The…"
     },
     {
-      "title": "Provider",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNDBiVXVUeWJHOExyU0l6OUxiUHJtSUhHcGNBVkhidmZ2U2RPcWZ6X3NrdDBKZHZKTlNmbDA1Q21wRG5TNTV1cHpXZ3V1eGExb1F0X0Q5cmluZnRyeXAybXJQaWZzeV9rYjM2aFE5Z0N1Y1FrRXBLWlY1VENPcktmaEVrNE16eE1Od3F2Uks0Z1RzUQ?oc=5",
+      "title": "Personalis",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QOW1QZkRfQWh4ZTVtSkJwYlVyalRfZnhjajQyOXduRnh3d29GRE5NZzRYN0lrNTFuSEpjbTZhcEhqUVVQdXpYRllBSHFuc3daNE1JYmJfcUQ?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
-      "date": "2026-07-23T11:00:46.000Z",
+      "date": "2026-07-23T10:25:23.000Z",
       "snippet": ""
     },
     {
@@ -657,14 +689,6 @@
       "snippet": ""
     },
     {
-      "title": "Telemedicine's next phase demands an EHR ecosystem",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQazl6dTJGVlg3amZYaHc3eWprV3NnNF8tSE95VV9iR3hodTZNc29jZVNSRGJ2MkxSZjF4VVZBS0FjLUFKUWU3aXdqeDVsbmtramJYU3hXV3pNaURqQmlLYmZqSk40ZGQ3ajBFaFlVNGhyUXdOb1RlQnc2SWxTMjVaZVZaSGM3OTZ1cUtYaQ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-07-21T15:45:06.000Z",
-      "snippet": ""
-    },
-    {
       "title": "How Diagnostic Precision in Allergy Care Supports Mental Well-Being",
       "link": "https://medcitynews.com/2026/07/how-diagnostic-precision-in-allergy-care-supports-mental-well-being/",
       "source": "MedCity News",
@@ -687,14 +711,6 @@
       "sourceId": "medcity",
       "date": "2026-07-21T13:30:00.000Z",
       "snippet": "Healthcare decision-makers, especially at pharmaceutical companies, must prioritize patient input. Data collected from social media listening is a significant step in the right direction. The post Why Pharma Companies Should Look To Social…"
-    },
-    {
-      "title": "Doing more with AI despite limited resources",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbk03akhZUGFpUFlDMW8wY1F6WnRwdUtRcGlsV3hVb1hwYXNLd1dLVkc3Z2pxbEVPcWpxR2pCWDFmM0NiZ180a3lzM0Y4djBVaFVqa3ZBWTFVYlNLeGNRd1UteU1VbV9teW9aZWtIbTNQMmZZN04tMkMxMnNRcVdiOTA0M2E?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-07-21T13:19:00.000Z",
-      "snippet": ""
     },
     {
       "title": "Health systems building AI agents must balance trust and token budgets",
@@ -761,6 +777,14 @@
       "snippet": "Personalis’s liquid biopsy is part of a growing market for minimal residual disease assays, tests that look for any remaining cancer cells after the initial treatment. Tempus AI has been the commercial partner on this Personalis test since…"
     },
     {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYXNWcHZVbk45Z1paTGhVRVU3bHJsbFlhTlEzOTBTWlJiWUVPLXJSVHI4dlBTM1NDYWIzQnVqZWdFVnZ1ZVllM0JzYUFscFItVXlKY3NrS3hBR2ZrZnZ5TG5QYVRpTk1qVVhTcXJwWHB2RUhzUmVKSW85ZUVXcEpmbEhUU1BuZXh4b3ZkSk9vbHBpRWxWWWpnTjJIN3NiVGd1TjNLR0VEUm4tQy1uNkE0N2VPcHY?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-20T20:03:25.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Tempus AI to acquire Personalis for $1.5B",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FN2N1bEFsMVJ4bTF2VXBRRmp0d2VSSm9Hc0Fvc2dIc0NaR29VOVR5bENBM1E4V0x6WXNiLTUwRkljbW9XMDhoQU9qbGlxY0ZSNnBwQUhvUllPYUoyRTdzNVFHZkwwLWpYSUF5eDlvTENndFQ2S3B3?oc=5",
       "source": "MobiHealthNews",
@@ -774,6 +798,14 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-07-20T19:03:50.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "DaVita puts connected data to work for kidney care",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTNEeFlzSXZVTXBjRkFYRFVLQ1lhenpPVE1mRXlyeGd5OWJrdGNYLXE2UHFULXJ3ZjBPSlJWcXNWcnRaOF9YV1pnekhoRzM3UHdSNG5WOXhJX2FfRS1kcU1VSHZVRWRidlh6aWhqTmhFZm5zVzgtNXZrbWdYYUhxa1VyTXpaR09E?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-07-20T17:02:15.000Z",
       "snippet": ""
     },
     {
@@ -889,22 +921,6 @@
       "snippet": "What should life sciences investors and targets focus on for dealmaking success? Here are six actionable steps. The post Hybrid Financing in Life Sciences: Unlocking Growth Amid Market Challenges appeared first on MedCity News."
     },
     {
-      "title": "Are We Entering an Interoperability Trust Recession?",
-      "link": "https://medcitynews.com/2026/07/are-we-entering-an-interoperability-trust-recession/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-07-19T13:01:00.000Z",
-      "snippet": "Here’s what healthcare entities should know about the maturing landscape, what to actually be concerned about, and the next stage of healthcare data evolution as we know it. The post Are We Entering an Interoperability Trust Recession? appe…"
-    },
-    {
-      "title": "Juno Bio Raises $3.8M to Support Vaginal Health",
-      "link": "https://medcitynews.com/2026/07/juno-bio-raises-3-8m-to-support-vaginal-health/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-07-17T21:27:31.000Z",
-      "snippet": "Juno Bio’s funding was supported by Ada Ventures, Artesian, Entrepreneur First and Illumina Accelerator. The post Juno Bio Raises $3.8M to Support Vaginal Health appeared first on MedCity News."
-    },
-    {
       "title": "Reduce operational friction while maintaining high-quality care",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnFuR0M3QXpaWm9IN0xDWHRxelBJRHh3d2NiNDdtMUkxN09walhERHNLTFFLWlFpQlFwVGdlamNkaDVtREF5Y3FoUVo3a2pDcGdlUGRISUdkVmV5Rkk0ZzJYSWRXVmFFbXlKRUZEZ0dGWWdQUFVwRE1iOW80UnZtcGNFUUs1YUk2MEQ0VlhYSklCR3pLclBXTFRGelh6eHo1ZVpKcXJMYTg?oc=5",
       "source": "Healthcare IT News",
@@ -953,14 +969,6 @@
       "snippet": ""
     },
     {
-      "title": "Hemispheric raises $52M for AI brain foundation model",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2t2Q25XMXpJSjYwZ0U2SHIzNDhIRzhlSnlDN3UtZVZvdmRWa2dxV3RqbVdmUFFnZkhoa3ZLODFRMkhoVUNqQmE2MW8tMnMxV3RCQm1KSTdZeW1reG50eDBrdTZEa0FJVTNSd2daNHR0SUFaSzZreHMwbVJRT1RyMmt5aUtrMDAtT2R5TA?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-07-17T15:33:16.000Z",
-      "snippet": ""
-    },
-    {
       "title": "AMA convenes new SNOMED CT to CPT mapping initiative",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1B2eVF0em5YUzBIemFfZXl1UHJ3SEtEaVJEc3pYU2hrVGFTTE1RT0RGR0pRS3VrTjNhc0N5am5OTHU2SXU4MVhDV3BpSTlHY2M5dnhxenZsQURzS1NIM2dzMWZwTmJfT1V2WmpBS2JIeFZfUUNWektIMDg2TVBQLTVFT0JXY1BKNHpVbVdQcVg?oc=5",
       "source": "Healthcare IT News",
@@ -974,14 +982,6 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-07-17T14:14:18.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "CIO Spotlight: El Camino Health's Deb Muro",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQU1BcWFvcE9BZlQ5QlEwY2l1R1lHTVFRMzVNbUhENGk3RDQxYkZreGltYm9VaFo5cmxMeU9sWlNjU2JrQkZNbWdrbEVYb3I3ejdvTlg0VkFFanMxLXo1M1YzQmdyc3d6d2FWZ2VLcXBlZUpzYXNoQlNVcllwV0pwWTVsWW85Zw?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-07-17T13:45:00.000Z",
       "snippet": ""
     }
   ]
