@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T21:59:47.582Z",
+  "generatedAt": "2026-07-26T22:02:09.350Z",
   "sources": [
     {
       "id": "stat",
@@ -25,6 +25,54 @@
   "count": 120,
   "items": [
     {
+      "title": "health AI regulatory framework",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZX3lMNS1teW1pWFZxSnppRzEtZkoxZV8yZHp2SmlYdG1SbVJkS182aVlYenh1RzUtTkJWeDRRcWxCbG92ZVVIYWxjOGtCREh1Ujh4UW8wSm12Y1JNcU9vVGZSX3VYZUY2bzJzdW9yT29zb3c?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-26T14:49:37.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "medical AI regulation",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55aS1OenVfTUhjdWhvSkpyQ2pKVjFGdnlwQldFcHVnZFo1SzQwS040UWJwLUdyMHhoOTJVaUFVWm8yZG42dTUwTXhEQU5fNVA4T3pURy1CbFZ0Uk8yeW05QnptZHo4aG8?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-26T14:48:16.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Candid Health Snags $120M for AI RCM Platform",
+      "link": "https://medcitynews.com/2026/07/candid-health-snags-120m-for-ai-rcm-platform/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-07-26T14:27:00.000Z",
+      "snippet": "Candid’s Series D round was led by Sixth Street Growth, with participation from Oak HC/FT, 8VC and Y Combinator. The post Candid Health Snags $120M for AI RCM Platform appeared first on MedCity News."
+    },
+    {
+      "title": "Why Value-Based Care Only Works If You’ve Tamed Costs",
+      "link": "https://medcitynews.com/2026/07/why-value-based-care-only-works-if-youve-tamed-costs/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-07-26T13:15:00.000Z",
+      "snippet": "VBC aligns reimbursements to outcomes, emphasizing the quality and effectiveness, not quantity, of healthcare activities. But the same cost constraints driving interest in VBC can also turn it into a liability. The post Why Value-Based Care…"
+    },
+    {
+      "title": "Medicine Understands Trauma’s Impact, But Rarely Asks About It",
+      "link": "https://medcitynews.com/2026/07/medicine-understands-traumas-impact-but-rarely-asks-about-it/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-07-26T13:09:00.000Z",
+      "snippet": "A core principle of trauma-informed care is understanding that past and ongoing exposure to stress and trauma can directly shape health outcomes. But by remaining blind to these histories, the medical community severely limits its ability t…"
+    },
+    {
+      "title": "Assured",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Pc1ZmRkNNeGFYTkE1S0FyTkd0Y3A3Ym91N1BBZElKcW9XRHhOVDJxNkpiOFRZMGZhS1JwTmRSa2JlU0FSX250MDlqOUdydEpVZUtjRg?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-26T06:12:04.000Z",
+      "snippet": ""
+    },
+    {
       "title": "artificial intelligence",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0RXR3hxTE5Ed0ZOYm00VGprcDlEQ05URlY2Uk52REpwcW5Sa2ZUVE5yaWtmRV9TcnhTMzlkQWlscjlWYl9GM1ZTLUlkdE8zM0FSNkJLbkh3Y3dxVXVPeEpDNklseVF2ZWxweUFlWjFwSlhselE5QllwcFZDMWdzbA?oc=5",
       "source": "MobiHealthNews",
@@ -47,6 +95,14 @@
       "sourceId": "medcity",
       "date": "2026-07-25T00:07:43.000Z",
       "snippet": "Health tech investors say the founders who win them over aren’t the ones with all the answers, but the ones who know exactly what they don’t know — and build a team to cover the gap. The post What Health Tech Investors Love in Founders — an…"
+    },
+    {
+      "title": "Hilo",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lWW1HZ29pa3AzcEQwMU9Rc21yNUdpQ3M2eFM5SFp5MWtSTUJ4YkNIb19tekktMGpVRHYzSzNkQ20yUUdsMnd0YXVxY2ZhLTEx?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-24T23:35:00.000Z",
+      "snippet": ""
     },
     {
       "title": "HIMSSCast: AI automation and reducing administrative burdens in healthcare",
@@ -183,14 +239,6 @@
       "sourceId": "stat",
       "date": "2026-07-24T11:59:27.000Z",
       "snippet": "A win for peptide proponents, autism advisory committees clash, and more health news from Morning Rounds"
-    },
-    {
-      "title": "Compliance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FbGlsNTBCUVZLTjE3dkNaZXotYVNVa3dmdEc1eVRpSTI4dXNWWk1XYWh6OVIwNTc5MjVicUpnZWdHRkJUX1c3ajlveXFkU2o4ZGREaEo4YXdkcHduekpKcVBBVkd3Q1RPZ0U5cnBXTFVSRjVIZXc?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-07-24T11:17:39.000Z",
-      "snippet": ""
     },
     {
       "title": "STAT+: Merck strikes voluntary licensing deals in poor countries for an experimental HIV prevention pill",
@@ -585,27 +633,11 @@
       "snippet": "The policy conversation needs to shift from just deprescribing alone to building the clinical infrastructure that delivers consistent, high-quality behavioral health care. The post Better Prescribing, Not Less Prescribing, Is What Behaviora…"
     },
     {
-      "title": "Corner Health",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82Wm9sN3BLSmZ5dmEyS2VORUoyNW9ZdzQzaGpOdkdHRHRad1V1RWhTbm5uZENvbHQ3VjFJRzdFRE84eURPRkJQenAyWEEyMll0N0VwSjFmVG51VFRV?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-07-22T09:10:26.000Z",
-      "snippet": ""
-    },
-    {
       "title": "primary care app",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82RFJLWFhTUUJ0MEpyQ1BLaHdVM3FoeWlLUlZndV80UnhHRVhjOHhpTXBNbXlVUWtwX3JBeUZpQnFIdFo1OVVBVGZ0T1p4aHhzVDh5eW5VcFlMOVF5RFYxLW05SWVwVlYwR1NNVE5lQy1hTkVPZ0E?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-07-22T03:31:42.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Payer",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObWdjRF85X2hJUlRLeG00UFRwcFN5ZTJpeHZPeFhoVnAycDJMY1hzckxMMWQzYm84Ri1HcEQwcmkzQlNZRXRyUmlkNzRPQmpRZVdkWWlGRVVOdjhmcVNwMVphTzBQVk1iOFNlUHN3S1p6Y0Y1SHVGLVNjaXR4blpXWXhaOGxQbTY3dlRPeDNRczhCTm5yMHBpNWFCTUtRRG5YSnpseTJuWDkxYmJZS3czZzBvb1BMUzZpV1haNmoyaDJ2dFJVRXVQQUQ1S1R2Rm82QkNlUktyc1FfY2c?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-07-21T23:44:20.000Z",
       "snippet": ""
     },
     {
@@ -649,14 +681,6 @@
       "snippet": ""
     },
     {
-      "title": "Digital transformation efforts gain speed in Poland",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc1kwUWxBYkhCWjZvTTc2ZXJ1QTNsamRIRXZydTlnVWYzbWtEeloySEIweWJzeUtXUnVjZ0xFYTRPeTgxR1d3WUFkSHVoM0FFcXVzNkpycFZaOFpHWFNONXVyY1QwYlNjS2JwMUZIZ1U5Q3pDZVVaejhKbWt2NlJTNjVnUjh2VEtTRGpsSG9UWTJyY0l5Zlhv?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-07-21T20:21:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Agios Pharma Drops Sickle Cell Disease Drug After Phase 2 Data Disappoint",
       "link": "https://medcitynews.com/2026/07/agios-sickle-cell-disease-tebapivat-pk-activator-agio/",
       "source": "MedCity News",
@@ -686,6 +710,14 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-07-21T17:15:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Telemedicine's next phase demands an EHR ecosystem",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQazl6dTJGVlg3amZYaHc3eWprV3NnNF8tSE95VV9iR3hodTZNc29jZVNSRGJ2MkxSZjF4VVZBS0FjLUFKUWU3aXdqeDVsbmtramJYU3hXV3pNaURqQmlLYmZqSk40ZGQ3ajBFaFlVNGhyUXdOb1RlQnc2SWxTMjVaZVZaSGM3OTZ1cUtYaQ?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-07-21T15:45:06.000Z",
       "snippet": ""
     },
     {
@@ -793,11 +825,11 @@
       "snippet": ""
     },
     {
-      "title": "Tempus to acquire Personalis for $1.5B",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IejFTVkNFck5KNXpWcWZZc1laLXRFdmR4UW8zZjNFVWtscmNyampYUXdnVmFEOF90RmJjN0RPb0VTV0JyMC1NTmFlOUFNb2RpWXhfbmx6NzFIenFtdURZZXotajNGempJVEJqVTRMcHNSWWs?oc=5",
+      "title": "Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzZUIxT0M5d0paUWNraGlsXzhFdjYzeFJ4eWtGVG9uZWd5Mi1EOWVyQ1U4TTIyblNWMUZ2Z3ZCZnlGQ2R4alJreW5QUXU2VjJrMWFqdFczWGl2dVpGZ1BaZi01ajQ3VWM?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
-      "date": "2026-07-20T19:03:50.000Z",
+      "date": "2026-07-20T18:46:57.000Z",
       "snippet": ""
     },
     {
@@ -881,46 +913,6 @@
       "snippet": ""
     },
     {
-      "title": "Women’s Oncology Market Could Reach $110B in 2030, but Gaps Remain",
-      "link": "https://medcitynews.com/2026/07/womens-oncology-market-could-reach-110b-in-2030-but-gaps-remain/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-07-20T02:18:18.000Z",
-      "snippet": "A new PwC report says the women’s oncology market could reach $110 billion by 2030, though funding and care gaps remain. The post Women’s Oncology Market Could Reach $110B in 2030, but Gaps Remain appeared first on MedCity News."
-    },
-    {
-      "title": "Personal info stolen from 21 Australian clinics",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQekxYcjVIZ050SWttRFdDX2R1N3ZaamZCaGtzM2Q2LWc0VVNCMUVkdEVZcFg5VWY3SkdsZFdUQV9oT3dLUEpKWDBHeWpzNTFRZ2hmbU0ta0ZkQnItZ05Dci1BMFVheTl2MGxxcWswMmNxdDE4X0ZsVFMybWN3VWw5SFQySlhjR3VpY3JWeA?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-07-20T01:02:13.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Te Whatu Ora taps NHS partner for AI development",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX0pjVGt6cnZiU1N5dXk0NVRORFZhcVdVQlNrRGY0cHpTU0JoUVpXZVhlZWNvbS1MQUQ2RERNb0drX2hWY3o1MWE2SU9UM0dxUU1Lb1N5SFN3QXBYRmZWbWlkY3Z0N2xlUnBEbE9SNzR3ZWZYSVQ0LURRaGp1dTJscU5ZWWhnRDZsdk9Ra1ViRQ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-07-20T01:02:10.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Merck Pill Becomes First Oral Option in Growing Class of Cholesterol-Lowering Drugs",
-      "link": "https://medcitynews.com/2026/07/merck-ldl-cholesterol-lipfendra-enlicitide-macrocyclic-peptide-pcsk9-inhibitor-mrk/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-07-19T17:15:34.000Z",
-      "snippet": "Merck’s Lipfendra is the first FDA-approved pill in the class of cholesterol-lowering drugs called PCSK9 inhibitors. While peptides are typically injected, Lipfendra is a macrocyclic peptide designed for formulation as an oral drug. The pos…"
-    },
-    {
-      "title": "Hybrid Financing in Life Sciences: Unlocking Growth Amid Market Challenges",
-      "link": "https://medcitynews.com/2026/07/hybrid-financing-in-life-sciences-unlocking-growth-amid-market-challenges/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-07-19T13:29:00.000Z",
-      "snippet": "What should life sciences investors and targets focus on for dealmaking success? Here are six actionable steps. The post Hybrid Financing in Life Sciences: Unlocking Growth Amid Market Challenges appeared first on MedCity News."
-    },
-    {
       "title": "Reduce operational friction while maintaining high-quality care",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnFuR0M3QXpaWm9IN0xDWHRxelBJRHh3d2NiNDdtMUkxN09walhERHNLTFFLWlFpQlFwVGdlamNkaDVtREF5Y3FoUVo3a2pDcGdlUGRISUdkVmV5Rkk0ZzJYSWRXVmFFbXlKRUZEZ0dGWWdQUFVwRE1iOW80UnZtcGNFUUs1YUk2MEQ0VlhYSklCR3pLclBXTFRGelh6eHo1ZVpKcXJMYTg?oc=5",
       "source": "Healthcare IT News",
@@ -929,27 +921,11 @@
       "snippet": ""
     },
     {
-      "title": "Remove Barriers to Care with Verified Trust for the Clinical Workforce",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXlwRmQ0SkpaNjB0cjZaMVFXaEJDamVOUnhRSmxrc0RtenRBOGNiXzVpSldBQzR2elFZalhWTXVSMmJoSWVqb1VPSS1HMXZKQWppaThfeWUxVDRKcEhiZGo0NUNXYUNsLVRRV0NHMTNMdG5TaHkwUlgxd01HUW5ZTnpVc2hXX043NVdmLU92T3gyWDExdlU4MWNOX0E?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-07-17T21:14:19.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Reduce check-in friction with a connected documentation workflow",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR096LVdNQnJVMzZCcmNZa0xvY1R0ek1RVFdJYXpleUZ2QUs5R3doSTFpQlJKeHl1bkhydVdia0ZoOXVlYXFPTWNicFMxQzVBMm1ORFRKVnJwTHlSaVBweUk0dHRyeEtqWXlnU19QNVpxRG42dm5JMll1LUI4ZHFkM0FqN2Jqdk5mRV9RT3psdUZiT0tXTXNFQWNSQl8?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-07-17T21:11:38.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "CHAI seeks to support public health agency uptake of genAI",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUpjLXFoZVRZekU4UzdEcl94bjRqeHpfdmVINGlqVGlhM3h3Rk5fSm8xbXR1MmV2ODMwV0F1bmNPQWtuWjZXS3pPbXdMUHBtVUo5cWFuQU9jZjdHSFNlam5kXzZfZS1NRFJHblFCWFBLWEtndGtGQ2Vad1dCWHhqelBFN2JMRlV4QUozV0p1X1phdFNN?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-07-17T19:48:25.000Z",
       "snippet": ""
     },
     {
@@ -969,19 +945,43 @@
       "snippet": ""
     },
     {
-      "title": "AMA convenes new SNOMED CT to CPT mapping initiative",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1B2eVF0em5YUzBIemFfZXl1UHJ3SEtEaVJEc3pYU2hrVGFTTE1RT0RGR0pRS3VrTjNhc0N5am5OTHU2SXU4MVhDV3BpSTlHY2M5dnhxenZsQURzS1NIM2dzMWZwTmJfT1V2WmpBS2JIeFZfUUNWektIMDg2TVBQLTVFT0JXY1BKNHpVbVdQcVg?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-07-17T15:17:14.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Technology enables more proactive, personalized care",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa05ObC1jS0FucGh4N3dBcmo0X1hPdnN2V25PeUtiMEx1R2tSUll6VEhKRlYxaU9MaXNxZXUyRE4xQTZ3LU12a1lzR1FUaTI4R0dJZHFIM1d5cFJLaDZzeXB0cF82Mmh3RjNWLXVzbVZDM1FQNGxzdjdXX1VuQmNhMVRGelJ3NXdBQlVzZkE2M2NLdw?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-07-17T14:14:18.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "CIO Spotlight: El Camino Health's Deb Muro",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQU1BcWFvcE9BZlQ5QlEwY2l1R1lHTVFRMzVNbUhENGk3RDQxYkZreGltYm9VaFo5cmxMeU9sWlNjU2JrQkZNbWdrbEVYb3I3ejdvTlg0VkFFanMxLXo1M1YzQmdyc3d6d2FWZ2VLcXBlZUpzYXNoQlNVcllwV0pwWTVsWW85Zw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-07-17T13:45:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "CHAI seeks to support public health agency uptake of genAI",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUpjLXFoZVRZekU4UzdEcl94bjRqeHpfdmVINGlqVGlhM3h3Rk5fSm8xbXR1MmV2ODMwV0F1bmNPQWtuWjZXS3pPbXdMUHBtVUo5cWFuQU9jZjdHSFNlam5kXzZfZS1NRFJHblFCWFBLWEtndGtGQ2Vad1dCWHhqelBFN2JMRlV4QUozV0p1X1phdFNN?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-07-17T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Hemispheric raises $52M for AI brain foundation model",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2t2Q25XMXpJSjYwZ0U2SHIzNDhIRzhlSnlDN3UtZVZvdmRWa2dxV3RqbVdmUFFnZkhoa3ZLODFRMkhoVUNqQmE2MW8tMnMxV3RCQm1KSTdZeW1reG50eDBrdTZEa0FJVTNSd2daNHR0SUFaSzZreHMwbVJRT1RyMmt5aUtrMDAtT2R5TA?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-17T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Investor",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91a2JrT3VmeEFWRENWWEUyM2R0ZFNkRlNGaFJnWlF2X1NMVW1YbTJkcWVibWFTUXUxX0FfanJRcGtVMl9lbi1Zb3hvVmRRd2dpRHF1R0xQSGNQUjk2YW9OeThsQ0M1MmhHREZN?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-16T18:46:16.000Z",
       "snippet": ""
     }
   ]

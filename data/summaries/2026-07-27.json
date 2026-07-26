@@ -1,0 +1,87 @@
+{
+  "date": "2026-07-27",
+  "generatedAt": "2026-07-26T22:02:12.743Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 12,
+  "sources": {
+    "MobiHealthNews": 7,
+    "MedCity News": 3,
+    "Healthcare IT News": 2
+  },
+  "summary": "Today's health-tech landscape shows strong momentum in AI-driven revenue cycle management, regulatory frameworks, and specialized AI applications. Candid Health secured a major $120 million Series D for its AI-powered RCM platform, signaling continued investor confidence in automation solutions that address healthcare's persistent cost challenges. Separately, multiple stories highlight the evolving regulatory environment around health AI, reflecting growing attention to responsible deployment of these tools across clinical and administrative functions. Beyond financing, the sector is grappling with fundamental care delivery shifts, including the maturation of telemedicine requiring deeper EHR integration and recognition that value-based care models only succeed when underlying costs are properly managed and transparency around patient trauma histories is prioritized. Emerging AI applications like Hemispheric's brain foundation model demonstrate specialization within the broader AI boom, while organizational leadership questions around technology strategy remain critical as providers navigate these transitions.",
+  "items": [
+    {
+      "title": "health AI regulatory framework",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZX3lMNS1teW1pWFZxSnppRzEtZkoxZV8yZHp2SmlYdG1SbVJkS182aVlYenh1RzUtTkJWeDRRcWxCbG92ZVVIYWxjOGtCREh1Ujh4UW8wSm12Y1JNcU9vVGZSX3VYZUY2bzJzdW9yT29zb3c?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-26T14:49:37.000Z"
+    },
+    {
+      "title": "medical AI regulation",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55aS1OenVfTUhjdWhvSkpyQ2pKVjFGdnlwQldFcHVnZFo1SzQwS040UWJwLUdyMHhoOTJVaUFVWm8yZG42dTUwTXhEQU5fNVA4T3pURy1CbFZ0Uk8yeW05QnptZHo4aG8?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-26T14:48:16.000Z"
+    },
+    {
+      "title": "Candid Health Snags $120M for AI RCM Platform",
+      "link": "https://medcitynews.com/2026/07/candid-health-snags-120m-for-ai-rcm-platform/",
+      "source": "MedCity News",
+      "date": "2026-07-26T14:27:00.000Z"
+    },
+    {
+      "title": "Why Value-Based Care Only Works If You’ve Tamed Costs",
+      "link": "https://medcitynews.com/2026/07/why-value-based-care-only-works-if-youve-tamed-costs/",
+      "source": "MedCity News",
+      "date": "2026-07-26T13:15:00.000Z"
+    },
+    {
+      "title": "Medicine Understands Trauma’s Impact, But Rarely Asks About It",
+      "link": "https://medcitynews.com/2026/07/medicine-understands-traumas-impact-but-rarely-asks-about-it/",
+      "source": "MedCity News",
+      "date": "2026-07-26T13:09:00.000Z"
+    },
+    {
+      "title": "Assured",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Pc1ZmRkNNeGFYTkE1S0FyTkd0Y3A3Ym91N1BBZElKcW9XRHhOVDJxNkpiOFRZMGZhS1JwTmRSa2JlU0FSX250MDlqOUdydEpVZUtjRg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-26T06:12:04.000Z"
+    },
+    {
+      "title": "Hilo",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lWW1HZ29pa3AzcEQwMU9Rc21yNUdpQ3M2eFM5SFp5MWtSTUJ4YkNIb19tekktMGpVRHYzSzNkQ20yUUdsMnd0YXVxY2ZhLTEx?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-24T23:35:00.000Z"
+    },
+    {
+      "title": "Telemedicine's next phase demands an EHR ecosystem",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQazl6dTJGVlg3amZYaHc3eWprV3NnNF8tSE95VV9iR3hodTZNc29jZVNSRGJ2MkxSZjF4VVZBS0FjLUFKUWU3aXdqeDVsbmtramJYU3hXV3pNaURqQmlLYmZqSk40ZGQ3ajBFaFlVNGhyUXdOb1RlQnc2SWxTMjVaZVZaSGM3OTZ1cUtYaQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-21T15:45:06.000Z"
+    },
+    {
+      "title": "Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzZUIxT0M5d0paUWNraGlsXzhFdjYzeFJ4eWtGVG9uZWd5Mi1EOWVyQ1U4TTIyblNWMUZ2Z3ZCZnlGQ2R4alJreW5QUXU2VjJrMWFqdFczWGl2dVpGZ1BaZi01ajQ3VWM?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-20T18:46:57.000Z"
+    },
+    {
+      "title": "CIO Spotlight: El Camino Health's Deb Muro",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQU1BcWFvcE9BZlQ5QlEwY2l1R1lHTVFRMzVNbUhENGk3RDQxYkZreGltYm9VaFo5cmxMeU9sWlNjU2JrQkZNbWdrbEVYb3I3ejdvTlg0VkFFanMxLXo1M1YzQmdyc3d6d2FWZ2VLcXBlZUpzYXNoQlNVcllwV0pwWTVsWW85Zw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-17T13:45:00.000Z"
+    },
+    {
+      "title": "Hemispheric raises $52M for AI brain foundation model",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2t2Q25XMXpJSjYwZ0U2SHIzNDhIRzhlSnlDN3UtZVZvdmRWa2dxV3RqbVdmUFFnZkhoa3ZLODFRMkhoVUNqQmE2MW8tMnMxV3RCQm1KSTdZeW1reG50eDBrdTZEa0FJVTNSd2daNHR0SUFaSzZreHMwbVJRT1RyMmt5aUtrMDAtT2R5TA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-17T07:00:00.000Z"
+    },
+    {
+      "title": "Investor",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91a2JrT3VmeEFWRENWWEUyM2R0ZFNkRlNGaFJnWlF2X1NMVW1YbTJkcWVibWFTUXUxX0FfanJRcGtVMl9lbi1Zb3hvVmRRd2dpRHF1R0xQSGNQUjk2YW9OeThsQ0M1MmhHREZN?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-16T18:46:16.000Z"
+    }
+  ]
+}
