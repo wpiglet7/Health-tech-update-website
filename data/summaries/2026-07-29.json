@@ -1,0 +1,214 @@
+{
+  "date": "2026-07-29",
+  "generatedAt": "2026-07-28T22:08:48.782Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 33,
+  "sources": {
+    "MedCity News": 7,
+    "MobiHealthNews": 6,
+    "STAT News": 13,
+    "Healthcare IT News": 7
+  },
+  "summary": "Today's health-tech landscape shows significant activity across drug development, AI implementation, and policy concerns. On the pharmaceutical front, Altimmune's GLP-1 candidate demonstrated efficacy in reducing heavy drinking for alcohol-use disorder, while GSK outlined cost-cutting measures to navigate its patent cliff, and ProMIS Neurosciences released preliminary data on a potentially safer Alzheimer's amyloid-clearing drug. However, setbacks include Replimune facing FDA skepticism about its skin cancer treatment, Capricor's stem cell therapy missing Phase 3 objectives for Duchenne muscular dystrophy, and Agios discontinuing its sickle cell disease drug following disappointing Phase 2 results. On the technology side, health systems are increasingly investing in AI to detect early disease—including Alzheimer's detection and stroke prediction in seniors—but organizations stress the need for proven value, robust security measures, and careful safeguards to protect children from potential AI harms. Policy headwinds loom as well, with the Trump administration's proposal to limit visas for foreign Ph.D. students and postdocs facing warnings from the scientific community about harming U.S. research competitiveness, and Senator Rand Paul forcing former NIH director Fauci to testify before his Senate panel.",
+  "items": [
+    {
+      "title": "Altimmune’s GLP-1 Drug Reduces Heavy Drinking in Alcohol-Use Disorder Trial",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3RrZWpCWDNETk5rcE9rWmN1WjdSR1NwTE9jeDVjOENMYUlERHhSbmNTOUdnT3lfMmNtTXNqcnZmbmIzeHR4S1ZMWEZ6R1lvWjFJczFFNFJ0ZFdJc0Y5YjN5Vl9uZzA4YXpuMWJPXzJuWnFxU1FwYVBma2U5SnAyQnNhSUhmVVVfMHJ2Q0pmSDZDQzJjSG1NaWN1S3AwR3lweWlVVl9XdlYxblJ2Z3kxc1dCSQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-28T21:27:31.000Z"
+    },
+    {
+      "title": "Nonprofit advocates to protect children from AI",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVluX0RCdXJCX3F2QnJvcDdtUjN0N1dPSkhycjlyXzFsVENESmdvWDBXc3lNNGk4azhubUNuSGNhSmVyMlZoS1c0cXlhakw2NVZBZnJsNlFkS1dvempMZlJxVjNlamZaZWtBUUJSQnpRaDE5Qm9rVFFrSjF6QjhNTndMZFlxTjF2?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-28T20:26:20.000Z"
+    },
+    {
+      "title": "Six key issues we’re watching at Fauci’s hearing",
+      "link": "https://www.statnews.com/2026/07/28/anthony-fauci-senate-testimony-what-to-expect-covid-origin-perjury/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-28T19:29:57.000Z"
+    },
+    {
+      "title": "AI programs need careful design to protect child safety",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVJmMllQZWJhMU1QUWJCMmNSTnVlMV9MZzc1T01hcXh3ay1RUW9JZEE3TVg3QmF1UGYwVTVBR3RES2hudTB4QW9yZEJrY1YtYzlxZHR1SUtORDZYaWg2SGQ2SG9tME10VGVFaDA1VDkzOHpLRGJ3bVJBb09ZbUpqNkxiWkNVUXlObnNyYVozNWduS0tPWkxlWWpBMVQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-28T19:28:00.000Z"
+    },
+    {
+      "title": "Unleashing AI in HTM: Five Lessons for Real-World Success",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORFo5WkF0OExsWGpvSVhEYVo5ZEhXSkgyd3l2NUw5SVZ6YUVFUVZLcEcwbFlzRlRibnVkUDk2enA3U3pyaG40b2VTY0IwRlBpbllpUVlicC02Q2FEVTNUQ24zYjN3elFacXBuUDJmTkdKTm12eVAxR3Rsc01lTU43cjhxU194cWlZOHFrU3E3d2xEM2RCaUE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-28T17:34:08.000Z"
+    },
+    {
+      "title": "2026 Healthcare Trends Report",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN3pEaXJEVFlyR1RDdUpjWDkxeGxHb05GTnVIc3BsUWR4cXBDRHhCZ2g0ZkR2b09EQ0JoR3BVOVJYeXlfMndkUEtGOXluUlBqWnVKRnZsUzNfaUgteTc5bi1lTlhjMWp2MVUtTWNUcEVRRTItdGlFQmhIWQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-28T17:25:19.000Z"
+    },
+    {
+      "title": "Engaging complex transplant patients across their journey",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVTExeXJTOF9QU2pNcnhRWklJdlBENXB5c0ZmTk1Bd0l3U1M5LXB3LUVvWEZVNUFSUmNfVkpOazNCeWRmY0F0dm13YkRLMGRIZVFGUHlzNGV6R1phUXJyN1BOUFFPR2Y1SWdhbVQ2WXVhTzVwejJxb2FENFRRemh6UV96WlAycTl0RW9yT2pjdmRXVk9CY3VDdTl6SWdkVWQ4?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-28T17:25:16.000Z"
+    },
+    {
+      "title": "Visa time limits on foreign Ph.D. students and postdocs will harm U.S. science, experts warn",
+      "link": "https://www.statnews.com/2026/07/28/dhs-visa-policy-change-international-students-scientific-research-impact/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-28T17:00:20.000Z"
+    },
+    {
+      "title": "Aurenar raises $5.7M to advance stroke neuromodulation device",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPckxWZTAzLTMwQnFTYzdQMG96LXJHUkdZQko4Wlhrd2w1bTdUWnVibXFTekNrU3lDeVRyUl9mNm5IM0sweDFMa0Y2cGpFdkp1OFdHSFpQcG9ETVVaOE5wY0tQajVOTUcydFRKS3MyakVUN1VaVmFPcDlBWWlXYnJEWV8wNDJRZzFrb0Nsb3Q3OG50aDBPR0NZ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-28T16:54:59.000Z"
+    },
+    {
+      "title": "STAT+: Bracing for another Fauci hearing",
+      "link": "https://www.statnews.com/2026/07/28/anthony-fauci-rand-paul-hearing-democrats-ivf-proposal-dc-diagnosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-28T16:37:26.000Z"
+    },
+    {
+      "title": "Ascension's telehealth strategy: Building an enterprise, not a program",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0l4eHhOeWtGdEJXcUM4Z1lZTWY5T1RaSF92YlA4eXJNZ3JpRHVJQXJYdkdwOS1DTzdGSTFjRnV2UFZlZ1FZN1VRU1VtRzViQTN0TEQ5TlNWUkcwNVpDTW4wdS12cjRTeURtWFZnV1FOZzMxd0VMNUhZTG02NXlNMngtb3ItTy1lSmJiMkg4bUtSMUw3d3puMWR6VlB5OENscFE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-28T15:32:13.000Z"
+    },
+    {
+      "title": "HIMSS research seeks to quantify AI's impact",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWUJiSml3Rmx1ZnhXT0dlZ21pUVFzZ2JHREdxX1NFdE8zOWM5WTdTWlQydXZaUi1BRF9ZaHJCdk1BNXNEYTQ1LUlLMDEtNGlqUG9qaVI0V0wtSERzX3AwNkxyemRBNHZFZkdYWk14UkRaWmxEbTIxS2RyYUZZYVhkSWxjdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-28T14:46:03.000Z"
+    },
+    {
+      "title": "STAT+: GSK lays out plans to cut costs, pursue more late-stage drug trials",
+      "link": "https://www.statnews.com/2026/07/28/gsk-earnings-report-luke-miels-strategy-late-stage-clinical-trials/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-28T14:11:41.000Z"
+    },
+    {
+      "title": "STAT+: FDA staff reiterate concerns about Replimune skin cancer treatment",
+      "link": "https://www.statnews.com/2026/07/28/replimune-rp1-skin-cancer-fda-staff-analysis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-28T13:39:53.000Z"
+    },
+    {
+      "title": "Why Specialized UM Delivers on Every NICU Outcome",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbGN5UXh2Z1dNZTVrY2xWcGtqb0pNcUYzSFR2aFVyVUlaN0kzLW00UHFrYVFCa05TSncwZE5HUFB2TTNuc0NBNWxtZG52ZS1mXzc3R0U1Z1BYbndGT0dEaWl3a200T0pWUEx6bTNfZWdaZnBpYVZRc1g4eWhTRjVvVjU3SkhXYTNISUE?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-28T13:33:46.000Z"
+    },
+    {
+      "title": "With AI advancing so rapidly, organizations must lean in on security and integrity",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3ZIQlhINm1mejJRZWI1djl6bWljWXl0QVAyWWZmaWJxMDJCYTVYWURLVW81cWJPbVE0MGlqeHBpcGZtaHJmTnozZ01PSExlTExiMVBPQkZZZy1RekdUVmlOejh2bzVMQkpZck9YRlMwV3A3ZXdGbWVFWXZHVTdRVUk1Z001TWdBQmpMTVpIMzFwRWRISFFQdmppU3VJN2l4WWpTeENYbzdkRGZp?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-28T13:28:37.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about FDA views on a Duchenne drug, GSK cost savings, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/07/28/fda-duchenne-drug-gsk-cost-savings-plan/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-28T13:25:49.000Z"
+    },
+    {
+      "title": "As they invest heavily in AI, health systems want evidence of its value",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUUV3X09FRWVqc0JLblRrQjR6Wm1GajJnN2NIMU5ZU2lnekVTb1EzRTdPanM2MHBGcVlYMXZEWjRGNm9Gak9JMExDUHNXWVBsLU5yVExvNlMxTEs1MExveTJDaUM1cHc5OEhqRl9YSi02UVRCNl9vcTlPNlVIM2h6UmR5YkZNYjZ1YkV5SkV1Mmo0RUQ0b2VsbVBsMnlzXzBPZlE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-28T13:23:00.000Z"
+    },
+    {
+      "title": "STAT+: Three questions with Whoop’s new CMO",
+      "link": "https://www.statnews.com/2026/07/28/three-questions-with-whoops-new-cmo-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-28T13:22:35.000Z"
+    },
+    {
+      "title": "Spotting Alzheimer’s Years Earlier Through AI and Clinically Meaningful Insights",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWpxRl9RNFNtazU3ZVlhWTJEbVdobzg4bWx2ZWhDQ2lHUDFxd2JuNGhSYlJ6VHNVS0Y0TERsbGVfM0hZSUhxdlJBTk9GeFNGMGVmZmVDRXh6XzUzZnItbHVCVUJGc3N5d3lTbE5aSXRRalF0UXBXOVRUQ1ZHOGJDQUJWdDdNNWhHY25qbXpZSDYwSDU5MGhrU2JhdEpObG5Pa1lob3BSQmZwNlBMQWtMdGt3?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-28T13:22:11.000Z"
+    },
+    {
+      "title": "DarioHealth announces $23.5M registered direct offering",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONFVTSWNHNVZxSDhGT1pfWHVmaVliSGE0Rm56cEgyRklGdTYyTmtjMGVQVWRjTFYwN0VhaDJJN2JNaldheGsydG9zLS1Nc3lSM0ZQQ1pRQnVCRTJEUVM2WUl1eUR2WnpNc3lmQ2RHNUpXSFNYcUNiNGZBS3JxSE8xcmxoNkdFaTNlblptSS1CeDllT0U?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-28T13:13:10.000Z"
+    },
+    {
+      "title": "AI predicts early stroke in solo-living seniors using smart home data",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON1I4T2ZYSWlucmNsYWZRVlFZcDAwNHdkQ2xWUTNCLVBHMzJTYjV2RmVIR09GOTA1N0hoQkFYZzFYQkFqRkZWTHI3ZE50enhSU0xJQzROdXluSGFFckNVMzQ3WHhpMGVoaFozMHBVTGFTMnBqWTZwOFFHOE5zbW4zckZWcklGVlJnc1M0VFBSZnpTOTB6TXZKdmNXLXR0Sm5IdmpLSWtSZU9SaWM?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-28T12:12:40.000Z"
+    },
+    {
+      "title": "AI app in India provides multilingual support to cancer patients",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2lFZXdYTkFoOHF3WlBpQjJuVl96Z1drejZneEF0ZktGVzhPNGFOazZsTkFsSmJWZ0tzWV9RWkxnUHRXWHhOaDF3OHZVX1JYY2lsSVFVNS1WUEliVkgtSEFFeEcxZVY3LTNyWnhjUGs0Q25RczcyMlBZeUdXWHBSRFFCWjlpVjJFN1JJTnFYaHVsMFFZeWVyMmpKeVpZZnFS?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-28T12:12:28.000Z"
+    },
+    {
+      "title": "Anthony Fauci’s pandemic-era diary entries",
+      "link": "https://www.statnews.com/2026/07/28/health-news-anthony-fauci-pandemic-era-diary-entries-hearing/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-28T11:57:15.000Z"
+    },
+    {
+      "title": "STAT+: Preliminary trial results suggest a path to a safer Alzheimer’s treatment",
+      "link": "https://www.statnews.com/2026/07/28/promis-neurosciences-amyloid-alzheimers-aria/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-28T10:00:00.000Z"
+    },
+    {
+      "title": "Why Endeavor Health Refuses to Silo Its Value-Based Care Strategy",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4td0h0ZXN3VjktYXNwOC01TlpTeE9NVUtmX0ZlOXlKVXRJQWVaNF95S3pGWjExZ3BFT3BlT2Y0STNTeG1hOVM2aDI0aTY5RXMtdXlWbjJ3RlFCV0lITWp2M3ZOMmVpLXZrdnJlN3F3bXg?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-28T08:34:33.000Z"
+    },
+    {
+      "title": "STAT+: CMS evaluates one year of health tech progress, announces eight new pledge categories",
+      "link": "https://www.statnews.com/2026/07/28/medicare-medicaid-evaluates-health-tech-progress-unveils-eight-pledge-categories/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-28T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: From ‘lost cause’ to gold rush: Biotechs swarm to cure AATD",
+      "link": "https://www.statnews.com/2026/07/28/biotech-industry-race-aatd-cure-gene-editing-alpha-1-antitrypsin-deficiency/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-28T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: STAT+: Dementia finally has a business model",
+      "link": "https://www.statnews.com/2026/07/28/brain-infrastructure-dementia-business-model-aaic2026/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-28T08:30:00.000Z"
+    },
+    {
+      "title": "After PCOS became PMOS, there’s hope for new awareness among Black and Latina women",
+      "link": "https://www.statnews.com/2026/07/28/pmos-name-change-growing-awareness-faster-diagnosis-women-of-color/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-28T08:30:00.000Z"
+    },
+    {
+      "title": "- MedCity News",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBMbmVwOFk4ZXljdFlkWXJkNDBKZkV5NzFVTnZhWGZJTmM1bW1ZN1ZNUkVVY29XX3poSU85dDFNTUFlVEYySUFudFln?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-28T01:45:41.000Z"
+    },
+    {
+      "title": "Quarles & Brady Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xVDR5eVRVclVyVTJPS2piZ0FiYVdjQTdyOFQ1Q2kwMHVNYWFsRkdjSW02UzAzdDhEeHAycDlBb0ZxeHE1eTRxTTJ3Vl9SX1FQbnpZbw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-28T00:17:11.000Z"
+    },
+    {
+      "title": "Agios Pharma Drops Sickle Cell Disease Drug After Phase 2 Data Disappoint",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGJEemV3dGJnU0dqWXJNTXJaRmxfZ2tjLWpNclJWWERDc2JZdVBOR1RSNFBfZ2VBOVM5Z1pUaXRXWDRibjRvSEtGcExMTkphcWVkeWdZekYwUG1ESjZYQ3oyV2JzZ3Jzdm83bmprOVRRVktOcVZfeE1xYS1pUFRvYXRWUDlKdTNoQlZLRV9aMA?oc=5",
+      "source": "MedCity News",
+      "date": "2026-07-21T21:00:15.000Z"
+    }
+  ]
+}
