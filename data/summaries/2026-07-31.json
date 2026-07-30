@@ -1,0 +1,190 @@
+{
+  "date": "2026-07-31",
+  "generatedAt": "2026-07-30T22:09:35.394Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 29,
+  "sources": {
+    "MedCity News": 7,
+    "STAT News": 11,
+    "Healthcare IT News": 6,
+    "MobiHealthNews": 5
+  },
+  "summary": "Today's health-tech headlines reveal several significant regulatory and business developments shaping the sector. The FTC and multiple states have sued Hims & Hers for allegedly mishandling consumer health data and deceiving customers about billing and cancellations, marking another major compliance challenge for the telehealth company. On the deal front, Johnson & Johnson is making a substantial $785 million partnership investment with options to acquire Sail Biosciences for up to $2.58 billion as part of a broader pharmaceutical race into cell therapies for autoimmune diseases, while Doctronic has acquired Summer Health to expand into pediatric primary care with AI capabilities. The regulatory environment is also shifting with Senate approval advancing for Trump's CDC and pandemic preparedness picks, and a federal judge has denied states' requests to postpone newly announced Medicaid work requirements despite concerns from patient advocates about documentation burdens for medically frail exemptions. Additionally, emerging health-tech innovations are gaining traction, including cancer detection via urine testing, precision antidepressant testing partnerships, and AI applications reducing administrative burdens in healthcare organizations.",
+  "items": [
+    {
+      "title": "Why Hims & Hers Is Embroiled in Yet Another Controversy, This Time with the FTC",
+      "link": "https://medcitynews.com/2026/07/hims-hers-ftc-lawsuit/",
+      "source": "MedCity News",
+      "date": "2026-07-30T21:45:20.000Z"
+    },
+    {
+      "title": "J&J Joins Immune Reset Race, Paying $785M to Partner on Sail Bio Cell Therapy",
+      "link": "https://medcitynews.com/2026/07/johnson-jnj-sail-biomedicines-in-vivo-car-t-cell-therapy-immune-system-reset-immunology-inflammation/",
+      "source": "MedCity News",
+      "date": "2026-07-30T19:20:29.000Z"
+    },
+    {
+      "title": "Capricor’s data clash and a fugitive in the C-suite",
+      "link": "https://www.statnews.com/2026/07/30/capricor-duchenne-replimune-melanoma-fugitive-biotech-readout-loud-podcast/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-30T19:03:12.000Z"
+    },
+    {
+      "title": "How one kidney care company built a solid AI foundation",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWnAxTXYxMjdRdTM0RGt6bC1zbG9Cc2tTc1NGajRQekdYM3ZVWUhpeHNtdzhyQ3RYWGVIS1RrUjEzYXQ4bGtsd0FMNHFKaFA1MmNjZURocVJLNURLTkFuNkM0ZTF0RGNpR1dndTlfTVNEaENYNlkzdVVhdEM5ZE9PMldaNThRanF3aWxLX0dFVy1lbHczUEE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-30T18:35:45.000Z"
+    },
+    {
+      "title": "Children's Nebraska IT leader says innovation must become a core competency",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSzNmcjNxcGpOODFZYXBkdVlaeThoZ1h0MnRTSEx0QmNFUFNVTG1sUWNzdG5nWFZDTEVjYnVaNzdOak5CYVZ3MEd4cE4xcU1sbzZnWS1RZjByVDAzakdHdG9sU2l6d2hETi1GSHFSZS03MVlUYnRzSnNhYWZQUER1NlctY3NsNUUzMVFYR1ZwRE5TLVM0bHZiaE9VZElVUDA0NDdXcHhaYXkwbHpWYW9F?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-30T17:51:49.000Z"
+    },
+    {
+      "title": "OpenAI to give up to 100,000 researchers free frontier AI access",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWWdwNW4xNFJybm45Wndwa205c25tWVJLRDYzUElobVVvZHM4RXZpSEViZ25jMUQyUjJmYTdfZWhyenVRTUJsdlY1NElvMWRSNThteVh0SEN0VjI2a1ZzQ0JYZnhHUkk2bTFvaVlCdy1jVGJSTkd4SVY0R1Y3RXJRQ01taWxULWk4NkRjWVp1bXBpUkVE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-30T17:18:22.000Z"
+    },
+    {
+      "title": "MaineHealth to lay off more than 80 IT staff",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyYUJyeEVzLTVMVlhKT1llUFMzWFo3WmhJWC1sYXJoWnBkeC0wSEdZb2VlZzNoalVHMmpuZm03SHUtNTU0eFBrWXFWb2JQZ1hkQUZoS0dxVVpSZHpPdmVxT3NaMnZ4Tng1N2J3bEtwN3Z0UEV0YWZldml3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-30T16:50:43.000Z"
+    },
+    {
+      "title": "Detecting cancer with a urine test",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LOUN5LTZVelEwejlYVnZLbEtReTAyeVlNbW1Oc09XOEdvR0pkTWFvdU5mS3VEc0tKQmxIWVpVMWMzVkExN3FZVkpPUzNYYU5tdTRFQmlkQm85OWdLMmFSeGFkNFEzNWN3anM0Si15ZTNOUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-30T15:29:04.000Z"
+    },
+    {
+      "title": "FTC, states sue Hims & Hers over alleged health data sharing",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcFdseURDZHd6WXl6akdhVXBraFY0QlU2Z3c0UWJWQ0pNMWdJTno5aDV5MlhmaWh1VnlGRTVMeXBxSll0RHp2eE9BckdzdzB4OGtPV1o0MGd1VmhDTjd2Qm1yWWV0eGNtdEowdzBJRHRUeFl4ZDd5Nmg3dEJsUjIzWVptTHdrR2FKcU4xZkQ0S3R1dUFpNF9XNA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-30T14:43:22.000Z"
+    },
+    {
+      "title": "Key Senate panel backs Trump’s picks for CDC, pandemic preparedness",
+      "link": "https://www.statnews.com/2026/07/30/senate-panel-backs-confirmation-health-nominees-schwartz-cdc-kaufman-aspr/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-30T14:17:10.000Z"
+    },
+    {
+      "title": "NUHS to save 850 staff hours weekly from new pharma AI",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYWZTUm9iYUlQWDBwWXFVbE5CZW9LNW5aQ3BtU1JocWhuTHBBTFB5VUdLVEdSbXI4b3JxVFB1SE53NnV0MlpJb0FJTWV3YnlYejZUVXBLNk1IQVJaOU5xX2Nja1BIMW1iQU1nNHo4dUtyUThTTHlsQU16RTNHVnRabTFmNnZFbjR1cnVLQTRka053dVE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-30T13:56:44.000Z"
+    },
+    {
+      "title": "More Medications, Less Clarity: Strengthening Polypharmacy Support for CKD Patients",
+      "link": "https://medcitynews.com/2026/07/more-medications-less-clarity-strengthening-polypharmacy-support-for-ckd-patients/",
+      "source": "MedCity News",
+      "date": "2026-07-30T13:53:00.000Z"
+    },
+    {
+      "title": "Judge denies states’ motion to postpone Medicaid work requirement",
+      "link": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-judge-declines-states-request-injunction/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-30T13:45:55.000Z"
+    },
+    {
+      "title": "The Code Gets You Paid — The Variant Gets You Treated",
+      "link": "https://medcitynews.com/2026/07/the-code-gets-you-paid-the-variant-gets-you-treated/",
+      "source": "MedCity News",
+      "date": "2026-07-30T13:45:00.000Z"
+    },
+    {
+      "title": "New approach to digital innovation in NZ public health system",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTVVLMWZLTEZDQWpWS0Q4bk04VHNwWlQyaHY1OFlOSnlmSzBiNENGYUo5RzdGckFWdmJYVmM1QTM3STV0SE1qS3NjRzFXbXg4akl3ZkRmYTFXUHd6aTdIOGI0akdTdUxjVUFCeWdCWl93Qk5saU8wTHhtVGt6Ri03T0YtcV9nbFl3SUxlVzU5d1pORElubmFPMkExbm5tdw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-30T13:28:06.000Z"
+    },
+    {
+      "title": "STAT+: Rising oil prices can boost the cost of some medicines. One expert says it’s time to lower reliance on fossil fuels",
+      "link": "https://www.statnews.com/pharmalot/2026/07/30/rising-oil-prices-cost-of-medicines-fosil-fuels/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-30T13:22:30.000Z"
+    },
+    {
+      "title": "A new cancer detection test shows promise",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMnhxamUyR0dxMldDbUt1blF1dU1LOUgxWEV6LTR6VjE0a2t0WGVwZW5xOEFFZUhLU21VRFBJLXBINUpGR1BHcnlJUjNldThWY1c3NXJZMFBsdXU3dV83RkVreTloS3Q2ODliaFRxS0c0N0trVWNaX2dQZGs1alQwX3UySE4?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-30T13:17:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about an FDA panel nixing a Duchenne drug, FTC suing Hims & Hers, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/07/30/fda-panel-nixes-duchenne-drug-ftc-sues-hims-and-hers/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-30T13:08:40.000Z"
+    },
+    {
+      "title": "Mindful Care, NeuroKaire partner to offer precision antidepressant test",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaWpwclZNblRPRFQ5UThiNWtUNUM3ZjdhSnRhSTlVVG1jTWh2M3g3ejYtaWZIUXE0Z2hibUdsdzJ1WV9TR1VEUU9CSGxLRnFVcGhCeW9jR1FWY1hqMVFxTTVMZmJra3FjRzJ2RkxuMzM0dVJ3V2FneUR0a2VtUEg0REI5SDlXNmhoVG9UMVZ0dGtTdkdzR0ZRUnZsU2dQelFqWUN4cFJn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-30T13:02:00.000Z"
+    },
+    {
+      "title": "UN-backed AI report highlights healthcare benefits, warns of risks",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0JidU9SNXBtYUtSN3JLemxuX3htMS11cEhBbEFsRFd4Qk9QckhpdVlZV0tBSlFjcGlzcGppQ1VzRlZrYm13bTVIWDQ2Z0RhaU5MdGhONzhSTHgxY0MyczNFZlMwRHhoM3BMZ0RacGlteGRiaWlFdUVoZGdkbmZGV2lZU3JLQmVUR0tlSmNlTVBpa25GdC1JMWxYU3F2Nk0?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-30T12:00:00.000Z"
+    },
+    {
+      "title": "Ebola outbreak nears milestone, while a vaccine remains months away",
+      "link": "https://www.statnews.com/2026/07/30/health-news-ebola-outbreak-nears-milestone-but-vaccine-close/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-30T11:49:48.000Z"
+    },
+    {
+      "title": "Moving Beyond Reactive Healthcare: 5 Traits of Successful Healthcare Organizations",
+      "link": "https://medcitynews.com/2026/07/moving-beyond-reactive-healthcare-5-traits-of-successful-healthcare-organizations/",
+      "source": "MedCity News",
+      "date": "2026-07-30T11:45:00.000Z"
+    },
+    {
+      "title": "STAT+: FDA expert committee votes in favor of Replimune’s melanoma treatment",
+      "link": "https://www.statnews.com/2026/07/30/replimune-melanoma-drug-rp1-fda-expert-meeting-live-blog/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-30T10:00:00.000Z"
+    },
+    {
+      "title": "Chronically ill people face confusion over new Medicaid work rules and ‘medically frail’ exemption",
+      "link": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-medical-frailty-exemption-coverage-loss/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-30T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: U.S. dependence on China is a national security risk",
+      "link": "https://www.statnews.com/2026/07/30/china-us-pharmaceutical-supply-chain-national-security-risk/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-30T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Ten years after WHO recognition, mycetoma remains one of the world’s most neglected diseases",
+      "link": "https://www.statnews.com/2026/07/30/mycetoma-who-neglected-disease-research-sudan/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-30T08:30:00.000Z"
+    },
+    {
+      "title": "Is it safe to drink Red Bull and alcohol? Questionable research tied to energy drink giant has shaped policy",
+      "link": "https://www.statnews.com/2026/07/30/red-bull-funded-studies-energy-drinks-alcohol-shape-policy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-07-30T04:05:00.000Z"
+    },
+    {
+      "title": "Doctronic Acquires Summer Health to Expand into Pediatric Primary Care",
+      "link": "https://medcitynews.com/2026/07/doctronic-acquires-summer-health-to-expand-into-pediatric-primary-care/",
+      "source": "MedCity News",
+      "date": "2026-07-29T22:29:27.000Z"
+    },
+    {
+      "title": "Processa Acquisition Lands Immunology Drug That Could Rival a New Novartis Product",
+      "link": "https://medcitynews.com/2026/07/processa-vidya-acquisition-btk-inhibitor-immunology-inflammation-allergy-pcsa/",
+      "source": "MedCity News",
+      "date": "2026-07-29T22:12:43.000Z"
+    }
+  ]
+}
