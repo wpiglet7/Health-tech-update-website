@@ -1,0 +1,255 @@
+{
+  "date": "2026-08-02",
+  "generatedAt": "2026-08-01T21:59:50.721Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 40,
+  "sources": {
+    "MedCity News": 30,
+    "Healthcare IT News": 7,
+    "MobiHealthNews": 3
+  },
+  "summary": "Healthcare investment and consolidation activity remains brisk, with Function Health securing $450 million in growth funding for preventive care expansion and multiple strategic acquisitions reshaping the pharmaceutical and health services landscape—including Argenx's $2 billion Forte Bio purchase and Included Health's acquisition of Firefly Health. Regulatory pressures are mounting on consumer health platforms, as Hims & Hers faces FTC litigation over health data sharing and billing practices, while Grove AI's rapid acquisition by Hippocratic AI exemplifies how AI-driven clinical trial recruitment is attracting immediate buyer interest. Operationally, healthcare organizations are prioritizing automation and AI integration across revenue cycle management and clinical workflows, with startups like Candid Health raising substantial capital ($120 million Series D) and Daffodil Health launching solutions for No Surprises Act compliance, though interoperability challenges and data fragmentation remain persistent barriers to AI readiness. On the clinical front, innovation spans novel GLP-1 applications for alcohol use disorder, specialized NICU utilization management, and early Alzheimer's detection through AI-powered tablet interactions, while infrastructure plays like ambient AI scribing are gaining traction in resource-constrained rural settings and enabling higher patient throughput in primary care.",
+  "items": [
+    {
+      "title": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
+      "link": "https://medcitynews.com/2026/07/healthcare-moves-layoffs-2/",
+      "source": "MedCity News",
+      "date": "2026-07-31T22:21:11.000Z"
+    },
+    {
+      "title": "Startup to Acquisition in 2 Years: Grove AI’s Journey to Transform Clinical Trials",
+      "link": "https://medcitynews.com/2026/07/grove-ai-voice-agent-agentic-clinical-trial-recruitment-hippocratic/",
+      "source": "MedCity News",
+      "date": "2026-07-31T20:55:48.000Z"
+    },
+    {
+      "title": "Daffodil Health Launches No Surprises Act Dispute Management Solution",
+      "link": "https://medcitynews.com/2026/07/daffodil-health-launches-no-surprises-act-dispute-management-solution/",
+      "source": "MedCity News",
+      "date": "2026-07-31T20:06:00.000Z"
+    },
+    {
+      "title": "The Battles We Face: ADHD From A Patient Perspective, And What Providers Should Know",
+      "link": "https://medcitynews.com/2026/07/the-battles-we-face-adhd-from-a-patient-perspective-and-what-providers-should-know/",
+      "source": "MedCity News",
+      "date": "2026-07-31T14:05:00.000Z"
+    },
+    {
+      "title": "Three Ways Distressed Healthcare Must Evolve",
+      "link": "https://medcitynews.com/2026/07/three-ways-distressed-healthcare-must-evolve/",
+      "source": "MedCity News",
+      "date": "2026-07-31T13:59:00.000Z"
+    },
+    {
+      "title": "Why General Catalyst Is Betting $450M on Function Health’s Preventive Care Push",
+      "link": "https://medcitynews.com/2026/07/general-catalyst-function-health-funding/",
+      "source": "MedCity News",
+      "date": "2026-07-31T09:12:25.000Z"
+    },
+    {
+      "title": "We Are Rats; If Pharma Could Be Brave … And Other Bullseye POVs You Won’t Hear at Other Events",
+      "link": "https://medcitynews.com/2026/07/we-are-rats-if-pharma-could-be-brave-and-other-bullseye-povs-you-wont-hear-at-other-events/",
+      "source": "MedCity News",
+      "date": "2026-07-30T23:54:41.000Z"
+    },
+    {
+      "title": "Why Hims & Hers Is Embroiled in Yet Another Controversy, This Time with the FTC",
+      "link": "https://medcitynews.com/2026/07/hims-hers-ftc-lawsuit/",
+      "source": "MedCity News",
+      "date": "2026-07-30T21:45:20.000Z"
+    },
+    {
+      "title": "J&J Joins Immune Reset Race, Paying $785M to Partner on Sail Bio Cell Therapy",
+      "link": "https://medcitynews.com/2026/07/johnson-jnj-sail-biomedicines-in-vivo-car-t-cell-therapy-immune-system-reset-immunology-inflammation/",
+      "source": "MedCity News",
+      "date": "2026-07-30T19:20:29.000Z"
+    },
+    {
+      "title": "More Medications, Less Clarity: Strengthening Polypharmacy Support for CKD Patients",
+      "link": "https://medcitynews.com/2026/07/more-medications-less-clarity-strengthening-polypharmacy-support-for-ckd-patients/",
+      "source": "MedCity News",
+      "date": "2026-07-30T13:53:00.000Z"
+    },
+    {
+      "title": "The Code Gets You Paid — The Variant Gets You Treated",
+      "link": "https://medcitynews.com/2026/07/the-code-gets-you-paid-the-variant-gets-you-treated/",
+      "source": "MedCity News",
+      "date": "2026-07-30T13:45:00.000Z"
+    },
+    {
+      "title": "Moving Beyond Reactive Healthcare: 5 Traits of Successful Healthcare Organizations",
+      "link": "https://medcitynews.com/2026/07/moving-beyond-reactive-healthcare-5-traits-of-successful-healthcare-organizations/",
+      "source": "MedCity News",
+      "date": "2026-07-30T11:45:00.000Z"
+    },
+    {
+      "title": "Doctronic Acquires Summer Health to Expand into Pediatric Primary Care",
+      "link": "https://medcitynews.com/2026/07/doctronic-acquires-summer-health-to-expand-into-pediatric-primary-care/",
+      "source": "MedCity News",
+      "date": "2026-07-29T22:29:27.000Z"
+    },
+    {
+      "title": "Processa Acquisition Lands Immunology Drug That Could Rival a New Novartis Product",
+      "link": "https://medcitynews.com/2026/07/processa-vidya-acquisition-btk-inhibitor-immunology-inflammation-allergy-pcsa/",
+      "source": "MedCity News",
+      "date": "2026-07-29T22:12:43.000Z"
+    },
+    {
+      "title": "Epic-First Doesn’t Mean Epic-Only: Where Hospitals Are Still Buying from Startups",
+      "link": "https://medcitynews.com/2026/07/epic-health-system-startup/",
+      "source": "MedCity News",
+      "date": "2026-07-29T20:46:13.000Z"
+    },
+    {
+      "title": "A New Era of Interoperability, But Who Gets Left Behind?",
+      "link": "https://medcitynews.com/2026/07/a-new-era-of-interoperability-but-who-gets-left-behind/",
+      "source": "MedCity News",
+      "date": "2026-07-29T13:39:00.000Z"
+    },
+    {
+      "title": "The Healthcare Cloud Maturity Model: The Five Stages Most Health Systems Skip",
+      "link": "https://medcitynews.com/2026/07/the-healthcare-cloud-maturity-model-the-five-stages-most-health-systems-skip/",
+      "source": "MedCity News",
+      "date": "2026-07-29T13:37:00.000Z"
+    },
+    {
+      "title": "Smart Toilet Sensor Startup Is Flush with $10M Funding",
+      "link": "https://medcitynews.com/2026/07/toilet-wearable-throne-science-funding/",
+      "source": "MedCity News",
+      "date": "2026-07-28T22:57:34.000Z"
+    },
+    {
+      "title": "Included Health to Acquire Firefly Health to Expand Alternative Health Plan Offering for Employers",
+      "link": "https://medcitynews.com/2026/07/included-health-acquisition-firefly/",
+      "source": "MedCity News",
+      "date": "2026-07-28T22:25:27.000Z"
+    },
+    {
+      "title": "Altimmune’s GLP-1 Drug Reduces Heavy Drinking in Alcohol Use Disorder Trial",
+      "link": "https://medcitynews.com/2026/07/altimmune-alcohol-use-disorder-glp-1-glucagon-peptide-pemvidutide-mash-liver-alt/",
+      "source": "MedCity News",
+      "date": "2026-07-28T21:21:08.000Z"
+    },
+    {
+      "title": "Why Specialized UM Delivers on Every NICU Outcome",
+      "link": "https://medcitynews.com/2026/07/why-specialized-um-delivers-on-every-nicu-outcome/",
+      "source": "MedCity News",
+      "date": "2026-07-28T13:28:00.000Z"
+    },
+    {
+      "title": "Spotting Alzheimer’s Years Earlier Through AI and Clinically Meaningful Insights",
+      "link": "https://medcitynews.com/2026/07/spotting-alzheimers-years-earlier-through-ai-and-clinically-meaningful-insights/",
+      "source": "MedCity News",
+      "date": "2026-07-28T13:15:00.000Z"
+    },
+    {
+      "title": "Why Endeavor Health Refuses to Silo Its Value-Based Care Strategy",
+      "link": "https://medcitynews.com/2026/07/endeavor-health-value-clinical/",
+      "source": "MedCity News",
+      "date": "2026-07-27T23:19:44.000Z"
+    },
+    {
+      "title": "Argenx’s $2B Forte Bio Acquisition Brings Autoimmune Playbook to Prevalent Disorders",
+      "link": "https://medcitynews.com/2026/07/argenxs-forte-biosciences-acquisition-cd122-immunology-inflammation-vitiligo-celiac-argx-fbrx/",
+      "source": "MedCity News",
+      "date": "2026-07-27T21:16:49.000Z"
+    },
+    {
+      "title": "Prior Authorization Is Draining Revenue: Why Automation Has Become a Strategic Imperative",
+      "link": "https://medcitynews.com/2026/07/prior-authorization-is-draining-revenue-why-automation-has-become-a-strategic-imperative/",
+      "source": "MedCity News",
+      "date": "2026-07-27T13:58:00.000Z"
+    },
+    {
+      "title": "How AI Inside Clinical Workflows Is Unlocking Patient Throughput",
+      "link": "https://medcitynews.com/2026/07/how-ai-inside-clinical-workflows-is-unlocking-patient-throughput/",
+      "source": "MedCity News",
+      "date": "2026-07-27T13:51:00.000Z"
+    },
+    {
+      "title": "AI Readiness Starts with Solving Healthcare’s Data Fragmentation Problem",
+      "link": "https://medcitynews.com/2026/07/ai-readiness-starts-with-solving-healthcares-data-fragmentation-problem/",
+      "source": "MedCity News",
+      "date": "2026-07-27T11:30:00.000Z"
+    },
+    {
+      "title": "What Happens When Patients Trust AI Over Their Doctor?",
+      "link": "https://medcitynews.com/2026/07/ai-chatbot-healthcare-law/",
+      "source": "MedCity News",
+      "date": "2026-07-27T11:29:25.000Z"
+    },
+    {
+      "title": "Crystalys Therapeutics Tacks On $130M for Pivotal Tests of Gout Drug",
+      "link": "https://medcitynews.com/2026/07/crystalys-gout-urat1-inhibitor-dotinurad-arthritis-inflammation/",
+      "source": "MedCity News",
+      "date": "2026-07-26T23:26:11.000Z"
+    },
+    {
+      "title": "Candid Health Snags $120M for AI RCM Platform",
+      "link": "https://medcitynews.com/2026/07/candid-health-snags-120m-for-ai-rcm-platform/",
+      "source": "MedCity News",
+      "date": "2026-07-26T14:27:00.000Z"
+    },
+    {
+      "title": "National University Hospital adds smartwatches to inpatient checks",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUHdyWVRmb0o2UEdaZ3hOcm43ejNCbkllb0RtNmpoU0NKcG94c0lqRmROOFhtUU44N0lSbmZfX0Z2bmM5cElTMFM0djU1OUpfLXA5ajgyOThSVjhoa1FZVkpuc2NmTW9sd2lfby1YaHlIVll5MHNEbmliM3BpQU4yd044ZVN0RUlWZTRSeDd3OUg2QlM4OS1sWG9vcW04b0ItbHFNTkJnN2dOdw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-24T08:01:00.000Z"
+    },
+    {
+      "title": "AI use in APAC healthcare rises, but support lags: report",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjMwV3NqUkpJMENkNF9ERHAzdHE2YUJZR1MwSnVGR0pVQXJ2MTRiLUZlNlJfdlJ3U1U4RElDZ3JEa2hJdXR1SUJrMl9TQUZkNkhDdU1ZdFBKaFYwSHJyZWNtWWp4bjVNYnR1RzRqSzhpbFJCd3NIOW01TERTUl93am9VTUdqMGhfV0NLaW8wSE94Mmt5cVE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-24T07:22:23.000Z"
+    },
+    {
+      "title": "Ambient AI helps rural hospitals do more with less",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ0FJTDY2SExONWFlNEk4YjJtT3p0LVk2VGZXWkxyRWt0SDA4S20xaVBmN2pXdWxWUWRWcXBmMGRHSm1xTXNMSnc5VVhoQ0pLUHhCd3htNmwwY2Nja0MyR3p6cUxUeTY5b0dzZWpmZ005U0lEY3hxdVZVbENhVW92UG82TEIxOE04MjZJVnBrOVg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-23T21:12:15.000Z"
+    },
+    {
+      "title": "Complete Ambient AI RFP Template",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJTFBIQmVpX3E4Ukl0cDNXN1BKcXR6RkVYeEEyMFRiUWVoSXJaOTk5RFkzQlg5T1RrN0RsT0hKeUQzVm1nOWR2NnRqLUZEak9hVFR2dks3clE5eEF0RkxBdldnYXhBVkhLaXB5aU1vNnZHV2dmQk5xcnRSQnVGN1E?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-23T21:10:13.000Z"
+    },
+    {
+      "title": "MaineGeneral Health’s blueprint for AI scribe success",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQXhKSlE5eG5FbV9KZnMtdm90ckg1RVVaWFZFalNHOWV0UmpKMFhBaVRHNGpJbFlEekZMb3NrbUFka0lQZlVIWi1Ta1dramNUWExMRWgyMDVUT3F1TG9GWWp6Q1VXcEIzS2lTaER5Y29JdUUtb1c5Tk5DTk9VMlVuc01tNTRWYW9SRjhFbDI4Q0xMaUp4?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-23T21:05:28.000Z"
+    },
+    {
+      "title": "Science Corp launches vision-restoring PRIMA implant in Europe",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdWxXdHFtWGpJNC1DbjkzZm5kTVBMcUVSbzkzeDg5MUR0QUU2bHN1VHJVN2ZneVNSdU1FXzgyYWxNOS1sNWxtcFpDOUZTUGRoN3ZQU3VmZWg2bmcxUm1pMUR5UkFJUFBqVG82UHppcVdGb1BJdjY1bktmdnR6RVlDUHpTMU1oTktsaEluLXhNamJIRWVLU3B2OUh6MA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-23T20:26:23.000Z"
+    },
+    {
+      "title": "Teladoc launches AI-driven platform for 'new era of connected care'",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1dPYUVublBtdnJtWm5XTmNmYThITHZlaWFkVFExWGVOekdZRHFhYkhmbnpEU2lXM1E1N2NfSGNNMVRsbFJhd1dhbXk4SEFlcF9wRHd5SjdvVlNTMzJ1Vk84YWViQU9CMlZkb1IwS0pyeWFxSUExUEllUXU0WVlTeFJZSmxHMk9yeWtTeHczd2d1b1NoVFpJSXZFYlc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-23T18:52:15.000Z"
+    },
+    {
+      "title": "Suki extends partnership with Austin Regional Clinic",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaEQ5S0xCSVRjcmpTSnk3QXRfa2ZlWlBwR3BDZlR5clNaZjZxdHF4RzB6elRnWnM3RzlZVkd1ZnRic0pmOVl4ZExLQVFuN1k1eDVMNkZJWVpFMDVMMUVGaDZJeFRibDZMSi1yVFM5cWkxTWNDOGIzZWZBZ1o0QzMwQUpXblhPREp1UzRB?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-23T18:29:34.000Z"
+    },
+    {
+      "title": "How Sentara Health built an enterprise AI literacy program",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUTlac0FPUTBHM2pmVG82a2kxaGNFenYwZGtJNXY2ZjdEZnpTV1NKRE9JZ0YzZGVNQzFwaWhSX2V3aG1pOXpDZVE1cE03cW5ZeFIxQUpCRkROcmlwcmlnd0ZxR2ptLXk0OEswdHg4SHpwUHdQcjRwU0F3NjA2OEJKd2hZZldPRDdWT21aZEh1dFVXTjJYcVpvNA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-23T15:48:16.000Z"
+    },
+    {
+      "title": "Teal Health, UC Davis launch at-home cervical screening pilot",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc0ZUcnBkaWxZWGRSM05RT0d2Zng4SFljV0lYSE8tOVluZ29YZ3Q2bWVDakJCektITUhhaWFIWVItTVIwb1JOYTBoYmhaZ2ZjYnJUR2tLTm5FWWJnQUFSRzAybS1rd3dyNXJ4WVp3NkppQUthd3lpbWl0M3A0QS1YQUg0cDhlSVVqU1Y2QlN3VjV4ZHFybmhxVw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-23T15:00:00.000Z"
+    }
+  ]
+}
