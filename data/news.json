@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T21:59:46.201Z",
+  "generatedAt": "2026-08-02T21:58:50.520Z",
   "sources": [
     {
       "id": "stat",
@@ -24,6 +24,38 @@
   ],
   "count": 120,
   "items": [
+    {
+      "title": "STAT+: Michigan Supreme Court ruling allows probe into Lilly insulin pricing",
+      "link": "https://www.statnews.com/pharmalot/2026/08/02/michigan-supreme-court-ruling-allows-probe-into-lilly-insulin-pricing/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-08-02T18:14:14.000Z",
+      "snippet": "Lilly was accused of charging “grossly” excessive prices for different insulin products that forced some patients to ration or forego the drug."
+    },
+    {
+      "title": "4 Notable Health Tech Funding Announcements in July",
+      "link": "https://medcitynews.com/2026/08/4-notable-health-tech-funding-announcements-in-july/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-08-02T14:39:00.000Z",
+      "snippet": "Health tech companies made several major funding announcements in July. Here is a list of some of the biggest funding rounds. The post 4 Notable Health Tech Funding Announcements in July appeared first on MedCity News."
+    },
+    {
+      "title": "The Next Phase of Value-Based Care: Why Specialty-Led Models Will Define the Future of Healthcare",
+      "link": "https://medcitynews.com/2026/08/the-next-phase-of-value-based-care-why-specialty-led-models-will-define-the-future-of-healthcare/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-08-02T13:36:00.000Z",
+      "snippet": "The future of value-based care will hinge on empowering providers, and specialists in particular, with the data and strategic partnerships to proactively manage patient health beyond traditional clinical settings. The post The Next Phase of…"
+    },
+    {
+      "title": "​Hope Is Not a Soft Concept, It’s a Strategic Imperative in Cancer Innovation",
+      "link": "https://medcitynews.com/2026/08/hope-is-not-a-soft-concept-its-a-strategic-imperative-in-cancer-innovation/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-08-02T13:31:00.000Z",
+      "snippet": "Hope is a catalyst for scientific ambition. It encourages researchers, clinicians, investors, and innovators to pursue solutions where none currently exist. In oncology, many major breakthroughs begin with the belief that a better answer is…"
+    },
     {
       "title": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
       "link": "https://medcitynews.com/2026/07/healthcare-moves-layoffs-2/",
@@ -433,14 +465,6 @@
       "snippet": "“The next 10 years of mycetoma care will determine whether it remains a story of neglect or becomes one of collective action,” writes Borna Nyaoke-Anoke."
     },
     {
-      "title": "Is it safe to drink Red Bull and alcohol? Questionable research tied to energy drink giant has shaped policy",
-      "link": "https://www.statnews.com/2026/07/30/red-bull-funded-studies-energy-drinks-alcohol-shape-policy/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-07-30T04:05:00.000Z",
-      "snippet": "Studies tied to Red Bull helped block warning labels about drinking alcohol along with energy drinks. Independent studies report risks in mixing the two."
-    },
-    {
       "title": "Doctronic Acquires Summer Health to Expand into Pediatric Primary Care",
       "link": "https://medcitynews.com/2026/07/doctronic-acquires-summer-health-to-expand-into-pediatric-primary-care/",
       "source": "MedCity News",
@@ -481,35 +505,11 @@
       "snippet": ""
     },
     {
-      "title": "Vendor Notebook: New AI releases span a spectrum of healthcare touchpoints",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcUNYb3FGRVE1dTlBWlhncHNQU0JnNXJ2cy1ROTNpVkRhNS04NjJDU3BiaDlTb0JOcnNDZVAxLXg2a1gxb19DNUU1anoyT0FHZTBPRnQ5VGJiSjh2UkpUWU1RcWhUU3ZESzk1MHNZRFBqa0F3UzVSZGoyYmYtVzJpMzVtcF9JZUIxX05rRFR6VzVra29mN1ZFYmNYdHg3N1dNMllmRjFmNjc4UQ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-07-29T18:05:10.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Two visions for ambient AI and the future of the EHR",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTRUQVFSNWJXYno0bDJxZkllNzVQRmltOGZXU3k4WnJvbE9WcGtqMWc3ZGw0bC1DQkR3cjlpcm1wNXkzM1dETnAzY1AwMnNDemduSEtJQnk4UUx1RWZjQ0xwU2tCR1FyRDJXNFdWRm5uWGdBczZOWTROX05Td05UUg?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-07-29T16:59:50.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "ACS taps Arcadia to modernize surgical quality data",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa0Fma2JYOUY2ZlJnQXZYVFJDWHNKR0JMNUhvMXVRR1FlZkJqWTlKMkJ0aGNGZWdHb0FNZTFCTUVuNVRmdXVnc2hncGFTbW9IWGFoR1N1QVhRS0xOR2hwZXNURVR6Q09zX1hjMU4tRGdpQ3dCaUZfaWJNMG9MUGhlTVNCVW9mY1lxVGlacw?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-07-29T14:54:29.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "New research framework aims to assess and track clinical AI models",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFRmTHQ5N25DUko3eDJfMUIxd1N3VGhfcGZqb1ZHb254cXpid1d5SXFZVFVzaTFabDF1dlB4RVIwejk3cnBIY3oxRTZKMlhPaTZ2cGdSNUlHM2NSVmVZUmdxVkl1UGJ3cEV2RnN4RnJNTnVCcmFuV19sMWh5M0ZVVkdQX3ZNSUNPWlNwNWtZd054c3RUb1M0em9HOEZlOEhMNmd3?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-07-29T14:13:55.000Z",
       "snippet": ""
     },
     {
@@ -673,11 +673,35 @@
       "snippet": "A few minutes of interaction with a digital tablet and speaking can reveal patterns that once required advanced imaging, years of observation, or were just completely undetectable. The post Spotting Alzheimer’s Years Earlier Through AI and…"
     },
     {
+      "title": "DarioHealth announces $23.5M registered direct offering",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONFVTSWNHNVZxSDhGT1pfWHVmaVliSGE0Rm56cEgyRklGdTYyTmtjMGVQVWRjTFYwN0VhaDJJN2JNaldheGsydG9zLS1Nc3lSM0ZQQ1pRQnVCRTJEUVM2WUl1eUR2WnpNc3lmQ2RHNUpXSFNYcUNiNGZBS3JxSE8xcmxoNkdFaTNlblptSS1CeDllT0U?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-28T13:13:10.000Z",
+      "snippet": ""
+    },
+    {
       "title": "AI predicts early stroke in solo-living seniors using smart home data",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON1I4T2ZYSWlucmNsYWZRVlFZcDAwNHdkQ2xWUTNCLVBHMzJTYjV2RmVIR09GOTA1N0hoQkFYZzFYQkFqRkZWTHI3ZE50enhSU0xJQzROdXluSGFFckNVMzQ3WHhpMGVoaFozMHBVTGFTMnBqWTZwOFFHOE5zbW4zckZWcklGVlJnc1M0VFBSZnpTOTB6TXZKdmNXLXR0Sm5IdmpLSWtSZU9SaWM?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-07-28T12:12:40.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "AI app in India provides multilingual support to cancer patients",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2lFZXdYTkFoOHF3WlBpQjJuVl96Z1drejZneEF0ZktGVzhPNGFOazZsTkFsSmJWZ0tzWV9RWkxnUHRXWHhOaDF3OHZVX1JYY2lsSVFVNS1WUEliVkgtSEFFeEcxZVY3LTNyWnhjUGs0Q25RczcyMlBZeUdXWHBSRFFCWjlpVjJFN1JJTnFYaHVsMFFZeWVyMmpKeVpZZnFS?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-28T12:12:28.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "It starts in the room",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KZ0hBb1FId3ZsY1A1WVhydHE4TlNIOXRxU3RMOVNGZTNhQl9JVGVXczBKSW5RVHJDX0lJTXIwc2w2ZVF6REVrb3VkUUtwZFBId0ZnRXFDTWM1SFBrYjNxVGsxZFRqWUxG?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-07-28T08:13:23.000Z",
       "snippet": ""
     },
     {
@@ -799,38 +823,6 @@
       "sourceId": "medcity",
       "date": "2026-07-27T11:30:00.000Z",
       "snippet": "[Sponsored] On a recent webinar sponsored by Verato, panelists from SCAN Health Group and the Alliance of Community Health Plans discussed how their organizations are meeting the moment. The post AI Readiness Starts with Solving Healthcare’…"
-    },
-    {
-      "title": "What Happens When Patients Trust AI Over Their Doctor?",
-      "link": "https://medcitynews.com/2026/07/ai-chatbot-healthcare-law/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-07-27T11:29:25.000Z",
-      "snippet": "As patients increasingly bring AI chatbot advice into exam rooms, where does liability land when that advice goes wrong? Health law attorney Meghan O’Connor said the answer still isn’t clear, but silence is the riskiest response for provide…"
-    },
-    {
-      "title": "Crystalys Therapeutics Tacks On $130M for Pivotal Tests of Gout Drug",
-      "link": "https://medcitynews.com/2026/07/crystalys-gout-urat1-inhibitor-dotinurad-arthritis-inflammation/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-07-26T23:26:11.000Z",
-      "snippet": "Crystalys’s dotinurad is currently in pivotal testing for gout, a prevalent inflammatory disorder with few treatment options. The drug has the same mechanism of action as a molecule that Sobi added to its pipeline through a $950 million acq…"
-    },
-    {
-      "title": "Candid Health Snags $120M for AI RCM Platform",
-      "link": "https://medcitynews.com/2026/07/candid-health-snags-120m-for-ai-rcm-platform/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-07-26T14:27:00.000Z",
-      "snippet": "Candid’s Series D round was led by Sixth Street Growth, with participation from Oak HC/FT, 8VC and Y Combinator. The post Candid Health Snags $120M for AI RCM Platform appeared first on MedCity News."
-    },
-    {
-      "title": "Investor",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ0xzRXBhVExpd2xKUGxNbUFWY3V5NVRiYTFkWjRxY05hYzdYRXdremNITW4xa25PX2c0UHBtbnpjenpsb2w1emJYbWFvdzBkTGQtTUg3ODNRSzBTLXlzSzVURll1Um1qNHZtQnN4R1hiQzZHT19yTFM0NXN2bGtFdU5RQlBHbE5CQW1hX280QlBxdUlrUnhKUkNXZUluN1ZOVlFFVmYwSFVjVUUxalFUTmp6VE85UWpPRDJ4NVpDWXBTYmRVRl9SZy1vTzl5Nk1GSmZuMkN4cWx4OHp2TTAyRnE3ejFFM3VLYWhoaENpcUJtZw?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-07-25T19:21:19.000Z",
-      "snippet": ""
     },
     {
       "title": "Hilo",
@@ -982,6 +974,14 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-07-23T15:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Cross-training optimizes Duke's virtual nursing care",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVg5ZWZXTF9ITTNoUjNESTZMemZTbUlpcnBIWlVabUN4QzdvSVZBd1pHbnlIenJvQWRoc1JCOW1YQW5XSG83eC02dWJ6ZEpSU1JmcmVOb3RIcm9IRG4tRTZ0ODI3eWRydnpZRTg1TzhZaFMwWlA4WkRoQUlPQlZxRE5HVDRMVEI4NXZNVHprUlVxZw?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-23T13:46:43.000Z",
       "snippet": ""
     }
   ]

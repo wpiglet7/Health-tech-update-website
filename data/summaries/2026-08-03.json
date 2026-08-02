@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-02T21:58:53.668Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 8,
+  "sources": {
+    "STAT News": 1,
+    "MedCity News": 3,
+    "MobiHealthNews": 3,
+    "Healthcare IT News": 1
+  },
+  "summary": "Health-tech funding continues momentum with DarioHealth announcing a $23.5 million registered direct offering among other notable investment rounds in July, while the sector grapples with pricing pressures as a Michigan Supreme Court ruling enables investigation into Eli Lilly's insulin pricing practices over accusations of \"grossly\" excessive charges that have forced patient rationing. The industry is simultaneously shifting toward specialty-led value-based care models that emphasize equipping providers with better data and strategic partnerships to manage patient health proactively outside traditional clinical settings. Innovation is advancing on multiple fronts, including AI-powered patient support tools like a new multilingual cancer care app in India, while operational improvements such as cross-trained virtual nursing teams at Duke demonstrate efficiency gains within existing health systems. These developments reflect the sector's dual focus on financial sustainability, pricing accountability, and technological advancement to address both access and quality challenges.",
+  "items": [
+    {
+      "title": "STAT+: Michigan Supreme Court ruling allows probe into Lilly insulin pricing",
+      "link": "https://www.statnews.com/pharmalot/2026/08/02/michigan-supreme-court-ruling-allows-probe-into-lilly-insulin-pricing/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-02T18:14:14.000Z"
+    },
+    {
+      "title": "4 Notable Health Tech Funding Announcements in July",
+      "link": "https://medcitynews.com/2026/08/4-notable-health-tech-funding-announcements-in-july/",
+      "source": "MedCity News",
+      "date": "2026-08-02T14:39:00.000Z"
+    },
+    {
+      "title": "The Next Phase of Value-Based Care: Why Specialty-Led Models Will Define the Future of Healthcare",
+      "link": "https://medcitynews.com/2026/08/the-next-phase-of-value-based-care-why-specialty-led-models-will-define-the-future-of-healthcare/",
+      "source": "MedCity News",
+      "date": "2026-08-02T13:36:00.000Z"
+    },
+    {
+      "title": "​Hope Is Not a Soft Concept, It’s a Strategic Imperative in Cancer Innovation",
+      "link": "https://medcitynews.com/2026/08/hope-is-not-a-soft-concept-its-a-strategic-imperative-in-cancer-innovation/",
+      "source": "MedCity News",
+      "date": "2026-08-02T13:31:00.000Z"
+    },
+    {
+      "title": "DarioHealth announces $23.5M registered direct offering",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONFVTSWNHNVZxSDhGT1pfWHVmaVliSGE0Rm56cEgyRklGdTYyTmtjMGVQVWRjTFYwN0VhaDJJN2JNaldheGsydG9zLS1Nc3lSM0ZQQ1pRQnVCRTJEUVM2WUl1eUR2WnpNc3lmQ2RHNUpXSFNYcUNiNGZBS3JxSE8xcmxoNkdFaTNlblptSS1CeDllT0U?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-28T13:13:10.000Z"
+    },
+    {
+      "title": "AI app in India provides multilingual support to cancer patients",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2lFZXdYTkFoOHF3WlBpQjJuVl96Z1drejZneEF0ZktGVzhPNGFOazZsTkFsSmJWZ0tzWV9RWkxnUHRXWHhOaDF3OHZVX1JYY2lsSVFVNS1WUEliVkgtSEFFeEcxZVY3LTNyWnhjUGs0Q25RczcyMlBZeUdXWHBSRFFCWjlpVjJFN1JJTnFYaHVsMFFZeWVyMmpKeVpZZnFS?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-28T12:12:28.000Z"
+    },
+    {
+      "title": "It starts in the room",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KZ0hBb1FId3ZsY1A1WVhydHE4TlNIOXRxU3RMOVNGZTNhQl9JVGVXczBKSW5RVHJDX0lJTXIwc2w2ZVF6REVrb3VkUUtwZFBId0ZnRXFDTWM1SFBrYjNxVGsxZFRqWUxG?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-28T08:13:23.000Z"
+    },
+    {
+      "title": "Cross-training optimizes Duke's virtual nursing care",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVg5ZWZXTF9ITTNoUjNESTZMemZTbUlpcnBIWlVabUN4QzdvSVZBd1pHbnlIenJvQWRoc1JCOW1YQW5XSG83eC02dWJ6ZEpSU1JmcmVOb3RIcm9IRG4tRTZ0ODI3eWRydnpZRTg1TzhZaFMwWlA4WkRoQUlPQlZxRE5HVDRMVEI4NXZNVHprUlVxZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-23T13:46:43.000Z"
+    }
+  ]
+}
