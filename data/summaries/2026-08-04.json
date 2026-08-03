@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-03T22:11:14.371Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 30,
+  "sources": {
+    "MedCity News": 6,
+    "STAT News": 14,
+    "MobiHealthNews": 3,
+    "Healthcare IT News": 7
+  },
+  "summary": "Today's health-tech landscape shows tension between innovation incentives and healthcare access alongside significant industry consolidation. A California Supreme Court ruling favored Gilead in a \"duty to innovate\" case, while Medicare is simultaneously tightening pathways for breakthrough devices to access extra payments, signaling stricter scrutiny of expedited reimbursement. The sector saw notable M&A activity including a Supernus-Indivior merger to create a CNS-focused company and reports of potential pharma mega-deals involving AstraZeneca and Bristol Myers Squibb, though investor concerns about valuation are emerging. On the access front, rural telehealth adoption continues lagging urban areas across chronic conditions, and a major health system-insurer contract dispute in Virginia threatens coverage for 380,000 people. Meanwhile, AI implementation in healthcare is moving forward unevenly—hospitals struggle to sustain AI projects despite promising applications in disease surveillance and diagnostics, while concerns mount about AI scribes affecting clinical education. Funding remained robust across digital health and biotech, with notable raises for genome sequencing and AI-powered diagnostic tools.",
+  "items": [
+    {
+      "title": "Report: Telehealth Uptake Is Lagging in Rural Areas",
+      "link": "https://medcitynews.com/2026/08/report-telehealth-uptake-is-lagging-in-rural-areas/",
+      "source": "MedCity News",
+      "date": "2026-08-03T22:02:23.000Z"
+    },
+    {
+      "title": "STAT+: California Supreme Court sides with Gilead in ‘duty’ to innovate case",
+      "link": "https://www.statnews.com/pharmalot/2026/08/03/california-supreme-court-sides-with-gilead-in-duty-to-innovate-case/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-03T20:56:25.000Z"
+    },
+    {
+      "title": "Throne Science raises $10M for AI toilet sensor",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZlp2U01tZGFYTWVCMGctTG5BajlqVXVKMFpPZFNZQms0Z283OFJrYXNza3BPVW1HcTlwNVF2aGNiVldDdEZKMGdyN2tubzU1SURwbVNqdWNja1BWUVBTeExXbHRZWjFjSW11bU5kWmtnMWFva1BySDgydllUV0ttdXkwWGU?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-03T20:35:06.000Z"
+    },
+    {
+      "title": "Whole genome sequencing company Inocras raises $31M",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYWtjTXU3ME5pXzJVQ01iZlhUcm9YTm9ERE9zcEg2LW55ZzgzUy01MGl3c2pleG9mZzJ1WlEtOGswenotVVp6Z05yS1UyaVFqX3F0MVZvWTlESU9mXzdEZkVaeVlSZEIxQmZaemNJR0VrUF9ncjZ0V0dOWTNNb0gweUk1WTgxT1J4czI5VGVjMA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-03T20:14:57.000Z"
+    },
+    {
+      "title": "Supernus and Indivior to Merge, Forming a New CNS-Focused Pharma Company",
+      "link": "https://medcitynews.com/2026/08/supernus-indivior-merger-neuroscience-cns-supn-indv/",
+      "source": "MedCity News",
+      "date": "2026-08-03T19:54:37.000Z"
+    },
+    {
+      "title": "STAT+: Eli Lilly to allow more patients to apply for special access to unapproved obesity drug",
+      "link": "https://www.statnews.com/2026/08/03/eli-lilly-retatrutide-mystery-patient-doctors-seek-same-access-their-patients/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-03T17:27:38.000Z"
+    },
+    {
+      "title": "NYU Langone, Dana-Farber join forces to advance oncology decision support",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNblpJMm5HY1dQQzdpY1M0ZTVVWnctcVFDTm8zRG9WRE5wa0lodWlqajNFQnE0dl9xemxJYng0UWlVVXZjcDA1TkNOMXRwUmdJNFJXVGR6d0FtOF9UbXVPeVJJSGJVc01hZ3NMTS1pOXlHZWc2ZzROYUEzRGUzUWp4UjIzeDlZY3JwOW5tYnhZUHg3WW9sdW1GeHVoMjhzRjl6dHZzTkp6MHpTY1U?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-03T17:17:48.000Z"
+    },
+    {
+      "title": "AI alone cannot solve Rx translation",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53dUFZYTc5OHRiblVZeHZIZTRwV3lETE43ZncxalpXUUFHU25CYnhwMTN3Z3NXNEZtclJxSExxS3lFR1FEcWNJY2lNWTA1TUg2elBLUWtRSHBnRXB5ZW1KSkswVm9MaERMdFJIT0I0MkpvankxY3BjdXJMSHZ6ems?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-03T17:11:40.000Z"
+    },
+    {
+      "title": "Michigan reports the first 2 U.S. deaths related to a diarrhea-causing parasite",
+      "link": "https://www.statnews.com/2026/08/03/cyclospora-outbreak-two-fatalities-reported-michigan/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-03T16:59:11.000Z"
+    },
+    {
+      "title": "STAT+: Medicare eliminates key pathways used by ‘breakthrough’ devices for extra payments",
+      "link": "https://www.statnews.com/2026/08/03/cms-fda-breakthrough-devices-payment-pathways-eliminated/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-03T15:41:43.000Z"
+    },
+    {
+      "title": "From Ethics to Trust: Strategic Guardrails for Safe, Secure, Effective AI in Healthcare",
+      "link": "https://medcitynews.com/2026/08/from-ethics-to-trust-strategic-guardrails-for-safe-secure-effective-ai-in-healthcare/",
+      "source": "MedCity News",
+      "date": "2026-08-03T13:46:00.000Z"
+    },
+    {
+      "title": "Novel imaging technique may detect disease earlier",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPREtudG5sVkQ0dVlVNG9FQnpSWTF0ZWF5OGNCVnJnUEk2VzZFQ3VMYXVGdTZLd2RYQTdhRlBhcjBUeEhIUzZ3QTF5c3IteWNnaTA0ejQ2WlVyQWVkWkwyN1JDSDd5d056dGRia1R3MFNtQl9wUmUyWjVUcXJmTXJmcXkzNUZHMm9tcXFqckRGREk?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-03T13:24:48.000Z"
+    },
+    {
+      "title": "STAT+: Is there a pharma mega-merger in the making?",
+      "link": "https://www.statnews.com/2026/08/03/biotech-news-is-there-a-pharma-mega-merger-coming-astrazeneca-bms/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-03T13:18:23.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about AstraZeneca-Bristol merger talks, a revised 340B plan, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/08/03/astrazeneca-bristol-merger-talks-340b-rebate-plan-revised/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-03T13:11:09.000Z"
+    },
+    {
+      "title": "Beyond Adoption: The Habits Shaping Digital Health",
+      "link": "https://medcitynews.com/2026/08/beyond-adoption-the-habits-shaping-digital-health/",
+      "source": "MedCity News",
+      "date": "2026-08-03T13:02:00.000Z"
+    },
+    {
+      "title": "New York’s assisted-dying law moves forward",
+      "link": "https://www.statnews.com/2026/08/03/health-news-new-york-assisted-dying-law-moves-forward/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-03T12:58:15.000Z"
+    },
+    {
+      "title": "How precision medicine is advancing with AI in Texas",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMXVDNkRYM1ZJRkhrUUZLQ1RUbEJYbmQzeFdLam0yRVhGRnRtRVM2Zm5tSjRyczVydFlrampnR0NBMWIxM3V5b0dHd2NoUEpsbXREaEJlUTBSNDRoMExKeHk4VGxPQ0ZzczBLS09OUzR4aHMyaTJ3SE91eEpXVXRUZDR4WEJzS00?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-03T12:37:00.000Z"
+    },
+    {
+      "title": "STAT+: Sandoz to pay $478.5 million to settle price-fixing allegations in long-running battle with states",
+      "link": "https://www.statnews.com/pharmalot/2026/08/03/sandoz-to-settle-price-fixing-allegations/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-03T12:12:51.000Z"
+    },
+    {
+      "title": "STAT+: BioNTech names Guido Oelkers its new CEO",
+      "link": "https://www.statnews.com/2026/08/03/biontech-ceo-guido-oelkers-ugur-sahin-replacement/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-03T11:25:39.000Z"
+    },
+    {
+      "title": "HIMSSCast: Hospitals struggle to sustain AI projects",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZG53Qi1yeWRwZUl6VnpzTmhJS09TU3RRekJsZlZpVWJlZWlMeW8xM0VJRzRNNkVETGxUeFhqOTdGWjJrTHFqV3hNMHdsUHZIQTI1S0NoSzlmaEFmempzQXdxRHlPVE15S0gyWU5JQ056V2VyUldETUtHUm5ZZjFNX2NRaTVDMW5pQkVIeUtnczBFd0ZEem1nT0xn?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-03T10:50:49.000Z"
+    },
+    {
+      "title": "Building resilient health systems with AI-powered disease surveillance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVWtmeWRrN3RqcEY5cXA2Q05CdFFDSDBTcW1malBMeDdYRmFwSzV3ejd5STQzdkVZa01ldEJCUTNnRlZqOGMzVFpZTDc3R2NYRFFDMGtDZU45Y0QtSW1iMWRlMlBOd003QjdKeTZmMHQ3bWt2T0lHLU1BbTFBR0VoSTZGdUJpMWN0ZlVncFJ5dmpTb1VlMjQybVBtWW0xLUUwbXBXTlNR?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-03T10:00:57.000Z"
+    },
+    {
+      "title": "NZ unveils digital security action plan and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTzRwSzBnVXdCYzVyWGdTMXBXb1lqMmFYQS02V1VnYkZra2RPQXZacTl3X284SXFKSG5UQ2xsRFFoaEpKOWZabF9tNHdXUVJPRWJHczE2TWxweE1mc0VhbkRwaVpmb2o3MERvcHRONXo0QXg0Nm82NDN4OGNVTnBmZGVkdDhGd0xxUnh4RFRVTGVpUEtvdXd2WElybGlhdw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-03T08:50:52.000Z"
+    },
+    {
+      "title": "STAT+: Are AI scribes useful tools in medical education, or a crutch that imperils learning?",
+      "link": "https://www.statnews.com/2026/08/03/ai-scribes-medical-education-learning-tool-cognitive-crutch/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-03T08:30:00.000Z"
+    },
+    {
+      "title": "Heart transplant candidates fail if they get too weak. New program tries inpatient prehab",
+      "link": "https://www.statnews.com/2026/08/03/heart-transplant-prehabilitation-cardiologist-discusses-innovative-project/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-03T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: I’m a neurologist. I’ve delivered ALS diagnoses. Then I received one myself",
+      "link": "https://www.statnews.com/2026/08/03/als-diagnosis-neurologist-research-hope/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-03T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: We lead the Federation of State Medical Boards. Here’s what we think about licensing AI to practice medicine",
+      "link": "https://www.statnews.com/2026/08/03/ai-doctors-licensing-state-medical-boards/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-03T08:30:00.000Z"
+    },
+    {
+      "title": "AI could help spot heart failure signs earlier, AHA report shows",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdzJhd0tWRExjbUhZOGNEd1VGem43bDZuVHVuWC1PNkVxQ1VmS2VtN2lpVXdjcnpldmxoRjJEeFNLR1lLZEtVNlM4X3dKcWZla1ZWbENZekJlWE9SLTBDbGRfZzJ0ZndZb2tHZkdLREhSY2hLbmNnSnRoQ0NYQWRhMG1saVBSUnB5MEo0bXBQWGFZZ1ZjQkhYMHpNNXlFNU1wb2xZ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-03T05:30:45.000Z"
+    },
+    {
+      "title": "‘We’re Not Going to Be Bullied’: Sentara Digs in on Anthem Contract Fight",
+      "link": "https://medcitynews.com/2026/08/sentara-anthem-insurance/",
+      "source": "MedCity News",
+      "date": "2026-08-03T01:56:44.000Z"
+    },
+    {
+      "title": "STAT+: Senate measure would block Trump plan to politicize federal grants, for now",
+      "link": "https://www.statnews.com/2026/08/02/senate-would-block-white-house-control-over-research-grants/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-02T23:55:12.000Z"
+    },
+    {
+      "title": "Apnimed’s IPO Bags $192M for What Could Become the First Oral Sleep Apnea Drug",
+      "link": "https://medcitynews.com/2026/08/apnimed-ipo-apmd-obstructive-sleep-apnea-osa-oxnimbi-atomoxetine-aroxybutynin/",
+      "source": "MedCity News",
+      "date": "2026-08-02T22:41:38.000Z"
+    }
+  ]
+}
