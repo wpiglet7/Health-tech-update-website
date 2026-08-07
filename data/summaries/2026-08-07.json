@@ -1,0 +1,202 @@
+{
+  "date": "2026-08-07",
+  "generatedAt": "2026-08-07T01:01:10.636Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 31,
+  "sources": {
+    "MedCity News": 7,
+    "STAT News": 16,
+    "MobiHealthNews": 4,
+    "Healthcare IT News": 4
+  },
+  "summary": "The regulatory and innovation landscape saw significant movement this week across vaccines, oncology, and healthcare operations. The FDA approved Moderna's mRNA flu vaccine mFLUSIVA and Replimune's melanoma treatment after previous rejections, marking wins for both companies despite some ongoing uncertainties with the CDC and in regulatory processes. Meanwhile, concerns about Medicare decision-making surfaced in reporting on a seven-year delay in price negotiations for an AbbVie drug and limited patient awareness of the ACCESS chronic care pilot program. On the technology front, health systems are increasingly adopting AI-powered tools to reduce clinician burden through ambient scribing and clinical decision support, while also taking cautious approaches to broader AI adoption, and healthcare organizations are experimenting with new delivery models including drone delivery and tele-ICU services. The week also touched on broader policy questions, including a Senate move to hold Anthony Fauci in contempt over his Covid role and an opinion calling for a 9/11 Commission-style investigation into the U.S. pandemic response.",
+  "items": [
+    {
+      "title": "Moderna Gets FDA Approval for mRNA Flu Vaccine, But CDC Input Still Uncertain",
+      "link": "https://medcitynews.com/2026/08/moderna-flu-vaccine-fda-approval-mflusiva-acip-cdc-mrna/",
+      "source": "MedCity News",
+      "date": "2026-08-06T23:11:39.000Z"
+    },
+    {
+      "title": "Report: What Employers Think About ICHRAs",
+      "link": "https://medcitynews.com/2026/08/report-what-employers-think-about-ichras/",
+      "source": "MedCity News",
+      "date": "2026-08-06T22:21:39.000Z"
+    },
+    {
+      "title": "STAT+: FDA approves Replimune melanoma drug previously rejected twice",
+      "link": "https://www.statnews.com/2026/08/06/replimune-melanoma-drug-rp1-fda-approves-phase-3-confirmatory-trial/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-06T19:59:28.000Z"
+    },
+    {
+      "title": "Atropos Health partners with Health Universe on AI clinical decision support",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmdPdmZQUGkzLW11VFBPaG5PeERoMzZwcU9CYjh1TTM4Z1V5bmFvY0Rvb0pwanpLQnVGS2ZVeWxGUmt6cjF6enBUdjhGM2hYeTA0TVZDVEhWaUp5cEt6VHdITVg1RExxTUdXbGNjWW51eDE0Tl80M2hRVHROVVZSM25VSnpKTUhVVGF1VzB0MklNME90WDh4MXZHNlFaamd4RnpCcE1vOA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-06T19:54:17.000Z"
+    },
+    {
+      "title": "Massive Bio named OpenAI Select Partner for oncology AI",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMklBa1ZEMjdRY3BiMkpBbkJkYmNJdlVpNW9tT3NwSElyRmU3TTd6X0RNSUh2VlpTaHF4MXlxQ2trb0pjWTZYb2NzeV9yc2JidzRWMmV1VlJrUnkwWVlyT21IQnhNWWtHaUphVFh1S0Z3eUUxUlBzdkZucmpqbVdleElvV0hGc2ZwNFV6c3ZvREI?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-06T19:42:14.000Z"
+    },
+    {
+      "title": "STAT+: Medicare quietly gave blockbuster AbbVie drug seven extra years before price negotiations, advocacy group asserts",
+      "link": "https://www.statnews.com/pharmalot/2026/08/06/medicare-gave-blockbuster-abbvie-drug-seven-extra-years-before-price-negotiations/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-06T19:00:00.000Z"
+    },
+    {
+      "title": "Operation Vital Signs: First-of-its-kind exercise stress tests health sector cyber resilience",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOckMzS1FxbTV3WTZnUXROYThMS2txTUNENkhlRGlNWnZZMHA1dXdUM1ZhQmdPX2ViX3k0ZlE4dTVjeHZVdm02OUhWVGxtQzhRYVBXemhSaFlhaGkzRGdoOFE2a0JDc2dmdEplVGU1NE5Mc1FmOTlBQmo5UUxMVTVNQUNCRmcxb3kwdUJaNnR3RHVVckF1WV9JSloyNjR2MTFVSTU3QlRRTlhxYU9ZbmtCS0YzSDl1WnVyX1lpcnFOMW9JNFZMMEE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-06T18:57:05.000Z"
+    },
+    {
+      "title": "Debunked Episode 29: CMS  GLP-1 Drug Pilot Program, RPM Strategy Raise Questions",
+      "link": "https://medcitynews.com/2026/08/debunked-episode-29-cms-glp-1-drug-pilot-program-rpm-strategy-raise-questions/",
+      "source": "MedCity News",
+      "date": "2026-08-06T18:28:03.000Z"
+    },
+    {
+      "title": "Cleveland Clinic taps Zipline for drone delivery to patient homes",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQekRteVQxblV6WEhGMzhtRkhUZWR2WU5xQW9kYmJiVWJYMzN6ZV80NWxzejNvdnctSGVKRFZ0aUhaU1dTRy1nS084dVhoZVRkU2RfVXZqYVRfVFc4YW1aTThRTXl4RlFuRHg0N2NJc0lvYl9rRUFYMWRIU1hBSDhUNkt3eVhNa1BjRkxOU0xtdkctLUdmWVdKX0pfOXY?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-06T16:41:46.000Z"
+    },
+    {
+      "title": "How proactive tele-ICU models are reshaping critical care",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORjZOdXlGczZPQ0xPS0pRTWYyZkdXUHVGeVlSX2RlYjJJQnJPS0ZKYUpaV0Z6YnBLZ0RwWGkzbTFraEJJdkFNWFpRR054Q2V3ODkzZGFmV0lhZkZzLTU5MVFQZk9lcEQ3c0JUWmM0bExmTjRTTjA3dzA4dlpNVDNmVjdfTVQtSVh5c0xYQllFMjl0WXpzRWY3YzN6OA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-06T16:33:27.000Z"
+    },
+    {
+      "title": "HealthSnap lands $25M for AI virtual care management platform",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNakxVRy0yY0VSWFdTZWZFX2VSXzFKRWlmWDM2b2ZVbHBJTW1BZ1N4RS1YYXJ1Ni1mX21Ed21zaGR0dlRjQzJtM0lqX253ZlRhZnhjUDlHRnMwMDIxUW52cDhwaTdVSVZsek9jbXhkV3JBbU1FSjNEWjhORy1rUW1OaEY4VGY3czlCTHRpNzV1THVScFRPZ25J?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-06T16:10:48.000Z"
+    },
+    {
+      "title": "STAT+: Study reveals new role for tau, a top target for Alzheimer’s drug development",
+      "link": "https://www.statnews.com/2026/08/06/research-finds-how-tau-targets-cells-structure-alzheimers-drug-development/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-06T15:00:00.000Z"
+    },
+    {
+      "title": "HIMSS AI Forum will continue within chapters",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEpPdm9rajhnbGNaeEVvdUVoZTNwdTNhVWd0dU9PbHB6aTFQblRsaHVudlBnR2kxcUJTV0NvLXFEaGI3SjdMNzF2YmNpUHZqcnQybC1WSWp6cEp1WmNlcTRTbWdybDMwR3NWRGdpdTlnSkgwOGI2OTlSZC05UWF3SHdicndubEMx?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-06T14:13:14.000Z"
+    },
+    {
+      "title": "STAT+: Two FDA approvals — a new drug and a new vaccine",
+      "link": "https://www.statnews.com/2026/08/06/biotech-news-two-fda-approvals-a-new-drug-and-a-new-vaccine/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-06T13:49:23.000Z"
+    },
+    {
+      "title": "U.S. moves to shut a Kentucky organ donation group, citing safety failures",
+      "link": "https://www.statnews.com/2026/08/06/us-to-shut-kentucky-organ-donation-group-safety-concerns/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-06T13:47:31.000Z"
+    },
+    {
+      "title": "Connecting the Dots: How Oral Health Can Enable Whole-Person Care",
+      "link": "https://medcitynews.com/2026/08/connecting-the-dots-how-a-unified-platform-enables-whole-person-care/",
+      "source": "MedCity News",
+      "date": "2026-08-06T13:40:00.000Z"
+    },
+    {
+      "title": "Opinion: The U.S. needs a 9/11 Commission-style independent body to investigate Covid response",
+      "link": "https://www.statnews.com/2026/08/06/covid-accountability-9-11-style-commission-needed-not-fauci-bashing/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-06T13:38:24.000Z"
+    },
+    {
+      "title": "Healthcare leaders take measured approach to AI adoption",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORnRCLWpWcHJNRUN1YUVybEplTEo3MlhUbnJLSnVVOHhZdWpQd0RNMjhMeWR3T21TQ1V0ejM1bVliT0Y4NGRMRmhIWnFhbGFaQkVUTzBWYUZCeTlnSkoyakQxMEgzU1NrZFhRc3NibjNvWlpjY2ljMWxTblRHUkpJZUx1eUR1dndTRHhhTFRLdUgxS1V5bUg0?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-06T13:38:00.000Z"
+    },
+    {
+      "title": "Should You Centralize Cold Chain Fulfillment? Only If You’ve Solved Distribution First",
+      "link": "https://medcitynews.com/2026/08/should-you-centralize-cold-chain-fulfillment-only-if-youve-solved-distribution-first/",
+      "source": "MedCity News",
+      "date": "2026-08-06T13:30:00.000Z"
+    },
+    {
+      "title": "Senate committee votes along party lines to hold Fauci in contempt of Congress",
+      "link": "https://www.statnews.com/2026/08/06/anthony-fauci-fifth-amendment-rand-paul-seeks-criminal-contempt/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-06T13:12:35.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Moderna’s flu shot, a death in a gene-editing trial in China, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/08/06/moderna-flu-shot-gene-editing-trial-death-pharmalittle-newsletter/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-06T13:03:26.000Z"
+    },
+    {
+      "title": "STAT+: Medicare pushes ACCESS but doesn’t tell patients what providers offer it",
+      "link": "https://www.statnews.com/2026/08/06/cms-medicare-pilot-access-patient-info-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-06T12:54:43.000Z"
+    },
+    {
+      "title": "Opinion: One year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was",
+      "link": "https://www.statnews.com/2026/08/06/mflusiva-fda-mrna-flu-vaccine-rfk-jr/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-06T12:10:18.000Z"
+    },
+    {
+      "title": "Covid can reactivate dormant viruses, according to study",
+      "link": "https://www.statnews.com/2026/08/06/health-news-covid-can-reactivate-dormant-viruses-study-finds/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-06T11:55:38.000Z"
+    },
+    {
+      "title": "STAT+: A scientist-turned-biotech executive is notching some wins, and enjoying it",
+      "link": "https://www.statnews.com/2026/08/06/greg-verdine-lifemine-parabilis-research/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-06T10:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Biotech’s next big bet: A Tenax study of a heart failure treatment",
+      "link": "https://www.statnews.com/2026/08/06/tenax-study-heart-failure-preview/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-06T10:30:00.000Z"
+    },
+    {
+      "title": "Opinion: What my colleagues and I will look for as we assess U.S. measles elimination status",
+      "link": "https://www.statnews.com/2026/08/06/measles-elimination-status-2026-paho/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-06T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: STAT+: Stop asking if AI is good for medicine",
+      "link": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-06T08:30:00.000Z"
+    },
+    {
+      "title": "FDA approves Moderna’s mRNA flu vaccine, the first to use the technology",
+      "link": "https://www.statnews.com/2026/08/05/fda-approves-moderna-mflusiva-first-mrna-flu-vaccine/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-06T02:18:37.000Z"
+    },
+    {
+      "title": "6 Ways UnityPoint Health Is Trying to Make Clinicians’ Jobs Easier",
+      "link": "https://medcitynews.com/2026/08/unitypoint-health-artificial-intelligence/",
+      "source": "MedCity News",
+      "date": "2026-08-05T23:48:31.000Z"
+    },
+    {
+      "title": "Curative, Wondr Health Team Up for Weight and Metabolic Health Support",
+      "link": "https://medcitynews.com/2026/08/curative-wondr-health-team-up-for-weight-and-metabolic-health-support/",
+      "source": "MedCity News",
+      "date": "2026-08-05T22:13:20.000Z"
+    }
+  ]
+}
