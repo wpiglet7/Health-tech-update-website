@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T21:42:38.485Z",
+  "generatedAt": "2026-08-08T21:34:27.816Z",
   "sources": [
     {
       "id": "stat",
@@ -24,6 +24,38 @@
   ],
   "count": 120,
   "items": [
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcHhENExKQXhlUlV5eW9pcHdPUTVZRTNTY19vei1ESWFsRHBndFFQVkVkdUFnR3V4bkZaaUdKOG5RSW9CM3NxQnZGSXdmUjFjSGRIeWJJUlo5VFhBcXBKalVvMUNIcFFBcFlqOTJrcF9OWkhPbno3UFdlLTBJOUQ5WEN6a1BaeUY2QWRLdkZIV3B2c1BDdUlRNXJB?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-08-08T05:03:41.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Bipartisan Lawmakers Are Fighting HHS’ 340B Rebate Push",
+      "link": "https://medcitynews.com/2026/08/340b-drugs-senate/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-08-07T23:09:32.000Z",
+      "snippet": "A bipartisan group of six senators introduced a bill to reform the 340B drug program, locking in hospitals’ use of contract pharmacies and adding new transparency and compliance rules. The legislation would also kill HHS’ contested rebate p…"
+    },
+    {
+      "title": "Recovery for Replimune: Accelerated Approval for Cancer Drug Twice Spurned by FDA",
+      "link": "https://medcitynews.com/2026/08/replimune-fda-approval-melanoma-oncolytic-viral-therapy-cancer-tudriqev-rp1-repl/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-08-07T22:08:34.000Z",
+      "snippet": "Replimune went from an FDA rejection to a resubmission, a positive advisory committee vote, and finally an accelerated regulatory approval for advanced melanoma — all in less than four months. The FDA nod for Replimune’s oncolytic viral the…"
+    },
+    {
+      "title": "Democratic Senators Urge Withdrawal of Interim Final Rule on Medicaid Work Requirements",
+      "link": "https://medcitynews.com/2026/08/democratic-senators-urge-withdrawal-of-interim-final-rule-on-medicaid-work-requirements/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-08-07T21:54:58.000Z",
+      "snippet": "Democratic senators are urging CMS to withdraw its Medicaid work requirements rule, arguing it will create administrative burdens and cause eligible beneficiaries to lose coverage. The post Democratic Senators Urge Withdrawal of Interim Fin…"
+    },
     {
       "title": "Claryx raises $3.5M to detect hospital infection outbreaks",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMXhpemw5R2xlX0RuN3NYVzA0cG1UMWhNMFRfR3IxQ1FxdXRacmlaemVWd0ZqMlQ4VTh2VVNUM2xfTkYxdkdyMWZvYlhCSDlIbUEyRURrVGxQZHVvSFk1SlVkLUhNbERtVGlSd2RpVXExdUM3ME5QRnNRcTBtemI3V1QtUFJMZVNJNk4zdmJ2dXBhWm8?oc=5",
@@ -159,14 +191,6 @@
       "sourceId": "medcity",
       "date": "2026-08-07T11:30:00.000Z",
       "snippet": "Scheduled for October 29 at Pegasus Park in Dallas, the theme of the INVEST Digital Health conference will be consumers in healthcare from d2c diagnostics to GLP-1 drugs and wearables. Register today! The post INVEST Digital Health Conferen…"
-    },
-    {
-      "title": "Eve Bender",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DTkxPX0dyUGh5SjE5TGZVV3lWVV9MUndwd3hKN2JKNGx3azBlenBKTWM4U0REVUtneGdvcURNaDBGOWsyVG5yMExDbVRfMEhCTzFwTzUxbzM3NzFiTHhvTElFTWpWZw?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-08-07T09:26:19.000Z",
-      "snippet": ""
     },
     {
       "title": "Opinion: AI won’t enhance physician autonomy. It will further diminish it",
@@ -721,14 +745,6 @@
       "snippet": ""
     },
     {
-      "title": "AI alone cannot solve Rx translation",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53dUFZYTc5OHRiblVZeHZIZTRwV3lETE43ZncxalpXUUFHU25CYnhwMTN3Z3NXNEZtclJxSExxS3lFR1FEcWNJY2lNWTA1TUg2elBLUWtRSHBnRXB5ZW1KSkswVm9MaERMdFJIT0I0MkpvankxY3BjdXJMSHZ6ems?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-08-03T16:07:05.000Z",
-      "snippet": ""
-    },
-    {
       "title": "From Ethics to Trust: Strategic Guardrails for Safe, Secure, Effective AI in Healthcare",
       "link": "https://medcitynews.com/2026/08/from-ethics-to-trust-strategic-guardrails-for-safe-secure-effective-ai-in-healthcare/",
       "source": "MedCity News",
@@ -753,27 +769,11 @@
       "snippet": "The products that succeed over time are usually the ones that make life easier, fit naturally into existing routines and continue delivering value long after the novelty wears off. The post Beyond Adoption: The Habits Shaping Digital Health…"
     },
     {
-      "title": "How precision medicine is advancing with AI in Texas",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMXVDNkRYM1ZJRkhrUUZLQ1RUbEJYbmQzeFdLam0yRVhGRnRtRVM2Zm5tSjRyczVydFlrampnR0NBMWIxM3V5b0dHd2NoUEpsbXREaEJlUTBSNDRoMExKeHk4VGxPQ0ZzczBLS09OUzR4aHMyaTJ3SE91eEpXVXRUZDR4WEJzS00?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-08-03T12:37:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "HIMSSCast: Hospitals struggle to sustain AI projects",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZG53Qi1yeWRwZUl6VnpzTmhJS09TU3RRekJsZlZpVWJlZWlMeW8xM0VJRzRNNkVETGxUeFhqOTdGWjJrTHFqV3hNMHdsUHZIQTI1S0NoSzlmaEFmempzQXdxRHlPVE15S0gyWU5JQ056V2VyUldETUtHUm5ZZjFNX2NRaTVDMW5pQkVIeUtnczBFd0ZEem1nT0xn?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-08-03T10:50:49.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Building resilient health systems with AI-powered disease surveillance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVWtmeWRrN3RqcEY5cXA2Q05CdFFDSDBTcW1malBMeDdYRmFwSzV3ejd5STQzdkVZa01ldEJCUTNnRlZqOGMzVFpZTDc3R2NYRFFDMGtDZU45Y0QtSW1iMWRlMlBOd003QjdKeTZmMHQ3bWt2T0lHLU1BbTFBR0VoSTZGdUJpMWN0ZlVncFJ5dmpTb1VlMjQybVBtWW0xLUUwbXBXTlNR?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-08-03T10:00:57.000Z",
       "snippet": ""
     },
     {
@@ -817,30 +817,6 @@
       "snippet": "Health tech companies made several major funding announcements in July. Here is a list of some of the biggest funding rounds. The post 4 Notable Health Tech Funding Announcements in July appeared first on MedCity News."
     },
     {
-      "title": "The Next Phase of Value-Based Care: Why Specialty-Led Models Will Define the Future of Healthcare",
-      "link": "https://medcitynews.com/2026/08/the-next-phase-of-value-based-care-why-specialty-led-models-will-define-the-future-of-healthcare/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-08-02T13:36:00.000Z",
-      "snippet": "The future of value-based care will hinge on empowering providers, and specialists in particular, with the data and strategic partnerships to proactively manage patient health beyond traditional clinical settings. The post The Next Phase of…"
-    },
-    {
-      "title": "​Hope Is Not a Soft Concept, It’s a Strategic Imperative in Cancer Innovation",
-      "link": "https://medcitynews.com/2026/08/hope-is-not-a-soft-concept-its-a-strategic-imperative-in-cancer-innovation/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-08-02T13:31:00.000Z",
-      "snippet": "Hope is a catalyst for scientific ambition. It encourages researchers, clinicians, investors, and innovators to pursue solutions where none currently exist. In oncology, many major breakthroughs begin with the belief that a better answer is…"
-    },
-    {
-      "title": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
-      "link": "https://medcitynews.com/2026/07/healthcare-moves-layoffs-2/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-07-31T22:21:11.000Z",
-      "snippet": "July has seen a slew of executive hires, exits and layoffs across the healthcare industry. For instance, Aledade, Providence and Whoop named new executives. There were also layoffs at organizations including Novartis, Adventist Health and W…"
-    },
-    {
       "title": "Samsung announces FDA-cleared smart ring for sleep apnea risk",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnBfODJkMkNwUjN4N1VkNXd5ekt1NjJ1NVFNNnhyNXdJTTV4a1FPSFZINjBBdWxneXBuVVdaYWNvV2UtQ2ZEYnRjbTdQZVRZdnVWT3NlVzh0WVFtY1JIa3h5WUUwVHRCaVRWYVpBWkFCcW5CdThESmN4VGNiSkNVOHUwb1N5QmIzZFFVZFZUVnlRb3FGZGRYUA?oc=5",
       "source": "MobiHealthNews",
@@ -849,27 +825,11 @@
       "snippet": ""
     },
     {
-      "title": "AI ambitions outpace healthcare's infrastructure",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRV9ualBPak03dE41UDRrOTlXV2t6OXR5N200ZlRMZlhVY2NFYWFiV1Y0WU5KMS1uVTNEYWJxUG4zdW0zZVJRcEdzU2E4NW92ZS1NbVJRVld2dU0wTW8xQ0dsX1hXR09LSm9jWk9Wb0MxNEtYeHpDLVBmOVN3LWdxZUJiS1UwaVA3UER4eVJn?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-07-31T16:53:44.000Z",
-      "snippet": ""
-    },
-    {
       "title": "New interoperability resources for adopting computable consent",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGdZVEJILUlrWkNfc2FjYk5ZVFpCOW9MY1VfWGtvYklZYXpfbHNEdjduX2d0MDkyQm5ZMTlyLUdVZHFHenlzZDM4MGxFSTVBdVdrY0hIdkxlcDVqUWhXTW96N0tSS29mMDJHa2UteC1RSktBUTcxbG9GcnRZMGZkUDhGZWprRmtGWDZCZUczTEQzazduNERsaXc3d0o?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-07-31T14:56:10.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "HIMSSCast: How uPerform is tackling healthcare software training",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2g5ZE5nRjRUYkI0ZGF6bGFkYV9ZNDAtSURlOGNZUUtobzNZRVpJUUVEbGpCUnh6SUZ4WUpuOVpXbGVfZ2lCVVQ2MEM0RlY1OHl6cnc4U182UTNVTFhnc1VKeGZaMEtYS1BfRG9rUTAtTjlWSnk1Y2tKblp3NnVHNUhhY1lBTXpJa0pMYWZIY2JfLXp1TzVSRDJEb2Q?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-07-31T14:40:42.000Z",
       "snippet": ""
     },
     {
@@ -905,27 +865,11 @@
       "snippet": ""
     },
     {
-      "title": "Children's Nebraska IT leader says innovation must become a core competency",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSzNmcjNxcGpOODFZYXBkdVlaeThoZ1h0MnRTSEx0QmNFUFNVTG1sUWNzdG5nWFZDTEVjYnVaNzdOak5CYVZ3MEd4cE4xcU1sbzZnWS1RZjByVDAzakdHdG9sU2l6d2hETi1GSHFSZS03MVlUYnRzSnNhYWZQUER1NlctY3NsNUUzMVFYR1ZwRE5TLVM0bHZiaE9VZElVUDA0NDdXcHhaYXkwbHpWYW9F?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-07-30T17:51:49.000Z",
-      "snippet": ""
-    },
-    {
       "title": "OpenAI to give up to 100,000 researchers free frontier AI access",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWWdwNW4xNFJybm45Wndwa205c25tWVJLRDYzUElobVVvZHM4RXZpSEViZ25jMUQyUjJmYTdfZWhyenVRTUJsdlY1NElvMWRSNThteVh0SEN0VjI2a1ZzQ0JYZnhHUkk2bTFvaVlCdy1jVGJSTkd4SVY0R1Y3RXJRQ01taWxULWk4NkRjWVp1bXBpUkVE?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-07-30T17:18:22.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "How one kidney care company built a solid AI foundation",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWnAxTXYxMjdRdTM0RGt6bC1zbG9Cc2tTc1NGajRQekdYM3ZVWUhpeHNtdzhyQ3RYWGVIS1RrUjEzYXQ4bGtsd0FMNHFKaFA1MmNjZURocVJLNURLTkFuNkM0ZTF0RGNpR1dndTlfTVNEaENYNlkzdVVhdEM5ZE9PMldaNThRanF3aWxLX0dFVy1lbHczUEE?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-07-30T16:15:23.000Z",
       "snippet": ""
     },
     {
@@ -942,14 +886,6 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-07-30T14:43:22.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "New approach to digital innovation in NZ public health system",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTVVLMWZLTEZDQWpWS0Q4bk04VHNwWlQyaHY1OFlOSnlmSzBiNENGYUo5RzdGckFWdmJYVmM1QTM3STV0SE1qS3NjRzFXbXg4akl3ZkRmYTFXUHd6aTdIOGI0akdTdUxjVUFCeWdCWl93Qk5saU8wTHhtVGt6Ri03T0YtcV9nbFl3SUxlVzU5d1pORElubmFPMkExbm5tdw?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-07-30T13:28:06.000Z",
       "snippet": ""
     },
     {
@@ -982,6 +918,70 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-07-30T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Between therapy sessions, some technologies can offer help",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaFdpMFFGWVFDMjdNVFp1N3A3SU02WWJ0bTJha19SaTRwaVppWDZHaUpWaG5jX05yRG90ME1fQUVwYkhubFYtc191M0lDN1EzQTVEOVJGbnh4TzEzSVVvbXpVOGRmbVBYQ1pxNV95VnUteHZrTE9oOV91Sm9xRTdpT3loYVVsM2w3bG1ULUQzeFlYVmhBeUUtQ2NxTDJCY1k4N1pN?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-07-29T19:59:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Research explores genomic AI's personalized care potential",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXZlR0ZQeTlsRWt0MlJNT2Y4RDJCcENFaUFzM05FNkRsYl90SWRnNXlpZ2VRN094ZDF5aXc3VlZES01LbXZqUEpjVFVuQlB0N2RYcUxHS0tLODV2bkpOTm1hMjVrN0t4WDZ0VEdXTjZPblFCakVpeVRtZXlpc1I3U0JTb204TDVrVnZUQ3d0bnhQYlFaZHhpUHFn?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-29T13:04:47.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Sheba Medical Center to deploy OpenAI healthcare platform",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmxNcElZeEg1MEozOUFZOUhld0lVOEYySEtYZVZuNHJkbjBEa2Jzak5XazhCUURmWV80VXc5RHRQZTRQX2k5NE80QVNoUHBOck9NRXhHMnBIWTE5MEpNVko5MVE4NDEybGZUdUozcVYwRmNkcXJOYndZVnpfLWtLaTdoS016eUQyajRMMGdtTjhaYTNV?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-29T12:21:14.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Doctronic acquires Summer Health, expands into pediatric care",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRXhGNkZvS2lrSnZpWVlMQXFsa3hqLTE5M3F2RDNiNHZDUWRzMU9pUFBTeEd5c05PSWQxN2UtMjJSd1A2VVFjNjI5cjQ4TjVXcm5ER0pWdm1vX1FoQTFXWnJOZ1dtVy1fUWtCeVFMMXJDXzRuWng1Ym9xaU10LVVIWDdXTlBaM0VFNldjX3lGYVlRU2VjY3c?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-29T12:10:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "BCG: Health systems missing AI's biggest patient access opportunity",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWhpeXVBT2lKU3NQVS1KaHhUMVhYRlBQUGM1czVoZGtUUmc2TW9FNUlBQkhjLXA3dUxidXlUZzQ4bjlacnRCa3REd3FTWW41MjFKTFFSR0t4ZkFmZFhuaHJqNE1hSFVCNVN2aFd4LTRUYkl4R3YzVU1DZFRGRXZWRWVBeldEMlJCaDVDZzB6UFdDZmZyX1hmeEF0QVBXYm43Nk1N?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-29T12:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "2026 Healthcare Trends Report",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN3pEaXJEVFlyR1RDdUpjWDkxeGxHb05GTnVIc3BsUWR4cXBDRHhCZ2g0ZkR2b09EQ0JoR3BVOVJYeXlfMndkUEtGOXluUlBqWnVKRnZsUzNfaUgteTc5bi1lTlhjMWp2MVUtTWNUcEVRRTItdGlFQmhIWQ?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-07-28T17:25:19.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "HIMSS research seeks to quantify AI's impact",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWUJiSml3Rmx1ZnhXT0dlZ21pUVFzZ2JHREdxX1NFdE8zOWM5WTdTWlQydXZaUi1BRF9ZaHJCdk1BNXNEYTQ1LUlLMDEtNGlqUG9qaVI0V0wtSERzX3AwNkxyemRBNHZFZkdYWk14UkRaWmxEbTIxS2RyYUZZYVhkSWxjdw?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-07-28T14:46:03.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "AI misdiagnoses raise new liability questions for health systems",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWNzRkhFemROb1ozVzRCa2dJSUpFSktfSXI3eE10ZzNvN3Z2aUZmZV8wd21hVUF0UW9kb2NGajd2QVd3NzBWcnRyUE5VQWlobDFQVGl3aDJEMEYySjBFeTdyUGRRaDV5UnJyV09QR3ZGZEtpdTdPMnRDcnN3NlRfWDk1WWh1ME9Obzg2OHVLLXpfZEN1ekFwSjNyVk1xdzQ?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-07-27T15:30:58.000Z",
       "snippet": ""
     }
   ]

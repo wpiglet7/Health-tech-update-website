@@ -1,0 +1,87 @@
+{
+  "date": "2026-08-09",
+  "generatedAt": "2026-08-08T21:34:32.176Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 12,
+  "sources": {
+    "MobiHealthNews": 6,
+    "MedCity News": 3,
+    "Healthcare IT News": 3
+  },
+  "summary": "A bipartisan group of senators is pushing back against the Biden administration's 340B drug program reforms, introducing legislation that would lock in hospitals' use of contract pharmacies while adding transparency requirements and blocking the administration's rebate proposal. Meanwhile, regulatory and clinical developments continue advancing innovation: Replimune secured FDA accelerated approval for an oncolytic viral therapy in advanced melanoma after rapid resubmission and advisory committee support, while OpenAI's healthcare platform is being deployed at Israel's Sheba Medical Center and Doctronic expanded its pediatric reach through an acquisition of Summer Health. On the policy front, Democratic senators are urging CMS to withdraw its interim final rule on Medicaid work requirements, citing concerns about administrative burden and coverage loss for eligible beneficiaries. The health-tech sector is increasingly focused on AI's clinical and operational impact, with research exploring genomic AI for personalized care, HIMSS quantifying AI's broader effects, and growing attention to both the patient access opportunities health systems are missing and the new liability questions raised by AI misdiagnosis in clinical settings.",
+  "items": [
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcHhENExKQXhlUlV5eW9pcHdPUTVZRTNTY19vei1ESWFsRHBndFFQVkVkdUFnR3V4bkZaaUdKOG5RSW9CM3NxQnZGSXdmUjFjSGRIeWJJUlo5VFhBcXBKalVvMUNIcFFBcFlqOTJrcF9OWkhPbno3UFdlLTBJOUQ5WEN6a1BaeUY2QWRLdkZIV3B2c1BDdUlRNXJB?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-08T05:03:41.000Z"
+    },
+    {
+      "title": "Bipartisan Lawmakers Are Fighting HHS’ 340B Rebate Push",
+      "link": "https://medcitynews.com/2026/08/340b-drugs-senate/",
+      "source": "MedCity News",
+      "date": "2026-08-07T23:09:32.000Z"
+    },
+    {
+      "title": "Recovery for Replimune: Accelerated Approval for Cancer Drug Twice Spurned by FDA",
+      "link": "https://medcitynews.com/2026/08/replimune-fda-approval-melanoma-oncolytic-viral-therapy-cancer-tudriqev-rp1-repl/",
+      "source": "MedCity News",
+      "date": "2026-08-07T22:08:34.000Z"
+    },
+    {
+      "title": "Democratic Senators Urge Withdrawal of Interim Final Rule on Medicaid Work Requirements",
+      "link": "https://medcitynews.com/2026/08/democratic-senators-urge-withdrawal-of-interim-final-rule-on-medicaid-work-requirements/",
+      "source": "MedCity News",
+      "date": "2026-08-07T21:54:58.000Z"
+    },
+    {
+      "title": "Between therapy sessions, some technologies can offer help",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaFdpMFFGWVFDMjdNVFp1N3A3SU02WWJ0bTJha19SaTRwaVppWDZHaUpWaG5jX05yRG90ME1fQUVwYkhubFYtc191M0lDN1EzQTVEOVJGbnh4TzEzSVVvbXpVOGRmbVBYQ1pxNV95VnUteHZrTE9oOV91Sm9xRTdpT3loYVVsM2w3bG1ULUQzeFlYVmhBeUUtQ2NxTDJCY1k4N1pN?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-29T19:59:00.000Z"
+    },
+    {
+      "title": "Research explores genomic AI's personalized care potential",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXZlR0ZQeTlsRWt0MlJNT2Y4RDJCcENFaUFzM05FNkRsYl90SWRnNXlpZ2VRN094ZDF5aXc3VlZES01LbXZqUEpjVFVuQlB0N2RYcUxHS0tLODV2bkpOTm1hMjVrN0t4WDZ0VEdXTjZPblFCakVpeVRtZXlpc1I3U0JTb204TDVrVnZUQ3d0bnhQYlFaZHhpUHFn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-29T13:04:47.000Z"
+    },
+    {
+      "title": "Sheba Medical Center to deploy OpenAI healthcare platform",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmxNcElZeEg1MEozOUFZOUhld0lVOEYySEtYZVZuNHJkbjBEa2Jzak5XazhCUURmWV80VXc5RHRQZTRQX2k5NE80QVNoUHBOck9NRXhHMnBIWTE5MEpNVko5MVE4NDEybGZUdUozcVYwRmNkcXJOYndZVnpfLWtLaTdoS016eUQyajRMMGdtTjhaYTNV?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-29T12:21:14.000Z"
+    },
+    {
+      "title": "Doctronic acquires Summer Health, expands into pediatric care",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRXhGNkZvS2lrSnZpWVlMQXFsa3hqLTE5M3F2RDNiNHZDUWRzMU9pUFBTeEd5c05PSWQxN2UtMjJSd1A2VVFjNjI5cjQ4TjVXcm5ER0pWdm1vX1FoQTFXWnJOZ1dtVy1fUWtCeVFMMXJDXzRuWng1Ym9xaU10LVVIWDdXTlBaM0VFNldjX3lGYVlRU2VjY3c?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-29T12:10:00.000Z"
+    },
+    {
+      "title": "BCG: Health systems missing AI's biggest patient access opportunity",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWhpeXVBT2lKU3NQVS1KaHhUMVhYRlBQUGM1czVoZGtUUmc2TW9FNUlBQkhjLXA3dUxidXlUZzQ4bjlacnRCa3REd3FTWW41MjFKTFFSR0t4ZkFmZFhuaHJqNE1hSFVCNVN2aFd4LTRUYkl4R3YzVU1DZFRGRXZWRWVBeldEMlJCaDVDZzB6UFdDZmZyX1hmeEF0QVBXYm43Nk1N?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-29T12:00:00.000Z"
+    },
+    {
+      "title": "2026 Healthcare Trends Report",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN3pEaXJEVFlyR1RDdUpjWDkxeGxHb05GTnVIc3BsUWR4cXBDRHhCZ2g0ZkR2b09EQ0JoR3BVOVJYeXlfMndkUEtGOXluUlBqWnVKRnZsUzNfaUgteTc5bi1lTlhjMWp2MVUtTWNUcEVRRTItdGlFQmhIWQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-28T17:25:19.000Z"
+    },
+    {
+      "title": "HIMSS research seeks to quantify AI's impact",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWUJiSml3Rmx1ZnhXT0dlZ21pUVFzZ2JHREdxX1NFdE8zOWM5WTdTWlQydXZaUi1BRF9ZaHJCdk1BNXNEYTQ1LUlLMDEtNGlqUG9qaVI0V0wtSERzX3AwNkxyemRBNHZFZkdYWk14UkRaWmxEbTIxS2RyYUZZYVhkSWxjdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-28T14:46:03.000Z"
+    },
+    {
+      "title": "AI misdiagnoses raise new liability questions for health systems",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWNzRkhFemROb1ozVzRCa2dJSUpFSktfSXI3eE10ZzNvN3Z2aUZmZV8wd21hVUF0UW9kb2NGajd2QVd3NzBWcnRyUE5VQWlobDFQVGl3aDJEMEYySjBFeTdyUGRRaDV5UnJyV09QR3ZGZEtpdTdPMnRDcnN3NlRfWDk1WWh1ME9Obzg2OHVLLXpfZEN1ekFwSjNyVk1xdzQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-27T15:30:58.000Z"
+    }
+  ]
+}
