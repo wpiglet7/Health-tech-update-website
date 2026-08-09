@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-10",
+  "generatedAt": "2026-08-09T21:36:30.080Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 14,
+  "sources": {
+    "MedCity News": 2,
+    "MobiHealthNews": 4,
+    "Healthcare IT News": 8
+  },
+  "summary": "# Health-Tech Daily Digest — August 10, 2026\n\nArtificial intelligence continues to reshape clinical workflows across multiple domains. Healthcare organizations are deploying AI for virtual care management—HealthSnap raised $25 million for its platform—while hospital systems are leveraging AI in pharmacy operations to cut staff hours and precision medicine efforts are advancing in states like Texas. Meanwhile, the technology sector is actively developing new ambient AI capabilities designed to integrate more seamlessly with electronic health records, though governance questions persist as nonprofits advocate for protecting children from AI misuse.\n\nInvestment in healthcare technology remains robust, with J.P. Morgan reporting strong biopharma and medtech funding in the first half of 2026, even as underlying questions about healthcare economics persist. Despite significant capital flowing into kidney care innovation, hospital costs haven't declined as expected, suggesting that investment alone may not solve cost pressures without targeting the right clinical interventions. On the infrastructure front, cybersecurity remains a critical concern—AnMed faced a ransomware incident demanding an urgent response—while rural health transformation efforts and institutional commitments to innovation as a core competency indicate ongoing efforts to modernize care delivery across different settings.",
+  "items": [
+    {
+      "title": "Why Kidney Care’s Biggest Investment Wave Hasn’t Moved Hospital Costs",
+      "link": "https://medcitynews.com/2026/08/why-kidney-cares-biggest-investment-wave-hasnt-moved-hospital-costs/",
+      "source": "MedCity News",
+      "date": "2026-08-09T13:48:00.000Z"
+    },
+    {
+      "title": "My Wish For Better Care For Americans Living in Rural Areas",
+      "link": "https://medcitynews.com/2026/08/my-wish-for-better-care-for-americans-living-in-rural-areas/",
+      "source": "MedCity News",
+      "date": "2026-08-09T13:27:00.000Z"
+    },
+    {
+      "title": "HealthSnap raises $25M for AI virtual care management platform",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzZlRjVnX1ZtZndIN1pVMDB0VzZtcmE2eWxKMUVfWXg5MERUdDhLcHN5UGM4bHNIeWliOVpkaHJIQ2w4UmRsOWhrSkJKb0UyVVdwUlZkMjhjM3JHbE1JVmI4UWpWNTF5dnQ2eE1TbThXYjlZU1E2VHkzaTFKcTlDSk1yeEEyeUg1UWFQcHZQdlN2bng2cDRvNg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-06T16:10:48.000Z"
+    },
+    {
+      "title": "How precision medicine is advancing with AI in Texas",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMXVDNkRYM1ZJRkhrUUZLQ1RUbEJYbmQzeFdLam0yRVhGRnRtRVM2Zm5tSjRyczVydFlrampnR0NBMWIxM3V5b0dHd2NoUEpsbXREaEJlUTBSNDRoMExKeHk4VGxPQ0ZzczBLS09OUzR4aHMyaTJ3SE91eEpXVXRUZDR4WEJzS00?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-03T12:37:00.000Z"
+    },
+    {
+      "title": "Children's Nebraska IT leader says innovation must become a core competency",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSzNmcjNxcGpOODFZYXBkdVlaeThoZ1h0MnRTSEx0QmNFUFNVTG1sUWNzdG5nWFZDTEVjYnVaNzdOak5CYVZ3MEd4cE4xcU1sbzZnWS1RZjByVDAzakdHdG9sU2l6d2hETi1GSHFSZS03MVlUYnRzSnNhYWZQUER1NlctY3NsNUUzMVFYR1ZwRE5TLVM0bHZiaE9VZElVUDA0NDdXcHhaYXkwbHpWYW9F?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-30T17:51:49.000Z"
+    },
+    {
+      "title": "NUHS to save 850 staff hours weekly from new pharma AI",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYWZTUm9iYUlQWDBwWXFVbE5CZW9LNW5aQ3BtU1JocWhuTHBBTFB5VUdLVEdSbXI4b3JxVFB1SE53NnV0MlpJb0FJTWV3YnlYejZUVXBLNk1IQVJaOU5xX2Nja1BIMW1iQU1nNHo4dUtyUThTTHlsQU16RTNHVnRabTFmNnZFbjR1cnVLQTRka053dVE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-30T13:56:44.000Z"
+    },
+    {
+      "title": "New insights into disease could be unlocked with genomic foundation models",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN1FZWnlOV1V4Mjc2RHlUM1dHdldJcnBjNFhOU0pmSUJoSTc2TzNfZ1BoMTZxcGpHLTBtN0E5S01KZVhSdHFtdU5VMXdRdGpud0trZDZMdy1sX3JwU09TbkFNMmNqbFdxVTE4SXA2blNFZ1dKTERUNVA2X0RESmhWbFlocV9BeG9SX0l0Ql9jN1dHM21MaXdTcXplaFIwTF83YzBBUkNn?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-29T13:00:00.000Z"
+    },
+    {
+      "title": "Vendor Notebook: New AI releases span a spectrum of healthcare touchpoints",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcUNYb3FGRVE1dTlBWlhncHNQU0JnNXJ2cy1ROTNpVkRhNS04NjJDU3BiaDlTb0JOcnNDZVAxLXg2a1gxb19DNUU1anoyT0FHZTBPRnQ5VGJiSjh2UkpUWU1RcWhUU3ZESzk1MHNZRFBqa0F3UzVSZGoyYmYtVzJpMzVtcF9JZUIxX05rRFR6VzVra29mN1ZFYmNYdHg3N1dNMllmRjFmNjc4UQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-29T07:00:00.000Z"
+    },
+    {
+      "title": "Two visions for ambient AI and the future of the EHR",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTRUQVFSNWJXYno0bDJxZkllNzVQRmltOGZXU3k4WnJvbE9WcGtqMWc3ZGw0bC1DQkR3cjlpcm1wNXkzM1dETnAzY1AwMnNDemduSEtJQnk4UUx1RWZjQ0xwU2tCR1FyRDJXNFdWRm5uWGdBczZOWTROX05Td05UUg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-29T07:00:00.000Z"
+    },
+    {
+      "title": "Nonprofit advocates to protect children from AI",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVluX0RCdXJCX3F2QnJvcDdtUjN0N1dPSkhycjlyXzFsVENESmdvWDBXc3lNNGk4azhubUNuSGNhSmVyMlZoS1c0cXlhakw2NVZBZnJsNlFkS1dvempMZlJxVjNlamZaZWtBUUJSQnpRaDE5Qm9rVFFrSjF6QjhNTndMZFlxTjF2?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-28T20:26:20.000Z"
+    },
+    {
+      "title": "J.P. Morgan report shows biopharma, medtech investment strong in H1 2026",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa2Q3SUxJekh4OTR2TWU0R21Mck5fc2JKWnVHbW9tZklldUpoTUFjcnJNb0t5a0tMN25IUGdXOEhPSVo1NWxhNGh4Tkx3R0laVmd4NGZqZjJCZFVLZlQwNDExN0d5WGJWLTlsLUllQWNUX1ZyZi1hZkJSVUsyV2pVZGRJU3g2eFFQMnpJX3VxWU02RzI4RmlVa0QyWGlDSFJxc2RPOQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-07-27T12:00:00.000Z"
+    },
+    {
+      "title": "AnMed given 72 hours to respond to demands in ransomware incident",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQnZwa3pJdC1zN1JjMFJYYWh0Nm1XdDUzSkZSLUVkTzFvbW50YTJkVUNORnBQOXZFdTdNdXg2VTVkeTIyODFPTWwySkltbDFtSlNUeDNfcXltZ3FDV1p5M2w2ZUF0alRRdTZOanhfYnpLampsR3NkOHBSc0JhVWxBaDV3VnZXZUVXNzBVcExRelZhdlNrR0laMU53?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-27T07:00:00.000Z"
+    },
+    {
+      "title": "SAS Institute",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLN2xKb2YwZEF0TnNqem4xWjFsN3FsOVhVbXZpOGFrRmg4d0M4aEptcnhSQVphNldsazA4bUJyaFY2WkNnZHJVX09KZGF0VmxrSWFZR1BoSDRqb1E0Q0RUSzZhOG1ZZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-07-06T14:21:41.000Z"
+    },
+    {
+      "title": "Home",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrRDE2WFIxby1uNWVDejBtNG1HZGJFRFI3VUlycU9CUUxZYjFGMVY4dm9BRk1WTGZrd0FCWlZmVk9oZ3FSMk1WM0RVSQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2025-07-09T14:18:03.000Z"
+    }
+  ]
+}
