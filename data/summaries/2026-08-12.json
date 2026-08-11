@@ -1,0 +1,262 @@
+{
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-11T21:53:10.699Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 41,
+  "sources": {
+    "MedCity News": 7,
+    "Healthcare IT News": 12,
+    "MobiHealthNews": 10,
+    "STAT News": 12
+  },
+  "summary": "The health tech sector is navigating significant regulatory and market headwinds today. The Trump administration's push to split the MMR vaccine into separate shots faces unified pushback from doctors and pharmaceutical companies, with epidemiologists warning of real public health dangers based on historical precedent. Meanwhile, CMS is moving forward with its RAPID pathway for breakthrough medical devices to accelerate coverage decisions, which has received largely positive industry reception as a way to close the gap between FDA approval and Medicare coverage. On the AI front, nursing organizations are increasingly vocal about concerns that clinical AI expansion threatens both their workforce and patient safety, demanding a seat at the table in these implementations. Several commercial developments highlight growth in digital health: Atlantic Health and K Health launched PatientGPT integrated with electronic health records, while Mayo Clinic is expanding its partnership with Exer AI for clinical deployment, and Australian robotic vascular ultrasound company Vexev secured $6 million to enter the U.S. market. The sector is also grappling with ongoing payer-provider friction around prior authorization and interoperability rules, with industry voices increasingly focused on measuring and addressing the operational costs that poor health care system integration imposes.",
+  "items": [
+    {
+      "title": "Infinimmune Secures $75M for a More Human Approach to Developing Better Antibody Drugs",
+      "link": "https://medcitynews.com/2026/08/infinimmune-antibody-startup-immunology-inflammation-atopic-dermatitis-eczema/",
+      "source": "MedCity News",
+      "date": "2026-08-11T21:26:28.000Z"
+    },
+    {
+      "title": "Transform your patient experiences with AI and CX",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ09QYWFvNEtvQkxLcGpkb1g4a0x1ZklJMWlDUEZydlpoQ2NIWXV6WjVLSTU4R2tEOFU1d1pQMWkxNnVFcHQ0eFlvaTJuaFpkbkJvWE5McloyVW01Rk1pVUdwT1M1MnhtNTY5V3o5ZkRHWWRKeWhWUFMtRV9fRDhqdXRnOUlHRDZtMi1GOVNlMA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-11T20:03:57.000Z"
+    },
+    {
+      "title": "Kyndryl to acquire Healthcare IT Leaders",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbXlfd1RJMlYzOEg0eWJWRWI3bnRBWFhPbU1MQ1hucG9jVkFhX3k0UXl0UUNHQVBmdEhNanRmQTE0Zjk4NlRYUmdYazFzYzl1bXB1SUJuXy1sZ1k0dzVLdkhqbkxsb0JIdGJjNFJjMUJ4SWpJaW42Sjd5S2x5MVFzZQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-11T19:39:27.000Z"
+    },
+    {
+      "title": "Atlantic Health, K Health launch PatientGPT integrated with MyChart",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTdnVVQ0WklpM0xsR0ExUkNlb0VYV2dtZFlzcEtwZFJhRTF1cDJjY0M4ZUpFTFpFaTM1NWxtZ2w4ZUZtWVd3anN5eDI1WDBlLTdwYmpwdmI1d2JvZURWN2hCd3ZhUGdLQ3dpU3pBU3FSV3FSMEh2TnEzTGdzNGd3Y1BSeFhFd2hrZlJUYVI0ODRBYURCbUhEbll4cDQ5QQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-11T19:36:01.000Z"
+    },
+    {
+      "title": "Reimagining Find Care: How AI is Powering the Modern Healthcare Journey",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRTdUXzNYWE1EcHB2NER4RTB2VWFzT3hTTmtETERyYXluN3VUanRxZF96d1o0Nm5HV3lMbGNlWWxMeU1vang5bVZ3WG1ZR2h3VjY5b1VMdXV5c0tVQTZybFl6WXI5YXI3RFBZN1o0UXV4MlFOS2dhZkc5YUZ2RmJvUWxsdk53Yk5MRHk0bjdFd3p0Q0VlUnVrSUtIWXFWNHRBTDlXYkVGb0o?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-11T19:31:22.000Z"
+    },
+    {
+      "title": "Australian Vexev raises $6M to bring AI robotic vascular ultrasound to U.S.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFVXMHhXY19GYzVXSURRMG1rc3FGd095c1Y4RDNWMzhhYktkQXNKNExiRTgzcnhKN05VeUZDcF9rc1VaM3EyUjdyeW9yMUQ2Y0tDaHRiTGxxSGw3V2pYaTRNcVE5bDNIaGUtN3JQYVRTa2p2Z2RVTVlRR1F5VmZ5WjZuakFDN3VaX1JuMDNMc0ZNcDZ4UnNXVWhJQTZLQmRUTkM2ag?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-11T18:38:41.000Z"
+    },
+    {
+      "title": "FDA clears Wandercraft’s Eve exoskeleton for wheelchair users",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3F4QXhReldGOE5kN1hIX0NuRFdMZmtkc24xOTEySV92OXMwRWJuVkF2MmRYWVJ3SHdZQXFBWEs5YXlxUTQ2WmpZY2htZVdHLVV4YkpmMjktS3FuYkJnWjhDWFFVeEFPNHlBRl96SHRheHkxOENEdEZKb3FMOFB6ejBtUnJJX0hnZk8xUjhNTzdUZmJ4YTRn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-11T17:49:53.000Z"
+    },
+    {
+      "title": "Your data clause may be giving away more than your data",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnphQ0YtR2VYWDZSaEp5aHNROWJ5Z05zNTNjSEpHTGRhMzVoNUtodUFvTTdVZk9BOF9XaThHVWhkMXhFRzBfUkV3dWs0eEpZR1A3cFdCVVp6VU8tZWdsSktuaHRiTk1zWDlwOVhtb3ZxN084TkE2U0E3ZmJjbVhZTWpTaC1pdkNmYkVLdmdhUVBoQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-11T17:46:37.000Z"
+    },
+    {
+      "title": "Anne Elise Herold Li",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HSVB1UFdBalpsajFmOTJmNmFwb3pTTEN0cjdpRVdBSnBrUHdTV3dTcnhHUWtiYVYzQlF1RUZMSHo2VEsxaDF3dnZkWlQzaWQ5Y3owdjhhSDR6VTBxSlFKbkFYcTVKaUl4NlQwTA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-11T17:46:00.000Z"
+    },
+    {
+      "title": "STAT+: Trump is counting on the health care industry to remake vaccines. It’s pushing back instead",
+      "link": "https://www.statnews.com/2026/08/11/health-care-pharma-industry-pushes-back-trump-vaccine-policy-changes/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-11T16:57:34.000Z"
+    },
+    {
+      "title": "Opinion: Trump says his executive order should restore trust in vaccines. It does the exact opposite",
+      "link": "https://www.statnews.com/2026/08/11/trump-executive-order-vaccines-undecided-parents-trust/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-11T16:46:06.000Z"
+    },
+    {
+      "title": "How we know that splitting up the MMR vaccine could be dangerous",
+      "link": "https://www.statnews.com/2026/08/11/how-we-know-splitting-up-mmr-vaccine-could-be-dangerous/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-11T14:28:57.000Z"
+    },
+    {
+      "title": "STAT+: Trump’s vaccine pivot overshadows food rule",
+      "link": "https://www.statnews.com/2026/08/11/trump-vaccine-policy-pivot-overshadows-fda-gras-food-rule-dc-diagnosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-11T14:19:47.000Z"
+    },
+    {
+      "title": "AI provides context for denial explanations",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXozY2JqTHpIeThLc0VKRWNTRjR2NjdQOWNGM3F2eDNMWUVLMWdBZGpheTYtVzc3VEdOY2Q1QkE0cC0tNkdOMVpaX2JtSnFSWEYwTWs1U0lCVlFUSzROYWtTbUJMczRVVlhZWDJfdm5qRzNNbktoR2UycjI3cnZUbWdB?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-11T13:58:49.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about an FDA rejection, 340B court battles, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/08/11/fda-rejects-radiopharmaceutical-340b-court-battles/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-11T13:27:20.000Z"
+    },
+    {
+      "title": "From Friction to Fix: Measuring What’s Breaking Payer-Provider Trust",
+      "link": "https://medcitynews.com/2026/08/from-friction-to-fix-measuring-whats-breaking-payer-provider-trust/",
+      "source": "MedCity News",
+      "date": "2026-08-11T13:23:00.000Z"
+    },
+    {
+      "title": "Interoperability and prior auth rule proving tricky for payers",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdzByWFdFMElDNlQwbTh1al9aODZlRjQ1QWFjRjNONWRWOG5XUDQtczBnSGFtaGFNSmFPUmxka0RLdWxENndXLVc4NlBIajhocXVmZEdITkRENUtyVHZISFQ5eUxlNGY4X0dHYTdwVkcyY3A4RGFyM2gwcXpVSW9BeFNVNnFaYm9RRVhIZm9pQXZORW1FYWJBdmRacXVVdw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-11T13:21:00.000Z"
+    },
+    {
+      "title": "STAT+: A RAPID proposal for breakthrough coverage, and nurses push back on AI",
+      "link": "https://www.statnews.com/2026/08/11/cms-rapid-breakthrough-device-coverage-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-11T13:15:49.000Z"
+    },
+    {
+      "title": "Which Health Tech Companies Are Getting Customer Experience Right?",
+      "link": "https://medcitynews.com/2026/08/which-health-tech-companies-are-getting-customer-experience-right/",
+      "source": "MedCity News",
+      "date": "2026-08-11T12:50:00.000Z"
+    },
+    {
+      "title": "Smartphone thermal imaging developed to assess diabetic foot ulcer in Australia",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXBtRFRHaThteDVDMklrWlFVRWtCYy14azdjcElRQk9hRjB2bVIxWnJPNlhzU3ZURmEyajNrTnhhOTJiMU02NlRhWHpHMFozZGoyNXBVTmRBWW5XNk5CWVNlTHdyTjhpem0ycjRhZF83XzNZd2UxaUJoOEZZcDUwcGw3RUk3TEdRTUV3Y2Ztajk3OVVOaWlndG5sUmpzMkRvLU5kQ0I1SUYxaVoySGpJcU9uRQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-11T12:22:51.000Z"
+    },
+    {
+      "title": "STAT+: Skylark Bio kicks off new gene therapy trial for deafness",
+      "link": "https://www.statnews.com/2026/08/11/skylark-bio-gjb2-otoferlin-gene-therapies-for-deafness/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-11T12:00:00.000Z"
+    },
+    {
+      "title": "Exclusive: Exer AI expands partnership with Mayo Clinic for clinical deployment",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUczcDZtc2piVU5HTUJDaHdGSVM0T0k1bERHVm5wZXlqa3NNQ0dKTG54S2JjSjA1Z05MZVdFSGhOOWZnd0tSWHQ3VkMxTmRtdzlXOFBVLUFkNVEzTzlhY3pMM2M0b1FTdUt4Q0lkekhUZjVkamxrMmdXVk1WQ19CdzcxMkl0X1RIemRVZWx5R3QzNzdxSFlaZm5GRzJMVUJFNnRZVG00LXo?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-11T11:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Why is MoonLake Immunotherapeutics scared of releasing data on its drug candidate?",
+      "link": "https://www.statnews.com/2026/08/11/why-is-moonlake-immunotherapeutics-scared-of-releasing-data/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-11T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Nurses seek a seat at the table as they fight expanding clinical AI",
+      "link": "https://www.statnews.com/2026/08/11/nurses-seek-involvement-clinical-ai-decisions/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-11T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Burdensome Medicare GLP-1 program may keep patients from accessing $50 per month weight loss drugs",
+      "link": "https://www.statnews.com/2026/08/11/medicare-weight-loss-drugs-glp-1s-bridge-program-primary-care/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-11T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: The new geography of abortion care",
+      "link": "https://www.statnews.com/2026/08/11/abortion-post-dobbs-clinic-hotline-advice/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-11T08:30:00.000Z"
+    },
+    {
+      "title": "IRBs have a problem. Can North Star’s nonprofit model save it?",
+      "link": "https://www.statnews.com/2026/08/11/north-star-review-founders-advocate-nonprofit-approach-institutional-oversight/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-11T08:30:00.000Z"
+    },
+    {
+      "title": "Health data: APAC's untapped AI asset",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHVxM2NuOVMzVndudmYwUEVoUWthbXdnLUFlZkFKNTdkbW44a2FVVmJrQ2N0Y25jME9CMlBwQTEwUmd1WnlOTTF3UVBzaTY5S0RHMllDenBxb2RfQlVuSFpHbDhnYnRVS1p6bC1FX0o0RU01c0dyNE5oRVozcFl6Q2lvNTI?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-11T08:27:27.000Z"
+    },
+    {
+      "title": "Jonda Health",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HSDB3dktsQzZWLXN3RmUwWVA0UTVpWlctbi1mN0pQVzdqdUFnZkg3Q3dhNGMtTDN4U1NtelhTQmpsN0pQRXZRSlh0ZzlIVndneUJ4RFJTYlp2OWlpNVlhOXF1N1k?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-11T08:27:00.000Z"
+    },
+    {
+      "title": "Healthcare innovation needs better hardware",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUxQblhKVjhQWGFCQ2ZuMzBjemRCYk85YTBuZDlDeE5FdlNZQ1oyemV3VlBkanQxLWIwdHBPWlBvZ3RVRXp2bXAtRjFvQmhfV25kZWtaY1VGMjFSMXBJSVQ0bE1NTTJvUkl2OWQ1Vl9ZZFh6Z2hOak80ZHNKSklSUng3cm5hVE5yQm5rQWt4cw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-11T07:43:27.000Z"
+    },
+    {
+      "title": "Polymatech",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1YzctZUxhMDhUM3ZYQ20xSmZNUEtLZ3AzREw1SDlTcnpBaERfU3hHNTFfMXZlLVFNSHhJV0FEMGp3QXU4dlUtZmkyOHcyaEJnWUZNM0RfZjBRUHhfdzNnN1Fn?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-11T07:43:00.000Z"
+    },
+    {
+      "title": "You can't price value you can't see: Costing for value-based care in Asia-Pacific",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWmxNMUhFclNleFd5ZVROaWg1YndDNTI3LU5vNy10dkxXbDgtQWpUM1ZOaVZqOUFNWi1WdkVWYkVyd0xYQXhGOVhmNDBCcEF4V1hQd1BfVzRrNVRjbGVxa0llNHNGLXRvRTZCMFZWWENyTHB3aklfVzBnRGVNRVM5NWxMSlVJWFlEakZGc25CejZQemVqdVktbzJvbm80U2ZRRVJqd0ZqRGVVNlJWLXpjQmNGYms?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-11T02:39:52.000Z"
+    },
+    {
+      "title": "The hard part was never the software",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfamMtQ0VwQmNCUDc5ZWJLNFRpcHA4UHEybV9PZ0M4d2Z6T09sWmxSNElmX3RDVTFpZ2J0NnZERk9lcTYwVHpFVEUxT2pOWTFEQmhUcVFSR1hwejVibGFxSXNhNEw2NFg1RTBpUXpFM2lZS1BGZzlNT1dwUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-11T01:54:06.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FRzAyemRxYjNEallFN0kzbGhwVHdzZ19Vd3FPb3loN1U1eU14Y3VqLUNjUEdwaHpqb1lrcFRhcnFpWjRBc1dSdjZJWE9Cck1PeS1Qb00wOGlmSkFHWTFNRmJqZHI4cl9icEVKc19QYThWR3kxQlE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-11T01:27:21.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tMlVVZDVKZGJXbXFKZzg0dmktS1ExekdMMlpvOTVGMkpHWlFQaGNlQmFGZ1RweGtpSnpsMm5ESmtsdHhNY0M0ZF83RTY1U0ZiNktUaXphVGZvSHlFOEhuOGZPRzdCRVR5VWRn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-11T00:12:04.000Z"
+    },
+    {
+      "title": "How CMS Is Tackling ‘Coverage Purgatory’ for Medical Devices",
+      "link": "https://medcitynews.com/2026/08/cms-medicare-medical-device/",
+      "source": "MedCity News",
+      "date": "2026-08-10T23:19:36.000Z"
+    },
+    {
+      "title": "Amazon Pharmacy Executive: Formularies are Anti-Choice",
+      "link": "https://medcitynews.com/2026/08/amazon-pharmacy-executive-formularies-are-anti-choice/",
+      "source": "MedCity News",
+      "date": "2026-08-10T23:16:02.000Z"
+    },
+    {
+      "title": "Small Businesses Could Face Double-Digit Premium Hikes in 2027",
+      "link": "https://medcitynews.com/2026/08/small-businesses-could-face-double-digit-premium-hikes-in-2027/",
+      "source": "MedCity News",
+      "date": "2026-08-10T23:04:59.000Z"
+    },
+    {
+      "title": "Jazz Pharma Expands Again in Epilepsy With $820M Actio Bio Acquisition",
+      "link": "https://medcitynews.com/2026/08/jazz-pharma-acquisition-kcnt1-related-epilepsy-actio-biosciences-neuroscience/",
+      "source": "MedCity News",
+      "date": "2026-08-10T22:02:33.000Z"
+    },
+    {
+      "title": "Eve Bender",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DTkxPX0dyUGh5SjE5TGZVV3lWVV9MUndwd3hKN2JKNGx3azBlenBKTWM4U0REVUtneGdvcURNaDBGOWsyVG5yMExDbVRfMEhCTzFwTzUxbzM3NzFiTHhvTElFTWpWZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-07T09:26:19.000Z"
+    },
+    {
+      "title": "Amae Health taps Google Health Enterprise to predict mental health episodes",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3ljTE0zNlNaclFGdURFZWxQWGRMQnFMSEJ1dUU5cXNhZ3JYRHo1VjNLWE5PZUxqNDR6dDl2b3JWSU5oMjIxdl9FelpodGlhcHRERDByNVdHbHZZMVUtaDd3SWlqaTYwa0Q5UmJsQ0JIdlBSWEtyQzV4cHpaWmNCSDM4VDh6eEVqLURDSE9mYUVDbFpZcVhmSlNsZ1hGT2NLbWl1bmswZjNGSF9j?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-05T15:04:52.000Z"
+    }
+  ]
+}
