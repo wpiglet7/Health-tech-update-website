@@ -1,0 +1,45 @@
+{
+  "date": "2026-08-17",
+  "generatedAt": "2026-08-16T21:24:12.558Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 5,
+  "sources": {
+    "MedCity News": 2,
+    "Healthcare IT News": 2,
+    "MobiHealthNews": 1
+  },
+  "summary": "The health-tech sector is grappling with fundamental challenges across AI implementation, economic incentives, and infrastructure resilience. In AI development, pharmaceutical companies are discovering that computational power and data volume are not the limiting factors—rather, the lack of standardized clinical terminology and semantic frameworks is preventing AI systems from reasoning meaningfully over real-world data. On the payor side, there's growing recognition that focusing narrowly on medication costs while ignoring broader cost-effectiveness metrics and downstream system risks ultimately harms both patients and overall healthcare spending. In infrastructure news, Louisiana received new federal funding to support rural health innovation, while a major cybersecurity exercise called Operation Vital Signs tested the health sector's ability to respond to coordinated cyber attacks. Leadership shifts are also underway, with digital health company Omada Health appointing a new CEO as part of broader personnel changes in the sector.",
+  "items": [
+    {
+      "title": "Better Models Won’t Fix Pharma’s AI Problem — Better Terminology Will",
+      "link": "https://medcitynews.com/2026/08/better-models-wont-fix-pharmas-ai-problem-better-terminology-will/",
+      "source": "MedCity News",
+      "date": "2026-08-16T13:30:00.000Z"
+    },
+    {
+      "title": "The True Cost of Focusing on Cost Instead of Cost-Effectiveness",
+      "link": "https://medcitynews.com/2026/08/the-true-cost-of-focusing-on-cost-instead-of-cost-effectiveness/",
+      "source": "MedCity News",
+      "date": "2026-08-16T13:26:00.000Z"
+    },
+    {
+      "title": "Louisiana fires up rural health innovation with new federal funding",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnJmUk5yRGJ3RHhTR0VPY0U1ZU4zM1ZLSHZsMnAyMEFXczB6b0lXMVdHSFlIbjcwY3lOcDRjcF95SzBhc1p2QlJYNWJYcnRwZTlsQ19mbGxObXotcHpIMTJkeXc1cVdVenBrMVdqV2t4VVdGQzVJS1NPUVdjUDNxS3kzQTJ2Nm9MS3ZqWnZZY0xkX2RiMmlxR1hfTlBCdw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-10T19:49:15.000Z"
+    },
+    {
+      "title": "Omada Health appoints new CEO and more digital health hires",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmx1QlNmeVdDYU5Ea29WVmRzZE5YM1VENVBPSWtzZk16NUhxb0YyTTdYQlVFaTg0U2QtRUxLUVhrV3RJcHJMNmE2ZV9GU291SjNIYzRQNXROdHkwTE5mN1BCQmdtaFlFaUdubWMxVUE0WHpjLXVuZzc2ZXBVQXlHNE5xazg0SDhjVklYRi1DRHk0UUJzSkp5dDV1Zw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-07T19:14:33.000Z"
+    },
+    {
+      "title": "Operation Vital Signs: First-of-its-kind exercise stress tests health sector cyber resilience",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOckMzS1FxbTV3WTZnUXROYThMS2txTUNENkhlRGlNWnZZMHA1dXdUM1ZhQmdPX2ViX3k0ZlE4dTVjeHZVdm02OUhWVGxtQzhRYVBXemhSaFlhaGkzRGdoOFE2a0JDc2dmdEplVGU1NE5Mc1FmOTlBQmo5UUxMVTVNQUNCRmcxb3kwdUJaNnR3RHVVckF1WV9JSloyNjR2MTFVSTU3QlRRTlhxYU9ZbmtCS0YzSDl1WnVyX1lpcnFOMW9JNFZMMEE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-06T07:00:00.000Z"
+    }
+  ]
+}
