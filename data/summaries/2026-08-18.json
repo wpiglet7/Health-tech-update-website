@@ -1,0 +1,202 @@
+{
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-17T21:29:10.721Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 31,
+  "sources": {
+    "MedCity News": 6,
+    "Healthcare IT News": 8,
+    "STAT News": 12,
+    "MobiHealthNews": 5
+  },
+  "summary": "The health-tech landscape shows significant shifts across multiple domains. In biotech, several companies are navigating clinical setbacks and strategic pivots—Eyepoint's wet AMD treatment failed to meet efficacy targets, AstraZeneca discontinued a late-stage lung cancer trial, and Europe pulled Tavneos over trial integrity concerns, while Slate Medicines is going public via reverse merger with $245M in funding to advance its migraine antibody candidates. The regulatory environment is tightening, with the IRS probing UnitedHealth over potential tax avoidance and private equity deals for physician practices declining sharply due to state-level restrictions, alongside Epic facing antitrust scrutiny ahead of a critical user conference. On the AI and operational front, healthcare organizations are actively deploying AI scribes and documentation tools to recover revenue and improve utilization, though most remain unprepared to integrate AI agents as autonomous workflow participants; separately, Medicare Platform raised $50M to scale its AI ACO platform, while UHS completed its $835M acquisition of Talkspace to expand digital mental health capabilities. Structural issues persist as well, with women's health startups struggling to secure reimbursement due to limited evidence, fragmented data threatening payer operations, and questions mounting about whether interoperability alone can solve healthcare's broader connectivity challenges.",
+  "items": [
+    {
+      "title": "Slate Medicines’ Merger and $245M Private Placement Fuel Mission in Migraine",
+      "link": "https://medcitynews.com/2026/08/slate-medicines-migraine-prevention-fulcrum-therapeutics-reverse-merger-pacap-vip-antibody-fulc-slte/",
+      "source": "MedCity News",
+      "date": "2026-08-17T20:13:47.000Z"
+    },
+    {
+      "title": "What drives high AI scribe utilization rates?",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzl5ajRQQlBQNWpvT2tMZ3NRVk9fUDNKTjdLSnFUa3RUNWVuZkhZVVJtTnVZOHJWTGlNcVhuSkZuVG1KSTdhOU1JaERSVUVSNnhCTGoxWi1ZLXY0SlBENEFlYXh2NDdPOE1TLWk4cjBYaWhEQ2s5OEt5aEVHMFEwUzIxNTdOX2dYNFE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-17T19:54:15.000Z"
+    },
+    {
+      "title": "Where AI Transforms Care: Self-Driving Networks for Modern Healthcare IT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLXhSTzZoTXplck8xR3JIUm9mTTVqLVRRSzdOdEk4OW5uUGRrWHVzejR5ZnUxU1VVQmtlZHYxQ1FDODR4S2ZKLW5zR0ZfSFJOTFByYmF1UWlQWTdkUHJyd3hpR0hOR25IbnZoQXNXTm1MTFlzaV9fQTh0QlZmaVFYZVF2RE5OQV9Va01pc28yUm5WUG4wZHZBMUh5OVNkU1JEVGYwb2thZ0picndDRHc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-17T19:27:13.000Z"
+    },
+    {
+      "title": "STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition",
+      "link": "https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-17T19:23:54.000Z"
+    },
+    {
+      "title": "HPE",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GcUFaYnFSOUtqbmdUN0tIVV93WmV4QzBWanltM0RzWVFxNngxZW90VnpBcUtNTk9GNWZnZ2s1MFMtbVFGWHpiV0M5LVZNdnFwRXlaYVNDTW8?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-17T19:21:00.000Z"
+    },
+    {
+      "title": "STAT+: Eyepoint study results for vision treatment disappoint, but company still sees promise",
+      "link": "https://www.statnews.com/2026/08/17/eyepoint-duravyu-wet-amd-study/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-17T18:45:42.000Z"
+    },
+    {
+      "title": "Medicare Platform secures $50M to scale AI ACO platform",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONkpSN0FNbHNQZHFGaERpRmUxUjdSNjlkaFRNQmJzOTkyZGJoODdwd3Npak9mTUlPV1k5Y0pNRnJ4ZzNLMFR1VFY2UXlmNVhtc2Frbm9LZ3VwZ21TMGFQNWM1WFpHRmtGV29BUnQ2LXpEUmxTV0ktX3FEbjJqbzVhZ2hXRENtNXJnVU1meU1UNkU?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-17T17:59:52.000Z"
+    },
+    {
+      "title": "The Rise of Consumer Diagnostics and Emerging Trends",
+      "link": "https://medcitynews.com/2026/08/the-rise-of-consumer-diagnostics-and-emerging-trends/",
+      "source": "MedCity News",
+      "date": "2026-08-17T17:30:00.000Z"
+    },
+    {
+      "title": "Universal Health Services completes $835M acquisition of Talkspace",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMm5Ha245R3dzLWM0cUphSzVnaVlZTjJYQ2p0MnhmTXNmWWR4akN5cEdUd0t4aGxldXlySFNNRHdJRnlSQTY4bm8yOG1iQ25Lc055aFlnYlYxM0pOdndvZXVUZENGVHpCLURpVUtYTFFzUk5TY0d2ME5pdnIzV01SaVlld1VyLVhNWWhsQ0RhWk4ydjJrTEZaSktaWk1Fc2M?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-17T16:39:09.000Z"
+    },
+    {
+      "title": "How Oxford PT combined AI documentation and RCM to recover revenue",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2tYdDNYb3ZRRkNuc1NtdHZ3U1R1UFI1YVlWUjhCQW9CMEl5NzBERU94WWUydVlTYUN3OEs0R1RkNTQtUGxLNE80RGtRdnlJNjl3Z2xiWVBGcWYwSUZXd0huaEpEZm4tWWJJOFVpZERVdmo1VVVNamJlcmk3M2NmV2lnQW4wMEw4TTJyOVhrWkZhUTk2LXpRdlp2ZjdRWHdzNndV?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-17T16:37:51.000Z"
+    },
+    {
+      "title": "STAT+: The IRS is probing UnitedHealth, and a private equity slowdown",
+      "link": "https://www.statnews.com/2026/08/17/irs-probe-unitedhealth-group-taxes-private-equity-deals-physician-groups/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-17T14:40:47.000Z"
+    },
+    {
+      "title": "Flat-fee AI enables sustainable scaling",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbnNybWJ1UmJKNjBnM1NtcUlQWkE4MG1DV2QtWTk4eXl6YnpCZEVlVWJZc3ZnVFBFbF9JWlh0TUhDRTI4RkNQejYzWDhFY1hHMGRYSUxCdFkwemVUVWF3QmhVbGxTLTVfQ2tUTzB3VnVVeU94VnNjZ2kwREN3bkkySEdR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-17T14:16:56.000Z"
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFZ0J6YWtTWE5OWkJCV1VOUThwcXp6akV2dnZPQWRfdDNncTd6Q0hwMU91VjV0QV9mY0VJM3czZER2RldoR2FIOFlZSWFmU2dqbUt3OEg4QXFPZmR3bTEyalBKNzh3T2ZDckJtUXl0b2lWN19Dc0ZjTnR4cw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-17T14:00:52.000Z"
+    },
+    {
+      "title": "Healthcare Is Deploying AI Tools — It’s Not Ready for AI Colleagues",
+      "link": "https://medcitynews.com/2026/08/healthcare-is-deploying-ai-tools-its-not-ready-for-ai-colleagues/",
+      "source": "MedCity News",
+      "date": "2026-08-17T13:45:00.000Z"
+    },
+    {
+      "title": "STAT+: Akeso and Summit’s lung cancer drug shows worsening tumor-progression benefit",
+      "link": "https://www.statnews.com/2026/08/17/biotech-news-akeso-summit-ivonescimabs-worsening-tumor-progression-benefit/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-17T13:38:15.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about an AstraZeneca setback, falling U.S. drug prices, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/08/17/astrazeneca-lung-cancer-setback-falling-drug-prices/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-17T13:22:17.000Z"
+    },
+    {
+      "title": "Mercurial AI costs constrain providers",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelY3dm0wcVVzX1RabVBHb3Qwb0FDM2Q4SXRiTHFtektqQ0x6NDAwdUt6aVlFTHJPZnlseFZxaWVoZ0YzRDQyZzZGbmpLQi1aM3cwQWcyZFR6N1pXNGEyMkZQSGdkc2hOVHdoUWg1akdlLW9Gc1BseTlNUlhKN2FEVE5Eaw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-17T13:17:00.000Z"
+    },
+    {
+      "title": "Everything the Trump administration did on health care last week",
+      "link": "https://www.statnews.com/2026/08/17/health-news-everything-the-trump-administration-did-on-health-care/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-17T12:03:57.000Z"
+    },
+    {
+      "title": "population health",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zN0h2cVhfUExHVVRuR1NPR2kyR2pCQ1VJbjhxbHVvUlo2MVl3MUxoWER4a1lpQXVTV2VxWjlrMTdJWDg1OV9lYTl1REoxTHV0OC1NaUJ3ZUNSYnoyNk5pbFJUaldIdUQ5bUExMw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-17T11:57:20.000Z"
+    },
+    {
+      "title": "CloudSight Nexus",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxTkhrdHBYbFlWMzdCLUJtcS1qN2hZNWptRDg3SXViNy1LRU5BaE1LOTY3aW1oU0lUdTJfWTZEYnplZFdmQ0JpQTg1Z1NMNjg4V3NybDMzU1ZkS3hObGxvVWtfUEpxMGlKWUE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-17T11:51:47.000Z"
+    },
+    {
+      "title": "How Payers and Health Plans Think of Identity and the Risks of Fragmented Data",
+      "link": "https://medcitynews.com/2026/08/how-payers-and-health-plans-think-of-identity-and-the-risks-of-fragmented-data/",
+      "source": "MedCity News",
+      "date": "2026-08-17T11:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Kennedy’s split-screen week: Talk of vaccines in D.C., fraud and addiction out West",
+      "link": "https://www.statnews.com/2026/08/17/rfk-jr-california-tour-maha-messaging-fight-fraud-addiction/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-17T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: UnitedHealth faces IRS probe over potential tax avoidance",
+      "link": "https://www.statnews.com/2026/08/17/unitedhealth-irs-probe-audit-targets-foreign-subsidiary-transfers/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-17T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Epic confronts unprecedented challenges as it prepares to address customers and unveil road map",
+      "link": "https://www.statnews.com/2026/08/17/ugm-epic-confronts-challenges-succession-ai-strategy-antitrust/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-17T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: We proved bipartisan health care reform works in North Carolina. Let’s bring it nationwide",
+      "link": "https://www.statnews.com/2026/08/17/healthy-opportunities-pilots-hop-program-north-carolina-medicaid-social-services/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-17T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Paid paternity leave is pediatric preventive care",
+      "link": "https://www.statnews.com/2026/08/17/paid-paternity-leave-baby-help-pediatricians/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-17T08:30:00.000Z"
+    },
+    {
+      "title": "Connected data isn't the finish line: What healthcare needs after interoperability",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOam1NTXNJS3RvLWFJczhOUzFCNnZXNjVhcXdQbFBnUUpOaTd4N3JndXRoT1hEcXJQb3k0STVxZ0tBOTR6bjdqdFpzLU5oY0FYN2thSzhpUTNvaFJnTm56WC1zOURLaVpxUFUwWVdxVUFnTjBJNkxlSWxkM21oMnhYTlBRdFl5MVFsSmk2dzZHaFpETGl4YnIySW9HOENhTFpFNDIwbjREbk92NVQ1WmV6NVVqbFJ5MlNRU3I4?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-17T04:28:09.000Z"
+    },
+    {
+      "title": "How IHH Singapore saves 31,000 admin hours yearly",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLTRVcjBDOWhWclZtWkRldVdHeXJuVGFFa2lqUlZ2VEpXUEExbU1td0JtbEsyTHVXZnQ0WDh4bGJYMm9qeHVIcEtnMzBDQmV1TWVlTnJ1SC1YbzFvYjh1WjVTSTdaeFRoTENVSGowQm9wQjlfQ1F3LU9mbU5KU3lMOHJVdndvX2VhUnN1OTcwNWpsdTdjVnc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-17T04:10:26.000Z"
+    },
+    {
+      "title": "STAT+: State laws may be curbing private equity takeovers of physician group",
+      "link": "https://www.statnews.com/2026/08/17/private-equity-50-percent-drop-physician-practice-management-deals-2026/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-17T04:01:00.000Z"
+    },
+    {
+      "title": "The Reimbursement Challenges Hurting Women’s Health Companies, Per Milken Institute",
+      "link": "https://medcitynews.com/2026/08/the-reimbursement-challenges-hurting-womens-health-companies-per-milken-institute/",
+      "source": "MedCity News",
+      "date": "2026-08-16T22:29:50.000Z"
+    },
+    {
+      "title": "Vogenx IPO Raises $81M for Trial in Metabolic Disease With No Approved Drugs",
+      "link": "https://medcitynews.com/2026/08/vogenx-ipo-post-bariatric-hypoglycemia-pbh-mizagliflozin-metabolic-disorder-vogx/",
+      "source": "MedCity News",
+      "date": "2026-08-16T22:03:18.000Z"
+    }
+  ]
+}
