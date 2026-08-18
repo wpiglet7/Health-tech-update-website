@@ -1,0 +1,238 @@
+{
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-18T21:28:14.588Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 37,
+  "sources": {
+    "STAT News": 16,
+    "MedCity News": 3,
+    "MobiHealthNews": 12,
+    "Healthcare IT News": 6
+  },
+  "summary": "Several significant developments are reshaping healthcare delivery and policy today. Amylyx Pharmaceuticals reported pivotal trial success for avexitide, a GLP-1 antagonist for post-bariatric hypoglycemia, achieving a 55% reduction in serious low blood sugar events and planning an FDA filing. Meanwhile, administrative challenges are mounting across the sector: the Trump administration faces legal challenges over visa restrictions affecting foreign graduate students and postdocs in medical research, while government workers and municipalities are struggling with surging health insurance costs that are forcing difficult decisions on benefits and taxes. On the technology front, workflow accountability in healthcare AI is emerging as a critical focus area as implementation accelerates, while the FTC's potential antitrust probe into Epic has prompted the healthcare software giant to respond, and data interoperability initiatives are expanding through increased ONC funding for TEFCA and new app libraries enabling patient health data exchange. Finally, a government official with ties to the NIH pleaded guilty to avoiding public records requests while advancing private company interests, adding to scrutiny over conflicts of interest in health policy.",
+  "items": [
+    {
+      "title": "Fauci adviser David Morens pleads guilty to avoiding records requests, defrauding government",
+      "link": "https://www.statnews.com/2026/08/18/david-morens-guilty-plea-niaid-fauci-adviser/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-18T21:25:10.000Z"
+    },
+    {
+      "title": "STAT+: Nonprofit health system raked in $1.1 billion this year from stake in medical billing firm",
+      "link": "https://www.statnews.com/2026/08/18/bon-secours-mercy-revenue-cycle-firm-ensemble-2026-payouts/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-18T20:50:23.000Z"
+    },
+    {
+      "title": "Trump administration sued over visa time limit that would affect grad students, postdocs",
+      "link": "https://www.statnews.com/2026/08/18/dhs-sued-over-visa-time-limit-for-foreign-students/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-18T19:54:04.000Z"
+    },
+    {
+      "title": "Amylyx Plans FDA Filing After GLP-1 Drug Hits Trial Goals in Rare Metabolic Condition",
+      "link": "https://medcitynews.com/2026/08/amylyx-phh-avexitide-post-bariatric-hypolycemia-glp-1-antagonist-metabolic-disorder-chronic-disease-amlx/",
+      "source": "MedCity News",
+      "date": "2026-08-18T19:37:33.000Z"
+    },
+    {
+      "title": "R1 to acquire Humata Health and more digital health news",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSFVCQl9EcmJ5bTJSb3QwOGZUbUNrTV9rSEpIeHpKNXpfbWFRdkp6ZU5mVTRsaTNJSE5ZM1l6YVF5T3dTcExzRkNMMVR5c3BtT0VYY2F5M19fejVJeU9FY1hjNXJaYmhtR0xWX3pDZHdBSEd0ZHJyUW03eFdVOEZ0SEdoZFAtR01IMzZpVFJQWDlaOWM?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-18T18:47:30.000Z"
+    },
+    {
+      "title": "STAT+: The White House declares ‘promises made, promises kept’ on lowering drug prices. Nice try",
+      "link": "https://www.statnews.com/2026/08/18/white-house-claims-drug-price-drop-examined-ed-silverman-pharmalot/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-18T18:42:00.000Z"
+    },
+    {
+      "title": "STAT+: Real-world psilocybin data suggest need for close monitoring",
+      "link": "https://www.statnews.com/2026/08/18/biotech-news-real-world-psilocybin-data-suggest-need-for-close-monitoring/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-18T18:07:48.000Z"
+    },
+    {
+      "title": "Craif secures $34M for urine cancer detection test",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWVEOVdGZjMtSUN5V0kyY0hsM3RlR0ZWeE9NMTkxV1NlVlpHTUV1amxjR21iWWRwaEQ2VzZURnlmYklwTWxWZy1YU3dqR1p6WEFuSDFkS2piOGxhc2NVejZPSmQ2MU5KdmRvNlRNd2pSYkpnYmFsUjhFVFFJY2FrWFN2M0Z4TC1v?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-18T18:04:08.000Z"
+    },
+    {
+      "title": "STAT+: Leaders of Mass General, Dana-Farber among hospital execs who got big raises in 2024",
+      "link": "https://www.statnews.com/2026/08/18/massachusetts-hospital-ceo-compensation-2024/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-18T17:26:28.000Z"
+    },
+    {
+      "title": "Why workflow accountability may define healthcare AI's next phase",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXhKTF81MkdjRTJGei1XTFpJVW42WVJNZHlpODFRNndoMDlqUzJmOHJpeXMtTThkX1VJdkUtZ1p3UTVMNDN4NmNYaFpjcXVETEY5R2pmXy1YS3BGTU5OWVdleVlyd2dsRXF0SlBoOGc0UDZ0T09XR3ZiZWtpZGU1eEw2LTBLVnVvcmtYeE5FTEsxZTBEMUFmUmgyV2NjSWxLMzliRw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-18T16:16:11.000Z"
+    },
+    {
+      "title": "Craif secures $33M for urine cancer detection test",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWDJIQ2VFM3dOaWYyMEd3U2hWaHM5VkZMMW1YQ0RqdDEybHhOMjRTT0ozaVhndTRlV05NZW41RU45MTRVLWVQYlBCYkY5T3l4Q3Y4YjZDUHNrMmJZYVB1MmxMYmVHU2VhSW90ZEp0M1ZLT0hjeVItXzJEQXcxNEt5dTVYbl9hNXk1?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-18T16:00:36.000Z"
+    },
+    {
+      "title": "ONC increases funding to expand TEFCA",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qcTJUaVloLUtSM1VQWTlSeTZSeW9LcmVjclI2dGZybm1XQ2hWYllDN1lyRDFIekhOa1pMNDBRM04yNEVhczV3bGQ2eDNaTXpmYUpwZ3hjM2RIOUhJcHdFa3hrT0MwY3NGaDU2NVNCYW5TejRwUy1sZWRDT3U?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-18T15:30:57.000Z"
+    },
+    {
+      "title": "STAT+: Government workers feel the squeeze on health care",
+      "link": "https://www.statnews.com/2026/08/18/health-care-costs-surge-for-cities-counties-generous-model-deadline-for-states/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-18T14:36:41.000Z"
+    },
+    {
+      "title": "CMS helps data holders vet apps",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1leDJiRGFiN2hYSlBWckx1aWd1cHlZRUd0Tzh2Qll6SjRFNVhDMlp4MTFtVkYweVl2anBPdzd4ZE40clBMQU9VQjNPU3RZTmRrYlZ6UExEWlhMY2IxWW5RSGJsMGoxZVFNV2syb3RaQ19SNk5iYWpj?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-18T13:59:26.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a setback for Eyepoint, a win for Amylyx, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/08/18/eyepoint-blindness-treatment-setback-amylyx-avexitide-win/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-18T13:25:37.000Z"
+    },
+    {
+      "title": "App library scales patient health data exchange",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaUhFUkMweU12Y192YmRYNDh0a2I5Qk1Eb3BMODE5S0ZqQXZNb3hwMFh1UG04UnEtWm4tc3Zmd3hfOHlfMURTTWVjRENYbC1mVzU3a09MUmdqdXMxODVYSUcyZW9WRkduT21EZDhzTFJDeEdaRE12WnNhUDRmc2lrSXowa0dhZGt0TjdWbVc4QQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-18T13:24:00.000Z"
+    },
+    {
+      "title": "Rural US Healthcare Has A Cybersecurity Problem — CMS Funding Can Help Fix the Part No One Sees",
+      "link": "https://medcitynews.com/2026/08/rural-us-healthcare-has-a-cybersecurity-problem-cms-funding-can-help-fix-the-part-no-one-sees/",
+      "source": "MedCity News",
+      "date": "2026-08-18T13:22:00.000Z"
+    },
+    {
+      "title": "Epic responds to potential FTC antitrust probe",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaEd5cVVKZmtHZzNtdVdUZ0p4T3NLU2I0R1Ayc2lNN09OQUNJNGtUcUpoMmt5TnMyaTc5NDBtckxYY0hCNm9CdHNHWTgyRURZc3U0WEJEYW03QWZxbWNkcWlqcVFKZS1acG9LbjJPcEhJbExkU0tyVnR5d2Fxc3ZibHRSLVFBUHpa?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-18T13:07:45.000Z"
+    },
+    {
+      "title": "Kindergarten vaccine exemptions are climbing",
+      "link": "https://www.statnews.com/2026/08/18/health-news-kindergarten-vaccine-exemptions-are-climbing/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-18T13:02:37.000Z"
+    },
+    {
+      "title": "STAT+: Prominent AI startup rolls out virtual cell model in race to speed up science",
+      "link": "https://www.statnews.com/2026/08/18/david-baker-genbio-ai-new-virtual-model-unveiled-aido-cell/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-18T13:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Amylyx endocrine drug succeeds in pivotal study",
+      "link": "https://www.statnews.com/2026/08/18/amylyx-endocrine-drug-succeeds-in-pivotal-study-avexitide-bariatric-surgery-patients/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-18T11:01:00.000Z"
+    },
+    {
+      "title": "STAT+: A pill that mimics exercise? Early results on drug designed to maintain both weight loss and muscle mass",
+      "link": "https://www.statnews.com/2026/08/18/enveda-pill-mimics-exercise-phase-one-trial-leptin-weight-loss-maintenance/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-18T10:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Doritos as farm-to-table snacks? Big Food, under duress, gets creative",
+      "link": "https://www.statnews.com/2026/08/18/farm-to-table-doritos-ultra-processed-food-ad-campaign-healthwashing/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-18T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: 8 steps to making surrogacy more ethical for everyone involved",
+      "link": "https://www.statnews.com/2026/08/18/mckenna-west-surrogacy-laws-ethics/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-18T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: In parts of the world, antibiotic overuse isn’t the problem — underuse is",
+      "link": "https://www.statnews.com/2026/08/18/antibiotic-underuse-overuse-resistance-aware/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-18T08:30:00.000Z"
+    },
+    {
+      "title": "How health care costs are undermining America’s public-sector employers",
+      "link": "https://www.statnews.com/2026/08/18/public-sector-employees-health-care-costs-out-of-pocket-series-part-4/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-18T08:30:00.000Z"
+    },
+    {
+      "title": "Generalist-Specialist Collaboration",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wTk11WHVPd0V5djVKT2FjY1FLaTZHQzA0UVVCX0RTNjhJMlF5cW5pTUoweHVBY2FlUlh0MW1RZGRRY3hFMkZDS1h4cVB0aDVqcTZoNU1rQ2puQUxlUlFzX1NMM2NZZG0ydWNEWnBEalpGQllsM0xEenJ3?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-18T01:07:11.000Z"
+    },
+    {
+      "title": "disease diagnosis",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOc2VxLWZ1b0VSaWRXYjVLZ1NHeG9jMVFTWlBLSm5UTzRac1pjc04wTVdtaTNteXYtbjJpZm1OWEU5UVlmN3lEbk1QdGkxemhiMVU3YnY0TGQtUzVvdjgycXJB?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-18T01:06:55.000Z"
+    },
+    {
+      "title": "DocGo to acquire virtual care company Hicuity Health",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZjJoYklOLWdQVmxIV1VSRlZxSDRReG1ISUFXSGw5QlZaVjUtV2RhakFyNWF4MHJVRnRZVzlmd2lNR1JEZGFrQ1RGcnZzMVhDR2pXZk1aNnlnQ2JzUUx4TF9SdzhOR3FWcVdFb25xWFdTWFdhQllEOWN1Y0hzY1VCUEExY1hvWG5mcHAtMGNn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-17T22:30:58.000Z"
+    },
+    {
+      "title": "KFF: Insurers Denied 12%-18% of Prior Authorization Requests in 2025",
+      "link": "https://medcitynews.com/2026/08/kff-insurers-denied-12-18-of-prior-authorization-requests-in-2025/",
+      "source": "MedCity News",
+      "date": "2026-08-17T21:59:47.000Z"
+    },
+    {
+      "title": "Never Miss a Moment to Care: AI-Powered Communication for Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeUt0SHFYUG5fRF9sS0YxZ1h6dUpJWnFTaWRDSUhucDFBejNIV0JLWVJKbGVnVzN0b2ZqemJvTUFPR3ZSNm9DUXJzWGxfVW9SeFEtVkxSd3RKTk5HSVBHMkJuakc0dGV6MU16R2E0bVNQNWxDUVI2U1B2NlVXNGpYZEM3Z0E3MlNvUHl5bDNWcDJyOXV3ajRkMzE1LXk5eU5KWVE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-17T19:32:37.000Z"
+    },
+    {
+      "title": "Medicare Platform",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QdU5kNjVpTC1IcW0yWXVXV0xaaUpMV3BVZG1JQmE1YUZXTkhqQ3F4UUtodFdpN1l3eFU1LU9UQWZtVDNiYndqSnFsd2RfVlUzdjZCbWs5cDJZYXNQeEJRRXFR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-17T18:37:13.000Z"
+    },
+    {
+      "title": "Investor",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHbUxxVlNkRGJCa3dPbk5ONU1yRXN5eHpwbHVwdm1JZkpQd3NjeVFlbEZGNkNaSnRnN2VnNW5kWTNJdkw3ZW03Y2pWYmpQSXhSQWNvVHdUY1dPTm1HUTZRQjhIUE10am5IVWc3SWJWbzdmeHJmOWlWVm5OSHA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-17T12:34:36.000Z"
+    },
+    {
+      "title": "Penn Medicine",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oOUdIX21FVzZHdkNfTkdGTHFxN0kzZEVueVVBLV9vYm1lMWY4c1JPZktvYnI4Nm9nQnAtNjkwX0RNSEZtOFZkVXE4d3l4SVRzbkVRMG5KNzJsTDJ0bjRRY3JRaU1wb3VobU5LS29UYWUxQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-17T12:03:58.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOUVvSUdYNFZFZjJMZTdRbmlnUWk3UjM1QUNBdnJZVVRxbnVEUFVQXzVNX0dmUFBjUUU4QVBJZ3VnQ1JLQmRxTzh0RlRjYnl3bHBhcnZ5Y0I0ZFRmUjhkdTI2NEdwQXNRRVRPbEx0SXVPTF9mb2JnYVBoNlVfbDdSWTNIQ2J5UThWcWNhQUZzLUNxVVlBR1BzejBzZ1E2TmZad3BmSnJOZERodHNvbG8taHo0TjJxZ1daTVJ1UTBxM2VibGs?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-17T11:08:56.000Z"
+    },
+    {
+      "title": "Kyndryl to acquire Healthcare IT Leaders",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbXlfd1RJMlYzOEg0eWJWRWI3bnRBWFhPbU1MQ1hucG9jVkFhX3k0UXl0UUNHQVBmdEhNanRmQTE0Zjk4NlRYUmdYazFzYzl1bXB1SUJuXy1sZ1k0dzVLdkhqbkxsb0JIdGJjNFJjMUJ4SWpJaW42Sjd5S2x5MVFzZQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-11T19:39:27.000Z"
+    },
+    {
+      "title": "Atlantic Health, K Health launch PatientGPT integrated with MyChart",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTdnVVQ0WklpM0xsR0ExUkNlb0VYV2dtZFlzcEtwZFJhRTF1cDJjY0M4ZUpFTFpFaTM1NWxtZ2w4ZUZtWVd3anN5eDI1WDBlLTdwYmpwdmI1d2JvZURWN2hCd3ZhUGdLQ3dpU3pBU3FSV3FSMEh2TnEzTGdzNGd3Y1BSeFhFd2hrZlJUYVI0ODRBYURCbUhEbll4cDQ5QQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-11T19:36:01.000Z"
+    }
+  ]
+}
