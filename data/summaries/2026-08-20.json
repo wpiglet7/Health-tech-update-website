@@ -1,0 +1,184 @@
+{
+  "date": "2026-08-20",
+  "generatedAt": "2026-08-19T21:28:58.023Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 28,
+  "sources": {
+    "MedCity News": 4,
+    "STAT News": 18,
+    "Healthcare IT News": 4,
+    "MobiHealthNews": 2
+  },
+  "summary": "Today's health-tech news reflects significant momentum in oncology innovation, federal leadership transitions, and care delivery expansion. Merck and Moderna's personalized mRNA cancer vaccine met its primary goal in a late-stage melanoma trial, representing a major advance in the emerging field of patient-specific cancer treatments. On the funding front, Happy Health secured $75 million for home-based care expansion and Hopscotch raised $53 million to scale rural Medicare primary care, signaling strong investor confidence in distributed care models. The administration is expected to nominate Heidi Overton, a White House deputy director, as FDA commissioner, while a new CDC director has signaled her commitment to scientific integrity, suggesting potential shifts in how federal health agencies operate. Several stories underscore emerging tensions around artificial intelligence in healthcare—from concerns about algorithmic child safety to questions about undisclosed AI development in medicine—and there are also notable controversies including expert scrutiny of a gene therapy company's disclosures following a patient death and debate over curriculum changes in public health schools regarding racism and structural bias. Epic's annual meeting generated closed-door questions about the company's AI strategy, hinting at broader uncertainty around how major health IT vendors will implement machine learning.",
+  "items": [
+    {
+      "title": "Happy Health Snags $75M to Support Home-Based Care",
+      "link": "https://medcitynews.com/2026/08/happy-health-snags-75m-to-support-home-based-care/",
+      "source": "MedCity News",
+      "date": "2026-08-19T21:22:55.000Z"
+    },
+    {
+      "title": "STAT+: How Trump loyalist Heidi Overton became the president’s pick to run the FDA",
+      "link": "https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T20:03:20.000Z"
+    },
+    {
+      "title": "STAT+: New CDC director tells staff she is prepared to speak ‘truth to power’",
+      "link": "https://www.statnews.com/2026/08/19/cdc-director-erica-schwartz-staff-meeting-truth-to-power/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T19:31:45.000Z"
+    },
+    {
+      "title": "Epic bets on its AI speed at UGM",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWNDlPVkZZWG0xcVZEQ2FJTUM2aUtTa00wUmRiMU5SUVB1NHlzWlMyTUJmMnpjXzNRQlgtajFkbGZQUHJhVWQ0VW93eHNqa3Rwb1dNNVJ1Yk95SnZsa3hrNlBONmpLSEUtSkN1OTlRSnRjZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-19T18:24:22.000Z"
+    },
+    {
+      "title": "Merck, Moderna Personalized mRNA Cancer Therapy Achieves a First for Melanoma",
+      "link": "https://medcitynews.com/2026/08/merck-moderna-mrna-cancer-vaccine-neoantigen-intismeran-melanoma-adjuvant-mrk/",
+      "source": "MedCity News",
+      "date": "2026-08-19T17:29:30.000Z"
+    },
+    {
+      "title": "Hopscotch raises $53M to expand rural Medicare primary care",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMTJZX2hNLVMxbWYtTFFnaTdGUE1lWTRVRGN1RFZiSGhqRjYwdTRMTTFseEhzSTloQUcwMHZkWW1wQktQRktFSG9rSU5RbzBmdzBwQjhyc3RNeXMzbE1WNG1Xbm1hbml0MHptQ3dfZmJXM2RkM3QzY2ptd1JLU19lcWFZbTE3QlFSZVZZVGZHd25XemlyMFE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-19T17:19:56.000Z"
+    },
+    {
+      "title": "Trust in science: A new STAT initiative",
+      "link": "https://www.statnews.com/2026/08/19/trust-in-science-a-new-stat-initiative/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T17:19:33.000Z"
+    },
+    {
+      "title": "STAT+: Experts scrutinize Huidagene’s disclosures after patient death",
+      "link": "https://www.statnews.com/2026/08/19/biotech-news-experts-scrutinize-huidagene-disclosures-after-patient-death/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T17:09:00.000Z"
+    },
+    {
+      "title": "STAT+: Regeneron drug for disease that causes dangerous bone growth earns FDA approval",
+      "link": "https://www.statnews.com/2026/08/19/regeneron-fop-garetosmab-fda-approval-pasatru/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T17:02:11.000Z"
+    },
+    {
+      "title": "Telemedicine won't work without care coordination",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUVwaFNBcnJub3JXTmtUUTVSNk5LVzVpbXhtbHhMaGE5TXEyb2p6RWRuaGl4TlduLUo1d1BjV1FiMXgxSllTYm9ZdFBnTFAwYVpuSkJEazB3Q1FNa2RVRjEtendFaFVzYmxqYkctbGtZdHpETVg3dHU3Vi10N0RBQ3loa1VCczB0djBXQkJNcw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-19T16:33:19.000Z"
+    },
+    {
+      "title": "STAT+: American Cancer Society cancels alcohol industry fundraiser",
+      "link": "https://www.statnews.com/2026/08/19/cancer-society-cancels-alcohol-industry-gala-fundraiser-deadliest-drug-series/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T15:18:01.000Z"
+    },
+    {
+      "title": "STAT+: Brain organoids, kept alive more than five years, matured like human brains",
+      "link": "https://www.statnews.com/2026/08/19/brain-organoids-alive-5-years-neuroscience-research-harvard/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T15:00:00.000Z"
+    },
+    {
+      "title": "Why Bone Health Is Preventive Healthcare’s Next Big Category",
+      "link": "https://medcitynews.com/2026/08/why-bone-health-is-preventive-healthcares-next-big-category/",
+      "source": "MedCity News",
+      "date": "2026-08-19T13:38:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about an FDA commish nominee, mRNA cancer vaccine results, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/08/19/fda-commissioner-nominee-overton-merck-moderna-cancer-vaccine/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T13:23:14.000Z"
+    },
+    {
+      "title": "Dissecting Chinese trial strategy in wake of deaths",
+      "link": "https://www.statnews.com/2026/08/19/health-news-dissecting-chinese-trial-strategy-in-wake-of-deaths/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T11:47:26.000Z"
+    },
+    {
+      "title": "STAT+: What Epic did — and didn’t — say about AI at its annual meeting",
+      "link": "https://www.statnews.com/2026/08/19/ai-prognosis-what-epic-did-and-didnt-say-about-ai-at-its-annual-meeting/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T11:25:12.000Z"
+    },
+    {
+      "title": "STAT+: Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial",
+      "link": "https://www.statnews.com/2026/08/19/mrna-cancer-vaccine-trial-melanoma-merck-moderna/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T10:45:00.000Z"
+    },
+    {
+      "title": "Accrediting body considers changes to racism curriculum standards for public health schools",
+      "link": "https://www.statnews.com/2026/08/19/public-health-education-accrediting-body-ceph-walks-dei-tightrope/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: In wake of boy’s death, gene editing experts dissect Huidagene’s decisions",
+      "link": "https://www.statnews.com/2026/08/19/huidagene-clinical-trial-deaths-experts-dissect-study-design/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: I’m a pediatrician. AI chatbots are grooming my patients",
+      "link": "https://www.statnews.com/2026/08/19/ai-chatbots-children-grooming-mental-health/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T08:30:00.000Z"
+    },
+    {
+      "title": "She grew up unvaccinated. Now she’s a leading voice for science — and empathy",
+      "link": "https://www.statnews.com/2026/08/19/science-communication-liz-marnik-vaccine-advocate/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: AI has created a shadow medical system",
+      "link": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T08:30:00.000Z"
+    },
+    {
+      "title": "Physician group sues Trump administration over dietary guidelines process",
+      "link": "https://www.statnews.com/2026/08/19/physician-group-sues-trump-administration-over-dietary-guidelines-food-pyramid-hhs-usda/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T05:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Trump expected to pick White House adviser Heidi Overton to lead FDA",
+      "link": "https://www.statnews.com/2026/08/18/heidi-overton-fda-commissioner-nominee-white-house-adviser/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-19T01:18:25.000Z"
+    },
+    {
+      "title": "Korean AI to support digestive diagnosis at National University Hospital",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOTR1U3JDUmZFcmNKUTc5QkpiNDRSYnRRQnRkUzlmcTBNWXFfN1ZNWTRrOW9oYWNrN1owbnBoRFZTbUExOFhaa3RMckFRNjR3M0ZsZ2cydEdsSXMzY3JzaUlDUWxualZjaHA2VFlOVHU1Rkh1WTVVSG81RlIwV3hReE1ScmxuTWpuNGlpOV9kVWhfamFZM3hXYWo5Ulh6WktFdFNkbEJlV1JqOFFmZEE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-19T00:11:44.000Z"
+    },
+    {
+      "title": "Perth, Sydney services first to implement antenatal lactation screening tool",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPazNna0NMUFlHMm01d0dlTTl3SGVQcE00b1dhWmkwVEN3NUlzRHNCVDlsR3FwbW1nTmR5ekdkRkU2aF9YQW81a3JkY2o1b3I2aTdOTE9BQlpHa3FQMGFBckpvRFcxdHdkTnFGb1k4SlRmNC0taGFheXU3OS1uUjVPdUozY2RfRk1PaWZPSko1aktnM25oQi1tTmtLWmx1SFZyS3lWZEZxSVEwTFFWRXFHLUtwUlo?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-19T00:11:40.000Z"
+    },
+    {
+      "title": "Included Health Taps Carrum Health for Value-Based Specialty Care",
+      "link": "https://medcitynews.com/2026/08/included-health-taps-carrum-health-for-value-based-specialty-care/",
+      "source": "MedCity News",
+      "date": "2026-08-18T22:19:30.000Z"
+    },
+    {
+      "title": "Smartphone thermal imaging developed to assess diabetic foot ulcer in Australia",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXBtRFRHaThteDVDMklrWlFVRWtCYy14azdjcElRQk9hRjB2bVIxWnJPNlhzU3ZURmEyajNrTnhhOTJiMU02NlRhWHpHMFozZGoyNXBVTmRBWW5XNk5CWVNlTHdyTjhpem0ycjRhZF83XzNZd2UxaUJoOEZZcDUwcGw3RUk3TEdRTUV3Y2Ztajk3OVVOaWlndG5sUmpzMkRvLU5kQ0I1SUYxaVoySGpJcU9uRQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-11T12:22:51.000Z"
+    }
+  ]
+}
