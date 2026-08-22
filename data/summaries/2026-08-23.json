@@ -1,0 +1,243 @@
+{
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-22T21:25:31.970Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 38,
+  "sources": {
+    "Healthcare IT News": 4,
+    "MedCity News": 33,
+    "MobiHealthNews": 1
+  },
+  "summary": "Healthcare organizations are grappling with several overlapping challenges as technology adoption accelerates. The healthcare AI landscape is expanding rapidly—from Epic's use of AI agents to Maven Clinic's new women's health platform—but a critical gap exists between deployment and workforce readiness, with healthcare systems buying AI tools faster than they can build teams to operate them effectively. On the clinical side, personalized medicine is advancing notably, with Merck and Moderna's mRNA cancer therapy achieving a first in melanoma treatment and Ultragenyx's gene therapy becoming the first FDA-approved treatment for an ultra-rare disease, while diagnostic innovation spans from 3D surgical planning models to emerging consumer diagnostics platforms. Payment and reimbursement systems remain under stress, with payers denying 12-18 percent of prior authorization requests in 2025, rural cybersecurity vulnerabilities drawing CMS attention, and women's health companies facing particular reimbursement challenges that limit market growth. Corporate consolidation continues across multiple sectors—including Ambros' reverse merger with Werewolf, Slate Medicines' $245 million placement fueling migraine innovation, and PTC Therapeutics' acquisition of Sangamo's gene therapy assets—while strategic partnerships like SCAN and Costco's Medicare collaboration and Included Health's arrangement with Carrum Health signal a shift toward value-based care models.",
+  "items": [
+    {
+      "title": "In dementia care, detection is not the bottleneck",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTTc2VHRwR09zRUJEUWE3UThyTWhLb0ptQ2d0QXJPNGxQM0cybW83OE03QzhnbnFHSW9uU2hHdk11QmZRdkR0TUpsblo1QmRBTGlRb3ZHaFhiMW1YNmxPVXY1bFcwZER6WlAxT21HTEUwT3ZpY2dmQzZqVUYzdUV6WHBGUl9GWGNy?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-22T15:25:08.000Z"
+    },
+    {
+      "title": "Youngand Inc.",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iejJHUFFSMkdvYlByN3ZFYWZHX0hsV0FyN1BqY3o1UWlNLTNvb25RMS1vX3h3TVlsWTJtZjV1WnpZQTItOXRDcmJwWFhSSTFQbzlNVHdKSXZyV0R0V1dOdkUtOVc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-22T15:25:00.000Z"
+    },
+    {
+      "title": "This Week In Epic News: FTC Probe, AI Agents & More",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBERlFlcmxPX0RCT0ZiWk4xV0FEbjgtaXdTQ0dYZ0pfRmNTdlN4WVVoUkFORnZScXJ5cm5CN0NRaGtDcWZDYjhKSUw4WkQ2dVo0LUUtb3NBNGF5bVNDckZDYzdR?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-22T03:01:36.000Z"
+    },
+    {
+      "title": "Maven Clinic launches Onward, Women’s and Family Health Summit",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcEx6R1R6NFg5S2VxNUVkTnUzOW12SUFJMjhSVDk2N0VSNndVYXZhVENUaXo0SGlENkstdDYxVnlzT3lVTjB1MVdUNDBoOWpvWEY2TWFRd04xLXlNMTdaZTlmVGpCZ1VILTd3RXhuQVJZYXlVTDc3bElzeVhwMTJUN3hQZEQzSVUxSmZYTXdkc2ZscFE5aS1lakk1eUk?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-21T21:50:11.000Z"
+    },
+    {
+      "title": "bisphonate Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVQ3FtQ0ZWWDhDaGJxYXV1VVp1YjN3eDNKNW9PN3VCZEVlSkp2UWJ5azhJa0xkZVctclV0Q3hRdUZYOGFDaUlNLWRyY3lFTjJl?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-21T20:44:38.000Z"
+    },
+    {
+      "title": "Resilient by Design: Protecting Epic Environments on AWS",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcXFVNlpVZW9yZmx2YlFMNDA4V3VGakZycm5wMkFvaGIxQ3p2SlFRN05JX0hndWw3SmRVUGc0QVNmZnc0akd4TEQ5RU5qb1ZKeDVIV0h0eWY3aURCSzZMY0xnVDh5NXY3Vnpqd2t1UnVLTmFvNmRZaEJpaFVsMFFXb3dwZXdsRG93NGpaOEMyUlI0a1E1X2c?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-21T20:41:45.000Z"
+    },
+    {
+      "title": "Ambros Therapeutics’ Path for Pain Drug Goes Through Reverse Merger With Werewolf",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbExhNFU3VDNTUkptTUFWY2xIN1FNempOZE5HTlpmd1ZYOE8zbnMwV3BERzJVekhvYjU3anZrbTFKakYzTEhWUy1NUFM0NU11SWc3dGp4elVNV0N4cDJINW9YSC16SWlWVkNWY0RlQktPbFF1a1I2OWdLTkxvY21IUUdISWJjNDZzMUVSTjZpODNZdGt5MERreDh0N0ctQlRUeUJkN0lpNFBDcTJvam4wYkEwaTFLbTRvUWVHWmtR?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-21T19:47:32.000Z"
+    },
+    {
+      "title": "The Pulse of Innovation: How 3D Models Can Prepare Surgeons for the Operating Room",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2ZPalJ2VmhWRmJ5MGFaU2g0R1lta1JYOXpSZkJOb01tM21fVElKUG8wZlJ6TkhWQ1JwYmp1Q0FVSjdGRFZBODZtOU9aN01qTEJDaU5YUGNXWjhJVDItcEhTcTFmeG9FQk5ET1MyQ19NeEs2UnJZWG42ZnNQM1QxZ253UFRfSFQ0MmpkOHM3YmdrWkhkVTlzM2tVYXBUaDM0WlBNQmtBT0VvazBpdFBUZkdjVTQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-21T14:37:24.000Z"
+    },
+    {
+      "title": "Modernizing Payment Integrity in an Era of Systemic Fraud",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOckt6NFhDd0RHcXkyVTd3R2ItTzVQTGQxR21OTXdQTkMwNUtRdXVMTXZ6NGxOaENxYWdQVlprNGd5MndaWXRrLUUwcXNOb2U3dFRxeXBrTVpJdWVxNFNWaUtMUDNrakNfUjNxbF9KUVBTZnNNUWZYMm1pV1hYcWQ0UVRCUUlOYW5CQktWTnQzOWJQVktN?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-21T13:58:43.000Z"
+    },
+    {
+      "title": "SCAN, Costco Launch Medicare Partnership",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JcGduVmV6UHo4V3JXcjZpNnpkMllaRThmaS0zLVZzQkNTUjNXbW5HTEo5aWhkZkNlaEdPM3VMNXNzMTdfeWxJS0RCWkNtYmRHNG5CeG9Mcy1ES3pISlVST0dKWG9qVUQ1YXZqLXhuS2YyWHlEUkxUTWRleWE?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-20T22:56:36.000Z"
+    },
+    {
+      "title": "Ultragenyx Pharmaceutical Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZbVpzVm5ROUprcUdfc19KTktDaUk0VHpMWUljaDFtOFVlZ2pvZkhNRnFocDctdXU3dUVmb01TTEk4MW1tMHo2N2h3SGpQWVhvSUJ5YlhNZC1SZTUwbVEyV1E2WG4?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-20T19:22:29.000Z"
+    },
+    {
+      "title": "Ultragenyx Gene Therapy Becomes First FDA-Approved Treatment for Ultra-Rare Disease",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdVZfSXVoNGtlVGo5VXc0YzdKaEt1aDIwNFdsUjd3dGRXX2lxNnBjT3E3SFBYWVZFLW10anlIaVd1ZjQyMEtLd1EtMkR5NGtjSzVfazJ5S1ozWkFNMWpHZzNhRlYzU3dhX0FKaUtsdVplaEJCTWc5YmlON2pNVmI5bFVhWXlLYmVpdHoyb2lnOTN2RnVqdEMzcHppbHM1MTdTOTRfZXRrV3dlaDQ4NDdITndnUUNJLVEwNEJFTQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-20T19:18:28.000Z"
+    },
+    {
+      "title": "The Imperative of Distinguishing Medical-Grade Devices from Wellness Tech",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1Y4WThQOHdjUkFPTU5VdGM3UE80NUJ3ZTJpWHhqMjlMeTNNWFFnTFhVT3paODhRY0FvWUhRX3BVMHdlYmpoTHczcTZXbngxYWtmVHdKdkNQUVMzNGk1UXJEc0dhLVFVcnU2TkdwSFd2b1VMel9mSnp4UjE2dVRneDV6cVllRHdmWi11VEVkWks4TEVmYV9CUjNiSzE0SHJpVWMtQ3p4bkszQQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-20T16:36:35.000Z"
+    },
+    {
+      "title": "AI in Pharmacovigilance: Why Governance Will Define Success",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3ZMRTFocWJVSm82UF9hTDFiRUhPSFFHbjBxTEd1d0hITHRZTElaall5NXg5WGxVR2pkbGRtY2xwUU5tT3RDTloyZjltSDl5VHJHbzZDRmtVUkd3MXZjWHpWN3NMeFhpbXFyZzFOYlR3T2VoVmFpcFZqMlRyUmoyRy13UHR6Yk1LS3pGUzRpNmg1ZmxfcUE?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-20T14:11:10.000Z"
+    },
+    {
+      "title": "Happy Health Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6eDFGU3gwWDlieHNIRThKVm9vMzZKdHNqcS1INUR6X1FQWlNXMHhldDBVb0NzU0VTR1ZpTElrRDRLTFFuYkRIdlNzOGxWa1NqZWxv?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-19T22:09:18.000Z"
+    },
+    {
+      "title": "Happy Health Snags $75M to Support Home-Based Care",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdTZjekpyUHc0Vjd0WENuSjNSVVRZRkx1TC1WdnVrekx6V3VsZFNnU3k0VWtkSUY1aWJRRE1YWDVIYS1EdmRabmpTczJWWUQyT3RZRjdqTnBiUi1Jc3lIVFJOVzdNcEdlXzlBejBVbVM5RmVRVGZmalRFYnBjWGFBY080b0k5X3VVaUE?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-19T21:26:35.000Z"
+    },
+    {
+      "title": "Merck, Moderna Personalized mRNA Cancer Therapy Achieves a First for Melanoma",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQVpOdEN4YktYTTVpUndSM0QzOWl6QllDc0p5Ml9uTmFJU0szYV9UZXJ0VWRIZTVBWjB0X2dZOUxDVXRTWXU2TnVlbS1tc2NmYlVZeTNZWkMwSFpzOTd1eDk0MVBxckR3X3l3dXhteVdfYzFqLTBOU0VjY0hWZEJYUkhDdlNuOWR2Vi1Wc1ZjNFNFZWs4Z0x2aGE3blN2ZVpqbV8wWGJBZGRIMm0wRVdV?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-19T17:31:35.000Z"
+    },
+    {
+      "title": "Why Bone Health Is Preventive Healthcare’s Next Big Category",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3NNQ1hGbTRWZ2F1LUhQY1JWY1lGX3M3ZEFEVkUxZzhaS3h4RTdKUmYtX3d0eHlXVzU2eTNSOXZ3c2s4cjBneXNCR3hOSlJFaVhWNjZ6QVhxWHhHNF9lM0JuclFwTGNLZ2wxeXFkdGgzbHY4N1ZyT3dVZy1TTl9LVG9uZ2w3LUQ0c3NsY1dCcVNtNTFNa2pF?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-19T13:41:35.000Z"
+    },
+    {
+      "title": "Included Health Taps Carrum Health for Value-Based Specialty Care",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWngzSExRNG1xdGNiNUNzSW9Bcm90ZkVPeFd0RHZzR2Z0THpMczh4X2dUaFhHZzRtMFZ6MDFEU2NGd2VkbGNsV3pxcEFxejN5WUMzWEFkb2pzMXR6SGVnTlFyNjhja1ZOMm1NZ2VRTzFJUjNtMzZEdUY5Y2VYY2VCMnRvcFZYS1pRWFlVMjNoQjdlZFhhUzg4YXliTkNhNkk?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-18T22:21:33.000Z"
+    },
+    {
+      "title": "Amylyx Plans FDA Filing After GLP-1 Drug Hits Trial Goals in Rare Metabolic Condition",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdkZYSVVuSmdlVUlfZFliWDFDWXF2MHd6U3dRSVRBblVmZXFyOFNUc1Y4MjJ6LUV0YzlQMTlXNkF6UTdlR20wRmhpN3diQkt5aHRrZ2NvczZ2MFQxckJhcU1Md2xpTXdsZmVKRk1rR3FRSnNlYjQwRG5rYnpYUjg0S3A4TDlvT3lKZ1hoYkFVaHJUQkNaV1RBVjdSSWJDS2tRZFllSlM3ai16WE9aYWpWQmp2akxZZl9UODVQNzF5LVNra21Tc2FxckRpcGxsdmE3UXYw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-18T19:44:53.000Z"
+    },
+    {
+      "title": "Rural US Healthcare Has A Cybersecurity Problem — CMS Funding Can Help Fix the Part No One Sees",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeENuMUdwaVpTMFQ2QnVtMUlHZUFTaEwwUVFZS1c2YWhrYnB5VnZzSGVRY2JxX1JYcXYxOUVCekktNXNBLWxucl9teHdwQ3BfRW9BdW05c0pOSWN0bDZxZlpsQW1FRHNqWThaRFROVEFWMnFPblJhcS1ReVdBWFc2VFBsN01PVFZUUWZmZjltRUhuMmpkM1NjN2xJMnN0dG1rbGdRVlh0eExwS3g1cnlpT0tqZ0piem5IU0lha0pXSHhLM3FY?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-18T13:36:29.000Z"
+    },
+    {
+      "title": "KFF: Insurers Denied 12%-18% of Prior Authorization Requests in 2025",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOGtZalNEVmE2OURSaVdkeGp4MklXT3FYODUyc3RnMGk3VTYzRVE2WU51M2pfNUhxWHUzVVNrYWVENTdfWE1NbnVqMVpNZjVlQkQxaEhKZEszbVo0a0R3MU5VcVN0ZTNoVnU1QTFteWdOTEdUUGdsckk5MURtWmJEUzNHTlBaN1hVNkR4cmVfZi1SWE9Wc3MzYV9jdkI0dXM?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-17T22:01:49.000Z"
+    },
+    {
+      "title": "Slate Medicines’ Merger and $245M Private Placement Fuel Mission in Migraine",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWnVQUHRJUVZOX081eHZkZmxVeFBYb0hUb1BTQ0xBdXdXNFRqWEVfR0taZWRhMmNKZzFrRUVzdFJKOHk5N09QUEI1V1drN1dVRS1aWDdkdmhReEZJcXJVc01FYXdJZU11WERzYV9EOG00T0FpMDZqV21wVG5mZnZtT1Bkc293MGJsNGNBcS1MeVA5dGJLTkxhczhneHFSSVJON3J2Qi1BbzkzQVJBSTBKQ1dvN2s5RmFfZU0xbGJuQzJuOG5heDNQNS1oM2JBUQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-17T20:16:47.000Z"
+    },
+    {
+      "title": "The Rise of Consumer Diagnostics and Emerging Trends",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVTczNk53NThPeDRQYlhlRjkwZExVUjVzUjM3TDFBNzY5ZTlsYzE0dWJsNEYzNGE5ZFhOT3F6Zmxqd1Y5ZmZnUWNMRnVsaXhBRHJ2NENJS3NkTExxUkFuSXFnMHE3TjROd3I3OXJnTnhRb0IzdjlLOTZMRkhobklVczJ5S0NrenZYNktTOFl3?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-17T17:39:46.000Z"
+    },
+    {
+      "title": "Healthcare Is Deploying AI Tools — It’s Not Ready for AI Colleagues",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZW01VjR4UGJHX1BILXByOVExUHhFTE8xYU9zOHNMVmdhdk1aU3JwdFVqS0NNUTBJS1BPalRxeFp4N1NIM3BFeVVEVEJNOWs5dlhKYmhlMi1fVE9fZ2NJSGxILVB1MS1ZT25JTTR6YUpQWnhKVlB4SzA1YnBRXzZFTXd6SDRlUnZKR29rUVIydlJrWjYyRjVUTjd6empXUQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-17T13:56:19.000Z"
+    },
+    {
+      "title": "Thomasina Anane Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBObFdJY3hmczZ4Mml5VEtWdlJJMWw2THZ6dWNIX3NIc0pEQkNLV2VZYjA2OFBfZmN6SVAwMi1tRnlhVmM0T1B6c0dhaGs3MXl6OTlTdGc4TQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-17T12:06:08.000Z"
+    },
+    {
+      "title": "How Payers and Health Plans Think of Identity and the Risks of Fragmented Data",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcGVobGRuN2thYmJGb0ZnWFpmdWt5ZzlpMDlUS3VITUNRLU1ZTG5PVjkwSC1qV0tXNUdBZDV2NTBSYWd6QVlCR3BIejBocmlsWXJjVFQzU2l6cVVIZDdJc1lRY3VBTUIyRGVUdm8zTmNGSF85VUhQeTRjOENPTE5RaFBzQ2JuZmNUVVNGaUNtOGlQd0luQzFQY2l0NDR1ZWRSc0Z6ZXYtSWM3UlJTTFZuZw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-17T11:41:51.000Z"
+    },
+    {
+      "title": "Vogenx Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00ZmJyejU3SWhGVDJMS0NQczF0LWg2SlZRNmlLaFM3LWZobUZaZTVOcnRRT0ZMeFllVEJOUGhtbl9ibjVyUGx5REFvZw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-16T22:34:24.000Z"
+    },
+    {
+      "title": "The Reimbursement Challenges Hurting Women’s Health Companies, Per Milken Institute",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGZEbnNORFZDUjhLN3ZUMlFza2wxcmJEQXFRNmtCNnN3ZlYyLS1FbFRGUnIzRzh1MlV5UzNmT2p4UGZfMWc2NmNtYzNyZVVqWWJDTWZiRUNWWXY3WFNUNmN4RVhFU3VQVDVWQlVCVEwzMWdwdktYbXZKalUzSmFMaTZUb1k3UDZJZ09BNlRQSW9TOUZabmdORmVCMHdXNTBlZGJrWkpOeTZhZERBMFZFWDF1U3c?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-16T22:30:58.000Z"
+    },
+    {
+      "title": "Vogenx IPO Raises $81M for Trial in Metabolic Disease With No Approved Drugs",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1BDR0g0Qk14LUVySU5lMXFZdTFoQmFiMzl1Z0g3cUppMllMSk9CbkFENHNBa1B1U3RVS19GakZBNzk3WXVIYTV6R09WenlSMkZyMEZmaXRIWk9oVUxISEh3YmRSa2ZUakFIcjdmRS1UbEx3bFlCanNWeUhkVjVfMl9hTW1iN1o3dF9lUlJhZ1JyTDVvOGRfdUt5akJLcWwxekp6R3JBdWZvU1pibVBBd2tWTQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-16T22:09:21.000Z"
+    },
+    {
+      "title": "The True Cost of Focusing on Cost Instead of Cost-Effectiveness",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRk9mWXgyNFZ4Um1XLVR6NTJXS2ZGSVFqdklmMTdDUzdlVnJseUFZNWxnWXNQYUg5eVUtbUc0amYydkk3c1VfeVp5NXR1RU13U3NaWEphS2dKaDhDbHdPbTdMaUJnZ3pRbWYzdk41UzRlcVo3ajZsSTlESzRoNGZ1VmdqUzJ1LU9HUTRLdnU2dkludmJ6YUp1NjhXbk8?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-16T13:34:15.000Z"
+    },
+    {
+      "title": "Better Models Won’t Fix Pharma’s AI Problem — Better Terminology Will",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMFFvX1JETUpWczl4WWo0dEh3V2NGNWd3OEZCRzRqMjU5dExLWlRuN1NUeTNZVk9ZRGY5MWR2T05wbzRXdy1xNDFPYjZkQ242UG9TYTBUXzI3Yzh3QkZBbGlOU00tZ25zbDJPSlZOUlptdktNdTRhSU55aFhJR0FPUjd5ZjFVeWpuTXU4ck83YTNXSjZncU1fbU5UTWdLa1E?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-16T13:30:58.000Z"
+    },
+    {
+      "title": "Patient Group Sues AMA, Says the Org Shouldn’t Be Charging for CPT Codes",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLU1MTzBjZVprdnJEa2NCendIejhEeVdQQnpLN2FOem5Na1g2Y0RXSjlfS2R3MHFFeG9WMFJvODFFazRhelBQMGFKbmFNS1BvdnZ0UFlsVmR1aGE1cmlueHdNWmVlbmFXb3BKVk9yNGJZdEhaWnhfYXQ1UnFyNkpwbEJjMTBDcC1CS0E?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-14T21:25:40.000Z"
+    },
+    {
+      "title": "Healthcare Keeps Buying AI. But Nobody’s Building the Workforce to Run It.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnJlcGRHUGNBZWhnbm9PSDhKakZnRDUxV1o2amQxQ3NHMDZjUXlMTTVxY0ZndnNZWFlyQzhxNW5WRTVHOEZ1RDNibkFJY1M4dUtXNWR0QVpYQXdxajZSOXIwVWZwOWU4b1FEejViMHNSVTFLQl9mMnIzM200NEJUUHZiNFdkeVU1QUY3c01Da1U5aFBOWWFxaXFVanlCM3ZHcHptWlAtaw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-14T13:30:57.000Z"
+    },
+    {
+      "title": "PTC Therapeutics’ $211M Bid Wins Bankruptcy Auction for Sangamo Gene Therapy",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZnZOMjBRWkFoaWpJZ1pod0tvNGZUYUJRbFFvQmdJTUZ1VUVzNUlaWG96RWFpQURDLUdRNnBQNF9mTEt4ZzB2TnZlNld4UktpN2V5cXFYeUFRQmNWdFNsTEVhTmVWd2llTURGV2o3TWh2cVh6WVotTE81NnVMSC1DR1NKekd4STRyMWZUY1k3N0NyT3hyVnBjNFpNeTNtWVJPRUlOWFQwczg4RkRaeU82VEpDSnhYSHM3Zzd0T3JUdWc3U093RG1pNDR5VDRjNWszVHZNbEpVUXk1b0xDT21LMDRkcmo3VkpERUtpMnhrdw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-13T19:05:55.000Z"
+    },
+    {
+      "title": "Alloy Partners Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBydmJlQkR5QVh4XzZzQjRVS0hsSlhiMlpJeFZMYlNhZlJuSGJkVm93RkVFS3hTTnFLWjNHbWVfM2xDYndCNDdzcmp2MWlPS2RUMUloUzV3?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-13T16:32:58.000Z"
+    },
+    {
+      "title": "Startup Boulevard Bio Launches With Immune Reset Pioneer Schett as Co-Founder",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdnpnYkFuTjRXbHh3eXM4clRSUFduRTNlWG5CU1J2akxDR1pSandrVEIyR1lSUWFMTnNyM01tWENfN1VvTHpvbkZrcXdIX0szU0hNcGktcGVubzIwdTBCRW44QWg0bFFfUjAxektxTTR0dk1Rc3E1Q2Q5eHFpVEVxQ2t1MEdCeXNsUzJCMG9sUEJjaFE5azQ1ZnZyek5rX1dyNXljVVhoUHRMMlZwNDVOVGUyT1Uzb1NBVGhlcWRsVm9IZjV3UHJ1NA?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-12T18:07:42.000Z"
+    },
+    {
+      "title": "India to integrate AI into Ayush and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdHVnTDJESDFhRXlJSWlKa1FKMUlmT1Vvd1VyQjRzMjdCRzc5RFlsUU1JblYwUm9IazVFRzhvT2VxM1FKQUYzRWJTMVVNNElRTnpUZjZPdldmbXNxM1g3bTNIcWJZckhRQTBldEJYdTJVVTNxc0FUeDBxNzd3WTd6alNfQ21iLWpWQTVr?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-12T07:00:00.000Z"
+    }
+  ]
+}
