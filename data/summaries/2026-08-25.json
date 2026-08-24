@@ -1,0 +1,184 @@
+{
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-24T21:33:28.355Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 28,
+  "sources": {
+    "MedCity News": 4,
+    "Healthcare IT News": 6,
+    "MobiHealthNews": 6,
+    "STAT News": 12
+  },
+  "summary": "Today's health-tech landscape reflects several converging trends reshaping the industry. Regulatory scrutiny is intensifying on multiple fronts: the FDA is developing guidance for generative AI in medical devices, paused a Regenxbio gene therapy trial due to safety concerns, and faces an FTC challenge to Amgen's patent strategy. Meanwhile, workforce challenges are mounting, with nurse practitioner trainees struggling to find clinical mentors and many paying out-of-pocket for supervision. On the clinical innovation side, notable wins include Moderna and Merck's cancer vaccine progress despite logistical hurdles, Roche acquiring an obesity drug that preserves muscle mass, and FDA authorization for Avulux migraine lenses, while emerging areas like metabolic psychiatry gain traction. Healthcare organizations are adopting AI tools for clinical communication and metabolic care despite persistent privacy concerns, and payers are shifting toward prevention-focused strategies to combat waste and abuse. Finally, consumer health products face scrutiny, with Oura wearables facing accuracy lawsuits and emerging data showing SNAP restrictions modestly reduced soda purchases by twelve percent.",
+  "items": [
+    {
+      "title": "Amazon Taps Expressable for Health Benefits Connector",
+      "link": "https://medcitynews.com/2026/08/amazon-taps-expressable-for-health-benefits-connector/",
+      "source": "MedCity News",
+      "date": "2026-08-24T21:19:40.000Z"
+    },
+    {
+      "title": "Modern clinical communication requires more than the EHR",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeUtlV3JTUm5XM2s2YWlGakFMMkhjZG1PQ1piQXJFSS0yd1BTeEZGdXBPSmtFMDBZZUQ2MUlKVG9ack0yRUxQMUluV2xtUWJ2cE9MZk1fd1dwMXpHZ29RTWswRlV3VUJzTmJJemVyZnJzUmZFU1ZmUjQ1dlN5aUNaNWxiUm5WS0xKZ2YxMjI5RjlZSHM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-24T20:02:02.000Z"
+    },
+    {
+      "title": "FDA authorizes Avulux lenses for migraine-related light sensitivity",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUtjQmNScGpiTlRoZjczdUVPZ3VwUmt6eUZzTDBXdUR0al9RYXd0S2RBa2xnWU42OUdzTkE5WlRsSERZNjBCaEdMTGIxUENJZnpWTUpRbVZRQlNLdkV3bWMyaHA1NUNtRWlNX0ExWWNONEFoeFFhVUdUbTd1RFVVLWUzVnZZZEFpM1p0ajZ1Rk9QTkV1UUQtSzZfM3ZFdkdR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-24T19:34:07.000Z"
+    },
+    {
+      "title": "Roche Gains Rights to Hanmi Obesity Drug That Reduces Fat, Preserves Muscle",
+      "link": "https://medcitynews.com/2026/08/roche-hanmi-obesity-ucn2-crf2-peptide-drug-lean-mass-preserve-muscle-rhhby/",
+      "source": "MedCity News",
+      "date": "2026-08-24T17:12:43.000Z"
+    },
+    {
+      "title": "Patient data was breached in AnMed attack",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNll4WHVsS2NpUVFKMEhmVy1tWnNWWFI2cHlwSGdNckFQaml2LXFFQkN1ZEdzUVV2dWxRWkVqSk1EWWo2eWJvQVF6LWFlV2hjWWNGa3ZSV0VIZGxVRTE3d2F1dWFON0oyMExDRzZlT3JWMTZLZTR2bDNDbkEyRmpFcy1n?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-24T16:39:19.000Z"
+    },
+    {
+      "title": "Oura faces class-action lawsuit over sleep tracking accuracy",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONW5OQ1JsMnM3UEdwd25iTzY4QUxVWlJaRlRLVm5jem1nazlqa3kwcXozM2tfVXVJdGMyQ0FFbm04V0ZkYnZxMFZLLTVyMW15QWhvSnlHcE9Jcnk5aGZybHVSVk1SLXdmU2VVZEZhLUJsb1B5REFHeFFmTjZlVi1Yc1VyRjFCbDNNWUlwYnBTUWlWV0V3S1pkS2JfM0k?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-24T16:38:41.000Z"
+    },
+    {
+      "title": "Healthify, Berry Street merge to expand AI metabolic care",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3RhaUdBSEc1bXJvNGFLcTJZNkpMVkt4S05TQ0xtYUdLbk1oRVhYRnFEM1IwcURucW1QdlZ5QkMwVmMwdFliYTRDSmVHUzV2NzBCc0g0TF9uSW5Qal9LTE9PWnh5Y1p2My0wUUFlRHRZVThjQ1YtbUxJUTVsck5SSm12ZlFiRm9QaGNuekVCYmFIeEk?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-24T15:36:29.000Z"
+    },
+    {
+      "title": "STAT+: Lady Gaga and her fiancé launch a biotech startup",
+      "link": "https://www.statnews.com/2026/08/24/biotech-news-lady-gaga-and-her-fiance-launch-biotech-startup/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-24T14:57:29.000Z"
+    },
+    {
+      "title": "Healthcare practices eye AI, even as privacy concerns persist",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQakNCRjJvSGE2d2RQOGstMzdwcHpTRmNISEFMQjZqaEl0eXMzUnAyYU5FY1pIRzk1X2FsMjl5NmVFME5FWTdna2JnRWJPY0NHWF81UGxLOUFMOXY3c0xSVkZHNjFYN0g5OVd3aE85a1R2eFdaTU11OXdwMDlxSEpDbG9OS3JNdWhsOF83OTdjZG9BSEcyeWxDUXRQUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-24T14:55:35.000Z"
+    },
+    {
+      "title": "A Partnership-driven Approach to Waste and Abuse Prevention",
+      "link": "https://medcitynews.com/2026/08/a-partnership-driven-approach-to-waste-and-abuse-prevention/",
+      "source": "MedCity News",
+      "date": "2026-08-24T14:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Public-sector purgatory, and a union-hospital fight",
+      "link": "https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-24T14:23:19.000Z"
+    },
+    {
+      "title": "ViiV Healthcare on barriers to HIV treatment",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRHpFbERIcS1keHNRQ2dnYTRzaEE5TlNRcTVfZGt1MVZtRGFDRC1FYzRyTmkzU01XVmo2NG1JNVlGVFlhY01NbjRGWDRWV2dOM2s4ZXdvWWppUjZ3Y2kzaXhHUWF3N1VfSDNXM3hvZWhucGZJZUkwWklON3ZxSktSVQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-24T14:11:40.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Medicaid obesity-drug coverage, a Regenxbio gene therapy, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/08/24/state-medicaid-obesity-drugs-regenxbio-gene-therapy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-24T13:36:21.000Z"
+    },
+    {
+      "title": "Why Psychiatry Can’t Ignore Metabolic Health Anymore",
+      "link": "https://medcitynews.com/2026/08/why-psychiatry-cant-ignore-metabolic-health-anymore/",
+      "source": "MedCity News",
+      "date": "2026-08-24T13:31:00.000Z"
+    },
+    {
+      "title": "Invest more in human capabilities as AI advances, health leaders urge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVW5uUkVabnJhS21qcm5tM0Vzc0R3QTA1RUMxclkzNHIxYmdqUWxjSG80bmtRS0hDbHk5cTJOZUxaODZibUtuamJVeTB0TzhaM0Fia04zOWNCQlJxSlEzQXlyaXdnamxJNkVFVzhlT1ZUV0VJaldaLVdka1J2ckV2Vks2WlZrZUZESkhnYXUwSldSemRxR092R3pSWGZ5dk80ZzNNUWdaRXk?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-24T13:28:50.000Z"
+    },
+    {
+      "title": "A new campaign to build HIV awareness",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83Y2NFNVJEVnJYTzBRSHpwdVNObHpRVlpvTFA4MnoyMHdvMFBwb2RkTUhDYUFNc0RpMldmbHd6aEx5Q2wtanhvSUUzTnpWOThZQnNjR21IaWo2NHFELXZGQnVZdG9QZmlaREsxRndOOG9ScmxEYVdsdjNNQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-24T13:27:00.000Z"
+    },
+    {
+      "title": "FDA plans to regulate generative AI",
+      "link": "https://www.statnews.com/2026/08/24/health-news-fda-plans-to-regulate-generative-ai/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-24T12:45:56.000Z"
+    },
+    {
+      "title": "STAT+: FDA pauses Regenxbio gene therapy trial again due to safety concerns",
+      "link": "https://www.statnews.com/2026/08/24/fda-pauses-regenxbio-gene-therapy-trial-hunter-syndrome-safety-concerns/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-24T11:59:48.000Z"
+    },
+    {
+      "title": "STAT+: Inside Moderna and Merck’s cancer vaccine triumph",
+      "link": "https://www.statnews.com/2026/08/24/inside-moderna-and-merck-cancer-vaccine-triumph/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-24T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Medicaid transgender care rule sets precedent that could restrict coverage of other drugs",
+      "link": "https://www.statnews.com/2026/08/24/transgender-care-ban-precedent-could-be-broadly-applied-medicaid-states/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-24T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: FDA digital health leader promises generative AI regulatory guidance is coming",
+      "link": "https://www.statnews.com/2026/08/24/fda-rick-abramson-generative-ai-guidances-are-coming/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-24T08:30:00.000Z"
+    },
+    {
+      "title": "Nurse practitioner trainees find themselves stymied by shortage of clinical mentors",
+      "link": "https://www.statnews.com/2026/08/24/nurse-practitioner-preceptor-shortage-clinical-placement-challenges/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-24T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Medicine stopped shaking hands. We should start again",
+      "link": "https://www.statnews.com/2026/08/24/doctors-hand-shakes-patients-research/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-24T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: I’m a retired doctor. Volunteering at a community clinic gave me an entirely new medical education",
+      "link": "https://www.statnews.com/2026/08/24/retired-doctor-community-clinic-volunteering-education/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-24T08:30:00.000Z"
+    },
+    {
+      "title": "HIMSS announces initiative to measure impact of AI in healthcare",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQjZDbjZqVm5SQkpJSWZiT1BIZEg1amwyS1g4R2R1ajFIc2lDS2N3Rml4WHAtaXR1QWdVMTdDa0pBUmJJZ2RZdjg2endWajF3dTRKZmk2dVg3M2JLVndRZzJZQllfdnJLVFI4dGFQUTZ4UjFvRlRPdzVQdzBfR0RKaVdTZFJDS2ttcjBrOF9hSTBvcFFFWVhWSDl2X2NHM2M?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-24T06:40:36.000Z"
+    },
+    {
+      "title": "Americans bought 12% less soda under new SNAP restrictions, study says",
+      "link": "https://www.statnews.com/2026/08/24/snap-restrictions-12-percent-drop-soda-purchases/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-24T05:00:00.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbXVpVncyWmRIQ1BqU2RZUGxnMlpJTjc0ZmVNRWlSbjF3RjN2amVJZ1IzWGYxT1VISEtaWnlkcmNMTFhPWjBQSmhyM19tbTJwU0NCandhVFBLcXpPLTY3Z3N3ZFl3OXU1dTVfeW1RaGJ5dWdqTDlvZDhmbTUwMFozYzJXZmpKMlN1eHF4cmwzaENhamNHZDhoWFRmZTZocGQyQTRYMFdMbFZQQzh6aWhCLUNxZDFCVUdJdWVBN0JkWTNOY1ljZjg2VTBMOWtmcDBaNmUybWhFMXBxd05XVVMyTUl2LU04MGRBRVlwaQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-17T13:25:52.000Z"
+    },
+    {
+      "title": "Ode with Anthropic to develop AI systems for PointClickCare",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdHF1aENjUnJSbmNtcGExOFRzVkQ2TmRTcHdVdjRwMFF4bXMxQkRiYXo2RFlSLTNOdDhXOWVla1k1NU0tMHlBcWV1VjJkeGRBazFlUzZld3lobTRzeHV2M2s0dHNkR3oyMThRY1YxLUpNUUVNM1pLYkdMUVBWMi1KMzRmQjh0MmthVmxj?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-14T07:00:00.000Z"
+    }
+  ]
+}
