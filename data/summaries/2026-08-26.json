@@ -1,0 +1,184 @@
+{
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-25T21:32:32.202Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 28,
+  "sources": {
+    "STAT News": 13,
+    "MobiHealthNews": 7,
+    "MedCity News": 3,
+    "Healthcare IT News": 5
+  },
+  "summary": "The health-tech landscape today reflects significant shifts across digital health, AI adoption, and systemic pressures. Sword Health's acquisition of Headspace marks consolidation in the mental health technology space, while regulatory approvals continue for AI tools—Tempus AI cleared an FDA tool for pulmonary hypertension assessment and Suki launched a new AI clinical dictation platform. Meanwhile, hospital operations are increasingly integrating telemedicine and AI capabilities, though a serious pharmacy error at Ascension Nashville involving a drug mix-up that paralyzed one patient underscores the risks when technology safeguards fail. On the policy front, Trump administration funding cuts are reshaping rural health care systems particularly severely, and federal transparency issues have emerged around research regulations. The biotech sector in Massachusetts has rebounded in 2026 after years of decline, while regulatory scrutiny is intensifying globally, including Turkish authorities investigating Teva for patent manipulation. Coverage decisions are also evolving, with healthcare systems experimenting with new ways to manage drug costs through Medicaid.",
+  "items": [
+    {
+      "title": "STAT+: Sword Health to acquire Headspace, according to filing",
+      "link": "https://www.statnews.com/2026/08/25/sword-health-to-acquire-headspace-per-regulatory-filing/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-25T20:46:14.000Z"
+    },
+    {
+      "title": "Tempus AI receives FDA clearance for pulmonary hypertension tool",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeTZtb0RWSkVlTmdHYVFZalpHM1UtNVlVYVVGeFpsSVZTQUpwaWRFT0ZHZGI4NlFaekVTM08zM2I4bHJFVGZIVGQ3WVRRcDUyMU94VjZ6akxtTURKak5yUl9FaHUxN01lQS1ydzlDRmpvMTgtMnEtTkN6WGhweFhuWC1mbXlGOThzOHRiS1JMUEZpSlJ6clotZlZGRVE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-25T19:50:15.000Z"
+    },
+    {
+      "title": "Dolly Parton dies at 80, leaves legacy beyond music",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOclNPTHFWUy1VUmtEZ3EwLTNlekctT2JXa2steWc0dXA1UDZ4OV90eHdJV3BBdkxPdjJfV0ZDd2ZqT0tLNXRpRzUwRXFuaWVLcmNrSVZVZlcwSnhxZV91aHdrd096Snhfck5YSXA0QVRaX09USWFZa2Q2NkVDQVdocWc4Z3ViS1BnWXkw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-25T18:57:00.000Z"
+    },
+    {
+      "title": "J&J’s Imaavy Becomes First FDA-Approved Therapy for Rare Form of Anemia",
+      "link": "https://medcitynews.com/2026/08/johnson-and-johnson-jnj-imaavy-immunology-anemia-waiha-rare-disease-nipocalimab/",
+      "source": "MedCity News",
+      "date": "2026-08-25T18:41:11.000Z"
+    },
+    {
+      "title": "Open Secure AI Alliance works toward transparency in AI cybersecurity",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ0hxdzhmSElBLUFUbGI1eUdWRUpQSlg2dHJvZXZ6cExqN1lfYjlGZ01jN295UTZPcDlEbS1DNDZ6TkFOZUwxdUd2WFRRb0NiRGN3Um54TWRWUDFfSE9UclUwd0E3cU9nTUZHQjRTZ2xkZW9HMFpkUmM1VjJFbkdzazNFOHhlcVhEM1lhYUNySkIyY0tUNXJnbTV5N1d5elhNNmJGRlozRQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-25T18:30:00.000Z"
+    },
+    {
+      "title": "Pennsylvania reports first 2 measles deaths in the U.S. this year, both people unvaccinated",
+      "link": "https://www.statnews.com/2026/08/25/two-measles-deaths-reported-pennsylvania-residents-not-vaccinated/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-25T16:02:24.000Z"
+    },
+    {
+      "title": "Suki launches AI clinical dictation tool",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXF3ci15cGN5R084UkNQNTFWMUdXV1pTUkx0d0twTjZMVGI0OWE3TU9wTVJHelk3Uy0wcGVWWlBaZ3hkVnZDSmMtV1ZuM19ONVUyWnhkSjZ2eUhBNnYxNVdQM1dHWUNWU2FkQkstVUx4eGFCeXFEbW93MkVBQVBBQWZR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-25T15:19:24.000Z"
+    },
+    {
+      "title": "STAT+: How Trump’s funding cuts are reshaping the health system",
+      "link": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-25T14:51:28.000Z"
+    },
+    {
+      "title": "Rural providers must close connectivity gaps",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHVxTTIxUVFPbTdSRFM5Q2E1NWtBWV9SbXVQZ2JNSFJkeXBLdmJkYzlIbXh2cnM4X2d5ekdYTmdDX1h6ejR4SHlTbndodjMzT0treExvR1VMZXJwNE5qQ295azRGQXowdmZ2YlI4UmlQQWUxTlBDbVRWTFI3ZG91V0QwZlE4RThs?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-25T14:33:10.000Z"
+    },
+    {
+      "title": "STAT+: After a years-long slump, Massachusetts biopharma sector has come roaring back in 2026",
+      "link": "https://www.statnews.com/2026/08/25/massachusetts-biotech-slump-then-turnaround/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-25T13:58:48.000Z"
+    },
+    {
+      "title": "Ignoring FCC changes poses rural safety risks",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHVxcnNGSW5hbUV4ZEo0OGMxUTJsUEl4NHhJRVZ5ekN1QmE5VXNWTmR2aGVLYktFR2ppN0NxSjQ1UHF0SFQxMFpmSDQzRlNNQ1FwcUxVOU5RazZQM1JXS28ydjEyMDR4Y0J0cnpYcEcxVFZqb3h2ZUJQbVE0VDRPTU5EWlk5VTRTdmVZTA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-25T13:52:00.000Z"
+    },
+    {
+      "title": "STAT+: FDA promises new AI guidance, and what happened at Epic’s UGM",
+      "link": "https://www.statnews.com/2026/08/25/fda-promises-new-ai-guidance-and-epic-ugm-updates/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-25T13:44:43.000Z"
+    },
+    {
+      "title": "STAT+: Turkish antitrust authorities probe Teva for allegedly gaming the patent system, disparaging rival drugs",
+      "link": "https://www.statnews.com/pharmalot/2026/08/25/turkish-authorities-probe-teva-gaming-patent-system-disparaging-rivals/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-25T13:43:50.000Z"
+    },
+    {
+      "title": "Telemedicine becomes more deeply embedded into hospital workflows",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWZZRTNWU2phWEY5UDg2aFluWWdWSE9valJmQ2FkTUI5YW1tX3dBbXNHS1VsQk82Wk1pek93YU1NQkNHQVVwWVBTOFFKYlU1TVhHNUNVQ25DcFFnTF9vcG9udkdfcUJ6ajNfaVk2UzZ6MFBxRVVuSE4xSU83Z19NaHl0TElBc2Q0QkF1RlhlTmRTSDJpZ0RVMXB0aUlGbzg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-25T13:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about RFK Jr. vaccine disclosures, a Merck loss over Medicare prices, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/08/25/rfk-vaccine-disclosure-merck-court-loss-over-medicare/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-25T13:23:22.000Z"
+    },
+    {
+      "title": "Before You Sign That AI Contract: 7 Questions Every Healthcare CFO Should Ask",
+      "link": "https://medcitynews.com/2026/08/before-you-sign-that-ai-contract-7-questions-every-healthcare-cfo-should-ask/",
+      "source": "MedCity News",
+      "date": "2026-08-25T13:08:00.000Z"
+    },
+    {
+      "title": "CDC releases latest life expectancy data",
+      "link": "https://www.statnews.com/2026/08/25/health-news-cdc-releases-latest-life-expectancy-data/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-25T12:04:42.000Z"
+    },
+    {
+      "title": "Q&A: U.S. military researchers use Israeli AI avatar to study PTSD in U.S. servicemembers",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlQyWDlkQzUxSEtiUWJydmRKSGVJSHgwbU5RTjg1V1M3WEpjRWJKMEpxYUpnVHBVOC1zdElyd1hvQ1pfa2NtR1JVTW1oRVZwXzdNaHo2QjhTZWtFcWYwakpJYkxpdHhiWnZCemxtc0F1WElQVjJnV1g3a1h5b0NDTjJMSjNfUklWZktUN2U3YkhreUVtTklMQ2VvNEdhR1ZYZWRjcGxjZ09SbkY5ZlZMU2xzRQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-25T12:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Comments on OMB research rule mysteriously removed from federal website",
+      "link": "https://www.statnews.com/2026/08/25/russell-vought-omb-funding-comments-daughter-benefited-nih-research/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-25T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: AI is good at catching drug theft at hospitals, but only when humans do their part",
+      "link": "https://www.statnews.com/2026/08/25/ai-drug-diversion-software-human-oversight-controlcheck-sentri7/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-25T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Whale songs: the sounds of love and loss as heard by an OB-GYN",
+      "link": "https://www.statnews.com/2026/08/25/human-whale-songs-of-grief-essay-dr-caroline-cherston/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-25T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Cancer screening guidelines need to address long-term care facilities",
+      "link": "https://www.statnews.com/2026/08/25/cancer-screening-guidelines-long-term-care-facilities/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-25T08:30:00.000Z"
+    },
+    {
+      "title": "How Trump’s cuts are reshaping America’s health system",
+      "link": "https://www.statnews.com/2026/08/25/rural-hospitals-response-medicaid-cuts-part-1-unraveled-series/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-25T08:30:00.000Z"
+    },
+    {
+      "title": "Malaysia MOH, HIMSS announce digital maturity initiative in Perlis",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSDEyRXZWU2V1OTB3a2JXUGoxd3pEZTZnTHFsVVFxaWpMZW0zaHRZcTBFOTFGQmNCcmkyQXhEbmhrZG1rTkJfektFdURybm84cmNsdGhDNUt0Y2NmZERUQlJuUlh3UGptc0JqWGJnWXhwRW5aVUNkNVB0emtTTFdvRnMtSEtHMlVxRjI0eHpKb2J4SnI2X0ZyV1FHYzNuRkludjR5U3FFN1c?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-25T08:06:48.000Z"
+    },
+    {
+      "title": "4 Patients Injured After Drug Mix-Up at Ascension Hospital in Nashville",
+      "link": "https://medcitynews.com/2026/08/drug-ascension-hospital-nashville/",
+      "source": "MedCity News",
+      "date": "2026-08-24T23:07:35.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd2EtaWlrZUpDc0lrNzYwSWZ5UG5hd2I5blgtd0JxanFydkd4eVlmNmpwX0NfSUdxTHJ4el94SXNNZjlBeW5icGktTUtKNng4YWx5X2l0bUVIbkh5RWRNQXBDNVJOVXBFRFVKYkIzZjZGR0tlV2V0dXNid1hZMVJqcQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-24T16:49:50.000Z"
+    },
+    {
+      "title": "DocGo to acquire virtual care company Hicuity Health",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZjJoYklOLWdQVmxIV1VSRlZxSDRReG1ISUFXSGw5QlZaVjUtV2RhakFyNWF4MHJVRnRZVzlmd2lNR1JEZGFrQ1RGcnZzMVhDR2pXZk1aNnlnQ2JzUUx4TF9SdzhOR3FWcVdFb25xWFdTWFdhQllEOWN1Y0hzY1VCUEExY1hvWG5mcHAtMGNn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-17T07:00:00.000Z"
+    },
+    {
+      "title": "Epic launches new diagnostic image exchange",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX3E0X0F2WVVPNWtFNjFkd0I4RzkyYkhYTVJpWlpJN1N6aE1CNjFkOWo1VjFGY3RpOW43d2VSdVl2eHBxRFNmbm5sTE5kZG1wT0NuaHBoTXk3V0FrSkRvZG1BdnpPZ0dKQldxN1NQNHJzc0tXN3NyY0NKX1B5MmhVMmoyS2l4aG5Y?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-14T18:54:05.000Z"
+    }
+  ]
+}
