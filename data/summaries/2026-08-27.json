@@ -1,0 +1,190 @@
+{
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-27T00:34:33.374Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 29,
+  "sources": {
+    "MedCity News": 6,
+    "MobiHealthNews": 4,
+    "Healthcare IT News": 7,
+    "STAT News": 12
+  },
+  "summary": "Today's health-tech landscape shows significant activity across funding, regulatory approvals, and operational challenges. Onos Health and Legato each secured Series A funding—$17 million and $12 million respectively—to expand AI-powered behavioral health and hearing assistance offerings, while Switchboard Health acquired Livara Health and raised an additional $5 million. On the clinical front, the FDA approved Revolution Medicines' daraxonrasib for pancreatic cancer, marking the first RAS inhibitor approval for this indication, and new research suggests GSK's shingles vaccine may reduce heart disease risk alongside previously documented dementia protection. However, operational disruptions are mounting: Boston Scientific disclosed a cyberattack affecting global IT systems and order capabilities with no timeline for recovery, while North Dakota's disability division suffered a phishing attack exposing protected health information. The broader economy shows pressures as well, with employers projecting healthcare costs to rise 9.2 percent in 2027 and about 14 percent already dropping or planning to drop GLP-1 drug coverage, though health-tech implementation challenges remain rooted in organizational readiness rather than product quality alone.",
+  "items": [
+    {
+      "title": "Onos Health Raises $17M to Expand AI-Powered Behavioral Health Platform",
+      "link": "https://medcitynews.com/2026/08/onos-health-raises-17m-to-expand-ai-powered-behavioral-health-platform/",
+      "source": "MedCity News",
+      "date": "2026-08-26T21:42:42.000Z"
+    },
+    {
+      "title": "Legato emerges with $12M for AI hearing-assistance glasses",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ2diODl2ZWFCRWlzQnVEWEZQT3ItSnFlTXQtemFzM2N6NUJEQkZNU3llZWdTQzlEdTE2STBQV2xfWUM1dkFWYUhGdmxjTld4bFR1bVZZaXdxcHdVTUplSUFTX2tyN3JqOVNwM1pUN1JXamxST3JCU0dHV25QSHd1U05FOHJKSW9qaU5JUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-26T21:03:28.000Z"
+    },
+    {
+      "title": "Cyberattack Disrupts Boston Scientific’s Operations: 7 Things to Know",
+      "link": "https://medcitynews.com/2026/08/cyberattack-boston-scientific/",
+      "source": "MedCity News",
+      "date": "2026-08-26T19:08:42.000Z"
+    },
+    {
+      "title": "Switchboard Health acquires Livara Health, raises $5M",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQlRPbHc2UHpZZ2R5NHQ3cWlYa19GZ3hwajFreU9jTVp5eFNXcnZWUEU4Mm94c0p6bmNVMDhzdXl5aG04MjA1dk9abjFNLVcwbFZDS1lsZ1lWQ2FuMDhuZThIQ3ZJa2RmeWsyRzdia3FKQkEwRTVHalZOZ0lXd0FtU3d2TkNDbjNFNWlqbkI5RGM?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-26T18:53:49.000Z"
+    },
+    {
+      "title": "Phishing attack on North Dakota's disability division exposes PHI",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWTM3YjhiVHRITmxlVThhYk9Fa251Ny1VRmg5cjZlazNGY2ljTDAxWGV3QnVVSVRyYkJSOXJoRko1Q05Ob0cyWTJvTkRyNzRmSUlscnRjbzJiWGx0czA0cFpjQzZtSXAyZUU5YjlSZTJHY2hHTjZQbWdlVWhmUjhRTXlqMEsyNlJ1UVBTTzZSQnBrek9GREVzUE50YlVvTkt0?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-26T18:52:01.000Z"
+    },
+    {
+      "title": "Kennedy posts vaccine misinformation, spars on social media amid measles deaths",
+      "link": "https://www.statnews.com/2026/08/26/kennedy-vaccine-comments-reaction-josh-shapiro-jerome-adams/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-26T18:17:16.000Z"
+    },
+    {
+      "title": "Revolution Medicines Receives Landmark FDA Drug Approval in Pancreatic Cancer",
+      "link": "https://medcitynews.com/2026/08/revolution-medicines-pancreatic-cancer-daraxonrasib-rasonque-ras-inhibitor-fda-approval-pdac-revmed-rvmd/",
+      "source": "MedCity News",
+      "date": "2026-08-26T18:02:38.000Z"
+    },
+    {
+      "title": "Onos Health raises $17M for AI behavioral health platform",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1ZicGI3LVZBNW9BUUVrOWtCVkx4bWF6WTlpbldFejgzSkxWRUtqTmRWMDZMZEZ0VjR3dlhSTXM0WnBOeEQ4YXlDUkc2WVNqOHJ0REJjMVBDWDNtT2g0ZnFsOW9uTERtYTdFcUNVM0lQY1VRS1dBM21SY2JmS2xneHQ3S01fTUVNYjNFZzNOblFvUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-26T15:07:08.000Z"
+    },
+    {
+      "title": "On the fence about a statin? In borderline cases, calcium scans could be a tiebreaker",
+      "link": "https://www.statnews.com/2026/08/26/cac-scans-statin-use-prevent-calculator-heart-disease-risk/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-26T15:00:00.000Z"
+    },
+    {
+      "title": "STAT+: FDA approves new pancreatic cancer drug expected to usher in new era of treatment",
+      "link": "https://www.statnews.com/2026/08/26/pancreatic-cancer-drug-rasonque-approved/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-26T14:56:13.000Z"
+    },
+    {
+      "title": "STAT+: Key data on a new class of cardio drugs are coming",
+      "link": "https://www.statnews.com/2026/08/26/biotech-news-key-data-on-new-class-of-cardio-drugs-coming/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-26T14:32:51.000Z"
+    },
+    {
+      "title": "Stop Pitching the Institute — Pitch the Stack",
+      "link": "https://medcitynews.com/2026/08/stop-pitching-the-institute-pitch-the-stack/",
+      "source": "MedCity News",
+      "date": "2026-08-26T13:55:00.000Z"
+    },
+    {
+      "title": "STAT+: AI biotech Insitro’s Daphne Koller on how to speed up clinical trials",
+      "link": "https://www.statnews.com/2026/08/26/biotech-insitro-ceo-daphne-koller-speeding-up-clinical-trials-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-26T13:46:40.000Z"
+    },
+    {
+      "title": "Novant Health transforms hospital rounds by engaging families electronically",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmVkeHJ4T3JOWEpORHBIX1l0a1RrRDhIUW52QUZIZ0RqZ256S05LZERjSWJDT0VnTkpJR0ppSllYX2cwNWp0dlZLdDhqYkZsUFNDcEdRSXFrYzcwSHg4M3NQQllZNnE1SGt3dVg0aGIwVEZBb00wODdkRGoyWDJIWF81d0JYYmNhd0Q5ZjJsYXhjUlNGUFNmY1VqYUJDMlFCai1tTTVQeU9TNFNiOTBrTQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-26T13:40:00.000Z"
+    },
+    {
+      "title": "Even at big companies, health care costs are increasing",
+      "link": "https://www.statnews.com/2026/08/26/health-news-even-at-big-companies-health-care-costs-increasing/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-26T13:29:11.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a GSK shingles shot, U.S. employers dropping GLP-1 coverage, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/08/26/gsk-shingles-shot-us-employers-dropping-glp1-coverage/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-26T13:09:25.000Z"
+    },
+    {
+      "title": "Treat AI implementation as an innovation",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbzhOV2tfOXQtaGNkVlczUmxXX1FIa1R1UE9FbzBPR19pNHVvS29BUkZhUmx5NGtzVmM3VWRpdDRQOUtHYlhJb0FWVXhzYlRZT3N4YnZUM1V1ZnVrSVZ2VU1UY3ZON1VKbmd1TnVzY3EzVk10dzkxMFBlbTNHS09CcDdFNA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-26T12:50:58.000Z"
+    },
+    {
+      "title": "Inside hospitals, virtual care takes on a new and bigger role",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYllBSER1Y1V6aTR2VzQtR2haT2puRExqazQySXhNUEV5czNBaENtTzF1N1RtX2oySjEzcndRSmRaNnVwY2h2d05iTllVRG53cHdJUWQxMFZWeVVtcDZBU1FISHNXSlRXSDlfb2tGa1N2YU92aEFmaFNaNmM1NUI4aE92X3UtdDVjSGRJSlZVZGNITFZYUnhPUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-26T12:00:00.000Z"
+    },
+    {
+      "title": "Newer shingles vaccine linked to lower heart disease risk, ‘natural experiment’ shows",
+      "link": "https://www.statnews.com/2026/08/26/shingles-vaccine-shingrix-reduces-heart-disease-dementia-risk-oxford-study/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-26T09:00:00.000Z"
+    },
+    {
+      "title": "STAT+: New treatments for common cardiovascular risk factor near the market, with billions at stake",
+      "link": "https://www.statnews.com/2026/08/26/lp-a-drugs-novartis-amgen-lilly-potential-heart-disease-blockbuster/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-26T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: When it comes to women’s health, money talks",
+      "link": "https://www.statnews.com/2026/08/26/womens-health-reverse-pitch-profit-driven-approach-endometriosis-osteoporosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-26T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Many post-Dobbs abortion fears have not come to pass. What does that mean for advocates?",
+      "link": "https://www.statnews.com/2026/08/26/dobbs-abortion-predictions-infant-mortality-data-freedom/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-26T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Medical aid in dying and the burden of choosing to live",
+      "link": "https://www.statnews.com/2026/08/26/medical-aid-in-dying-new-york-choice-burden-philosophy-ethics/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-26T08:30:00.000Z"
+    },
+    {
+      "title": "Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust",
+      "link": "https://medcitynews.com/2026/08/oura-wearable-ring-lawsuit/",
+      "source": "MedCity News",
+      "date": "2026-08-26T00:00:02.000Z"
+    },
+    {
+      "title": "Business Group on Health: Employer Healthcare Costs Projected to Rise 9.2% in 2027",
+      "link": "https://medcitynews.com/2026/08/business-group-on-health-employer-healthcare-costs-projected-to-rise-9-2-in-2027/",
+      "source": "MedCity News",
+      "date": "2026-08-25T22:24:17.000Z"
+    },
+    {
+      "title": "Three keys to Italian digital maturity",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObWlzb2lIWDdYY2JXXzFzZUJNV2FjbzdxbzU1aU9XTnJxNUljNndZVk9fQ05FMXRULVM2SG5vM3gxOVQwaWJfQ2lxcndlWVJMazZDTWEwdlY1em5nMDJaVjJDTjJ0amRGaVcxVDdCUTQ3aDR1Q09kU1FlZWlBMkcxVmdvVQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-14T07:00:00.000Z"
+    },
+    {
+      "title": "Take an AI-powered approach to identity security",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcHp0RkZKa2psNWd0b1lTeVNfLXVSd0hSdWk5QS1ESWYwVEZ2aW56MDRuc2RUNjZQcjlVZGN5Mjd3TDduOGRfSEgzNXNOdlBEemFLWWQ1eVZab0NjU0Z2YWY3aURkRVRwRThFUEl2MnRFRWZoWDN6b2RuQmxaWmlHWUcwZ29QUDFFcHFSdQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-13T19:42:22.000Z"
+    },
+    {
+      "title": "Enrollment moratorium poses problems for home health providers",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVUM3bWtUVk9RSXQyYjdrVVBKMjVvNVVnSzY5QWtJRzB1Qjl2NG02U1E1b0hreFFmTTNzU1owbFBvQUFWNGhHRWI4UjRfejBoTzhiNXpjeEZMdmVSVXd3d2J5ZUF1YXlyZTJxNHQwR1NnOEdxVTFhaDRzRWFTRjRBS2R1RzBSNjN3Rk9WR3ljMWhjakF5RnVPTXZlTjZLQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-13T13:18:00.000Z"
+    },
+    {
+      "title": "CHAI forms Health AI Cybersecurity Work Group",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWHh5VEpfOHVkMG05SnFfU0VQZFNQVi1FNGpNcjlQRkkyRHprNDd4TFBmRlZNYUZoX0NLWElfOGZVb0pyTC1oSFo2eEVLSzVoM1ViUVdVSXdFNDRZRG5xaG9JQUV1M3pFeWNlV25GODh5X1hIOUhTdEU5dVVUUF9CRzd2aGI4enBTOGdZ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-13T07:00:00.000Z"
+    }
+  ]
+}
