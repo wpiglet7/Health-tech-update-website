@@ -1,0 +1,298 @@
+{
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T03:06:45.226Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 47,
+  "sources": {
+    "MedCity News": 30,
+    "STAT News": 11,
+    "MobiHealthNews": 3,
+    "Healthcare IT News": 3
+  },
+  "summary": "A phishing campaign impersonating Epic's MyChart portal is hitting multiple health systems, prompting warnings to patients and raising concerns about the difficulty of distinguishing legitimate portals from fraudulent ones. On the regulatory front, the FDA approved several significant treatments: Roivant's Lisraya for rare inflammatory dermatomyositis, Revolution Medicines' daraxonrasib as the first RAS inhibitor for pancreatic cancer, J&J's Imaavy for warm autoimmune hemolytic anemia, and an updated Juul e-cigarette with optional age-gating technology. AstraZeneca's closely watched heart disease drug failed in trials, disappointing the competitive market, while separately AstraZeneca and Amgen's Tezspire succeeded in Phase 3 testing for eosinophilic esophagitis, positioning it as a potential competitor to Sanofi's Dupixent. Cybersecurity challenges continue to dominate headlines with Boston Scientific disclosing a significant cyberattack disrupting operations globally, and a pharmacy mix-up at an Ascension hospital in Nashville injured four patients. Several health-tech funding announcements highlight ongoing investment in AI and behavioral health, including Onos Health's $17 million Series A, while operational challenges emerge as employers brace for a projected 9.2 percent healthcare cost increase in 2027.",
+  "items": [
+    {
+      "title": "Epic MyChart Phishing Scam Hits Health Systems: What Providers Should Do",
+      "link": "https://medcitynews.com/2026/08/epic-mychart-phishing-cybersecurity-hackers-hospitals/",
+      "source": "MedCity News",
+      "date": "2026-08-28T23:16:38.000Z"
+    },
+    {
+      "title": "FDA Nod for Inflammation Drug Notches Wins for Rare Disease Patients, Roivant’s Biz Strategy",
+      "link": "https://medcitynews.com/2026/08/roivant-sciences-priovant-brepocitinib-lisraya-dermatomyositis-jak1-tyk2-inhibitor-fda-approval-inflammation-immunology-rare-disease-roiv/",
+      "source": "MedCity News",
+      "date": "2026-08-28T20:19:24.000Z"
+    },
+    {
+      "title": "Juul gets OK to sell updated vaping device with age-gating technology",
+      "link": "https://www.statnews.com/2026/08/28/juul-fda-clearance-updated-ecigarette-age-gating-technology/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-28T19:51:56.000Z"
+    },
+    {
+      "title": "Faro AI raises $37.3M for development of biologic agents and more funding news",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVGVReTF5OEpEWUNyTDNrNldac21XbGpqMzRkRjFzRXhOUzR6M0Z3ZkdKUURFbm1zNVQzN1Z2Rkd5X1BiclNDUmN6SkpUVGRsY1gwYzMwMXE3YXVUd185ZjdlRUNSOUUtdVpHSU02d3hsdU1NOFZ0T2pKakRwMXVWMDgyUUN1Z0h4M3lvVzRFQ1JVUWY5Yk5HZ2tWc1hhVFRULTRoTFFjdW8?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-28T18:14:32.000Z"
+    },
+    {
+      "title": "Opinion: The unintended consequences of the Lindsay Clancy case",
+      "link": "https://www.statnews.com/2026/08/28/lindsay-clancy-postpartum-psychosis-reproductive-psychiatrists-liability/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-28T17:59:54.000Z"
+    },
+    {
+      "title": "Sustainability is the RHTP's '$50 billion question'",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVlhS1ZPd0VwT2VtWk5BZ1lfUEVtTTZraHpXd0g0cm45Z2VLZkk0WE8tNWN0Nk5FeDJRRnF3MENpcTFFSEhYOGVpNVBacnpfWkZ6QjgxZEstUjQwUkQ1OUt1Z0FGeHBfaWJYclo1cHJHYXdiY2hTSWE0TGdaRHFieWV0Yw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-28T15:11:43.000Z"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "link": "https://www.statnews.com/pharmalot/2026/08/28/up-down-ladder-latest-comings-goings-jobs-pharma-biotech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-28T14:34:39.000Z"
+    },
+    {
+      "title": "STAT+: AstraZeneca and Ionis detail surprise failure of heart disease drug, with Alnylam closely watching",
+      "link": "https://www.statnews.com/2026/08/28/biotech-news-astrazeneca-ionis-detail-surprise-failure-of-heart-disease-drug/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-28T13:39:04.000Z"
+    },
+    {
+      "title": "Targeted strategies further rural data investments",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeS04a091MGFmSDJ2WUV4RTlUYnhuRjhONUtIblloR1NwbTlvTnZDYVZVeHZuTHZnVnc3VkRhTld4T2piNzd2cE1GQ1dXX0RUWXYwZ1NkdV9adWphV2U1b2UxOWdKNVNKNjRZeklVYXpidE4wNkpvWFFYNW1iUkpYbkNNSEVOeUlZNEdBRFEtUHNBSEE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-28T13:26:00.000Z"
+    },
+    {
+      "title": "At a federal autism advisory committee meeting, members double down on long-debunked theories",
+      "link": "https://www.statnews.com/2026/08/28/health-news-federal-autism-adcomm-doubles-down-on-debunked-theory/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-28T13:15:46.000Z"
+    },
+    {
+      "title": "The Silent Epidemic: Why Diabetic Foot Ulcers Have Been Overlooked for Three Decades",
+      "link": "https://medcitynews.com/2026/08/the-silent-epidemic-why-diabetic-foot-ulcers-have-been-overlooked-for-three-decades/",
+      "source": "MedCity News",
+      "date": "2026-08-28T13:15:00.000Z"
+    },
+    {
+      "title": "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity",
+      "link": "https://medcitynews.com/2026/08/reading-the-bodys-signals-ais-ultimate-healthcare-opportunity/",
+      "source": "MedCity News",
+      "date": "2026-08-28T13:10:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about an AstraZeneca trial failure, a ‘monstrous’ conflict of interest, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/08/28/astrazeneca-trial-failure-monstrous-conflict-of-interest/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-28T13:04:02.000Z"
+    },
+    {
+      "title": "Komodo Health, NCQA partner to accelerate healthcare quality measurement",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTW9YazE3TXA0VjlzdGxnWGFpdEtFZHg4YU02VWs0cjdJNHpkVnl6cFdTdVU0dW1JSWJwQ1JwcUZfWGdxcml4RnhGQ0VPeG9heUpNODN0dGZqOTIzOHoybnVJUWJzN3o0YWp1aUc5bXQyeV9BNDhabVg4UUVEVTh0QkFhRzVfdkN6OUZrcDhFYnROQWtteE9RVHl5U3dqenhUb0ZidjlfQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-28T12:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Cytokinetics details trial win for what could be its next approval",
+      "link": "https://www.statnews.com/2026/08/28/cytokinetics-myqorzo-aficamten-nhcm-acacia-trial-success/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-28T10:15:29.000Z"
+    },
+    {
+      "title": "STAT+: In autopsy of failed heart disease study, AstraZeneca raises broader questions about silencer drugs",
+      "link": "https://www.statnews.com/2026/08/28/astrazeneca-ionis-wainua-eplontersen-attr-cm-study-failure-bridgebio-alnylam/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-28T09:23:13.000Z"
+    },
+    {
+      "title": "Vaccines take center stage at federal autism advisory committee",
+      "link": "https://www.statnews.com/2026/08/28/vaccines-autism-advisory-committee-strategic-plan-boost-research-funding/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-28T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: A billing code was supposed to incentivize relationship-based primary care for Medicare patients. It may not be working as hoped",
+      "link": "https://www.statnews.com/2026/08/28/medicare-g2211-code-billing-research-primary-care/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-28T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: We quit the CDC last year. The problems we protested remain",
+      "link": "https://www.statnews.com/2026/08/28/cdc-protest-resignations-one-year-later-houry-jernigan-daskalakis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-28T08:30:00.000Z"
+    },
+    {
+      "title": "Private Indian hospital takes platform-first approach to ambient AI",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUdLa1RnY1gzaDBmY0xpdWpWOVNRQzNjYTQxLXd2V3FybGF1SFVRYm1yLXdUcUZfeTVPQklrZTNjM1RCSVhnZHBhOTAyaFMxbmI3dnNEYzNkdkNZZUFUeU1INXg3a1RZbllrN1c1NENIaU9JWFlTSUZOMEtTRmpySHZuQlN3UWY1UTI4SHZObjRVd0VERGEzYXF0ZERwWDE5SjhrM3h5LTI5ZTQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-28T08:13:37.000Z"
+    },
+    {
+      "title": "AstraZeneca, Amgen Drug Moves Closer to Competing With Dupixent in a New Indication",
+      "link": "https://medcitynews.com/2026/08/astrazeneca-amgen-tezspire-eosinophilic-esophagitis-tslp-antibody-inflammation-immunology-azn-amgn/",
+      "source": "MedCity News",
+      "date": "2026-08-27T21:03:35.000Z"
+    },
+    {
+      "title": "Datavant’s New Platform Could Cut Record Retrieval Time from Days to Hours",
+      "link": "https://medcitynews.com/2026/08/datavant-new-tool-could-cut-record-retrieval-time-from-days-to-hours/",
+      "source": "MedCity News",
+      "date": "2026-08-27T15:36:26.000Z"
+    },
+    {
+      "title": "Precision Medicine Transformed Oncology —It’s Time to Do the Same for Sepsis",
+      "link": "https://medcitynews.com/2026/08/precision-medicine-transformed-oncology-its-time-to-do-the-same-for-sepsis/",
+      "source": "MedCity News",
+      "date": "2026-08-27T13:34:00.000Z"
+    },
+    {
+      "title": "What Do the Latest Iteration of Consumer Drug Platforms Offer?",
+      "link": "https://medcitynews.com/2026/08/what-do-the-latest-iteration-of-consumer-drug-platforms-offer/",
+      "source": "MedCity News",
+      "date": "2026-08-27T11:30:00.000Z"
+    },
+    {
+      "title": "Onos Health Raises $17M to Expand AI-Powered Behavioral Health Platform",
+      "link": "https://medcitynews.com/2026/08/onos-health-raises-17m-to-expand-ai-powered-behavioral-health-platform/",
+      "source": "MedCity News",
+      "date": "2026-08-26T21:42:42.000Z"
+    },
+    {
+      "title": "Cyberattack Disrupts Boston Scientific’s Operations: 7 Things to Know",
+      "link": "https://medcitynews.com/2026/08/cyberattack-boston-scientific/",
+      "source": "MedCity News",
+      "date": "2026-08-26T19:08:42.000Z"
+    },
+    {
+      "title": "Revolution Medicines Receives Landmark FDA Drug Approval in Pancreatic Cancer",
+      "link": "https://medcitynews.com/2026/08/revolution-medicines-pancreatic-cancer-daraxonrasib-rasonque-ras-inhibitor-fda-approval-pdac-revmed-rvmd/",
+      "source": "MedCity News",
+      "date": "2026-08-26T18:02:38.000Z"
+    },
+    {
+      "title": "Stop Pitching the Institute — Pitch the Stack",
+      "link": "https://medcitynews.com/2026/08/stop-pitching-the-institute-pitch-the-stack/",
+      "source": "MedCity News",
+      "date": "2026-08-26T13:55:00.000Z"
+    },
+    {
+      "title": "Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust",
+      "link": "https://medcitynews.com/2026/08/oura-wearable-ring-lawsuit/",
+      "source": "MedCity News",
+      "date": "2026-08-26T00:00:02.000Z"
+    },
+    {
+      "title": "Business Group on Health: Employer Healthcare Costs Projected to Rise 9.2% in 2027",
+      "link": "https://medcitynews.com/2026/08/business-group-on-health-employer-healthcare-costs-projected-to-rise-9-2-in-2027/",
+      "source": "MedCity News",
+      "date": "2026-08-25T22:24:17.000Z"
+    },
+    {
+      "title": "J&J’s Imaavy Becomes First FDA-Approved Therapy for Rare Form of Anemia",
+      "link": "https://medcitynews.com/2026/08/johnson-and-johnson-jnj-imaavy-immunology-anemia-waiha-rare-disease-nipocalimab/",
+      "source": "MedCity News",
+      "date": "2026-08-25T18:41:11.000Z"
+    },
+    {
+      "title": "Before You Sign That AI Contract: 7 Questions Every Healthcare CFO Should Ask",
+      "link": "https://medcitynews.com/2026/08/before-you-sign-that-ai-contract-7-questions-every-healthcare-cfo-should-ask/",
+      "source": "MedCity News",
+      "date": "2026-08-25T13:08:00.000Z"
+    },
+    {
+      "title": "4 Patients Injured After Drug Mix-Up at Ascension Hospital in Nashville",
+      "link": "https://medcitynews.com/2026/08/drug-ascension-hospital-nashville/",
+      "source": "MedCity News",
+      "date": "2026-08-24T23:07:35.000Z"
+    },
+    {
+      "title": "Amazon Taps Expressable for Health Benefits Connector",
+      "link": "https://medcitynews.com/2026/08/amazon-taps-expressable-for-health-benefits-connector/",
+      "source": "MedCity News",
+      "date": "2026-08-24T21:19:40.000Z"
+    },
+    {
+      "title": "Roche Gains Rights to Hanmi Obesity Drug That Reduces Fat, Preserves Muscle",
+      "link": "https://medcitynews.com/2026/08/roche-hanmi-obesity-ucn2-crf2-peptide-drug-lean-mass-preserve-muscle-rhhby/",
+      "source": "MedCity News",
+      "date": "2026-08-24T17:12:43.000Z"
+    },
+    {
+      "title": "A Partnership-driven Approach to Waste and Abuse Prevention",
+      "link": "https://medcitynews.com/2026/08/a-partnership-driven-approach-to-waste-and-abuse-prevention/",
+      "source": "MedCity News",
+      "date": "2026-08-24T14:30:00.000Z"
+    },
+    {
+      "title": "Why Psychiatry Can’t Ignore Metabolic Health Anymore",
+      "link": "https://medcitynews.com/2026/08/why-psychiatry-cant-ignore-metabolic-health-anymore/",
+      "source": "MedCity News",
+      "date": "2026-08-24T13:31:00.000Z"
+    },
+    {
+      "title": "Ambient Scribes Improve Clinician Retention, Cleveland Clinic Research Shows",
+      "link": "https://medcitynews.com/2026/08/cleveland-clinic-ai-healthcare-ambient-scribes/",
+      "source": "MedCity News",
+      "date": "2026-08-23T21:11:27.000Z"
+    },
+    {
+      "title": "Abcuro Adds $66M to Try Again in Rare Inflammatory Disorder With No Approved Drugs",
+      "link": "https://medcitynews.com/2026/08/abcuro-inclusion-body-myositis-ibm-muscle-disorder-inflammation-startup/",
+      "source": "MedCity News",
+      "date": "2026-08-23T17:34:51.000Z"
+    },
+    {
+      "title": "Cityblock to Acquire Homeward Health, Secures $116M Series E",
+      "link": "https://medcitynews.com/2026/08/cityblock-to-acquire-homeward-health-secures-116m-series-e/",
+      "source": "MedCity News",
+      "date": "2026-08-23T14:11:00.000Z"
+    },
+    {
+      "title": "How to Prepare Your Hospital Before H.R. 1 Hits in 2027",
+      "link": "https://medcitynews.com/2026/08/how-to-prepare-your-hospital-before-h-r-1-hits-in-2027/",
+      "source": "MedCity News",
+      "date": "2026-08-23T13:07:00.000Z"
+    },
+    {
+      "title": "This Week In Epic News: FTC Probe, AI Agents & More",
+      "link": "https://medcitynews.com/2026/08/epic-ftc-agentic-ai/",
+      "source": "MedCity News",
+      "date": "2026-08-22T02:58:44.000Z"
+    },
+    {
+      "title": "Ambros Therapeutics’ Path for Pain Drug Goes Through Reverse Merger With Werewolf",
+      "link": "https://medcitynews.com/2026/08/ambros-werewolf-therapeutics-reverse-merger-chronic-pain-neridronate-abiogen-crps-1-ambx/",
+      "source": "MedCity News",
+      "date": "2026-08-21T19:37:43.000Z"
+    },
+    {
+      "title": "The Pulse of Innovation: How 3D Models Can Prepare Surgeons for the Operating Room",
+      "link": "https://medcitynews.com/2026/08/the-pulse-of-innovation-how-3d-models-can-prepare-surgeons-for-the-operating-room/",
+      "source": "MedCity News",
+      "date": "2026-08-21T14:21:09.000Z"
+    },
+    {
+      "title": "Modernizing Payment Integrity in an Era of Systemic Fraud",
+      "link": "https://medcitynews.com/2026/08/modernizing-payment-integrity-in-an-era-of-systemic-fraud/",
+      "source": "MedCity News",
+      "date": "2026-08-21T13:56:00.000Z"
+    },
+    {
+      "title": "SCAN, Costco Launch Medicare Partnership",
+      "link": "https://medcitynews.com/2026/08/scan-costco-launch-medicare-partnership/",
+      "source": "MedCity News",
+      "date": "2026-08-20T22:54:43.000Z"
+    },
+    {
+      "title": "Mercurial AI costs constrain providers",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelY3dm0wcVVzX1RabVBHb3Qwb0FDM2Q4SXRiTHFtektqQ0x6NDAwdUt6aVlFTHJPZnlseFZxaWVoZ0YzRDQyZzZGbmpLQi1aM3cwQWcyZFR6N1pXNGEyMkZQSGdkc2hOVHdoUWg1akdlLW9Gc1BseTlNUlhKN2FEVE5Eaw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-17T07:00:00.000Z"
+    }
+  ]
+}
