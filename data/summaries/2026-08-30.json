@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-29T23:08:25.522Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 3,
+  "sources": {
+    "STAT News": 1,
+    "Healthcare IT News": 1,
+    "MobiHealthNews": 1
+  },
+  "summary": "Health-tech innovation is advancing on multiple fronts today. Novartis is testing whether a newly acquired anti-inflammatory drug can translate inflammation reduction into meaningful improvements in cardiac outcomes, a critical question as the pharmaceutical industry seeks therapies that address root causes of heart disease rather than just symptoms. In Asia-Pacific healthcare infrastructure, Malaysia's Ministry of Health has partnered with HIMSS to launch a digital maturity initiative in Perlis state, signaling regional investment in healthcare technology modernization. Meanwhile, business model innovation is emerging around AI deployment, with flat-fee pricing structures enabling sustainable scaling of artificial intelligence tools in healthcare settings—addressing a key challenge in making advanced technologies economically viable for broader adoption.",
+  "items": [
+    {
+      "title": "STAT+: A Novartis drug cut inflammation. Can it improve heart outcomes?",
+      "link": "https://www.statnews.com/2026/08/29/novartis-pacibekitug-inflammation-il6-tourmaline-heart-disease/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-29T07:32:11.000Z"
+    },
+    {
+      "title": "Malaysia MOH, HIMSS announce digital maturity initiative in Perlis",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSDEyRXZWU2V1OTB3a2JXUGoxd3pEZTZnTHFsVVFxaWpMZW0zaHRZcTBFOTFGQmNCcmkyQXhEbmhrZG1rTkJfektFdURybm84cmNsdGhDNUt0Y2NmZERUQlJuUlh3UGptc0JqWGJnWXhwRW5aVUNkNVB0emtTTFdvRnMtSEtHMlVxRjI0eHpKb2J4SnI2X0ZyV1FHYzNuRkludjR5U3FFN1c?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-25T08:06:48.000Z"
+    },
+    {
+      "title": "Flat-fee AI enables sustainable scaling",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbnNybWJ1UmJKNjBnM1NtcUlQWkE4MG1DV2QtWTk4eXl6YnpCZEVlVWJZc3ZnVFBFbF9JWlh0TUhDRTI4RkNQejYzWDhFY1hHMGRYSUxCdFkwemVUVWF3QmhVbGxTLTVfQ2tUTzB3VnVVeU94VnNjZ2kwREN3bkkySEdR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-17T07:00:00.000Z"
+    }
+  ]
+}

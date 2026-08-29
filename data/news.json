@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T03:06:39.748Z",
+  "generatedAt": "2026-08-29T23:08:22.920Z",
   "sources": [
     {
       "id": "stat",
@@ -24,6 +24,14 @@
   ],
   "count": 120,
   "items": [
+    {
+      "title": "STAT+: A Novartis drug cut inflammation. Can it improve heart outcomes?",
+      "link": "https://www.statnews.com/2026/08/29/novartis-pacibekitug-inflammation-il6-tourmaline-heart-disease/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-08-29T07:32:11.000Z",
+      "snippet": "A newly acquired Novartis drug cut signs of inflammation. The test will be whether that can improve people's heart health."
+    },
     {
       "title": "Epic MyChart Phishing Scam Hits Health Systems: What Providers Should Do",
       "link": "https://medcitynews.com/2026/08/epic-mychart-phishing-cybersecurity-hackers-hospitals/",
@@ -329,14 +337,6 @@
       "snippet": "RFK Jr. downplays measles threat, FDA approves pancreatic drug, and more health news from Morning Rounds"
     },
     {
-      "title": "STAT+: Cassidy criticizes FDA oversight of abortion pill manufacturers in new report",
-      "link": "https://www.statnews.com/2026/08/27/bill-cassidy-louisiana-senator-new-report-mifepristone-heidi-overton/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-08-27T13:00:00.000Z",
-      "snippet": "The report raises a high-profile issue for Heidi Overton as she faces confirmation as FDA commissioner."
-    },
-    {
       "title": "Ardent Health finds ambient AI's value goes beyond ROI",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOODdUSnhUdUpqanJ2dlhvWS0yUnoyWVpkVWVfbU4tMXFBZVV6d29KZ0UxUUhfNGY2YnNmMm9UcW01aGEyNl9ZSXZRQXZIZXJJTmVhdFY3QVVOLXNWTXRkXzJ0SkFXRjFGYnE3YjJqekVZN2szTWFJMklWeGU3Ql9lTjRkVUxVT1pyWVIxTUZqZlllRjJhcXc?oc=5",
       "source": "Healthcare IT News",
@@ -521,14 +521,6 @@
       "snippet": ""
     },
     {
-      "title": "Telemedicine becomes more deeply embedded into hospital workflows",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWZZRTNWU2phWEY5UDg2aFluWWdWSE9valJmQ2FkTUI5YW1tX3dBbXNHS1VsQk82Wk1pek93YU1NQkNHQVVwWVBTOFFKYlU1TVhHNUNVQ25DcFFnTF9vcG9udkdfcUJ6ajNfaVk2UzZ6MFBxRVVuSE4xSU83Z19NaHl0TElBc2Q0QkF1RlhlTmRTSDJpZ0RVMXB0aUlGbzg?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-08-25T13:30:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Before You Sign That AI Contract: 7 Questions Every Healthcare CFO Should Ask",
       "link": "https://medcitynews.com/2026/08/before-you-sign-that-ai-contract-7-questions-every-healthcare-cfo-should-ask/",
       "source": "MedCity News",
@@ -542,6 +534,14 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-08-25T12:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Malaysia MOH, HIMSS announce digital maturity initiative in Perlis",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSDEyRXZWU2V1OTB3a2JXUGoxd3pEZTZnTHFsVVFxaWpMZW0zaHRZcTBFOTFGQmNCcmkyQXhEbmhrZG1rTkJfektFdURybm84cmNsdGhDNUt0Y2NmZERUQlJuUlh3UGptc0JqWGJnWXhwRW5aVUNkNVB0emtTTFdvRnMtSEtHMlVxRjI0eHpKb2J4SnI2X0ZyV1FHYzNuRkludjR5U3FFN1c?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-08-25T08:06:48.000Z",
       "snippet": ""
     },
     {
@@ -662,14 +662,6 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-08-24T13:27:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "HIMSS announces initiative to measure impact of AI in healthcare",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQjZDbjZqVm5SQkpJSWZiT1BIZEg1amwyS1g4R2R1ajFIc2lDS2N3Rml4WHAtaXR1QWdVMTdDa0pBUmJJZ2RZdjg2endWajF3dTRKZmk2dVg3M2JLVndRZzJZQllfdnJLVFI4dGFQUTZ4UjFvRlRPdzVQdzBfR0RKaVdTZFJDS2ttcjBrOF9hSTBvcFFFWVhWSDl2X2NHM2M?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-08-24T06:40:36.000Z",
       "snippet": ""
     },
     {
@@ -833,22 +825,6 @@
       "snippet": ""
     },
     {
-      "title": "Data is healthcare's most vital strategic asset",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVXBZMzB1V25WeElROVNBWXhoWnVCWEtjT2lBSWhseTVRd013YmVBX1JpS1VJczJlYzQyMVFva1BkZlgtNmh4bUYyUk5JQUdDUFAxRGl4d1NZNE1MRnRlclJMT0tUZkJEMVVlU291NWZuR2p4QXFKYmhGUUNOMUNUb3h6TjNGRjA?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-08-20T13:25:33.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "CIO Spotlight: Renaissance Benefits' Earl Shaw",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX1gxcllrQ2ZNT01hNV9KZ2lqU1d3NThPXzVBX3A5c2lQQWdwb29HQ0RmMWYzV19FODc1WkhuY0ROMXZpTU5USTU5WFlrd1RhRTRPWHpFTWV6YWpfUDUxcFlXNVFZN01MdzFlWkRIMVdHUVFOZy1rN0FuLWVKSlg0OEY0OXA5TzRyMV9r?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-08-20T12:03:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Nagoya University spin-off seeks Japan approval for AI pancreatic cancer test",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczFCM3FNTmZJaDBva0NUVHVzZlh1eElTQjVpYktpUFREN3BlOGFqUjYzY19qZF9yWGt1LXI1eDJ3RkZzNXZheS1YX05BNFlCbjl6bFRQSG95Wkh2Z01kVFFqRk42MDB2ZFNkY2dIdGo5Um1zOG1pQ0pwZmpJZWYtcHFSZGUzMm5mR0pfZFhhNGhZM1M2SU94NkVjdzdicUp6d0k1Z0tJaHBwVk56NUdr?oc=5",
       "source": "MobiHealthNews",
@@ -857,10 +833,26 @@
       "snippet": ""
     },
     {
+      "title": "CIO Spotlight: Renaissance Benefits' Earl Shaw",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX1gxcllrQ2ZNT01hNV9KZ2lqU1d3NThPXzVBX3A5c2lQQWdwb29HQ0RmMWYzV19FODc1WkhuY0ROMXZpTU5USTU5WFlrd1RhRTRPWHpFTWV6YWpfUDUxcFlXNVFZN01MdzFlWkRIMVdHUVFOZy1rN0FuLWVKSlg0OEY0OXA5TzRyMV9r?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-08-20T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
       "title": "VA adds up to $17B to its federal EHR contract with Oracle",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOVc4Q0gxLWNHWEdmeHV3V3FSOWJsVk1ReHVqOVVMWHltRXNEaHpPSXFYREtOTUN5aTR3MWhqVWRyVEJTclBOMDRMeUlBR19zbDgwVTA0RXdRSnFIbnVucTNpazkyZFhTYTJNMThrYWZKakctSGlYVFpsWEhPSk5lWWFmOWlfTU80?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
+      "date": "2026-08-20T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Data is healthcare's most vital strategic asset",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVXBZMzB1V25WeElROVNBWXhoWnVCWEtjT2lBSWhseTVRd013YmVBX1JpS1VJczJlYzQyMVFva1BkZlgtNmh4bUYyUk5JQUdDUFAxRGl4d1NZNE1MRnRlclJMT0tUZkJEMVVlU291NWZuR2p4QXFKYmhGUUNOMUNUb3h6TjNGRjA?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
       "date": "2026-08-20T07:00:00.000Z",
       "snippet": ""
     },
@@ -981,6 +973,14 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelY3dm0wcVVzX1RabVBHb3Qwb0FDM2Q4SXRiTHFtektqQ0x6NDAwdUt6aVlFTHJPZnlseFZxaWVoZ0YzRDQyZzZGbmpLQi1aM3cwQWcyZFR6N1pXNGEyMkZQSGdkc2hOVHdoUWg1akdlLW9Gc1BseTlNUlhKN2FEVE5Eaw?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
+      "date": "2026-08-17T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Flat-fee AI enables sustainable scaling",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbnNybWJ1UmJKNjBnM1NtcUlQWkE4MG1DV2QtWTk4eXl6YnpCZEVlVWJZc3ZnVFBFbF9JWlh0TUhDRTI4RkNQejYzWDhFY1hHMGRYSUxCdFkwemVUVWF3QmhVbGxTLTVfQ2tUTzB3VnVVeU94VnNjZ2kwREN3bkkySEdR?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
       "date": "2026-08-17T07:00:00.000Z",
       "snippet": ""
     }
