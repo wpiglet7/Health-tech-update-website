@@ -1,0 +1,70 @@
+{
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-30T23:18:39.450Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 9,
+  "sources": {
+    "STAT News": 2,
+    "MedCity News": 3,
+    "Healthcare IT News": 2,
+    "MobiHealthNews": 2
+  },
+  "summary": "The health-tech sector is grappling with a significant gap between AI adoption and operational readiness. While over 90 percent of health systems have deployed third-party AI tools, fewer than half have adequate testing and validation infrastructure in place, according to a new report, prompting HIMSS to launch an initiative to measure AI's actual impact in healthcare settings. On the drug development front, the FDA approved Mimrylo from Takeda and Protagonist for polycythemia vera, while Biohaven licensed its late-stage epilepsy candidate opakalim to SK Biopharmaceuticals in a deal that provides non-dilutive financing for the company's pipeline. Recent setbacks in cardiovascular drug development—including AstraZeneca's Wainua trial failure—have created scrutiny around rival therapies, with Alnylam mounting a defense of its heart disease medicines. Beyond medications and technology, healthcare economics experts are highlighting how cost unpredictability drives patients to delay care or rely on emergency departments, underscoring a structural challenge that extends beyond clinical innovation alone.",
+  "items": [
+    {
+      "title": "STAT+: FDA approves Protagonist and Takeda’s drug for rare blood cancer",
+      "link": "https://www.statnews.com/2026/08/30/fda-approves-mimrylo-takeda-protagonist-treatment-for-polycythemia-vera/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-30T18:30:18.000Z"
+    },
+    {
+      "title": "STAT+: Alnylam defends heart disease drugs after failure of AstraZeneca’s Wainua",
+      "link": "https://www.statnews.com/2026/08/30/alnylam-attr-astrazeneca-wainua-attruby-heart-disease/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-30T17:29:05.000Z"
+    },
+    {
+      "title": "Hospitals Are All In on AI, but Testing and Oversight Haven’t Caught Up",
+      "link": "https://medcitynews.com/2026/08/upmc-ai-testing-hospital-tech/",
+      "source": "MedCity News",
+      "date": "2026-08-30T15:10:07.000Z"
+    },
+    {
+      "title": "SK Bio Broadens U.S. Prospects, Licensing Late-Stage Epilepsy Drug From Biohaven",
+      "link": "https://medcitynews.com/2026/08/sk-biopharmaceuticals-biohaven-epilepsy-opakalim-kv7-neuroscience-bhvn/",
+      "source": "MedCity News",
+      "date": "2026-08-30T14:50:35.000Z"
+    },
+    {
+      "title": "The Missing Piece in Lowering the Cost of Care: Predictability",
+      "link": "https://medcitynews.com/2026/08/the-missing-piece-in-lowering-the-cost-of-care-predictability/",
+      "source": "MedCity News",
+      "date": "2026-08-30T13:48:00.000Z"
+    },
+    {
+      "title": "HIMSS announces initiative to measure impact of AI in healthcare",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQjZDbjZqVm5SQkpJSWZiT1BIZEg1amwyS1g4R2R1ajFIc2lDS2N3Rml4WHAtaXR1QWdVMTdDa0pBUmJJZ2RZdjg2endWajF3dTRKZmk2dVg3M2JLVndRZzJZQllfdnJLVFI4dGFQUTZ4UjFvRlRPdzVQdzBfR0RKaVdTZFJDS2ttcjBrOF9hSTBvcFFFWVhWSDl2X2NHM2M?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-24T06:40:36.000Z"
+    },
+    {
+      "title": "HIMSS TV",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuVGtLRzh3VTBNZkZxb3Q3WFI0X1pBZjRMRnZsb2duanM2TkVVMGhqVWFBeXpYWTRTaFFqMDdrQjc4QVR1SHdYZUtzQWlTLW9qYXBXRHFvRWhiTVRRenlnYV9STDlPZDNnU2UxdTJwdDRibXZEVlp3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-05-05T19:08:57.000Z"
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrREpPOXBpMkNBSkZadjlLZzdQYkVxVmNyOWNPa2hqbFlteHBYdWx2bGxZLVRTS1dmMzFhMWktNUVSWGF3c2ZDa2dydGFDS2VYTHRyZlREeTZvc3Z5TFBaV0VSODdlUlE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2025-09-22T03:51:20.000Z"
+    },
+    {
+      "title": "Mae Health",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aV2o0UWxhRzRVY3lmeE9iZ0JOSWw2ZUVmNWQ2Mm9qeUxxczVPd2RLR1ZqeHVwZTAyNXprZHNOUjBIaUxsNWVzWFlaVjMzYUhnVjJMM0NTaVc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2023-08-14T18:35:35.000Z"
+    }
+  ]
+}

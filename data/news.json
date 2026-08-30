@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T23:08:22.920Z",
+  "generatedAt": "2026-08-30T23:18:36.078Z",
   "sources": [
     {
       "id": "stat",
@@ -24,6 +24,46 @@
   ],
   "count": 120,
   "items": [
+    {
+      "title": "STAT+: FDA approves Protagonist and Takeda’s drug for rare blood cancer",
+      "link": "https://www.statnews.com/2026/08/30/fda-approves-mimrylo-takeda-protagonist-treatment-for-polycythemia-vera/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-08-30T18:30:18.000Z",
+      "snippet": "Mimrylo, from Takeda and Protagonist, is a new kind of treatment for the blood cancer polycythemia vera."
+    },
+    {
+      "title": "STAT+: Alnylam defends heart disease drugs after failure of AstraZeneca’s Wainua",
+      "link": "https://www.statnews.com/2026/08/30/alnylam-attr-astrazeneca-wainua-attruby-heart-disease/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-08-30T17:29:05.000Z",
+      "snippet": "An AstraZeneca heart disease trial failure has put Alnylam under pressure. It's mounting a defense of its medicines."
+    },
+    {
+      "title": "Hospitals Are All In on AI, but Testing and Oversight Haven’t Caught Up",
+      "link": "https://medcitynews.com/2026/08/upmc-ai-testing-hospital-tech/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-08-30T15:10:07.000Z",
+      "snippet": "A new report found that while more than 90% of health systems have deployed third-party AI tools, less than half have the infrastructure to properly test and validate them before they become embedded in patient care. The post Hospitals Are…"
+    },
+    {
+      "title": "SK Bio Broadens U.S. Prospects, Licensing Late-Stage Epilepsy Drug From Biohaven",
+      "link": "https://medcitynews.com/2026/08/sk-biopharmaceuticals-biohaven-epilepsy-opakalim-kv7-neuroscience-bhvn/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-08-30T14:50:35.000Z",
+      "snippet": "Biohaven is outlicensing to SK Biopharmaceuticals global rights to opakalim, a Kv7-targeting small molecule in pivotal clinical testing for epilepsy. Biohaven gets non-dilutive financing for its pipeline while SK Bio gains another asset to…"
+    },
+    {
+      "title": "The Missing Piece in Lowering the Cost of Care: Predictability",
+      "link": "https://medcitynews.com/2026/08/the-missing-piece-in-lowering-the-cost-of-care-predictability/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-08-30T13:48:00.000Z",
+      "snippet": "When the healthcare system defaults to uncertainty, people delay care because it feels safer for their wallets. In some cases, people wait too long, leaving an ER visit as the path of least resistance. The post The Missing Piece in Lowering…"
+    },
     {
       "title": "STAT+: A Novartis drug cut inflammation. Can it improve heart outcomes?",
       "link": "https://www.statnews.com/2026/08/29/novartis-pacibekitug-inflammation-il6-tourmaline-heart-disease/?utm_campaign=rss",
@@ -321,22 +361,6 @@
       "snippet": "The FDA approved a life-extending treatment for advanced pancreatic cancer from Revolution Medicines that is the first to attack a genetic cause"
     },
     {
-      "title": "RFK Jr. said a Samoa trip had nothing to do with vaccines. New documents refute that",
-      "link": "https://www.statnews.com/2026/08/27/kennedy-samoa-trip-mmr-vaccine-new-documents/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-08-27T13:16:38.000Z",
-      "snippet": "Health secretary Robert F. Kennedy Jr. said a Samoa trip had nothing to do with vaccines. New documents obtained by The Associated Press and The Guardian refute that testimony."
-    },
-    {
-      "title": "Decoding DEA action on kratom-related substances",
-      "link": "https://www.statnews.com/2026/08/27/health-news-decoding-dea-action-on-kratom-related-substance/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-08-27T13:01:06.000Z",
-      "snippet": "RFK Jr. downplays measles threat, FDA approves pancreatic drug, and more health news from Morning Rounds"
-    },
-    {
       "title": "Ardent Health finds ambient AI's value goes beyond ROI",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOODdUSnhUdUpqanJ2dlhvWS0yUnoyWVpkVWVfbU4tMXFBZVV6d29KZ0UxUUhfNGY2YnNmMm9UcW01aGEyNl9ZSXZRQXZIZXJJTmVhdFY3QVVOLXNWTXRkXzJ0SkFXRjFGYnE3YjJqekVZN2szTWFJMklWeGU3Ql9lTjRkVUxVT1pyWVIxTUZqZlllRjJhcXc?oc=5",
       "source": "Healthcare IT News",
@@ -569,14 +593,6 @@
       "snippet": ""
     },
     {
-      "title": "FDA authorizes Avulux lenses for migraine-related light sensitivity",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUtjQmNScGpiTlRoZjczdUVPZ3VwUmt6eUZzTDBXdUR0al9RYXd0S2RBa2xnWU42OUdzTkE5WlRsSERZNjBCaEdMTGIxUENJZnpWTUpRbVZRQlNLdkV3bWMyaHA1NUNtRWlNX0ExWWNONEFoeFFhVUdUbTd1RFVVLWUzVnZZZEFpM1p0ajZ1Rk9QTkV1UUQtSzZfM3ZFdkdR?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-08-24T19:34:07.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Roche Gains Rights to Hanmi Obesity Drug That Reduces Fat, Preserves Muscle",
       "link": "https://medcitynews.com/2026/08/roche-hanmi-obesity-ucn2-crf2-peptide-drug-lean-mass-preserve-muscle-rhhby/",
       "source": "MedCity News",
@@ -662,6 +678,14 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-08-24T13:27:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "HIMSS announces initiative to measure impact of AI in healthcare",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQjZDbjZqVm5SQkpJSWZiT1BIZEg1amwyS1g4R2R1ajFIc2lDS2N3Rml4WHAtaXR1QWdVMTdDa0pBUmJJZ2RZdjg2endWajF3dTRKZmk2dVg3M2JLVndRZzJZQllfdnJLVFI4dGFQUTZ4UjFvRlRPdzVQdzBfR0RKaVdTZFJDS2ttcjBrOF9hSTBvcFFFWVhWSDl2X2NHM2M?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-08-24T06:40:36.000Z",
       "snippet": ""
     },
     {
@@ -769,38 +793,6 @@
       "snippet": ""
     },
     {
-      "title": "The Pulse of Innovation: How 3D Models Can Prepare Surgeons for the Operating Room",
-      "link": "https://medcitynews.com/2026/08/the-pulse-of-innovation-how-3d-models-can-prepare-surgeons-for-the-operating-room/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-08-21T14:21:09.000Z",
-      "snippet": "Today, 3D modeling and printing technology can make a dramatic impact — even shortening some operations by 30-90 minutes. Looking ahead, that reduction will only grow as the technology is further integrated and becomes more advanced. The po…"
-    },
-    {
-      "title": "Modernizing Payment Integrity in an Era of Systemic Fraud",
-      "link": "https://medcitynews.com/2026/08/modernizing-payment-integrity-in-an-era-of-systemic-fraud/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-08-21T13:56:00.000Z",
-      "snippet": "Gaps in reimbursement oversight and recovery will only widen, unless plans modernize how they detect, investigate, and recoup improper payments. The post Modernizing Payment Integrity in an Era of Systemic Fraud appeared first on MedCity Ne…"
-    },
-    {
-      "title": "Ant Group upgrades doctor app with AI",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0bEdlWm95UnlCZy1xdWcxWW51Y0Z5cldGREw3QURrcUplX1pUU0JMTnBOa19SZ1B5YVJqVzBGY09FRmE0OS1jSU1vak9yUTFUYkNSb3NqbjhWejlnVHRXM25oOXVveHg3clc4aHhOWXgxdjljanowbUtocVZJQQ?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-08-21T09:12:50.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "SCAN, Costco Launch Medicare Partnership",
-      "link": "https://medcitynews.com/2026/08/scan-costco-launch-medicare-partnership/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-08-20T22:54:43.000Z",
-      "snippet": "SCAN Health Plan and Costco are partnering to provide a suite of insurance products for seniors. The post SCAN, Costco Launch Medicare Partnership appeared first on MedCity News."
-    },
-    {
       "title": "Bioptimus, Cancer Research Horizons partner on AI cancer model",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcDNlSE4yLTdoVEx4eVpXMW9qODc0UzF1cFhjT1NjU19CWHp5a2FRcFdsVGFNOC12bEtudzlxWVp0aXNudWJWRzJuaERWZ2dtVUhLeHE4dGQtNTFHT3l4UmViSlBaTmZjdWpTRkNmcmNJZm9ua0d1MjlrS0NhbWp0NG9GSXdGbVpIOHpFUVYyX1hQbGxRcng2ekd3?oc=5",
       "source": "MobiHealthNews",
@@ -817,11 +809,11 @@
       "snippet": ""
     },
     {
-      "title": "New AI capabilities from Oracle Health target workflow efficiencies",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZGZtYkJKZVAzUG1kMWRjT2NURmdRNTBKZFVEbC1WZzNKaVBkeTAzaXlDV3IwT0V0ak44cWJJN05YZmI0UEhDVGhGeFpWZVZZd3ExNUxQdkVodW1KRXBueHBlYzFTVXlFRjBLa1pKVFVHMHl5YUI5YjJhR2paLUZ5bnVWNmpjdUlEMlF2ZFRNVUtyTGVaemcyZEU2OG93Ni1nSHc?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-08-20T14:01:53.000Z",
+      "title": "Data is healthcare's most vital strategic asset",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVXBZMzB1V25WeElROVNBWXhoWnVCWEtjT2lBSWhseTVRd013YmVBX1JpS1VJczJlYzQyMVFva1BkZlgtNmh4bUYyUk5JQUdDUFAxRGl4d1NZNE1MRnRlclJMT0tUZkJEMVVlU291NWZuR2p4QXFKYmhGUUNOMUNUb3h6TjNGRjA?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-08-20T13:25:33.000Z",
       "snippet": ""
     },
     {
@@ -845,14 +837,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOVc4Q0gxLWNHWEdmeHV3V3FSOWJsVk1ReHVqOVVMWHltRXNEaHpPSXFYREtOTUN5aTR3MWhqVWRyVEJTclBOMDRMeUlBR19zbDgwVTA0RXdRSnFIbnVucTNpazkyZFhTYTJNMThrYWZKakctSGlYVFpsWEhPSk5lWWFmOWlfTU80?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
-      "date": "2026-08-20T07:00:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Data is healthcare's most vital strategic asset",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVXBZMzB1V25WeElROVNBWXhoWnVCWEtjT2lBSWhseTVRd013YmVBX1JpS1VJczJlYzQyMVFva1BkZlgtNmh4bUYyUk5JQUdDUFAxRGl4d1NZNE1MRnRlclJMT0tUZkJEMVVlU291NWZuR2p4QXFKYmhGUUNOMUNUb3h6TjNGRjA?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
       "date": "2026-08-20T07:00:00.000Z",
       "snippet": ""
     },
@@ -961,14 +945,6 @@
       "snippet": ""
     },
     {
-      "title": "How Oxford PT combined AI documentation and RCM to recover revenue",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2tYdDNYb3ZRRkNuc1NtdHZ3U1R1UFI1YVlWUjhCQW9CMEl5NzBERU94WWUydVlTYUN3OEs0R1RkNTQtUGxLNE80RGtRdnlJNjl3Z2xiWVBGcWYwSUZXd0huaEpEZm4tWWJJOFVpZERVdmo1VVVNamJlcmk3M2NmV2lnQW4wMEw4TTJyOVhrWkZhUTk2LXpRdlp2ZjdRWHdzNndV?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-08-17T16:37:51.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Mercurial AI costs constrain providers",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelY3dm0wcVVzX1RabVBHb3Qwb0FDM2Q4SXRiTHFtektqQ0x6NDAwdUt6aVlFTHJPZnlseFZxaWVoZ0YzRDQyZzZGbmpLQi1aM3cwQWcyZFR6N1pXNGEyMkZQSGdkc2hOVHdoUWg1akdlLW9Gc1BseTlNUlhKN2FEVE5Eaw?oc=5",
       "source": "Healthcare IT News",
@@ -982,6 +958,30 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-08-17T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "HIMSS TV",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuVGtLRzh3VTBNZkZxb3Q3WFI0X1pBZjRMRnZsb2duanM2TkVVMGhqVWFBeXpYWTRTaFFqMDdrQjc4QVR1SHdYZUtzQWlTLW9qYXBXRHFvRWhiTVRRenlnYV9STDlPZDNnU2UxdTJwdDRibXZEVlp3?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-05-05T19:08:57.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrREpPOXBpMkNBSkZadjlLZzdQYkVxVmNyOWNPa2hqbFlteHBYdWx2bGxZLVRTS1dmMzFhMWktNUVSWGF3c2ZDa2dydGFDS2VYTHRyZlREeTZvc3Z5TFBaV0VSODdlUlE?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2025-09-22T03:51:20.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Mae Health",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aV2o0UWxhRzRVY3lmeE9iZ0JOSWw2ZUVmNWQ2Mm9qeUxxczVPd2RLR1ZqeHVwZTAyNXprZHNOUjBIaUxsNWVzWFlaVjMzYUhnVjJMM0NTaVc?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2023-08-14T18:35:35.000Z",
       "snippet": ""
     }
   ]
