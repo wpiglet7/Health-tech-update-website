@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-01T23:10:02.751Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 30,
+  "sources": {
+    "STAT News": 13,
+    "MedCity News": 3,
+    "Healthcare IT News": 9,
+    "MobiHealthNews": 5
+  },
+  "summary": "Today's health-tech landscape reflects significant tensions between innovation, policy, and regulatory oversight. The Trump administration continues rolling out drug pricing agreements with major pharmaceutical companies while simultaneously facing congressional pushback on proposals to politicize federal research grants and cap NIH funding—developments that underscore ongoing debate over government's role in healthcare innovation. On the technology front, medical device and AI companies are aggressively expanding capabilities, with Stryker deploying Apple Vision Pro headsets for surgical guidance, LeanTaaS acquiring Aidin for hospital discharge optimization, and Oracle Health and Suki introducing new AI tools for clinical workflows, while broader questions persist about how AI should integrate into medical records and clinical practice. The biotech sector shows mixed signals: GSK is accelerating its mRNA flu vaccine development to compete with Moderna, Novartis secured an MS win with a BTK inhibitor, but Novartis and Bristol Myers Squibb have paused multiple cell therapy trials, and a notable study found Paxlovid ineffective for long Covid. Meanwhile, cybersecurity concerns are mounting across healthcare as firms race to strengthen defenses, and the administration's MAHA health agenda is drawing criticism from dietitians and researchers who worry about implementation gaps and bureaucratic burden.",
+  "items": [
+    {
+      "title": "STAT+: ADA review of members’ expulsion denies group censored opinions, called in police",
+      "link": "https://www.statnews.com/2026/09/01/ada-members-review-june-expulsion-denies-censoring-opinions-calling-new-orleans-police/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-01T23:06:00.000Z"
+    },
+    {
+      "title": "Opinion: Diabetes association CEO: What an independent review says happened at the ADA’s controversial June conference",
+      "link": "https://www.statnews.com/2026/09/01/american-diabetes-association-june-conference-independent-review/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-01T23:00:00.000Z"
+    },
+    {
+      "title": "HHS Provides $77M in Grants for Substance Use Prevention, Mental Health",
+      "link": "https://medcitynews.com/2026/09/hhs-provides-77m-in-grants-for-substance-use-prevention-mental-health/",
+      "source": "MedCity News",
+      "date": "2026-09-01T21:55:12.000Z"
+    },
+    {
+      "title": "Delivering better-informed, coordinated cancer care with AI",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWZPYzRFMnJKdnhaNjV0d0VHZEI2YzQwYVI4NlFkdEQwVzFOc0pqUl9YOVlIamtsNWFoVGlnMHlYWGZWWUVXMHNKWWtfbThDTUpFaFhlOXVMVzgwQ2hDODFrSWQtLUhVaFBScEJoc185YmJvcFNhaE5DamwtNmo3cmZRY1FIN3JwaG03UlVkc2FvQTRWa3pWbUNB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T19:41:34.000Z"
+    },
+    {
+      "title": "STAT+: House votes to temporarily block Trump plan to politicize federal grants",
+      "link": "https://www.statnews.com/2026/09/01/stopgap-spending-bill-contains-reprieve-nih-research-grant-control/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-01T18:09:57.000Z"
+    },
+    {
+      "title": "Scan.com secures $220M for U.S. medical imaging expansion",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXdnZXhSNFVZOGoxYTE2N3V1SHhvekc2Njh0REVrVFdLT012SUczVmpFNkU2T2xIcHNrRDdpWnRWenE0SWc0NWxPbU5IanZwTmdSVW5fTll6N3B5MVROeE9rUU1pNFNZWV96a0RUMndSbE5odENUQW50N2FwRXZhUkgzbXU1SzREUXJTbHhB?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-01T17:58:43.000Z"
+    },
+    {
+      "title": "Opinion: I’m a reproductive psychiatrist. The Lindsay Clancy trial will cause terrible damage to my field",
+      "link": "https://www.statnews.com/2026/09/01/lindsay-clancy-trial-verdict-postpartum-psychosis-psychiatry/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-01T17:28:37.000Z"
+    },
+    {
+      "title": "Medtronic invests $700M in Cornerstone Robotics",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWFZZ3k5bmJsMVhzWWJOOUN0OGJ5WEl6NDJhNnBZREhrYnVZVkR6dHg4UmtBTkk0MEIyVHVhdEJvZFk2aWIzUmFWNFpLQWMyRHVQN2pMU1R0Vk9yanRHTzkxYzh2UG5PdWk1MmpDSkJ2Yi1WTzBRQldLd2N1ODFWOHhXY2JrUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-01T17:28:13.000Z"
+    },
+    {
+      "title": "GSK’s Pivotal Test for mRNA Flu Vaccine Aims to Show Two Targets Are Better Than One",
+      "link": "https://medcitynews.com/2026/09/gsk-mrna-vaccine-seasonal-influenza-flu-infectious-disease/",
+      "source": "MedCity News",
+      "date": "2026-09-01T17:07:07.000Z"
+    },
+    {
+      "title": "What belongs in the medical record in the AI era?",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yN3k2OHptRVIxNkRqSTg3bDRJaUM0NFdLQUkwT2kwdVFUOTI0d1l6cTRzMnRfeDdVWFhsbUx2MDloSDVKd1NlZ1cwZUNKZVNwMFVUZFByemVYel8zM003YlB0X1hyVmF1TjVoMDdOYzFKUHhoYllfTmFfSHY?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T16:10:34.000Z"
+    },
+    {
+      "title": "Where digital health stands in 2026",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hWGFVM3JVS3lYYkMwWl84QW9iYTlaUTBBcWtZc3NkY0lQUE8tekgtVnlvRlZiSHpqWlFnZWFqNlFFak9fQW81XzdMVXZpckdZUzJmeHBVM2tzTC1QdVdTdzc2dFF6NXBrZUZpdU9jTzhSRWtsY1ZBeQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-01T15:51:20.000Z"
+    },
+    {
+      "title": "STAT+: 5 burning questions on Trump’s latest deals with drugmakers",
+      "link": "https://www.statnews.com/2026/09/01/trump-pharma-deals-analysis-latest-round-most-favored-nation-drug-pricing/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-01T14:51:22.000Z"
+    },
+    {
+      "title": "LeanTaaS acquires Aidin to ease hospital discharges",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTE1Vcjh2NmI5RkY2WG1TOThhTG1DVmZSQk45ajBYdmVKMzZZekJ2ZFA3eXhpOFJrNkVJWnB2QlgzazNwbXhhNXh4UVlfR0l6bWhSWkprZ09MeWpTLU1mVmlmN3pKYVV1NU5fVUI5S3hZaU5hbFA1NEVQWHRGQ1BjMDZjdnBITmNQNTQxaw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-01T14:25:06.000Z"
+    },
+    {
+      "title": "Breaking the Amendment Cycle: How Agentic AI Enables Smarter Clinical Trial Design and Operations",
+      "link": "https://medcitynews.com/2026/09/breaking-the-amendment-cycle-how-agentic-ai-enables-smarter-clinical-trial-design-and-operations/",
+      "source": "MedCity News",
+      "date": "2026-09-01T13:42:00.000Z"
+    },
+    {
+      "title": "STAT+: Novartis gets multiple sclerosis win with BTK inhibitor",
+      "link": "https://www.statnews.com/2026/09/01/biotech-news-novartis-gets-multiple-sclerosis-win-with-btk-inhibitor/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-01T13:34:13.000Z"
+    },
+    {
+      "title": "The state of digital health: Part 1",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UOThtWnFQRXNjdmRTMVJsamFqRDJBdnBnOE9QUjRKZWlLWUUtelhoWUo1UmJPRktkZm91RkpMdW82dUFUamwwek93WVZEOEpwQlcwQVVOOS1PVkVzcEZxRFZBeHhDb1Vrb1BWTExVS2hRMXlk?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T13:23:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Novartis and Bristol pausing cell therapy trials, a $480K cancer drug, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/09/01/novartis-bristol-trials-paused-pancreatic-cancer-drug-price-pharmalittle-newsletter/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-01T13:21:06.000Z"
+    },
+    {
+      "title": "STAT+: FDA clears Stryker’s ‘surgical cockpit’ that uses Apple’s VR headset, Vision Pro",
+      "link": "https://www.statnews.com/2026/09/01/fda-stryker-surgical-cockpit-apple-vr-headset-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-01T13:10:20.000Z"
+    },
+    {
+      "title": "Paxlovid did not help long Covid, study finds",
+      "link": "https://www.statnews.com/2026/09/01/health-news-paxlovid-did-not-help-long-covid-study-finds/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-01T13:08:31.000Z"
+    },
+    {
+      "title": "OpenAI, dozens of other firms, see 'limited window' to boost cyber defenses",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0ZoTlo4TjVwYXdpYk9FOFk4TDJHbEYzZU9ieVhHblJZcnNFejNFcEpVNmY5a3dTUUd5dVZhRTgxX080SmxhTmQ0eE5UclVjNm11QnhKOE9fWmMta0FZeWlwT3h5MkRTcmQtY2o5MVlGMFg3NlFINTJFMWdGR01TdDAwQllFcVVMVzdXaFFpemduMldsSlp1ZXN3ckNGLTNwYm5pU3pn?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T13:03:00.000Z"
+    },
+    {
+      "title": "Healthcare’s cybersecurity remediation challenge",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd0NNN2xmU3BzOThPVE8zUWpMZzVTTWs3LXpoYWdnOW5UTlBUZkw4Z2RKTFkyUDFmUmlTQVJLR2lQSHZXZ1hkVXpKSjJfTUx1TGJVeEtONlA2QVB3cWI0NWdtS1BjeG5NYV82elB1NWxnRm9vUFFlQ1NFY1ltOTNGNmVJMGd3aTlsMnVxQV9B?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T13:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Will House delay Trump plan to politicize NIH grants?",
+      "link": "https://www.statnews.com/2026/09/01/house-spending-bill-vote-grant-rule-trump-mfn-deals-dc-diagnois/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-01T12:03:04.000Z"
+    },
+    {
+      "title": "STAT+: NIH proposal to cap research grants draws mixed reception, agency says",
+      "link": "https://www.statnews.com/2026/09/01/nih-grant-cap-proposal-researcher-feedback/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-01T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: The Trump administration is burying science and health care in paperwork",
+      "link": "https://www.statnews.com/2026/09/01/white-house-science-medicaid-bureaucracy-paperwork/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-01T08:30:00.000Z"
+    },
+    {
+      "title": "As MAHA champions nutrition, it’s ignoring the experts, dietitians say",
+      "link": "https://www.statnews.com/2026/09/01/maha-nutrition-makeover-hampered-dietitian-workforce-crisis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-01T08:30:00.000Z"
+    },
+    {
+      "title": "Major Singaporean airport group offers healthcare lessons on agentic AI",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ0VFcEt4Y25oRUFGQ0xYQkZNcnppd2FiVkdWQi1CdlZpdDdOd1htUVBZV2h6MGh5V3hkT3VRcUFxQTBYc3dEZzFLWkhPSU9oRm5Bc3dqUk5MdENGWTl1MG5hMUpuR1pnZ2oydzVyS2F0Z3ViSE9DNWVkc0UtWDRVTS13a1o2Vnlsb2xJNWVCWWp1S0FXRTZYT0RxUV9xdzZYc0FzMkRQbGp0YWhDNWdmLQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T07:52:14.000Z"
+    },
+    {
+      "title": "HIMSS to update Digital Health Indicator for the AI era",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlVQblpteFB0MHA0N2szWDN2dVdtXzUxd21jTWxyYXlMbXBvbXJfTWw4TktnbXhqWFp6YmxLNkpZczJMNGpiQkI0Tmw5cHRXNjB2VnJQT1AzLWctYmpyZnFjQm5yQUZKcnpHY3pybDJ6X1l0WWdSelpvV1lHQ09rcDViRy1DY21QcHAzMUVueDU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T07:35:55.000Z"
+    },
+    {
+      "title": "Suki launches AI clinical dictation tool",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXF3ci15cGN5R084UkNQNTFWMUdXV1pTUkx0d0twTjZMVGI0OWE3TU9wTVJHelk3Uy0wcGVWWlBaZ3hkVnZDSmMtV1ZuM19ONVUyWnhkSjZ2eUhBNnYxNVdQM1dHWUNWU2FkQkstVUx4eGFCeXFEbW93MkVBQVBBQWZR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-25T15:19:24.000Z"
+    },
+    {
+      "title": "Telemedicine becomes more deeply embedded into hospital workflows",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWZZRTNWU2phWEY5UDg2aFluWWdWSE9valJmQ2FkTUI5YW1tX3dBbXNHS1VsQk82Wk1pek93YU1NQkNHQVVwWVBTOFFKYlU1TVhHNUNVQ25DcFFnTF9vcG9udkdfcUJ6ajNfaVk2UzZ6MFBxRVVuSE4xSU83Z19NaHl0TElBc2Q0QkF1RlhlTmRTSDJpZ0RVMXB0aUlGbzg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-25T13:30:00.000Z"
+    },
+    {
+      "title": "New AI capabilities from Oracle Health target workflow efficiencies",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZGZtYkJKZVAzUG1kMWRjT2NURmdRNTBKZFVEbC1WZzNKaVBkeTAzaXlDV3IwT0V0ak44cWJJN05YZmI0UEhDVGhGeFpWZVZZd3ExNUxQdkVodW1KRXBueHBlYzFTVXlFRjBLa1pKVFVHMHl5YUI5YjJhR2paLUZ5bnVWNmpjdUlEMlF2ZFRNVUtyTGVaemcyZEU2OG93Ni1nSHc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-20T14:01:53.000Z"
+    }
+  ]
+}
