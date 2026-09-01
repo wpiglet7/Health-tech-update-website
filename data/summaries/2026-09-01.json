@@ -1,0 +1,166 @@
+{
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T00:28:26.148Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 25,
+  "sources": {
+    "MedCity News": 5,
+    "STAT News": 10,
+    "Healthcare IT News": 6,
+    "MobiHealthNews": 4
+  },
+  "summary": "August's healthcare landscape reflects significant momentum across several key areas. The pharmaceutical sector continues evolving with Trump administration pricing negotiations now involving nine additional drugmakers, while the FDA approved Takeda's Mimrylo for polycythemia vera, a rare blood disorder with previously limited treatment options. On the clinical front, new migraine prevention guidelines highlight expanded therapeutic choices for patients, and personalized mRNA vaccines are gaining traction with melanoma treatment successes renewing confidence in the broader mRNA platform after recent skepticism. Healthcare organizations are grappling with competing priorities, as GLP-1 drug adoption is forcing employers and insurers to fundamentally reconsider benefits structures, while health system executives recognize that AI transformation requires boardroom commitment rather than siloed pilot programs. The sector also faced security challenges, with McKesson investigating a data exfiltration cybersecurity incident, underscoring ongoing operational risks across health IT infrastructure.",
+  "items": [
+    {
+      "title": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
+      "link": "https://medcitynews.com/2026/08/healthcare-moves-exec-layoffs/",
+      "source": "MedCity News",
+      "date": "2026-09-01T00:17:58.000Z"
+    },
+    {
+      "title": "MedCity FemFwd: How Midwives Can Support the Maternal Health Crisis",
+      "link": "https://medcitynews.com/2026/08/medcity-femfwd-how-midwives-can-support-the-maternal-health-crisis/",
+      "source": "MedCity News",
+      "date": "2026-08-31T23:31:08.000Z"
+    },
+    {
+      "title": "4 Notable Health Tech Funding Announcements in August",
+      "link": "https://medcitynews.com/2026/08/4-notable-health-tech-funding-announcements-in-august/",
+      "source": "MedCity News",
+      "date": "2026-08-31T23:00:54.000Z"
+    },
+    {
+      "title": "New guidelines on migraine prevention reflect increasing options for patients",
+      "link": "https://www.statnews.com/2026/08/31/migraine-prevention-medication-guidelines/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-31T20:00:00.000Z"
+    },
+    {
+      "title": "Trump strikes nine more deals with drugmakers to lower prices",
+      "link": "https://www.statnews.com/2026/08/31/trump-most-favored-nation-drug-pricing-new-round-price-cuts-announced/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-31T19:48:44.000Z"
+    },
+    {
+      "title": "First-in-Class Takeda, Protagonist Drug Lands FDA Approval in Rare Blood Disorder",
+      "link": "https://medcitynews.com/2026/08/takeda-protagonist-rusfertide-mimrylo-polycythemia-vera-blood-cancer-mpn-pv-tak-pgtx/",
+      "source": "MedCity News",
+      "date": "2026-08-31T18:38:21.000Z"
+    },
+    {
+      "title": "How KC Care built an IT-enabled workforce that could scale",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTzBzRTdicW5KWmhTUVhBOHJhcXpBb3pUS0hUajV0S1FKR1dISDh4UGxQR05zU3NYaFNwVFhDb01oZlJPTmZ1UEE5U1NmTlpnaTBJeWJVaFMzWVdxQzRVN2YxZVhPYnJWdjJEVDBTQ1pWWllTUFc0Vm1Gck1aUGxDc2pLZWlDUkVqZ1hVdWhfTE1mQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-31T17:12:40.000Z"
+    },
+    {
+      "title": "STAT+: Can buying a drug patent application be seen as a bid to prolong a monopoly?",
+      "link": "https://www.statnews.com/pharmalot/2026/08/31/pending-drug-patent-applications-amgen-carefirst/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-31T15:56:53.000Z"
+    },
+    {
+      "title": "STAT+: GLP-1 drugs are almost single-handedly forcing employers to reconsider workers’ health care",
+      "link": "https://www.statnews.com/2026/08/31/health-care-inc-glp-1s-are-breaking-employers-and-340-battles/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-31T15:27:30.000Z"
+    },
+    {
+      "title": "GE HealthCare secures CE mark for its Photonova Spectra technology",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHpsZU5ZcFdLaWFxSGVvVS1hSlMxZlNpVkx3Z2lxV0c0dW94WG1QMXprcXJmNE5DUW5TNXRGNWxWUVZUNHFVMjVQNkV6OWJvTkJWbGVFV3ZtSVhVWEhKLUJ0eHNYenZwT2gtczh1OVhaN1ZrMmk4MGtOUzdIQlFDNkNOMW5qeTVGdU9qSFo1RmxfcGFFX2psVHVSMjE3YVE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-31T14:56:00.000Z"
+    },
+    {
+      "title": "Exer AI CEO talks AI movement assessments",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2I5dHI4NkVCVTRIcExtNjJuWXVrT2V0OFlFaWY2Yi0yaDVUTWhGVVJrc0huR1NiejJLbktEd1hORnRnOURCYU5qTndRZUQtamxlY0toanAxbTd0RW1xRXFZb2ozUXU4WHlndnpOMHNzU25aYW1xSUpVaTdtVFVzSjR6UXE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-31T14:11:11.000Z"
+    },
+    {
+      "title": "McKesson investigating cybersecurity incident involving 'exfiltration of certain data'",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSl9Fc25xMWd2WUNnOXVNNGwwUE9jYnFiYlozN3dPZVNwaHpjaGpwRWNvQTdBLVZXeTRBbkVOQ2dXS2pxWWpoYkZ4MUZXTjh4ZXZtOWI0TEViZUhmVnpMOTZETUNseGI3UFZULUZXeVcwSkZPR0l1YWR4NTU5M3F1YTZkdEhGUTl6dmlZcmlqYlZaYWRERVlQZDRpVWQxdXFROTZ5WUo2NjZQUkc3R21aOTE0bldVOVlJckR3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-31T13:18:26.000Z"
+    },
+    {
+      "title": "How AI tech measures human movement",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SS3hsUTZhcWFfZXplZTNMM3JNWHc3azdsbUNXT3FUSzNMLUc5NlVRWm5tTksyVU5jX3BYcXRUVW4wLVJyclVYaTRXbGgyM2EzZ3hrYTgtQVN0VmFsRUZTcGcySFp4Y2cxT0hFd1FZdUVtbmpnNGRfQkJRd0VIbXc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-31T13:18:00.000Z"
+    },
+    {
+      "title": "AI Won’t Transform Health Systems, CEOs Will — 6 Principles to Drive the Transformation",
+      "link": "https://medcitynews.com/2026/08/ai-wont-transform-health-systems-ceos-will-six-principles-to-drive-the-transformation/",
+      "source": "MedCity News",
+      "date": "2026-08-31T13:11:00.000Z"
+    },
+    {
+      "title": "STAT+: We’re reading about drug pricing deals, a new cancer therapy approval, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/08/31/drug-pricing-deals-polycythemia-vera-mimrylo-pharmalittle-newsletter/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-31T13:03:11.000Z"
+    },
+    {
+      "title": "Breaking barriers to healthcare innovation",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnFBQU5wdXlyb3dyYlg1cGd5aEJ2TWQybng2VWpRODlxYktJOHRFX3BmbW1Ra1VhM0FPSGpDbkk0ZE92NnFrb1NzNXdxSS1kMThRbGtFNTVYZnVkNDY1X2pydGZVaHo4OVdZMTQxTlBoeHVGcEJkNXc0WGNXajh5QmxHTjdacDA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-31T13:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Can a pregnancy hormone steer a cardiovascular treatment?",
+      "link": "https://www.statnews.com/2026/08/31/biotech-news-can-a-pregnancy-hormone-steer-a-cardiovascular-treatment/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-31T12:48:19.000Z"
+    },
+    {
+      "title": "A winner, a loser, and a mid-stage signal from a major cardiology research conference",
+      "link": "https://www.statnews.com/2026/08/31/health-news-mid-stage-results-from-esc-2026-cardiology/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-31T12:25:18.000Z"
+    },
+    {
+      "title": "Minimising disruptions while building a smart ICU in Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUENRSl9OS2lBc244RGNDUWNVR3lrUEl1T2NkX0tweGxvUm5OM2FUNVptSUo5cTZCeXRNQkdOeXVyUnlsT2t6R1VocE15c3hHMk5ndzNmTE5ZUFFFcms2Y1RDSFBYeXU1X3ZRelF3RFZaOG1NWlk1eWZVcUh1NlUwTzdvZzlGYUs3V2VRXzRTeG5rdDF4TkdIajhfUUVSRV9HeWc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-31T09:16:42.000Z"
+    },
+    {
+      "title": "Opinion: The most shocking thing about the latest statistics on CTE in football is that we find them so shocking",
+      "link": "https://www.statnews.com/2026/08/31/cte-nfl-boston-university-study-football-concussion-history/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-31T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: After a rough stretch, mRNA gets a boost — at least for now",
+      "link": "https://www.statnews.com/2026/08/31/mrna-cancer-vaccine-intersects-politics-medicine/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-31T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Cadre of radiopharmaceuticals experts pushes the bounds in cancer therapy",
+      "link": "https://www.statnews.com/2026/08/31/radiopharmaceuticals-dosing-pushing-bounds-cancer-treatment/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-08-31T08:30:00.000Z"
+    },
+    {
+      "title": "HIMSSCast",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ic2pOelF1MHlFTzJzb0pZM0VlNU00VTgxb2Y3S0pBYnBWQ3BBUE1fa2RXTnFYQXlYWnctbVVqS20wM0xGb29LbW9IYmZhcExQM2pMOW5LZVZaLXRzMVE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2025-06-27T00:47:00.000Z"
+    },
+    {
+      "title": "Datavant",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92MlB1ZVZoMVZPUzJ5RFJLc3JFOGZJeFdnN1NmTVpzOGNBc2Q1VnN6RDJ5eldlMElZbG5seXIzY1ptTVN0U3hvVkVKYVZWbGpRUjU0OG9R?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2020-10-12T17:10:59.000Z"
+    },
+    {
+      "title": "Noom",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rMDNIS0tHZE91VGFSblpUeWdnT25JU0tnQ0pjSWZReVc4OVNZdjFJU0I1dTlkMzJSQ1NrV3doN2ZDYWFpT1o3dVE2RlFZbldC?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2016-09-27T17:58:43.000Z"
+    }
+  ]
+}
