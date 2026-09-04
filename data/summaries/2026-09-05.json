@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-04T22:54:16.543Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 12,
+  "sources": {
+    "STAT News": 9,
+    "MedCity News": 3
+  },
+  "summary": "Major pharmaceutical setbacks dominated today's health-tech news, with Novartis's failed cardiovascular drug and an Angelman syndrome therapy disappointment raising questions about experimental treatment pipelines, though experts remain optimistic about alternative approaches in development. On the regulatory front, the FDA approved Ionis Pharmaceuticals' zilganersen for ultra-rare Alexander disease, marking the company's first approval and expanding treatment options for devastating neurological conditions. A significant political crisis is unfolding around Oracle Health's VA electronic health records contract, which has ballooned from $10 billion to $27 billion, prompting the House VA Committee to unanimously subpoena executives Larry Ellison and Mike Sicilia. In healthcare delivery, Massachusetts General Brigham's Medicare Advantage plan is dropping Dana-Farber from its network following the hospital system's earlier split with the cancer center, creating coverage complications for patients. Broader health equity concerns emerged in reporting on disabled workers facing increased risk of losing health insurance and fragmented mental health care contributing to preventable tragedies. Opinion pieces highlighted persistent barriers to psychiatric treatment, including underutilization of effective drugs like clozapine despite FDA streamlining, and concerns about potential politicization of CDC data standards.",
+  "items": [
+    {
+      "title": "STAT+: Novartis’ experimental cardiovascular drug fails a pivotal study",
+      "link": "https://www.statnews.com/2026/09/04/novartis-therapy-pelacarsen-fails-cardiovascular-trial/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-04T21:07:27.000Z"
+    },
+    {
+      "title": "Oracle Health Execs Subpoenaed After VA Contract Costs Nearly Triple",
+      "link": "https://medcitynews.com/2026/09/oracle-healthcare-ehr-va/",
+      "source": "MedCity News",
+      "date": "2026-09-04T20:50:28.000Z"
+    },
+    {
+      "title": "FDA Approves Ionis Pharma Drug, the First for Ultra-Rare Alexander Disease",
+      "link": "https://medcitynews.com/2026/09/ionis-fda-approval-zilganersen-zanvastro-alexander-disease-ultra-rare-disease-neurology-aso-ions/",
+      "source": "MedCity News",
+      "date": "2026-09-04T18:07:08.000Z"
+    },
+    {
+      "title": "STAT+: Top Boston hospitals clash over Medicare Advantage network after split",
+      "link": "https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-04T16:05:04.000Z"
+    },
+    {
+      "title": "STAT+: After failure of Angelman syndrome drug, experts see hope in other experimental therapies",
+      "link": "https://www.statnews.com/2026/09/04/angelman-syndrome-drug-ultragenyx-oak-hill-ionis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-04T15:34:42.000Z"
+    },
+    {
+      "title": "STAT+: FDA takes another look at botanical drugs",
+      "link": "https://www.statnews.com/2026/09/04/biotech-news-fda-takes-another-look-at-botanical-drugs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-04T13:46:42.000Z"
+    },
+    {
+      "title": "Bringing Ski Patrol Lessons to Healthtech Entrepreneurship",
+      "link": "https://medcitynews.com/2026/09/bringing-ski-patrol-lessons-to-healthtech-entrepreneurship/",
+      "source": "MedCity News",
+      "date": "2026-09-04T13:42:00.000Z"
+    },
+    {
+      "title": "Disabled workers at greater risk of losing health insurance",
+      "link": "https://www.statnews.com/2026/09/04/health-news-disabled-workers-at-greater-risk-of-losing-insurance/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-04T13:08:15.000Z"
+    },
+    {
+      "title": "STAT+: We’re reading about a Bristol CAR-T trial pause, Pfizer offloading a shelved candidate, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/09/04/pharmalittle-bristol-car-t-trial-pause-pfizer-offloads-shelved-candidate/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-04T13:02:26.000Z"
+    },
+    {
+      "title": "Opinion: Make infectious disease data boring again",
+      "link": "https://www.statnews.com/2026/09/04/pennsylvania-measles-deaths-data-cdc-director-rfk-jr/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-04T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Lindsay Clancy case exposes dangers of fragmented U.S. health system, experts say",
+      "link": "https://www.statnews.com/2026/09/04/lindsay-clancy-health-care-silos-postpartum-care-failures/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-04T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: The FDA removed the red tape around one of the best drugs for children with schizophrenia. But the fear remains",
+      "link": "https://www.statnews.com/2026/09/04/clozapine-children-schizophrenia-neutrophil-fda-monitoring/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-04T08:30:00.000Z"
+    }
+  ]
+}
