@@ -1,0 +1,441 @@
+{
+  "date": "2026-09-06",
+  "generatedAt": "2026-09-05T22:42:54.748Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 71,
+  "sources": {
+    "STAT News": 1,
+    "MobiHealthNews": 32,
+    "Healthcare IT News": 38
+  },
+  "summary": "OpenAI is deepening its healthcare footprint by connecting ChatGPT directly to Epic EHRs and launching its new GPT-6 Astra model, while concerns about AI accountability in medicine persist—particularly around whether physicians should bear responsibility for AI-generated clinical decisions without meaningful oversight. The sector is experiencing significant consolidation, with digital health M&A accelerating as companies like Vitality (acquiring Icario), Cureety (acquiring Reimagine Care), and others pursue growth, while major funding rounds for AI-focused startups like Elucid ($55M), Konko AI ($6M), and Scan.com ($220M) signal investor confidence in specialized clinical AI. Healthcare organizations are simultaneously grappling with critical infrastructure challenges: cybersecurity vulnerabilities are widening as McKesson and others report data breaches, while EHR implementation struggles persist, including a House subpoena over Oracle's massive cost overruns at the VA. Hospitals are investing in AI governance and audit trails now, with institutions like Ochsner Health establishing dedicated innovation leadership to manage safe AI deployment, and the industry is beginning to rethink reimbursement models and documentation standards to accommodate AI-augmented workflows.",
+  "items": [
+    {
+      "title": "Opinion: What STAT readers think about M.D. vs. D.O., AI in medicine, surrogacy, and more",
+      "link": "https://www.statnews.com/2026/09/05/md-vs-do-surrogacy-ai-medicine-stat-letters-to-editor/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-05T08:30:00.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JWkR0R0VxdE5sM3FBbTZDNm01Y3dQMHJfWGZPVHJPMmt6b1VPR0VhRlhsNmZaczUtZDZ5RzBBc2RJNmktUnhkSkphdFFpa0xWSnhzbDE5bG5SWTdGQXZxVi1XLXFRR0t5ejRR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-05T07:37:50.000Z"
+    },
+    {
+      "title": "OpenAI connects ChatGPT to Epic EHRs",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RVm5DZjVMdHFkTU5RY29tSG1CZlFQb1Z1aThlVE5JczVMdWszOWpJLWRKRWV5ekxRQTh4R3ZiczdXNGp3bjV6LWtvUmo3OWZtaU8xajFqUkJFd0tITXRNYzRES0xNZHpDRWhzY1l3RC1QUi15Qkt5OQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-04T21:43:43.000Z"
+    },
+    {
+      "title": "HIMSSCast: AI-generated code needs AI-powered review systems",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcExsSmdrSU1IMXdfajBsdVF0Y21KRXZVVXRSaEVRWHJOYlFrVnU0aVFJaXFmc2s4VUl1LW9QYUVXYTNvS1hhRm1kenQ1MTlkTWdBUXlFRVB2RVlLNDdGZV8wMXduWFlrRXJMWU5lZngyamU3OVc2cWpTUGd6SHQzVjJfSHhqTmE3YmduTVpza21BMnIwVE9yNnRhVQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-04T19:15:21.000Z"
+    },
+    {
+      "title": "Thyme Care raises $125M at over $2B valuation",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWNqXzh0VGxCM0hZc0hsTVNyMWVZWU40U2xDVUxLbnltbk1SLUNycmRTQ1JpNHBjY3U5QVI5aDg1Y3czT1BvRkdqbnVQRzM1VjBUbml6VUp6bl8zLXpaeHFzQjBqcnlpNjc1QlFyXzN4Y0JXUHp2eUVyNFB6UVhMZkh3?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-04T17:00:26.000Z"
+    },
+    {
+      "title": "OpenAI launches GPT‑6 Astra model",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoUS1Hd2lybDNmZkM3bmRfRWVORVdZU0dSdkpmQVl4eDhnMFNIc0ptc045d0NvYnlSNDVCMEZtRVc4eFdfNEpCZjNFQXZfdGRzTm02elZQdGNyemV6UnMtcGFsNlBpT3ZUUVlJdHJzdkdjWHI3YmJNVWFtWQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-04T16:25:16.000Z"
+    },
+    {
+      "title": "How AI can improve patient access – beyond simply filling the next open slot",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOWdyZExKcklhVVNiYnlTRnFNYWxFT1dPUGlpRndJMG5GZ0hGOXNsRE9KODJvTHJGN1FpMXlpTVowR2N6bW91eVVDTVZVbC1YcE1yT2lWOTF2YmxoVE5seFg5dXJMMkVQc0xTZU5GOHJPYnZPcVhaX2MtTC1pSjlZNzNMenhZVjR4SnpvcFlueENTYy1yOVdickdNMXhHZmFNcF9OMnRzbHNiMmRB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-04T15:59:34.000Z"
+    },
+    {
+      "title": "House VA Committee votes to subpoena Larry Ellison over Oracle EHR overruns",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbEpTY0JwM2s1cjd4cFJkbm45TU1aVUFFRnQ3aEM2WklXNnRCeU05clM3SjcyMUFBcUJPOUpWSmRIWm5WX25UaVAwbzRNLVNhUjlhLUFPamZ5anl2bzhoMHBTbEZ5UC1lTm9VUjJsWjJHWjBfWmZENnhnVWdXNGFfQ1BONXZXbzluQlFqMF91SXN4SXU3SjA3YlN6WkJzMWhzM2RQVXNRbWNJNlozTE53?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-04T14:09:27.000Z"
+    },
+    {
+      "title": "This hospital started AI training with the CEO",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16dDRBNTY1MWFGbC1Vd3NWMVlPVGlBRFJuckNDOUZrR092d0RrODlpRFJIV3VrNHBmUDZ0LUk4eUNtR19felJRV1VRREIwS1hDcUhBT2EwN0dOLVdMYUM5cjdJbFJ6OElIcnFJQzNQRW1HbjE3NVEtd2hSQy1jb0U?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-04T14:06:48.000Z"
+    },
+    {
+      "title": "How EMR maturity prepared this heart hospital for AI",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdU1tTWtNMHROcmFZUWMySDFJS3A0clNJelBpUkNNNmlRRXBZMS0tWWtfZHg4VWNlbFFtclo1cmRuclVuRndqN2hYV24xZm1VbjhIbDZmNnNfOC1TY0hDYnFCU3VUZG45NnFwa3I1Y25wbWoxRlk2cFhhejZYWmJlTGUwaWpkWGxjV2VRa19qRVE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-04T13:31:00.000Z"
+    },
+    {
+      "title": "NZ to begin radiology modernisation",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YWjlMWV9vYlV6X1MteWZIRkdpelBKS3UwUjlkaVFFazZCVDBia0dZc25aRlJ4QmVCUGFzY1IyM0VJWlk2WmhIR082SzVWSjBzV1k5WWFlUnl3akdlUi1CSDhveHVXMzZfd3JKRFlITno2YzFJa0gzaGNTTTUyYk0?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-04T03:58:43.000Z"
+    },
+    {
+      "title": "Retinal AI screens dementia, predicts future risk",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlprVi1wOFRoNTM3SnN6cV80SFFNQVdDWGI2RFZ1ekZyYk1FLTZ6eGFwSFl0cEV2Mmw4UkkwX2NWZ2RfT3BUN3NNSF84TUp2TkFiOGIxRDdPVllYYlpXOV9GODF0YndNN290RXY3Q21BakszeXN2R0tfS3RZUUY0bGxWSUlEM2FIS1lGWlFsY0NIbFE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-04T01:50:43.000Z"
+    },
+    {
+      "title": "Malaysia boosts digital health funding to $250M",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVEFkT3Y2Mi1ydGoxX3hmb2ZRWnFub0E1VHFMVmJHbThrMEpyWFkzYUZmOUVjcG1jMGFjRF9WSG8xT25JRUwtZVdZRExwT1l3bHVuUmI4YWc3dVpXUnlfbWNDb3VVM20tX0xrY3dYUUJhVmxta0hGMGVCNlRGSUlucFpoakFwQkxHVld5MENUZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-04T01:37:25.000Z"
+    },
+    {
+      "title": "Korea, India outline healthcare AI strategies",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdE1iOHUycTQ4N3B5QUhZOUwzU0RXS19vTS1BLWxfakpTb253aG1ROUt1S1IzTjQxRExJdm90eGF0aDFQbUpXNU85ckhvZk8yclVsMk1zbUVaMHR6QjRwVTVWTW5TSDdQNDRIRmlxU1VfZnJkUUktOFBXRjZiaVBJWjNreUFXOTN2WW0ybTNpVmo?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-04T01:23:18.000Z"
+    },
+    {
+      "title": "Eve Bender",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zWG5jbHhDdWZQcEl3QVdaU2l3ZzRMRHpRR0Y2STNZT2JSaERMUFdxQnJCRGJxODBIT1Zaekk4UDMxNERwZ1NvNUxkOER5aXQ0S0RJel9lcUdYVWRfdEZ3bW1xSlVCUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-03T22:57:03.000Z"
+    },
+    {
+      "title": "Oura officially files for IPO",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81aWQ5T2ZEcWdkQktLZzRfZ0tpTldsakVGcUxjRkhLcG9hNXA5bGJNZ2ZNckt0YUF5bkdVbkRqSFJqYXBuM2k3SURxdDZEaGlnZmV1Z2pVUTZrRHgtME1XNUlEQjB4c3d5eThsdXlR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-03T21:37:15.000Z"
+    },
+    {
+      "title": "Cloud data breaches and stopping data exfiltration",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMm94Y0RWT0RpUVBoOHBpX1NnczBwcjhDem12cklWSWstRFZRN3A0SWl4SURaSDdtanNhcExRdktCMC1jOEVNc2I0T2xMcy14eDNQemNDOVRQdmxGcExjbEJRem1DUmFqS3ZqSG40UnJNSmpudmpMaUpRSEQxX1Z6MWhzS1RYYUdkcW4wN3lyV2ZwZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-03T20:32:13.000Z"
+    },
+    {
+      "title": "Vitality acquires digital health engagement company Icario",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWJNQlhoSl9tRkhVMUJMMXlrcm9DbHBxTVExZk5QeF9WclRfXzRRTGFBdEtrcFYtQkNUbGcwcy1mVEVGY1pxQXFVSlhNQ2JmZWpXV3BRTEpFbU9sZ21FVmFOSGFVbGtTRDJ4MUJqV0dNQzdXblNTdUIwalBWT0RVV3NVNTNEUzkzcFdzOFdZWWl0ek1RRk52YXVR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-03T18:29:25.000Z"
+    },
+    {
+      "title": "Butterfly Network, Merge Labs partner on ultrasound brain-computer interfaces",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXpXNkJyYkhncDE1N3lYTGg3Tk5kd2tocGVjaDdaR21jcDQ3TXpVZ3BZQVdiVEFmelEtM1A0dVNXVDB6MG5wSjEtUlZlN2FmeW8xT0taLUN3ODZ3YmJHWXdmakVGUDlMLTVFd21vamRTdVlSZkd0bk13RDVUTVFhZ2QwVHlqaFlscmJldkxBeURMSUtBNV9JOVRZMkViRVVNM2pxUFlXS0xyZUM2X2c?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-03T17:38:45.000Z"
+    },
+    {
+      "title": "Cureety acquires AI virtual oncology company Reimagine Care",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS05RSzh5aWhubDc5UFFsdUhfd1dVeThOckF1WFozVnZFbXd6MkxtRjJNOTRWQ2dheFZrVXlvREQzUTFFUXpXY29qalRndzM3TlJTbHdrWHBsZ25fX1BuMFB5VjN2ck55Zk1McUJVUzRubUNTZjlyUElqdnpPMWc4dEU5Zm1vanBOSFRhT0Jmc0JlZU1GeG1UUjJGVQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-03T17:16:54.000Z"
+    },
+    {
+      "title": "Clinical AI forces a rethink of reimbursement",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRlVNWm14bHQ2dWFuNVhrMGd5b2Nwd2tIOEtrNnJoRHNRdTduY2VFS3E4RjdQMzVFU0FCaDhDUEI2ckUtVzRXUzVWY05WMnhCbnlIZU96OENxZnRrTGFtUThlTHlpa0lsRzJUTl9DY2c2ZWRUdm00Q2k3NWN3ZUNTeUloazY?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-03T15:24:16.000Z"
+    },
+    {
+      "title": "Why digital health M&A is accelerating",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15U1RyVkJUOHJadGZpaG5qc2NmdXoyaWhPTy1kWlF6MjVuWURBSVctbktPWVQ1bUhyYVhPc1hzUUNUME5STVo0c0tsaG0wOUFvbmtidnNIa2FISElWUUs1akwyRlB3NVp5Z3VhbGVkZWFIaTQ4X3R5dmpTRQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-03T14:20:49.000Z"
+    },
+    {
+      "title": "ARPA-H awards millions to make precision medicine more accessible",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQzJIQmhEMldyMGFNdUZ0ckpWZGhQdzBmRnc0TDItU19aamQxRENIcnZOazRwcVI5S2VFanI5S05WSzgtNDRsY2pPZkRpNHZKZHV6b0tWWEIycG1CVTFGMHdwbzREYTlHbGJ0OVRuQ0JhTlV4blpkRDhaY1o2Vld6Wmt2aDZ3eHA1N1AtYTAzNnY5Z2dMSG16ZFBtYXZHYWNFeWc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-03T13:29:35.000Z"
+    },
+    {
+      "title": "The state of digital health: Part 2",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15eGZNbEtIblkwVnlQV2cwQ1M2SmlZcERJRldRc3hRYlJWeXNDX2FfemYxNDVBeENQWDVGS2xGMTgzX0pZdXgzRDU0Q2d5SUg3bEw3aFJ6aDhTTVBOUVFkM1Jrem1JQkZ4M2pTUUVoZERVSENQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-03T13:14:00.000Z"
+    },
+    {
+      "title": "An enterprise-wide approach to digital transformation may be the better way forward",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmZoSHZ2cEZBcThYbmdRUUVvVTQ4TTVfR0RwQ0JpLVZ0ODNBTXNUczRTU21FRWN1UDNpRXRKek14b0dJVXMzMlNMeFl4dkdxSHVsQU9kNE5GVTBRX2tjWldqSk52TW14OWh3enUtSk9EdGdWVEdWM1lOd0h5OUVRbFZzOWhYZDltdjRSMlZOWlZKb0tIWlg2WWtzcGVvWEpmUTl0bHRDMHVqb3VMMjQ1cg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-03T12:23:40.000Z"
+    },
+    {
+      "title": "How LLMs and Agentic AI are powercharging three key pillars of health",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdkVTaDFZOXVtdXJoUGcxZ2FoVXNFNEI0UmdZQlZIcVVrdTh4clRhVFROSC02S2E2SmVSSWd5YjJIWWQ1SG1POG4xQ2ZuYi00eV9rQzNMREdhZEtCYWtacGtvWkJCaVRURDZmcHhmQ2ROQjBPNjAxemRBMjl6QkNUWGkxakdMTmZrMURCOWVmZlVfQXVjdTJoRENnRUNrR2pmSzBRYkVDa1RGX1B2?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-02T17:06:36.000Z"
+    },
+    {
+      "title": "Build the AI audit trail now, before anyone asks for it",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNURleUMtN2NuSkxlTlVMcGJkMklSeG1pSS1naTBVbVV6OGZrR1l2bGlNemxwY3QyaW9LRks2d3phOXBnV25hOTEtcHNNck9KOF9vYXpKXzdlMmpEd0xmZjJhbmdLRmpPaEFDVk5JT2h3aGoxaGlfakhmUm9nUElKMG91NA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-02T16:59:44.000Z"
+    },
+    {
+      "title": "Elucid raises $55M for AI cardiovascular imaging software",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX2VnYzVXX2tlakQ1RWtJU1M4MXpwSmdyV09yWHh6Z0I3UDNkSXlTcmxOQXV6RWkxMGxhR0otUmR3U1ZTNWtvbWR0WVBiUWxPdGgtLVY1SjRoeVl1aWRLbkNVcEhJS3c4dHN0TXpJUlM0QzUwYmJ3ZGdyU0p3b3dnRFhHRnhsbGpxV000SXpEam1uUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-02T16:52:01.000Z"
+    },
+    {
+      "title": "Moving beyond narrow AI to 24/7 Agentic workflows",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb1VEQ2xhbVhqbHpXMlRyU2stczZqNUVDZTVCTloySEJHZXRWcm5MaGFKVjBEQ2Y4Tm9vYmdGcWRpZmVweXZlLWxZS3hEejNQaElNcWt6TWJKNjZaNEZvb2RsV01nRGpVWFh2bUJ5VGREdTNGZlNUQ0kwc3lpYTVOaUcwTjMzUzBwQ2I4QnZXdmtmNm8?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-02T13:37:00.000Z"
+    },
+    {
+      "title": "Ochsner Health names new VP of innovation to drive safe AI strategy",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSmVlc2Z2ZUwwRlBVb0JIYUFZc2U1c05YVjczYkg1YjVlb050and1VWtRRzE3QjhNT0JaLVdObjVDa1J4eXVHdnh6TG1Ra0Z0cERpT2hrMEhJeGRyWksyUW1PeHc0elVMc3hHdHFIY01odDlxSHJmS3hFT19XRm51b2pfajA4OFZXbTRiMlBFTWFmT1J4TDB3VXhwRi1kaFhR?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-02T12:49:18.000Z"
+    },
+    {
+      "title": "Kaihan Krippendorff",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JUFZWR3p4U1hMM2w4Z0RLUnhmdlhMYUtkVjdOTEdhejN0bUtTSy1VVXZIWkxpQ0tRY2l3bmZFaUdsdVh6X2tBc24xUjhjQ0FqWHhGS0pBbVpJWHIwYWs5TDl3NVdZTDRrazg0?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-02T12:49:00.000Z"
+    },
+    {
+      "title": "Exclusive: Konko AI scores $6M for AI patient coordination platform",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcTMtcFpJUjN0LWlSVS16R0o0RDYyTnc2aEZ0Rjk4WURaU0tfeHhLRC1WcUJidk9jWUpNRHUwT2VWOTRaSG1HRkhFU2w3a21Ib1M5Y0NBT0ZMeEJGblRkVm8wU3ZwX0pjNWg4WEZrMDJrTnk4VnVVZUpLYjBDN2x4cVJ0ZjJVWEF2dEEycEEydktrczEtMjREUThFNUc3Zw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-02T10:00:00.000Z"
+    },
+    {
+      "title": "Scan.com secures $220M for U.S. medical imaging expansion",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXdnZXhSNFVZOGoxYTE2N3V1SHhvekc2Njh0REVrVFdLT012SUczVmpFNkU2T2xIcHNrRDdpWnRWenE0SWc0NWxPbU5IanZwTmdSVW5fTll6N3B5MVROeE9rUU1pNFNZWV96a0RUMndSbE5odENUQW50N2FwRXZhUkgzbXU1SzREUXJTbHhB?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-01T17:58:43.000Z"
+    },
+    {
+      "title": "Medtronic invests $700M in Cornerstone Robotics",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWFZZ3k5bmJsMVhzWWJOOUN0OGJ5WEl6NDJhNnBZREhrYnVZVkR6dHg4UmtBTkk0MEIyVHVhdEJvZFk2aWIzUmFWNFpLQWMyRHVQN2pMU1R0Vk9yanRHTzkxYzh2UG5PdWk1MmpDSkJ2Yi1WTzBRQldLd2N1ODFWOHhXY2JrUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-01T17:28:13.000Z"
+    },
+    {
+      "title": "What belongs in the medical record in the AI era?",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yN3k2OHptRVIxNkRqSTg3bDRJaUM0NFdLQUkwT2kwdVFUOTI0d1l6cTRzMnRfeDdVWFhsbUx2MDloSDVKd1NlZ1cwZUNKZVNwMFVUZFByemVYel8zM003YlB0X1hyVmF1TjVoMDdOYzFKUHhoYllfTmFfSHY?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T16:10:34.000Z"
+    },
+    {
+      "title": "Where digital health stands in 2026",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hWGFVM3JVS3lYYkMwWl84QW9iYTlaUTBBcWtZc3NkY0lQUE8tekgtVnlvRlZiSHpqWlFnZWFqNlFFak9fQW81XzdMVXZpckdZUzJmeHBVM2tzTC1QdVdTdzc2dFF6NXBrZUZpdU9jTzhSRWtsY1ZBeQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-01T14:32:04.000Z"
+    },
+    {
+      "title": "LeanTaaS acquires Aidin to ease hospital discharges",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTE1Vcjh2NmI5RkY2WG1TOThhTG1DVmZSQk45ajBYdmVKMzZZekJ2ZFA3eXhpOFJrNkVJWnB2QlgzazNwbXhhNXh4UVlfR0l6bWhSWkprZ09MeWpTLU1mVmlmN3pKYVV1NU5fVUI5S3hZaU5hbFA1NEVQWHRGQ1BjMDZjdnBITmNQNTQxaw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-01T14:25:06.000Z"
+    },
+    {
+      "title": "The state of digital health: Part 1",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UOThtWnFQRXNjdmRTMVJsamFqRDJBdnBnOE9QUjRKZWlLWUUtelhoWUo1UmJPRktkZm91RkpMdW82dUFUamwwek93WVZEOEpwQlcwQVVOOS1PVkVzcEZxRFZBeHhDb1Vrb1BWTExVS2hRMXlk?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T13:23:00.000Z"
+    },
+    {
+      "title": "OpenAI, dozens of other firms, see 'limited window' to boost cyber defenses",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0ZoTlo4TjVwYXdpYk9FOFk4TDJHbEYzZU9ieVhHblJZcnNFejNFcEpVNmY5a3dTUUd5dVZhRTgxX080SmxhTmQ0eE5UclVjNm11QnhKOE9fWmMta0FZeWlwT3h5MkRTcmQtY2o5MVlGMFg3NlFINTJFMWdGR01TdDAwQllFcVVMVzdXaFFpemduMldsSlp1ZXN3ckNGLTNwYm5pU3pn?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T13:03:00.000Z"
+    },
+    {
+      "title": "Healthcare’s cybersecurity remediation challenge",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd0NNN2xmU3BzOThPVE8zUWpMZzVTTWs3LXpoYWdnOW5UTlBUZkw4Z2RKTFkyUDFmUmlTQVJLR2lQSHZXZ1hkVXpKSjJfTUx1TGJVeEtONlA2QVB3cWI0NWdtS1BjeG5NYV82elB1NWxnRm9vUFFlQ1NFY1ltOTNGNmVJMGd3aTlsMnVxQV9B?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T13:00:00.000Z"
+    },
+    {
+      "title": "Major Singaporean airport group offers healthcare lessons on agentic AI",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ0VFcEt4Y25oRUFGQ0xYQkZNcnppd2FiVkdWQi1CdlZpdDdOd1htUVBZV2h6MGh5V3hkT3VRcUFxQTBYc3dEZzFLWkhPSU9oRm5Bc3dqUk5MdENGWTl1MG5hMUpuR1pnZ2oydzVyS2F0Z3ViSE9DNWVkc0UtWDRVTS13a1o2Vnlsb2xJNWVCWWp1S0FXRTZYT0RxUV9xdzZYc0FzMkRQbGp0YWhDNWdmLQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T07:52:14.000Z"
+    },
+    {
+      "title": "HIMSS to update Digital Health Indicator for the AI era",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlVQblpteFB0MHA0N2szWDN2dVdtXzUxd21jTWxyYXlMbXBvbXJfTWw4TktnbXhqWFp6YmxLNkpZczJMNGpiQkI0Tmw5cHRXNjB2VnJQT1AzLWctYmpyZnFjQm5yQUZKcnpHY3pybDJ6X1l0WWdSelpvV1lHQ09rcDViRy1DY21QcHAzMUVueDU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T07:35:55.000Z"
+    },
+    {
+      "title": "Delivering better-informed, coordinated cancer care with AI",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWZPYzRFMnJKdnhaNjV0d0VHZEI2YzQwYVI4NlFkdEQwVzFOc0pqUl9YOVlIamtsNWFoVGlnMHlYWGZWWUVXMHNKWWtfbThDTUpFaFhlOXVMVzgwQ2hDODFrSWQtLUhVaFBScEJoc185YmJvcFNhaE5DamwtNmo3cmZRY1FIN3JwaG03UlVkc2FvQTRWa3pWbUNB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T06:00:00.000Z"
+    },
+    {
+      "title": "How KC Care built an IT-enabled workforce that could scale",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTzBzRTdicW5KWmhTUVhBOHJhcXpBb3pUS0hUajV0S1FKR1dISDh4UGxQR05zU3NYaFNwVFhDb01oZlJPTmZ1UEE5U1NmTlpnaTBJeWJVaFMzWVdxQzRVN2YxZVhPYnJWdjJEVDBTQ1pWWllTUFc0Vm1Gck1aUGxDc2pLZWlDUkVqZ1hVdWhfTE1mQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-31T17:12:40.000Z"
+    },
+    {
+      "title": "GE HealthCare secures CE mark for its Photonova Spectra technology",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHpsZU5ZcFdLaWFxSGVvVS1hSlMxZlNpVkx3Z2lxV0c0dW94WG1QMXprcXJmNE5DUW5TNXRGNWxWUVZUNHFVMjVQNkV6OWJvTkJWbGVFV3ZtSVhVWEhKLUJ0eHNYenZwT2gtczh1OVhaN1ZrMmk4MGtOUzdIQlFDNkNOMW5qeTVGdU9qSFo1RmxfcGFFX2psVHVSMjE3YVE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-31T14:56:00.000Z"
+    },
+    {
+      "title": "Exer AI CEO talks AI movement assessments",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2I5dHI4NkVCVTRIcExtNjJuWXVrT2V0OFlFaWY2Yi0yaDVUTWhGVVJrc0huR1NiejJLbktEd1hORnRnOURCYU5qTndRZUQtamxlY0toanAxbTd0RW1xRXFZb2ozUXU4WHlndnpOMHNzU25aYW1xSUpVaTdtVFVzSjR6UXE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-31T14:11:11.000Z"
+    },
+    {
+      "title": "McKesson investigating cybersecurity incident involving 'exfiltration of certain data'",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSl9Fc25xMWd2WUNnOXVNNGwwUE9jYnFiYlozN3dPZVNwaHpjaGpwRWNvQTdBLVZXeTRBbkVOQ2dXS2pxWWpoYkZ4MUZXTjh4ZXZtOWI0TEViZUhmVnpMOTZETUNseGI3UFZULUZXeVcwSkZPR0l1YWR4NTU5M3F1YTZkdEhGUTl6dmlZcmlqYlZaYWRERVlQZDRpVWQxdXFROTZ5WUo2NjZQUkc3R21aOTE0bldVOVlJckR3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-31T13:18:26.000Z"
+    },
+    {
+      "title": "How AI tech measures human movement",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SS3hsUTZhcWFfZXplZTNMM3JNWHc3azdsbUNXT3FUSzNMLUc5NlVRWm5tTksyVU5jX3BYcXRUVW4wLVJyclVYaTRXbGgyM2EzZ3hrYTgtQVN0VmFsRUZTcGcySFp4Y2cxT0hFd1FZdUVtbmpnNGRfQkJRd0VIbXc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-31T13:18:00.000Z"
+    },
+    {
+      "title": "Minimising disruptions while building a smart ICU in Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUENRSl9OS2lBc244RGNDUWNVR3lrUEl1T2NkX0tweGxvUm5OM2FUNVptSUo5cTZCeXRNQkdOeXVyUnlsT2t6R1VocE15c3hHMk5ndzNmTE5ZUFFFcms2Y1RDSFBYeXU1X3ZRelF3RFZaOG1NWlk1eWZVcUh1NlUwTzdvZzlGYUs3V2VRXzRTeG5rdDF4TkdIajhfUUVSRV9HeWc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-31T09:16:42.000Z"
+    },
+    {
+      "title": "Targeted strategies further rural data investments",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeS04a091MGFmSDJ2WUV4RTlUYnhuRjhONUtIblloR1NwbTlvTnZDYVZVeHZuTHZnVnc3VkRhTld4T2piNzd2cE1GQ1dXX0RUWXYwZ1NkdV9adWphV2U1b2UxOWdKNVNKNjRZeklVYXpidE4wNkpvWFFYNW1iUkpYbkNNSEVOeUlZNEdBRFEtUHNBSEE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-28T13:26:00.000Z"
+    },
+    {
+      "title": "Komodo Health, NCQA partner to accelerate healthcare quality measurement",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTW9YazE3TXA0VjlzdGxnWGFpdEtFZHg4YU02VWs0cjdJNHpkVnl6cFdTdVU0dW1JSWJwQ1JwcUZfWGdxcml4RnhGQ0VPeG9heUpNODN0dGZqOTIzOHoybnVJUWJzN3o0YWp1aUc5bXQyeV9BNDhabVg4UUVEVTh0QkFhRzVfdkN6OUZrcDhFYnROQWtteE9RVHl5U3dqenhUb0ZidjlfQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-28T12:00:00.000Z"
+    },
+    {
+      "title": "Private Indian hospital takes platform-first approach to ambient AI",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUdLa1RnY1gzaDBmY0xpdWpWOVNRQzNjYTQxLXd2V3FybGF1SFVRYm1yLXdUcUZfeTVPQklrZTNjM1RCSVhnZHBhOTAyaFMxbmI3dnNEYzNkdkNZZUFUeU1INXg3a1RZbllrN1c1NENIaU9JWFlTSUZOMEtTRmpySHZuQlN3UWY1UTI4SHZObjRVd0VERGEzYXF0ZERwWDE5SjhrM3h5LTI5ZTQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-28T08:13:37.000Z"
+    },
+    {
+      "title": "Sustainability is the RHTP's '$50 billion question'",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVlhS1ZPd0VwT2VtWk5BZ1lfUEVtTTZraHpXd0g0cm45Z2VLZkk0WE8tNWN0Nk5FeDJRRnF3MENpcTFFSEhYOGVpNVBacnpfWkZ6QjgxZEstUjQwUkQ1OUt1Z0FGeHBfaWJYclo1cHJHYXdiY2hTSWE0TGdaRHFieWV0Yw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-28T07:00:00.000Z"
+    },
+    {
+      "title": "Feds seize PRC-developed bot-like platforms hacking critical U.S. infrastructure",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenRWM0tzWnF5WXNRZWJObFdFaVBmRHFnMFFpbXJINV9TZDNIZXZCdmt1T2dqOXZuenRtMGVvSnpCNm1iWlVLZUlVVE4wSHJVLU5XY21sSkN3cHdOWVh1MzFiZG9mbTBVWGtlWjFkN3J1MThCRGhQU0U5MlktQk5McjhHN0puMUhFUWtmZThMbDJNbHQ5LUJzZXJ1bHhHcllaNE93NHBPZ0hNM0lnT3N6Uw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-27T20:18:19.000Z"
+    },
+    {
+      "title": "How health systems can prove AI value",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1pNaE1jNlFOYnAybm80cVZEaDhyR0kxb0FVWDl3VHFBdGVCR1FzbC1mUlB3UTRiaVlQbFlSZVdQejRDN2cyMFdlbW8yenFadjB2cHBDUXdWd0hLNDFpSU9tXzFRWkpGcVp4Zm1VcUs1NjFQemt5SFBDT0gxNmNxU2M4S0E1S0V6?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-27T13:25:00.000Z"
+    },
+    {
+      "title": "DEA seeks to finalize framework for e-prescribing of controlled substances",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ29BREtoVG5ETjJUSEYxTHNUWXFwVW1iZV8xU0psTWJONHc0RHNhYnZtN1p2NFdIQkdXblpHaWVqR1dadzRxb20wWnMtZ2xoZkVMb3p6Nm1NZ05yUy0tUFFCa0FKU21rUFZvRm5kaGwwX2FDdjYyRFU4ZS1YWHF0bWNiSml4X05tRHNFSWtXYjJKUGxmV2c4a0dEVm5Bb2lqTjVJOA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-27T07:00:00.000Z"
+    },
+    {
+      "title": "Nurses nationwide protest Palantir technology in hospitals",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0c2LWtDR25qdGJMbl9hUXktY1lpbGZxV1FBNzFFRHZzOUhxUDBnNlNLdkpNZ3ZwVW9xWmRYeHB1cmx4ek9CSFZMcXJRbFMwZUoyY3RyVU1EeXh6RGI5WWNVaXNwTGJKRFhIZmNXVVlZUFh6eTRoMm9oTlI2enBLMVBudllNSTRQakJzRWtoWWdJMUsxdFdGbw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-27T07:00:00.000Z"
+    },
+    {
+      "title": "APAC helps shape AI outcomes framework",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdHBGN2NvMnFpeTVZZDMtaGpVYmJFaGg1dmNfemRUVDd0TS1zaXlNaHNGazhLTzRpTUhudUk1ajdQSXF5MFo2WnFfM0xQZTM2LVBVcEIyUEVMX3FWS0liNG9udGxEbERzY3F4UXVzT3FvMUxXcWdTb29oTU1yOHhpSklKQjNna2M?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-27T07:00:00.000Z"
+    },
+    {
+      "title": "Sword Health to acquire Headspace in an all-cash deal",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaTRyVnpyZllGazluU19lRHpYc084eUc0RFdDenlkdklSTTNFNjVsQzVndU5EamVPT1NwX0U3clZ4NnRuZlBocFhLV1Y4UU4xd1RPZkFtblZ2cExab0FKbHBZdFdmNzR0RUIxVUhtdlh2TWNZcTZubXAwdk1zZ2x3bzRfLVg4bWM?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-27T07:00:00.000Z"
+    },
+    {
+      "title": "Phishing attack on North Dakota's disability division exposes PHI",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWTM3YjhiVHRITmxlVThhYk9Fa251Ny1VRmg5cjZlazNGY2ljTDAxWGV3QnVVSVRyYkJSOXJoRko1Q05Ob0cyWTJvTkRyNzRmSUlscnRjbzJiWGx0czA0cFpjQzZtSXAyZUU5YjlSZTJHY2hHTjZQbWdlVWhmUjhRTXlqMEsyNlJ1UVBTTzZSQnBrek9GREVzUE50YlVvTkt0?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-26T18:52:01.000Z"
+    },
+    {
+      "title": "Onos Health raises $17M for AI behavioral health platform",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1ZicGI3LVZBNW9BUUVrOWtCVkx4bWF6WTlpbldFejgzSkxWRUtqTmRWMDZMZEZ0VjR3dlhSTXM0WnBOeEQ4YXlDUkc2WVNqOHJ0REJjMVBDWDNtT2g0ZnFsOW9uTERtYTdFcUNVM0lQY1VRS1dBM21SY2JmS2xneHQ3S01fTUVNYjNFZzNOblFvUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-26T15:07:08.000Z"
+    },
+    {
+      "title": "Tempus AI receives FDA clearance for pulmonary hypertension tool",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeTZtb0RWSkVlTmdHYVFZalpHM1UtNVlVYVVGeFpsSVZTQUpwaWRFT0ZHZGI4NlFaekVTM08zM2I4bHJFVGZIVGQ3WVRRcDUyMU94VjZ6akxtTURKak5yUl9FaHUxN01lQS1ydzlDRmpvMTgtMnEtTkN6WGhweFhuWC1mbXlGOThzOHRiS1JMUEZpSlJ6clotZlZGRVE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-25T19:50:15.000Z"
+    },
+    {
+      "title": "Q&A: U.S. military researchers use Israeli AI avatar to study PTSD in U.S. servicemembers",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlQyWDlkQzUxSEtiUWJydmRKSGVJSHgwbU5RTjg1V1M3WEpjRWJKMEpxYUpnVHBVOC1zdElyd1hvQ1pfa2NtR1JVTW1oRVZwXzdNaHo2QjhTZWtFcWYwakpJYkxpdHhiWnZCemxtc0F1WElQVjJnV1g3a1h5b0NDTjJMSjNfUklWZktUN2U3YkhreUVtTklMQ2VvNEdhR1ZYZWRjcGxjZ09SbkY5ZlZMU2xzRQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-25T12:00:00.000Z"
+    },
+    {
+      "title": "Rural providers must close connectivity gaps",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHVxTTIxUVFPbTdSRFM5Q2E1NWtBWV9SbXVQZ2JNSFJkeXBLdmJkYzlIbXh2cnM4X2d5ekdYTmdDX1h6ejR4SHlTbndodjMzT0treExvR1VMZXJwNE5qQ295azRGQXowdmZ2YlI4UmlQQWUxTlBDbVRWTFI3ZG91V0QwZlE4RThs?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-25T07:00:00.000Z"
+    },
+    {
+      "title": "Modern clinical communication requires more than the EHR",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeUtlV3JTUm5XM2s2YWlGakFMMkhjZG1PQ1piQXJFSS0yd1BTeEZGdXBPSmtFMDBZZUQ2MUlKVG9ack0yRUxQMUluV2xtUWJ2cE9MZk1fd1dwMXpHZ29RTWswRlV3VUJzTmJJemVyZnJzUmZFU1ZmUjQ1dlN5aUNaNWxiUm5WS0xKZ2YxMjI5RjlZSHM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-24T20:02:02.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd2EtaWlrZUpDc0lrNzYwSWZ5UG5hd2I5blgtd0JxanFydkd4eVlmNmpwX0NfSUdxTHJ4el94SXNNZjlBeW5icGktTUtKNng4YWx5X2l0bUVIbkh5RWRNQXBDNVJOVXBFRFVKYkIzZjZGR0tlV2V0dXNid1hZMVJqcQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-24T16:49:50.000Z"
+    },
+    {
+      "title": "A new campaign to build HIV awareness",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83Y2NFNVJEVnJYTzBRSHpwdVNObHpRVlpvTFA4MnoyMHdvMFBwb2RkTUhDYUFNc0RpMldmbHd6aEx5Q2wtanhvSUUzTnpWOThZQnNjR21IaWo2NHFELXZGQnVZdG9QZmlaREsxRndOOG9ScmxEYVdsdjNNQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-24T13:27:00.000Z"
+    },
+    {
+      "title": "Patient data was breached in AnMed attack",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNll4WHVsS2NpUVFKMEhmVy1tWnNWWFI2cHlwSGdNckFQaml2LXFFQkN1ZEdzUVV2dWxRWkVqSk1EWWo2eWJvQVF6LWFlV2hjWWNGa3ZSV0VIZGxVRTE3d2F1dWFON0oyMExDRzZlT3JWMTZLZTR2bDNDbkEyRmpFcy1n?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-24T07:00:00.000Z"
+    },
+    {
+      "title": "HIMSS announces initiative to measure impact of AI in healthcare",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQjZDbjZqVm5SQkpJSWZiT1BIZEg1amwyS1g4R2R1ajFIc2lDS2N3Rml4WHAtaXR1QWdVMTdDa0pBUmJJZ2RZdjg2endWajF3dTRKZmk2dVg3M2JLVndRZzJZQllfdnJLVFI4dGFQUTZ4UjFvRlRPdzVQdzBfR0RKaVdTZFJDS2ttcjBrOF9hSTBvcFFFWVhWSDl2X2NHM2M?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-24T07:00:00.000Z"
+    },
+    {
+      "title": "Oura faces class-action lawsuit over sleep tracking accuracy",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONW5OQ1JsMnM3UEdwd25iTzY4QUxVWlJaRlRLVm5jem1nazlqa3kwcXozM2tfVXVJdGMyQ0FFbm04V0ZkYnZxMFZLLTVyMW15QWhvSnlHcE9Jcnk5aGZybHVSVk1SLXdmU2VVZEZhLUJsb1B5REFHeFFmTjZlVi1Yc1VyRjFCbDNNWUlwYnBTUWlWV0V3S1pkS2JfM0k?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-24T07:00:00.000Z"
+    },
+    {
+      "title": "ViiV Healthcare on barriers to HIV treatment",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRHpFbERIcS1keHNRQ2dnYTRzaEE5TlNRcTVfZGt1MVZtRGFDRC1FYzRyTmkzU01XVmo2NG1JNVlGVFlhY01NbjRGWDRWV2dOM2s4ZXdvWWppUjZ3Y2kzaXhHUWF3N1VfSDNXM3hvZWhucGZJZUkwWklON3ZxSktSVQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-24T07:00:00.000Z"
+    }
+  ]
+}
