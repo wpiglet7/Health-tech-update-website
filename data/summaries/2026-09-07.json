@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-06T22:48:21.889Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 8,
+  "sources": {
+    "Healthcare IT News": 1,
+    "MobiHealthNews": 7
+  },
+  "summary": "I appreciate your request, but I'm unable to write an accurate digest based on the information provided. The article titles and sources you've listed appear to be incomplete or placeholder text rather than actual headlines with substantive content. To write a meaningful summary for a busy executive, I would need the actual headline text that conveys what each story is about.\n\nI can see that one story involves Oura filing for an IPO, which is significant news in the consumer health tech space, but the other entries lack the specific details needed to identify their news value or themes. If you could provide the complete headlines with their key points, I'd be happy to create a concise, executive-friendly digest that groups related developments and highlights the most important takeaways from today's health-tech coverage.",
+  "items": [
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4ycVM1aXhxSXJJRlZPemgzUEZtRmVyWkdsTWNvbk02MlRndl9FejlPMUFweTV5QzhlQllMSS1XcFZXQWdVWWY3S3FjX3otM2lGTFFnbzcyeWtSSlIxc1FwVTJB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-05T00:35:09.000Z"
+    },
+    {
+      "title": "Oura files for IPO",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yR2tDSDdUQ3c2V3FaZDIwal9tSmRxRG1hdHpjcXRnbEhiLVF2R3NmMTR2NTRldC0xbGk1T1lvMklLMGZ6MTNLbWtyX2NQN1RCekQyTFNmUWpNZEY2Vm5N?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-03T21:37:15.000Z"
+    },
+    {
+      "title": "Home",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrRDE2WFIxby1uNWVDejBtNG1HZGJFRFI3VUlycU9CUUxZYjFGMVY4dm9BRk1WTGZrd0FCWlZmVk9oZ3FSMk1WM0RVSQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2025-07-09T14:18:03.000Z"
+    },
+    {
+      "title": "Jessica Hagen",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RSlREbGdJZUM3ZGlrelZmVExTRkFaRG9idnYwS0w5RDVISnJsaG9IcG1ZWjNLYWFUa1FFTFQ3UTJjVWlWajNPdHZvQnNfVkpvRExVWXZLeEdSemNJR3dMcmowOFdfYmJVZ3c?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2022-12-15T16:50:19.000Z"
+    },
+    {
+      "title": "Eric Venn-Watson",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6Rk1sRktCNVYxbF9iYjQ0Z2NvSXlMYmlXSjJTNnk3d2VnTlJNUDJEY1RIX09JY3h2NHlobDhzQ09ORzlHU3dVNGt2ZXFHZGRMS0VZVExsalppcjc4d0NQbGF1S2Q?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2019-06-27T16:36:52.000Z"
+    },
+    {
+      "title": "DigiSight Technologies",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81YWkyLUx2a2s3WDJjRno2dHlhRFFCUXNjWVVOVjNjVWpKRkxLZWw5MXQ1M3BhV3N0NVdoU2MzaUI3OXpBcGtpYXNnSkpKOFVHUmlUTjlIUUJIOGhCcGF3dGxLNkdBbEJm?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2016-10-19T07:17:50.000Z"
+    },
+    {
+      "title": "Symptom Navigator",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WZ3RWUHNqMUpqNUJ5ZmQ0Y1RmVWdzUWZZLS0xX3ozcHlFemZhM0N6R2I3WkRjMlZPa19kdWpLdGZKdWdTOGtud1ZXcUJCVkdWSGpTX1Ftdlp1SE5kMTZZV013?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2016-10-17T14:06:35.000Z"
+    },
+    {
+      "title": "Home | MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1fQ0R1R2xjRHJtRFd1NnpiblJseHBfWFQ3TUtuQ2x2VkZmRkp2Y0xXWHBEcUI3NEQ1NklNSUdwTHU1V1pXN1E?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2016-01-23T09:05:10.000Z"
+    }
+  ]
+}
