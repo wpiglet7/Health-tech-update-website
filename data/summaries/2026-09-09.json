@@ -1,0 +1,232 @@
+{
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-08T23:16:10.162Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 36,
+  "sources": {
+    "MedCity News": 5,
+    "STAT News": 18,
+    "Healthcare IT News": 6,
+    "MobiHealthNews": 7
+  },
+  "summary": "The health-tech sector is seeing significant capital activity and regulatory shifts today. Forus, a digital health platform, secured $150 million in Series C funding at a $3 billion valuation from a consortium led by Bain Capital Ventures, while GenHealth.ai raised $16.5 million to expand its healthcare AI agents, reflecting continued investor confidence in AI-driven healthcare solutions. On the regulatory front, the FDA appointed permanent heads to its drug and vaccine centers to bring stability after recent leadership departures, though the agency also issued a warning to an active pharmaceutical ingredients supplier citing facility maintenance issues. The biotech pipeline shows mixed results, with AstraZeneca posting strong late-stage COPD trial data and Roivant hitting mid-stage lung disease study goals, but Novartis faced its second major trial failure in days on a neuromuscular drug, adding pressure to the company. Healthcare providers and tech companies are increasingly grappling with AI integration challenges, as coverage expands on how to measure AI's value for clinical staff beyond administrative tasks like charting, while also establishing proper safeguards for agentic AI systems in patient care settings. Finally, access challenges persist for newly approved treatments—a new pancreatic cancer drug faced administrative delays despite FDA approval—and tobacco regulation issues emerged as Reynolds began selling unauthorized fruity vape products, potentially encouraging other manufacturers to test FDA boundaries.",
+  "items": [
+    {
+      "title": "Forus Secures $150M Series C, Reaches $3B Valuation",
+      "link": "https://medcitynews.com/2026/09/forus-secures-150m-series-c-reaches-3b-valuation/",
+      "source": "MedCity News",
+      "date": "2026-09-08T22:08:01.000Z"
+    },
+    {
+      "title": "STAT+: FDA names acting heads of drug and vaccine centers to permanent roles",
+      "link": "https://www.statnews.com/2026/09/08/fda-names-leaders-cder-cber-michael-davis-karim-mikhail/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T21:15:40.000Z"
+    },
+    {
+      "title": "This Startup Wants to Make Glaucoma Surgery Recovery Easier",
+      "link": "https://medcitynews.com/2026/09/startup-glaucoma-surgery-recovery-startup/",
+      "source": "MedCity News",
+      "date": "2026-09-08T21:15:27.000Z"
+    },
+    {
+      "title": "Roundup: Using AI to better integrate virtual modalities into care delivery",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeUViV3ZINnJfWkItNmlCN2tBT1JzdV9paUFUenRvdjAwQXJ4c3ZzWTd2UUhlNGlFTzI4TXVKZWdIdS1aRlNCQms4bkZCZG4za2F1NkZHRmlqaHVRN1drQzF6UURMMWZ5UFFQY0thWlNFQTZKNUNrSGRZOHJ4QlJBS0JDSnU5eEdWcE5oY2dxUHNTWU51Q2xpN0VkQm5vUDdOajhXVGRPbw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-08T19:00:39.000Z"
+    },
+    {
+      "title": "Forus scores $150M at a $3B valuation",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DZmEzLXVsRXRVa2RoVVh0SEJoN3BfYkZ2U1EzVno3dEJ0dXpLTmhPLWNuTDRRTzZTY3c3VVppT2ZxZy1GSHlvM1hPTFEtYnowQ0l5LTc1ZjNUaEhlVEpRX2VJUnFiWDFTeVJCMjJXT3ZNVDIw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-08T18:16:21.000Z"
+    },
+    {
+      "title": "STAT+: FDA warns an API supplier about residue on walls, a corroded product line, and open-toed sandals",
+      "link": "https://www.statnews.com/pharmalot/2026/09/08/fda-warns-api-supplier-residue-corroded-production-line-sandals/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T17:38:59.000Z"
+    },
+    {
+      "title": "GenHealth.ai raises $16.5M to expand healthcare AI agents",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRVMyclNVbjhRUm82T2NsU0htY0lrWHFIY2FZSlE0SGh1ZHl0QklFbXB4T2FFWmlZWXFfMXpFdWdULWhmdkh4dTRiRVktdk03T1puR3NoNXB4eE95U2xjSGd6SmNnVy1YQldqWElxYnNWZExfb1lVejV5Y1g1dW1TWHVIbDlMZTFhYlFRX3FlUVk?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-08T17:03:10.000Z"
+    },
+    {
+      "title": "Measuring AI's value for nurses, beyond faster charting",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2VYbnFrdTZhS0tCUWRqTDFXZlhLNGJlYlhHUC0zNzdxaDFDMVBZX1EzSHYxMVpIcUNhMDA3N0lDR3dzdjlBX1VHQkNhS0xiMFZpWDhvbHdqNmEwYTFNRzFFWmtWOGF3WjRzdG8xQ2lmTWdaUTlSck8xaDAybFJRR1pmSHdkSEpKYWNFUjc2SzU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-08T16:26:58.000Z"
+    },
+    {
+      "title": "Safeguarding healthcare as agentic AI evolves",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWU5rUVhRUTdidHBYRUVkRFFRS1hDcW9pcDRISXJQZWluUENFamtEaTVnbWZDNFo3eEU3djRLWDlzTV9LdUFNYU9BbFFyb05tM0NWaVBTSERHemM3dGJxYjhKTHpRVUsxN3RlWldhNmtZWm9Qc0tJcXRyZmtIbHJEMGFNalhBQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-08T15:02:11.000Z"
+    },
+    {
+      "title": "STAT+: UnitedHealth’s Democrat investment, and surprise billing bloat debate",
+      "link": "https://www.statnews.com/2026/09/08/unitedhealth-campaign-donations-katherine-clark-no-surprises-act-debate/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T14:51:43.000Z"
+    },
+    {
+      "title": "OpenEvidence launches 4 medical AI models for clinicians",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzUzQmF1OHpGMDBiRUpEbmZwdDRBNnc2ODdjTDgxbUhwMU9UTEJOb0h2YTZ6V3JDXzZIcDI2bVNINEw5ai1nMHNpTVNCUl9TbWlDbHVHZXpyY1d4WW4xekhoQ2VVQVVSc0kyNHd4UnlzN2NnQi12SC1DeTdlY0g3cW5EWkRobGJKZzE1TkRYdFBHZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-08T14:51:06.000Z"
+    },
+    {
+      "title": "STAT+: Health care features prominently in Democrats’ agenda",
+      "link": "https://www.statnews.com/2026/09/08/democrats-agenda-midterms-health-care-medicaid-cuts-aca-subsidies/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T14:22:31.000Z"
+    },
+    {
+      "title": "STAT+: Oura files to goes public, reported $1.2B in earnings",
+      "link": "https://www.statnews.com/2026/09/08/health-tech-newsletter-oura-goes-public-reports-profitability/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T14:18:41.000Z"
+    },
+    {
+      "title": "STAT+: FDA approves AstraZeneca breast cancer drug",
+      "link": "https://www.statnews.com/2026/09/08/biotech-news-fda-approves-astrazeneca-breast-cancer-drug/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T14:09:31.000Z"
+    },
+    {
+      "title": "AI agents need to be kept in check in healthcare settings",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0dqMk41c05jeXZRVjNjcl94QWpJeW5BZTQxeWxLaGJ0bHZPQzF4RUFQU3FBN1lBblJhbkp3VDNDVWRSeUxxYkdna2JtNW04WWU4dURFUWFfbm9MaS12NVE5Ukh5SV9OdXNkTnR1WVpsdk1zQ01sMVV6ajJ1N283VldRWTh5ZmJ4dWFPSTFiUDM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-08T13:29:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about another Novartis trial failure, a Novo Nordisk setback, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/09/08/novartis-reports-second-trial-failure-novo-nordisk-setback/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T13:26:51.000Z"
+    },
+    {
+      "title": "Is Radiology at a Structural Breaking Point? What Will Move It to a Better Future?",
+      "link": "https://medcitynews.com/2026/09/is-radiology-at-a-structural-breaking-point-what-will-move-it-to-a-better-future/",
+      "source": "MedCity News",
+      "date": "2026-09-08T13:21:00.000Z"
+    },
+    {
+      "title": "Survey Reveals AI Adoption is Accelerating in Healthcare, But Readiness is Not",
+      "link": "https://medcitynews.com/2026/09/survey-reveals-ai-adoption-is-accelerating-in-healthcare-but-readiness-is-not/",
+      "source": "MedCity News",
+      "date": "2026-09-08T11:50:00.000Z"
+    },
+    {
+      "title": "STAT+: AstraZeneca’s experimental COPD treatment posts strong results in late-stage studies",
+      "link": "https://www.statnews.com/2026/09/08/astrazeneca-tozorakimab-copd-exacerbations-titania-oberon/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T11:45:00.000Z"
+    },
+    {
+      "title": "An administrative gap delays access to new pancreatic cancer treatment",
+      "link": "https://www.statnews.com/2026/09/08/health-news-administrative-gap-delays-access-to-revmed-pancreatic-cancer-drug/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T11:32:23.000Z"
+    },
+    {
+      "title": "STAT+: Inhibrx claims first win for long-sought immunotherapy target",
+      "link": "https://www.statnews.com/2026/09/08/inhibrx-inbrx-106-ox40-immunotherapy-head-and-neck-cancer-hpv-positive/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T11:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Roivant lung disease drug hits mid-stage study goals",
+      "link": "https://www.statnews.com/2026/09/08/roivant-mosliciguat-pulmonary-hypertension-interstitial-lung-disease-results/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T10:00:00.000Z"
+    },
+    {
+      "title": "Reynolds is selling fruity new vapes unauthorized by FDA",
+      "link": "https://www.statnews.com/2026/09/08/fda-guidance-reynolds-selling-fruity-new-vapes-unauthorized/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T08:30:00.000Z"
+    },
+    {
+      "title": "A breakthrough pancreatic cancer drug won approval. They still struggle to access it",
+      "link": "https://www.statnews.com/2026/09/08/pancreatic-cancer-patients-caught-beween-fda-drug-approval-insurance-coverage/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: UnitedHealth executives shower high-ranking Democrat with donations ahead of midterms",
+      "link": "https://www.statnews.com/2026/09/08/uhg-political-donations-katherine-clark-democratic-whip-medicare-for-all/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: It’s time to take the gloves off during vaccination",
+      "link": "https://www.statnews.com/2026/09/08/flu-vaccination-season-gloves-waste-climate-changes/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: I’m a fat medical student. I refuse to let myself be shamed for it",
+      "link": "https://www.statnews.com/2026/09/08/fat-medical-student-inclusivity-advocacy-health-at-any-size-physician/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T08:30:00.000Z"
+    },
+    {
+      "title": "Hospitals pursue deals to ensure survival as Trump’s Medicaid cuts loom",
+      "link": "https://www.statnews.com/2026/09/08/rural-hospital-mergers-medicaid-cuts-part-3-unraveled-series/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Neuromuscular drug from Novartis fails in key study, adding to pressure on company",
+      "link": "https://www.statnews.com/2026/09/08/novartis-del-desiran-myotonic-dystrophy-harbor-trial-failure-neuromuscular/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-08T07:28:55.000Z"
+    },
+    {
+      "title": "US Representative Scrutinizes Practices of IDR Entities",
+      "link": "https://medcitynews.com/2026/09/us-representative-scrutinizes-practices-of-idr-entities/",
+      "source": "MedCity News",
+      "date": "2026-09-08T00:51:50.000Z"
+    },
+    {
+      "title": "The care plan is not the care",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzY09MQzA4cF8zbDF3YW1oWGhxU1hDakZSNXlLNlMxTURGTUxLZXZmYVRrWDNnMkVITUs0aVpWZ1Npd1poRFkzdG1EUFRPMWFFNllUdjFoV3pRcVI2MmlhLW5SV0cyOWM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-02T12:49:16.000Z"
+    },
+    {
+      "title": "GE HealthCare secures CE mark for its Photonova Spectra technology",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHpsZU5ZcFdLaWFxSGVvVS1hSlMxZlNpVkx3Z2lxV0c0dW94WG1QMXprcXJmNE5DUW5TNXRGNWxWUVZUNHFVMjVQNkV6OWJvTkJWbGVFV3ZtSVhVWEhKLUJ0eHNYenZwT2gtczh1OVhaN1ZrMmk4MGtOUzdIQlFDNkNOMW5qeTVGdU9qSFo1RmxfcGFFX2psVHVSMjE3YVE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-31T14:56:00.000Z"
+    },
+    {
+      "title": "AI should make healthcare more humane, Taiwanese health leader says",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWxwdDN0WmxBQnE1bHJQTWR1M1BsLXdzaHJsZ3VMNWxMUnZUT194cjRuZjktZlFRRVk1OGJUVHlBbGtkR2FvdkVfM2pxS3BLcWlvUnpnUkNCNGxoT0ZnMk9NOEpmRnAtY2lvdGJ2SWRMYkdEbGxuejl4QkhZZlN3WF95bmRRNHZyMk01MUN1eFBZNjlXSFgxV0EySkpyc1FUNmRQYl9ZazhpeUhVaUE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-27T07:18:38.000Z"
+    },
+    {
+      "title": "Sword Health to acquire Headspace in an all-cash deal",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaTRyVnpyZllGazluU19lRHpYc084eUc0RFdDenlkdklSTTNFNjVsQzVndU5EamVPT1NwX0U3clZ4NnRuZlBocFhLV1Y4UU4xd1RPZkFtblZ2cExab0FKbHBZdFdmNzR0RUIxVUhtdlh2TWNZcTZubXAwdk1zZ2x3bzRfLVg4bWM?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-27T07:00:00.000Z"
+    },
+    {
+      "title": "Phishing attack on North Dakota's disability division exposes PHI",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWTM3YjhiVHRITmxlVThhYk9Fa251Ny1VRmg5cjZlazNGY2ljTDAxWGV3QnVVSVRyYkJSOXJoRko1Q05Ob0cyWTJvTkRyNzRmSUlscnRjbzJiWGx0czA0cFpjQzZtSXAyZUU5YjlSZTJHY2hHTjZQbWdlVWhmUjhRTXlqMEsyNlJ1UVBTTzZSQnBrek9GREVzUE50YlVvTkt0?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-26T18:52:01.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMXBsUEVKTTM4WVlxbF9kT1BubDBDRFd2X0lyNlREQ3ktaWVFX0VLTU5pdjl0bUZESElNam9SdGZSSG9iaW9uNkJyVXB0aXBHRjJwelRYSlZla3k4OU9BOVZWdjZrWnR3UEF6a2R0S19LV0haWnV0ZG5TakFnUUpLSGYzdWFHc1VyZS1UX0xOaWwwRUxPYWJjZFpsbGppelc0TGkwcWpSZ1oyeVlQY1V3dVVMczA3dW00VHV5V1BRZTJpbko3MGRjQnQ5WGxRM1BkY3RQRWh4bjdneS1qUkE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2025-07-10T23:27:46.000Z"
+    }
+  ]
+}
