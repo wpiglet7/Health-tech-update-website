@@ -1,0 +1,310 @@
+{
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-09T23:05:07.864Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 49,
+  "sources": {
+    "STAT News": 11,
+    "MedCity News": 28,
+    "MobiHealthNews": 5,
+    "Healthcare IT News": 5
+  },
+  "summary": "Artificial intelligence dominated health-tech conversations today, with significant policy and investment developments underway. The U.K. unveiled regulatory recommendations for AI in medicine while ARPA-H committed $62.7 million to develop FDA-authorized AI tools for heart failure treatment, and several startups raised substantial funding including Implicity's $40 million for AI cardiac monitoring and Konko AI's $6 million for patient coordination. However, the technology faces sobering real-world limitations: virtual chronic kidney disease solutions failed to slow disease progression or reduce costs, and AI showed disappointing results in emergency room settings despite industry hype about transformative potential. Healthcare workers remain central to the conversation, with nursing leaders urged to govern AI implementations while an Australian health service reported an AI scribe saved doctors nearly an hour daily, and Lifepoint Health leveraged AI to restore nursing time. The sector also grappled with systemic challenges beyond AI, including security vulnerabilities in consumer devices and APIs, radiology's structural issues, and the reality that outdated 1990s technology infrastructure limits AI's effectiveness in modern healthcare systems.",
+  "items": [
+    {
+      "title": "STAT+: U.K. unveils recommendations for regulating AI in medicine",
+      "link": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-09T23:01:00.000Z"
+    },
+    {
+      "title": "Virtual CKD Solutions Don’t Slow Disease Progression or Reduce Costs, Report Finds",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXlxMHdCTXVOSDNaMjRMUTQxRTlkS1pLbXFLMmtzNmJlaHE3LTYzVHNqMHdiUU9GQVJpcG5ITlhQQVlSWU1GeUZxTUdwSi11d1ZULUYzYWtwblpIQ2VLU1lVRjVWM3N3c1dJN21kTTVLTDJKOUFSTWlUSmdXRTZyWlVhdnlmY0oycTlJaG0zN1dPSmFKR1RRNkZqVUQ0N3lXRjBmWWU1Rm1jbTJpamRPQi1pYw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-09T21:49:44.000Z"
+    },
+    {
+      "title": "Coroner releases details of infants who died amid growing Pennsylvania measles outbreak",
+      "link": "https://www.statnews.com/2026/09/09/coroner-details-infant-deaths-pennsylvania-measles-outbreak/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-09T21:44:07.000Z"
+    },
+    {
+      "title": "Apple unveils Watch Series 12, iPhone 18, Health app",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMUdZWkhqa0xyYjJRUmt2dWQ5aFNSTG82NUwtcEVDVTJQYmlid3RKZDJBU2hSS2Nxa2RNdmVrWEg3RFZtQVV0dXluODJOU1hSYm5oaGF6NWFJUGUwNXNOdUR4YnVjTzJkZm5KNVpWdVdsUmRObXBqYnZVbEZwclUtZ1FxMVFDOTlLaTlaTzdsWQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-09T21:12:45.000Z"
+    },
+    {
+      "title": "How Lifepoint Health Is Using AI to Give Nurses Their Time Back",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oQjhLNU5abWxHWXluQmpDSDB6alNoRTA0Q1ZPNFgwSkI1d0diTFYwajFiNnRtZ1F3d0g4bXpSVTcyczNXVjZDa21LSDRGa1drdnNWb0RwOV9EOFNKVE5XcVMtbHJ5NzNYXzVN?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-09T20:44:04.000Z"
+    },
+    {
+      "title": "Stay ahead of weak consumer device and API security with these tips",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbjkzcXJaeUQ1OVlrdkg3YWJaVnJ5eWp1X0VhRE9jdnk1Q1p5VHZTemlQUVItSkpFNTMzNkpvZWdhcC1tZURYOFh5RzRmLUJIZzYzMzBqMFk2c0xzbGFwMEpRYl9DNU5ybHNva2M3Zld0eG5FM3dOcndpZ0IzQTVCM1hWTVU5OHJWSU9rVkhlZ1pBMUhibWJCXzNPQzJOQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-09T17:50:37.000Z"
+    },
+    {
+      "title": "Nurses must take lead on governing the AI that's changing their workflows",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcG9QWXVxaDJ0V3VibjFBOTBBMXJKZUJmWHJ1RVB0cFFFN004VDlIX0VvcmN1Y1RqY0RYVVA1V1hMYkFuRnotLTlvZU9GYzlLT0JFYnJZTnQ1T3JzRnBNby1jZU52T3A0LWotRlNQWmI3Q0ZUVzlsY0w1MTZ1WTBZZ3pKcTNxaDd5bDZzQmU2NTZZR0VNVFZSa2hwc29DZHFlbnZEWWl3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-09T17:06:49.000Z"
+    },
+    {
+      "title": "STAT+: ARPA-H to invest $62 million to develop FDA-authorized AI to help treat heart failure",
+      "link": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-09T16:01:00.000Z"
+    },
+    {
+      "title": "Implicity raises $40M for AI remote cardiac monitoring",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1k2YTlNNjEzamFqa2RlMzZOZWFYdVNJRXhEdzhaSURjYzZYVm8zX2hMbjRkWjA1OXhLZzhkWGlnY3h1MnJqSk1FOEVrZ1N4TmNzYjlaTXhLX2NoSGwxbVJHMFZBMXdxZ01XX1Y5S0czRkVYYm1xcHJBV2F6VE9SX3FaT1lkSjFkcXR4ZVRB?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-09T15:32:14.000Z"
+    },
+    {
+      "title": "STAT+: Can AI fix the emergency room?",
+      "link": "https://www.statnews.com/2026/09/09/scribe-emergency-room-fix-health-care-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-09T14:58:55.000Z"
+    },
+    {
+      "title": "The promise and risks of AI memory",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBubHhnODIzbGVsSXZGaXNleWEtaWFGZTRoVVRKdlE3R3lVSXV4S0R0UjVESXctbGh2M2lBcEFNLXk3b3NaNEN1bHpxNHNzY0JEdC1ETktETG9UT3kxRV9LUHlOV0h4azZvVlJEQ2NzT0xldw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-09T14:04:24.000Z"
+    },
+    {
+      "title": "STAT+: Orexin discoverers awarded prestigious Lasker award",
+      "link": "https://www.statnews.com/2026/09/09/biotech-news-orexin-discovers-awawrded-prestigious-lasker-award/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-09T13:38:20.000Z"
+    },
+    {
+      "title": "Ethics Isn’t a Pharma Value — It’s a Competitive Moat",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZjNha2lVY2kyd2VBNHFHM29US0N6c2hhbDV3Uk42TFlRYnY0c1JRZy1FZTQtbTd6Wk05TnNDQ3VTbUR5X1VBelVrTHdkeTMtNXVMQWEtWlluOGx1ZXRUWnkxOEZVTTVJVFRqZy1BZmVlTkstU0xEa1d0LUMtRl9kTG5SRGxIdGpyVHc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-09T13:37:12.000Z"
+    },
+    {
+      "title": "Patient care could benefit from AI 'memory'",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeENMT3M0M0VBamZqRmh1YjA0Rnh3bGVkMGpmNGFSWUZSc0VyNzg3Q1doLU9TVVNoQkFGYTh6WDBTdFFULXN1NHgwNTIxaE02aWxfbXJmY1lVQmZzUFBOVG9UNDlHY0tMSV83RkRyMmtNUDVLeDlmSUFsUU1yN1ljbQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-09T13:20:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about an AstraZeneca COPD win, the FDA filling key jobs, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/09/09/astrazeneca-copd-win-fda-filling-key-jobs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-09T13:15:57.000Z"
+    },
+    {
+      "title": "Telemedicine company offers GLP-1s for addiction",
+      "link": "https://www.statnews.com/2026/09/09/health-news-telemedicine-company-offers-glp-1s-for-addiction/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-09T11:53:36.000Z"
+    },
+    {
+      "title": "STAT+: Leukemia drug data suggested a different way to treat diabetes. A new biotech will test that idea",
+      "link": "https://www.statnews.com/2026/09/09/kura-oncology-spins-off-diabetes-focused-caspian-therapeutics/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-09T11:00:00.000Z"
+    },
+    {
+      "title": "Opinion: Autonomous AI will beat AI-assisted physicians at some medical tasks by 2030",
+      "link": "https://www.statnews.com/2026/09/09/ai-medicine-assisted-physicians-research-autonomy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-09T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: AMA CEO: AI won’t replace doctors — it will work alongside them",
+      "link": "https://www.statnews.com/2026/09/09/ai-medicine-doctors-replacement-debate-ama-ceo/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-09T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Can AI fix health care? In the chaos of emergency rooms, the technology comes up short",
+      "link": "https://www.statnews.com/2026/09/09/ai-healthcare-limitations-emergency-room-study-medical-scribe-impact/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-09T08:30:00.000Z"
+    },
+    {
+      "title": "Queensland health service's AI scribe saves doctors 59 minutes daily",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWEEtdm9oRG9sMm1peTllcVlKZklDV1ZyVW1WREVrREtLS0tub010MTJNdkc1OGdEX2N6bnVKbDR4eHNTNWpKSGV0bmtpUDlvcVNzclF6ai12TGlpLU54eXk1TlFsV3R5cldMMHJtWHo4VE42Nk9DVUZlcGtyek5HYTh2ZnlfR3JfZkk0U1FsOTFOVFBCWFhDbkFUZVQ1UkFZWk1sbGljY0pCWkk?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-09T00:11:16.000Z"
+    },
+    {
+      "title": "Forus Secures $150M Series C, Reaches $3B Valuation",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHR0SnZfaWh5ZnlFUTBXQ1NZUXhXSXExNGstVFpVbHRYRktfRzU3N3MxY21JQ3FxeC12NjgyaERxQXRLandwaFN3bS1mVEtxdjJvV0RNTWR4Nl9WR0tFQ1dXTWpGbjZDRmNXQWJyeDRQWGZucXFrQTkzb0xNMll0WEloc3J1NF9T?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-08T22:10:35.000Z"
+    },
+    {
+      "title": "This Startup Wants to Make Glaucoma Surgery Recovery Easier",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TbFpHV2MwSHlvQ001WElpb2I3ei1PZTd2LVVhOXJZRmMtSU53UG9yTThKS2oydURNam90UHZVYUdzd3cwY3N2b2pyV0YtU283ZXdOUFUtS2k1cHBHMjZua2ZWS1pIVFNHb2Y3SXZWVVZpbGRacGQ3VDFYcFdQRnM?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-08T21:29:46.000Z"
+    },
+    {
+      "title": "Is Radiology at a Structural Breaking Point? What Will Move It to a Better Future?",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRENIZVQyRnZTUGVXMnpZTnpPWUhVeFFkMlNhTm1RZGlEczREWU1zSmhremhCSG1TNzRNenUydnhHQ0xYMVV6ZnBXVE1KSlVxcmhicWNFY1lNUkJkUmc2c25oMFNjVVBCVTRsVThCemdTYzh4M1JwUDZnWmpyemd3TmM3SHdrcG8xY1RKN0k5N3pmNlJ2WV9pbjU1X3VQbUx2X21lREF5aHdvMF8xRldFUUJFRQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-08T13:35:57.000Z"
+    },
+    {
+      "title": "Survey Reveals AI Adoption is Accelerating in Healthcare, But Readiness is Not",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0ZubzJqV2pVODhERGZhMzNINVZpaFNLc2ZTV2p0RXJCY1dFRVJpeW51cFJfdThDQ19VbDUyWGFJVE82Z0NHdjd4cnRfeXNhcnNScGYteVV2X3JoMF93SDhXZHo2UDFvUkZMajBWNzNSWTZJc0kwWjVIelVlaEo1VElNWUZKbU94akhRRXZQZWZFMm5kUDRYeUR2ajUzMHZYYWh3MEp4NTNJQXFNXzlJ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-08T12:04:26.000Z"
+    },
+    {
+      "title": "US Representative Scrutinizes Practices of IDR Entities",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNzU4QWUydDhRQTNXTUdyY2ZjTjlUMTY1VWl3ZFJBSl95cDk2UTNiSjhIeXl0WDZWVmxsTTc1TXI4VjJ4NkhZZW5VY3ZlR3NrVEdSTVhhaDhVNnN3T0Y3UUpVRS0xX1ZJdzROM0gwS2tvNWgxZ0pyZFI2R2EyRWd3amhLOU84UGJjQVRCNm9fM0Fxdw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-08T00:57:21.000Z"
+    },
+    {
+      "title": "Advancing Women’s Heart Health Through Prevention and Rapid Diagnosis",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMzUwVkxpalVJSHhUV2NLM0ltd3pjY0dWMDNjSllhbi1GQ3lfeHZEd09XWXV1XzQ2c2JEYlNlT09aeC1XQWE4bE90ZzliYnBOQURUa3RiUHNTdFkzbVV2aEpDN1FqUWVVdjFFVGVyeWJkdkZya3FKQlJIWWxsTHM1di1ZLVEyNUt2VUFoMnRXaGpoTWlIQXZlZmg4ZTBkWF9XaEtj?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-07T14:09:02.000Z"
+    },
+    {
+      "title": "GSK Pays $110M for Phase 1-Ready Hutchmed Asset in a New Class of Cancer Drugs",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGt2MXBVMFdiVlgzTTNKUFR5cl9fNmhCMWFJZDhxcHdETTA1aWFnYi0wYkM5Zl93eHF5SFp4T09PalB3VWFzSXFKWFpMcDFTWFFHdUpxeWVlc0N0QXVKTHJ0bWQxUUI4ZTB5NFRueVNOdEJjZjVTRWFnSVZFdWdXZ3Q1S2JucGhaRnVOc3gxa0h5QVdXdi1wYXFsY29mZjJaV0twbGt0dzQ1OVc3a01yNklLRHRqLUVIeER5Zg?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-07T13:45:35.000Z"
+    },
+    {
+      "title": "FDA Approves Ionis Pharma Drug, the First for Ultra-Rare Alexander Disease",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWwzcU9ZMzM1dURuS3VqMTRfSkxZdlNYQWpRZkpKcER0aFEzUkx4aG9rbWV0ZkdnNlpEZVg2dGhHcVBZNDVFQkpnR19zY1NqM29jdk1SdnNrNWtRaGphbFZmQjhPMERGRmItZGh5bk8zUkF4M3pCMlpOZUVsRWJzVGRfaDNRWTlZRE5FVjVwbDJHNWk4ZWpTY05jWDBKUEw1bS1pRnFudzVNdVF1QWw3S0NsenFKNDlaanlVb2FqeE5acDdramlmWQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-04T22:35:50.000Z"
+    },
+    {
+      "title": "Oracle Health Execs Subpoenaed After VA Contract Costs Nearly Triple",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZMUdzZjdfNTZfVEtDWnpHTzRsU3kxRGhLeVlNOW9yMjhVMkZxX3U5R0RfeUE0dDJzZEpqQ3NyNmRuNGMxZUh6dGZpUHVfdmx1STFfMHZaR1hUSTdWVTFyN2FPS3RVRWZo?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-04T20:54:33.000Z"
+    },
+    {
+      "title": "Bringing Ski Patrol Lessons to Healthtech Entrepreneurship",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObmhWN3lGNEt4WlNrTWUwZXF6QktNRHo0cUpHOUFPZVB5SmRibHlkV1hrSjl0aTl0WGlnbEFVRUJNS0p3MkV3ZThRMDhyRkxlTzNxTHJZc3RmeFRObWViNk04cGsyME1PN3F1SklabUw4cGhzdWlVbmtlLXJoSkh3anJBeWNOWFlBWklGXzRodzN1UHFPbnc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-04T13:49:51.000Z"
+    },
+    {
+      "title": "Korea, India outline healthcare AI strategies",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdE1iOHUycTQ4N3B5QUhZOUwzU0RXS19vTS1BLWxfakpTb253aG1ROUt1S1IzTjQxRExJdm90eGF0aDFQbUpXNU85ckhvZk8yclVsMk1zbUVaMHR6QjRwVTVWTW5TSDdQNDRIRmlxU1VfZnJkUUktOFBXRjZiaVBJWjNreUFXOTN2WW0ybTNpVmo?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-04T01:23:18.000Z"
+    },
+    {
+      "title": "Judi Health Taps Color Health, WellTheory, Cylinder for Clinical Ecosystem",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZjV1SU5tbzRPOHNVdVhYZ1dadngtVVR0TUFVZm8xT095cWN1VVBteEFhQ1ROWFQyV1drTEFBTG05NS1nTk12aERVZ1c0amFOdjN4RVo1VDh3N0lNeFF4Rm9HcWc4YXNYZzZ0SW41d2UxTzBaS3Y3bllaREVsQkFMc2VyTjFwRDgxZjlsakZsYlJRRGZvVWFzem9sOVhtODB3YUhydE9ZczU?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-03T22:41:17.000Z"
+    },
+    {
+      "title": "7 Hospital Mergers from Summer 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCUHIwcVJNTGdHN2pYVzB5UkI4SUhKRlN6Q2JTMTNFLVlCREM0QUV4UkxjRGJkTmZ0T3dLczJTZEVrdmVRZVJaNWZPMUEtOFRBa0swMjA1dW5JMjlocE9wOFpRWTFQQ1dNMEtucGhn?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-03T22:14:32.000Z"
+    },
+    {
+      "title": "Ultragenyx Trial Failure Revives Debate About How to Treat a Rare Neuro Disorder",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeVh2VExkMHdTTkNTZUlkbkV5bnI0WW5yaDhfUjNCWlFES05qLXhzX2hIQjNzLTlWSTJZenFpSnQ4aDRZVzBrTnNfOTNoTHZTOGYyU2prX1lPOENBbHZVQm1oSVNmVVVHd1VXUF9HSDNfY0ptY3VIT2N0NVhvV2pidUxqcWViNjcxMTNoNzhqT2U3S0tTdzJtenJLSWs3TUoxZ2EtQjlqbWE2dUNBZWlKSFRkaXBEYjA?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-03T18:11:21.000Z"
+    },
+    {
+      "title": "complication Coverage",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iOGNDNkYyVXJwWkZzWmFqVmRtY3ItYjV5WXEwSDBaVDZnYk5STnc5dC1iRHhJSHdiYWFDeWVVaVJ1Z2FSM0UtWXB6dlE1VXVnRVpV?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-03T15:46:55.000Z"
+    },
+    {
+      "title": "Healing Through Heritage: Why Culturally Grounded Recovery Matters on Tribal Lands",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXBpOVRwWjNycWtBeXJ4eU9pQlppYThYMjIxbDlrZzBLa3lFMGRLVTM5OGIzc21zYm1IWFFlVjJWNDIzSFFVb1hpODVDd3ZHd3BKdHNwT3YtX1NwcnZBamZ3SExvT0gyazVwdDF2bmVvbGFoTDR6WTZ4QTlEOFZEVDZIYmxuZENLdzRZZUs4Sm9VeHRuSC01UVMzOGRydEhfUFIzWmV4aXZwOHRTNmFpQ1dwUGE?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-03T13:08:11.000Z"
+    },
+    {
+      "title": "This Device Could Prevent Lung Biopsy’s Most Common — and Costly — Complication",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XRjk4Y1RkZHdIU3pvUDBwZjZFdUhsUVNqNzhLVk00V3kxMjV3RDVlZ3ZyVmxWdHFjSXlpMVl4ZkU0ZW9lbDZpOUJxOUxNbmNaQmFxUXRjNW1HOWZCdDlwa1NxWUtIelNH?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-02T23:36:32.000Z"
+    },
+    {
+      "title": "Thyme Care Raises $125M, Launches New Oncology Parent Entity",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWGp5Qlc3Tl9jVUloR0FLdHMwTVZiczYxNkpYUE1KV19WdlRSMXZTMHktTFdrd1U2M0ptSGVabThzMl9wVEdud0lIX1g1X3Q3eXdZWUstc0pVVUtzeDBFeTRnUkY4OUNSdVN5bkYxaHhSV3JEQnlhZ04wUVdraVF5cndYWGRkWWc4elQwclo3OEhlTDUzaGc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-02T21:58:25.000Z"
+    },
+    {
+      "title": "Teva Drug Rises to the Gluten Challenge, Stopping Intestinal Damage in Celiac Disease Trial",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmVzQ19jTk9lTkpKNGg4YW92YnQ0UW1hSVZJNTFiUlZQSkFRenptSWM1WTJCMTNZeUc5Z2QybVZJdDlPMXNoM1JacHo5bVMtZzhSZ2dWeE9OQzFQaHNrTzRTbUMydVVqNXJuT3ZqMEFwSzlwZXlxNWp6U2N3THJBSTl4MFFIZTNvdUNEek5uZWFwTnhRSzBmM1MwdzBva3c?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-02T21:41:23.000Z"
+    },
+    {
+      "title": "Automation Didn’t Dehumanize Care. Bad Systems Did.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRE0wNTRGd0pxa1NiZ19mazlfa01xV1pEVEg3Tnl1ZGowb1c0cDk3MVduc0dLVGp1ZzRZRGNRY3hhMkdkbGJhZkJkVmFnWmRyQjhwd2pqNHFjdWlPM1dKd2FkWW5UVnNsWXc1dUdUNjRKV2NKcTE3ZWJDMWcta1F5a0FCTjVkV2E4?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-02T18:43:22.000Z"
+    },
+    {
+      "title": "The Healthcare Inflection Point: AI Can’t Fix 1990s Technology",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFozUXk1X214aXdzNFhMemdBU3pZd3RYQ2k1Xy1BVTBweWxsdktwSkpPbER1WFRkRVNUR0tsckhCeWpFYjJJeGdQdHUzQzBVRW1uU3Bib2lXOEVvQy1TbXhia1YxWmJnaHV1blhScmJjX1I5eXg0SVZnNHh3N3JtQ1VVSW1KWThwNHgxREV0dU5ickR5QlJzWg?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-02T16:51:01.000Z"
+    },
+    {
+      "title": "Ochsner Health names new VP of innovation to drive safe AI strategy",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSmVlc2Z2ZUwwRlBVb0JIYUFZc2U1c05YVjczYkg1YjVlb050and1VWtRRzE3QjhNT0JaLVdObjVDa1J4eXVHdnh6TG1Ra0Z0cERpT2hrMEhJeGRyWksyUW1PeHc0elVMc3hHdHFIY01odDlxSHJmS3hFT19XRm51b2pfajA4OFZXbTRiMlBFTWFmT1J4TDB3VXhwRi1kaFhR?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-02T12:49:18.000Z"
+    },
+    {
+      "title": "Exclusive: Konko AI scores $6M for AI patient coordination platform",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcTMtcFpJUjN0LWlSVS16R0o0RDYyTnc2aEZ0Rjk4WURaU0tfeHhLRC1WcUJidk9jWUpNRHUwT2VWOTRaSG1HRkhFU2w3a21Ib1M5Y0NBT0ZMeEJGblRkVm8wU3ZwX0pjNWg4WEZrMDJrTnk4VnVVZUpLYjBDN2x4cVJ0ZjJVWEF2dEEycEEydktrczEtMjREUThFNUc3Zw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-02T10:00:00.000Z"
+    },
+    {
+      "title": "This Merger Wants to Prevent Rare Disease Patients from Losing Their Data",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80aGdIQmdTcGJVNTFrQU42WDloRzY3RTdURm9UcGJTQ1dseHZndjhHejY5RUkyWS00TVU5NzZ5LWMyVkdscktxSDBRMDZ0Z0JxaFNCaGVSMVZhX2dJZXBwVmgxNVYycE5PanZFd1d6NjVqT0k?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-01T23:43:28.000Z"
+    },
+    {
+      "title": "HHS Provides $77M in Grants for Substance Use Prevention, Mental Health",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONHgzeW5BaGtIMTVha1huejczT0RYYV9LVEVvbGYzMGNsUFRtcG5fcnp0c2ZsZVkyejZnUkx0VjZIUV9WbGVrSlo5OEJHWS1iLXQ4OWdMRnZUUDlRY0FaaC1FZUxPd1hYUWRkdjdieDBFMGFHUmpZQTlrNVJxLUdMLVVqOXRkUnBBTDQ5ckFxREN4OTR3VVBTTFBHbXJXWDJOUjdXRQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-01T22:03:13.000Z"
+    },
+    {
+      "title": "GSK’s Pivotal Test for mRNA Flu Vaccine Aims to Show Two Targets Are Better Than One",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWTJaMmFKVEY5YXo3OUhqS3RLZ09WRjZ6MVVBbC1oVnRzNnFtQTRPTjRpT3hhUE5CdGt2OVdrTDdOdmtoWVJDUEtnazJNdjQ3dlhraHJOTDBVRDRwZGFDREdWX3pGMVA5MDU3ZF9zdHpYLXVpckg3NUdmZENBTXNvdEI5OEdTclAyMmMtdFRzV0NjUWJGcHc?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-01T17:07:30.000Z"
+    },
+    {
+      "title": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XZ292QTRqS0NGc2pnM2hCZXppQUEzNkJxMTFlYUF1eUk3YmM3Vmk4c0hoVzlqaktJNUZEazAwb2dsRFZhanFPU0NNQWtUMEF2TFozVW11bWlPbFc3cUdjaVphRGZvVUFlNEhIdENucw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-01T00:28:24.000Z"
+    },
+    {
+      "title": "4 Notable Health Tech Funding Announcements in August",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdGNiRTBhWEdpc2xfeGxPcXVtQnlmWjg2ZnFvVzQ4X0J6Rno2UXRYLURjUnp5LUtrTGhVN2RmUHFpM3dkQUZrOTRVbUNqa05EaG5tZjFVdUhySkVsb2k3ZzlnSVBic2NtSDdTSTkyM3Zra3h6Y1lUNk41NGRTNmIxb2pVMnZaVFVMaDF4SS1oOA?oc=5",
+      "source": "MedCity News",
+      "date": "2026-08-31T07:00:00.000Z"
+    }
+  ]
+}
