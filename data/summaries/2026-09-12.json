@@ -1,0 +1,184 @@
+{
+  "date": "2026-09-12",
+  "generatedAt": "2026-09-11T23:05:34.481Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 28,
+  "sources": {
+    "STAT News": 11,
+    "MedCity News": 4,
+    "MobiHealthNews": 6,
+    "Healthcare IT News": 7
+  },
+  "summary": "Health-tech funding continues robust with several significant raises, including GenHealth.ai's $16.5M Series A for administrative automation and Inspiren's $70M for AI-powered senior care, while device innovation advances with Nutromics earning FDA breakthrough status for a wearable patch that monitors antibiotic levels in real time, potentially eliminating frequent blood draws. Apple's acquisition of biomagnetic sensing assets from Sonera and multiple AI-focused startups securing funding reflect the sector's ongoing pivot toward AI and wearables. On the policy front, CMS is intensifying quality requirements for skilled nursing facilities, while Medicaid's new tiered approach to medical frailty determinations has raised advocacy concerns about potential insurance coverage losses. Healthcare IT faces mounting security pressures, highlighted by a Veradigm third-party vendor cyberattack and warnings that firms have a limited window to strengthen cyber defenses, while the sector grapples with reimbursement challenges as clinical AI tools force recalibration of payment models and virtual care expands with the VA selecting Amwell for services.",
+  "items": [
+    {
+      "title": "STAT+: Pharma wins a battle over the cost of wastewater treatment in Europe",
+      "link": "https://www.statnews.com/pharmalot/2026/09/11/pharma-wins-cost-of-wastewater-treatment-fight-europe/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-11T22:17:19.000Z"
+    },
+    {
+      "title": "GenHealth.ai Raises $16.5M to Automate Healthcare Administrative Tasks",
+      "link": "https://medcitynews.com/2026/09/genhealth-ai-raises-16-5m-to-automate-healthcare-administrative-tasks/",
+      "source": "MedCity News",
+      "date": "2026-09-11T20:52:00.000Z"
+    },
+    {
+      "title": "Apple acquires assets from biomagnetic sensing startup Sonera",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZUVRSkR3RzljS1M1X2NnaUwzdTYyVTJXaTNYbk9FMmlMS0FzUjNycGVpY0tVT2JNSkt3TUdBbjdyRUtHb0g2RUtTNU1oOEp5LXZnSmNlazJzRjB0Y0E1NTlvNVFrOHp4blgwUjhaeEh2T0gybEYxbXBtaGl3Z0Q3QnF3WDlzc29kWUhLT2tPRm9yaTFuX2F3?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-11T20:42:17.000Z"
+    },
+    {
+      "title": "Inspiren raises $70M for AI senior care platform",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa2tpeVZKWlBzRzFDdlhibWt3c0pYRGZrRDc4N1Z1RlE3bFI1YUxsbzZxN2wtWUxKVEZpWUUzOERHbThKQ2E2bWhHdnF0SzhkYXEteENIUFQ0OWtXWnpTOU4tblR0YUZoc1d6V010Tmo1NHBGZ29WQnhpcUdPdWVHVTVsNTJ2Zw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-11T19:30:37.000Z"
+    },
+    {
+      "title": "U.S. officials declare an end to record-setting cyclospora outbreak, but its origin is still unknown",
+      "link": "https://www.statnews.com/2026/09/11/cyclospora-outbreak-declared-over-origin-unknown/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-11T16:35:51.000Z"
+    },
+    {
+      "title": "Beyond reimbursement: The business case for permanent virtual care",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdmhmeGJrSWtUWXRjbVRNZnV1R3ZlRFJoeWdpdGhqbE9KMlpFUkUxdHB4aWVrQVRMRlI5YVc3dkxRbHgxU2VBeHQxY2FCaU1BT1BDN3pWNGFqNGxSaEJKRko4TVgwa0ZwcHc2YmZ4ekNBSDY5UzNXazAzSTVCLXhDaExmSTl1NU9iTlpmVmtTUjFOUU1xRVozZWt5bw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-11T16:30:30.000Z"
+    },
+    {
+      "title": "Nutromics Nabs FDA Breakthrough Status for Antibiotic Monitoring Patch",
+      "link": "https://medcitynews.com/2026/09/nutromics-fda-antibiotic/",
+      "source": "MedCity News",
+      "date": "2026-09-11T16:27:21.000Z"
+    },
+    {
+      "title": "HIMSSCast: Prenosis CEO on using AI to detect sepsis",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTTVNaWZNdlk4ZlBacGNDY2hXQzlWV1hkVUd0N0pFZEF6WW5fclY3UHNjTklXMjdPc29Zd19RTVFIYUVBM0xhbTlUc0xtY1JVM3lSRWl3bXZJZHpfYmJ5VHl2Y1I4ZHhvRmFIMEZNOVp6U0haZll3QnRmQzV1WHlmN3BNNUsyQjMw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-11T15:42:43.000Z"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "link": "https://www.statnews.com/pharmalot/2026/09/11/up-down-ladder-jobs-pharma-biotech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-11T15:13:06.000Z"
+    },
+    {
+      "title": "Medicaid will let states use ‘tiers’ to determine medical frailty",
+      "link": "https://www.statnews.com/2026/09/11/medicaid-work-requirements-new-tier-system-define-medical-frailty/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-11T15:10:36.000Z"
+    },
+    {
+      "title": "Veradigm reports third-party vendor cyberattack",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWF6YlpNWnFHYnozQUozTWdQelpfVW9vd2UtRHRkaF9XQndhOWRlUW55Q2VNVHp3d0xUN3ZzQW83ZUJxNnNIanNEcENFTXlXTXZoVjNITi1ENjNkV1JIMENlZ1hZekppRnVOWnlEVUdVaDl2SVJiNHZYQW5GV2F3TllLRmx2anBTOXExY0VB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-11T15:05:45.000Z"
+    },
+    {
+      "title": "SNFs face growing pressure to improve outcomes",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejFWMUFaZHAxTWtsNVQxMVBBaGl3RnNMUGxZUFZWeUFYb1dGUXJZdVdSYW9xcUJhQk5SSEtKZkZNSmV1amZUcURqRW5rQWNhb0FzU3B0bldwbXR1TjZlY3dvdmJNa3oyeEdaRmtsem95ZDJiRjdwbEtoeE1pUXhKRG1OaERKT0k?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-11T14:02:10.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about anxious Novartis investors, patent expirations for biologics, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/09/11/anxious-novartis-investors-biologics-facing-patent-expirations/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-11T13:56:13.000Z"
+    },
+    {
+      "title": "STAT+: Cancer drug shortages keep disrupting patient care",
+      "link": "https://www.statnews.com/2026/09/11/biotech-news-cancer-drug-shortages-keep-disrupting-patient-care/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-11T13:39:52.000Z"
+    },
+    {
+      "title": "Augmenting the Systems That Support Patient Mobility",
+      "link": "https://medcitynews.com/2026/09/augmenting-the-systems-that-support-patient-mobility/",
+      "source": "MedCity News",
+      "date": "2026-09-11T13:23:00.000Z"
+    },
+    {
+      "title": "CMS ups the ante for skilled nursing facility quality",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSG5IMW1XUV9yX3pyZGNJMHZ0RmhlM1l6Z1k0RmhkeE1RV25XNTBPX1N4ZWdhZzRRTnhGY3FJbVRISGQ3VXljemxMdy1yVlZWazNqbUJUbjFsNnNpam5GMVNfNzg3ZlI2VWNSZmk5TWhwcFJGbWtMRF9DaUc4MDN0eXNwSzJFSE8ybldPNw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-11T13:23:00.000Z"
+    },
+    {
+      "title": "Amwell picked to provide virtual care services for VA",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYTlXS1pyR0lnU19TQmVRS2UwX3dvTlZ4ZUY2Slh3U3RGTUVOc0NjcndwZ3FFYVVjRk9sWXdlLS1nNXpDb1AtdmJyTDBIVDZqT2h6b2lPRjY4VFBUUkE1Zm5jSXp2d0c3WXFuLURhVE9fdVgyV0drX09ZUEpkQkJCT2JldDdXakJjcmhrVw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-11T13:00:00.000Z"
+    },
+    {
+      "title": "Boycott launched against American Diabetes Association includes journal",
+      "link": "https://www.statnews.com/2026/09/11/health-news-boycott-launched-against-ada-includes-journal/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-11T11:43:20.000Z"
+    },
+    {
+      "title": "STAT+: An AI tool aims to catch harder-to-detect heart attacks in EKGs",
+      "link": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-11T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Novartis, Novo Nordisk drug failures will likely ‘pop a hole in the balloon’ of the field",
+      "link": "https://www.statnews.com/2026/09/11/novartis-novo-nordisk-cardiovascular-drug-trials-fallout/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-11T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: I’m a public health communications consultant. Pro-vaccine advocacy needs more fun",
+      "link": "https://www.statnews.com/2026/09/11/pro-vaccine-advocacy-celebration-party/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-11T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: I’m a thoracic surgeon in New York City. For many of my patients, Sept. 11 is still not over",
+      "link": "https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-11T08:30:00.000Z"
+    },
+    {
+      "title": "3 Strategies to Improve Health Insurance, Per Georgetown Report",
+      "link": "https://medcitynews.com/2026/09/3-strategies-to-improve-health-insurance-per-georgetown-report/",
+      "source": "MedCity News",
+      "date": "2026-09-10T23:20:13.000Z"
+    },
+    {
+      "title": "Clinical AI forces a rethink of reimbursement",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRlVNWm14bHQ2dWFuNVhrMGd5b2Nwd2tIOEtrNnJoRHNRdTduY2VFS3E4RjdQMzVFU0FCaDhDUEI2ckUtVzRXUzVWY05WMnhCbnlIZU96OENxZnRrTGFtUThlTHlpa0lsRzJUTl9DY2c2ZWRUdm00Q2k3NWN3ZUNTeUloazY?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-03T15:24:16.000Z"
+    },
+    {
+      "title": "An enterprise-wide approach to digital transformation may be the better way forward",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmZoSHZ2cEZBcThYbmdRUUVvVTQ4TTVfR0RwQ0JpLVZ0ODNBTXNUczRTU21FRWN1UDNpRXRKek14b0dJVXMzMlNMeFl4dkdxSHVsQU9kNE5GVTBRX2tjWldqSk52TW14OWh3enUtSk9EdGdWVEdWM1lOd0h5OUVRbFZzOWhYZDltdjRSMlZOWlZKb0tIWlg2WWtzcGVvWEpmUTl0bHRDMHVqb3VMMjQ1cg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-03T12:23:40.000Z"
+    },
+    {
+      "title": "Exclusive: Konko AI scores $6M for AI patient coordination platform",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcTMtcFpJUjN0LWlSVS16R0o0RDYyTnc2aEZ0Rjk4WURaU0tfeHhLRC1WcUJidk9jWUpNRHUwT2VWOTRaSG1HRkhFU2w3a21Ib1M5Y0NBT0ZMeEJGblRkVm8wU3ZwX0pjNWg4WEZrMDJrTnk4VnVVZUpLYjBDN2x4cVJ0ZjJVWEF2dEEycEEydktrczEtMjREUThFNUc3Zw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-02T10:00:00.000Z"
+    },
+    {
+      "title": "LeanTaaS acquires Aidin to ease hospital discharges",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTE1Vcjh2NmI5RkY2WG1TOThhTG1DVmZSQk45ajBYdmVKMzZZekJ2ZFA3eXhpOFJrNkVJWnB2QlgzazNwbXhhNXh4UVlfR0l6bWhSWkprZ09MeWpTLU1mVmlmN3pKYVV1NU5fVUI5S3hZaU5hbFA1NEVQWHRGQ1BjMDZjdnBITmNQNTQxaw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-01T14:25:06.000Z"
+    },
+    {
+      "title": "OpenAI, dozens of other firms, see 'limited window' to boost cyber defenses",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0ZoTlo4TjVwYXdpYk9FOFk4TDJHbEYzZU9ieVhHblJZcnNFejNFcEpVNmY5a3dTUUd5dVZhRTgxX080SmxhTmQ0eE5UclVjNm11QnhKOE9fWmMta0FZeWlwT3h5MkRTcmQtY2o5MVlGMFg3NlFINTJFMWdGR01TdDAwQllFcVVMVzdXaFFpemduMldsSlp1ZXN3ckNGLTNwYm5pU3pn?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T13:03:00.000Z"
+    }
+  ]
+}
