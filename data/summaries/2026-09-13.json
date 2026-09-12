@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-12T22:54:11.514Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 6,
+  "sources": {
+    "STAT News": 2,
+    "Healthcare IT News": 2,
+    "MobiHealthNews": 2
+  },
+  "summary": "AstraZeneca's breast cancer pill disappointment in its pivotal trial represents a significant setback for the company's oncology pipeline, while Scholar Rock achieved a meaningful breakthrough with FDA approval of Isembyld, which demonstrated motor skill improvements in young SMA patients when paired with existing SMN2-targeting therapies. Meanwhile, the broader digital health landscape continues evolving, with New Zealand launching a radiology modernization initiative and industry observers taking stock of where digital health stands in 2026. Medtronic's $700 million investment in Cornerstone Robotics signals ongoing confidence in robotic technologies as a growth area within digital health and medical device innovation.",
+  "items": [
+    {
+      "title": "STAT+: Breast cancer pill from AstraZeneca misses mark in pivotal trial",
+      "link": "https://www.statnews.com/2026/09/12/astrazeneca-breast-cancer-camizestrant-etcamah-serena-4-trail-failure/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-12T07:09:28.000Z"
+    },
+    {
+      "title": "STAT+: Scholar Rock wins FDA approval for first drug to target SMA muscle loss",
+      "link": "https://www.statnews.com/2026/09/11/scholar-rock-spinal-muscular-atrophy-isembyld-clinical-trial-fda-approval/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-11T23:30:21.000Z"
+    },
+    {
+      "title": "NZ to begin radiology modernisation",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YWjlMWV9vYlV6X1MteWZIRkdpelBKS3UwUjlkaVFFazZCVDBia0dZc25aRlJ4QmVCUGFzY1IyM0VJWlk2WmhIR082SzVWSjBzV1k5WWFlUnl3akdlUi1CSDhveHVXMzZfd3JKRFlITno2YzFJa0gzaGNTTTUyYk0?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-04T03:58:43.000Z"
+    },
+    {
+      "title": "The state of digital health: Part 1",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UOThtWnFQRXNjdmRTMVJsamFqRDJBdnBnOE9QUjRKZWlLWUUtelhoWUo1UmJPRktkZm91RkpMdW82dUFUamwwek93WVZEOEpwQlcwQVVOOS1PVkVzcEZxRFZBeHhDb1Vrb1BWTExVS2hRMXlk?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T07:00:00.000Z"
+    },
+    {
+      "title": "Where digital health stands in 2026",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hWGFVM3JVS3lYYkMwWl84QW9iYTlaUTBBcWtZc3NkY0lQUE8tekgtVnlvRlZiSHpqWlFnZWFqNlFFak9fQW81XzdMVXZpckdZUzJmeHBVM2tzTC1QdVdTdzc2dFF6NXBrZUZpdU9jTzhSRWtsY1ZBeQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-01T07:00:00.000Z"
+    },
+    {
+      "title": "Medtronic invests $700M in Cornerstone Robotics",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWFZZ3k5bmJsMVhzWWJOOUN0OGJ5WEl6NDJhNnBZREhrYnVZVkR6dHg4UmtBTkk0MEIyVHVhdEJvZFk2aWIzUmFWNFpLQWMyRHVQN2pMU1R0Vk9yanRHTzkxYzh2UG5PdWk1MmpDSkJ2Yi1WTzBRQldLd2N1ODFWOHhXY2JrUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-01T07:00:00.000Z"
+    }
+  ]
+}

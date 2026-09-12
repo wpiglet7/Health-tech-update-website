@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T23:05:30.484Z",
+  "generatedAt": "2026-09-12T22:54:09.037Z",
   "sources": [
     {
       "id": "stat",
@@ -24,6 +24,22 @@
   ],
   "count": 120,
   "items": [
+    {
+      "title": "STAT+: Breast cancer pill from AstraZeneca misses mark in pivotal trial",
+      "link": "https://www.statnews.com/2026/09/12/astrazeneca-breast-cancer-camizestrant-etcamah-serena-4-trail-failure/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-09-12T07:09:28.000Z",
+      "snippet": "A pill from AstraZeneca failed to improve outcomes in closely watched breast cancer study, a result that could limit the use of the medicine."
+    },
+    {
+      "title": "STAT+: Scholar Rock wins FDA approval for first drug to target SMA muscle loss",
+      "link": "https://www.statnews.com/2026/09/11/scholar-rock-spinal-muscular-atrophy-isembyld-clinical-trial-fda-approval/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-09-11T23:30:21.000Z",
+      "snippet": "A late-stage clinical trial found that, when combined with an SMN2-targeting drug, Isembyld caused young patients’ motor skills to improve after a year."
+    },
     {
       "title": "STAT+: Pharma wins a battle over the cost of wastewater treatment in Europe",
       "link": "https://www.statnews.com/pharmalot/2026/09/11/pharma-wins-cost-of-wastewater-treatment-fight-europe/?utm_campaign=rss",
@@ -345,14 +361,6 @@
       "snippet": "A major Novartis shareholder has called for a shake-up of the drugmaker's board after its shares suffered a record fall following trial setbacks"
     },
     {
-      "title": "STAT+: Cancer medicines remain in short supply across the U.S., survey finds",
-      "link": "https://www.statnews.com/pharmalot/2026/09/10/cancer-medicines-remain-in-short-supply-across-the-united-states/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-09-10T13:01:00.000Z",
-      "snippet": "An ongoing shortage of cancer medications continues to force leading cancer centers around the U.S. to seek work-around strategies to treat patients and a majority also report that clinical trials…"
-    },
-    {
       "title": "Applying agentic AI to continuous post-discharge patient care",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNk9NMjNrWEdqdnFzWDVsVlUteWFSUGdxRjkxWVllWGNnaFg2UkRmMDZoUUZqc1RMV3pPeVV3bHg2V2YydjVQR0pLRzlod0RjNXI0czNWLV8wbDFXZkgyWnlsMWlRMGwxXzNrZWxCSl9UTUNyMmRUdDhRWjBhb1ZMQVZkRWJjR2c1U1ViM05sWmdXbWxyT2pUb3JQYTNQRzhPMXRLMw?oc=5",
       "source": "Healthcare IT News",
@@ -375,14 +383,6 @@
       "sourceId": "medcity",
       "date": "2026-09-10T11:50:00.000Z",
       "snippet": "[Sponsored] A webinar scheduled for September 30 from 1pm to 2pm ET will review the 2026 Healthcare AI Readiness Index and highlight some of the report’s takeaways, exploring the operational, regulatory and security challenges accompanying…"
-    },
-    {
-      "title": "Oz says ‘AI-based avatars’ can help rural communities. Some leaders disagree",
-      "link": "https://www.statnews.com/2026/09/10/health-news-oz-says-ai-based-avatars-can-help-rural-communities-despite-skepticism/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-09-10T11:34:59.000Z",
-      "snippet": "Feds invest in AI for heart failure, vaccines and this year's midterms, and more health news from Morning Rounds"
     },
     {
       "title": "Virtual CKD Solutions Don’t Slow Disease Progression or Reduce Costs, Report Finds",
@@ -609,14 +609,6 @@
       "snippet": ""
     },
     {
-      "title": "OpenAI connects ChatGPT to Epic EHRs",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RVm5DZjVMdHFkTU5RY29tSG1CZlFQb1Z1aThlVE5JczVMdWszOWpJLWRKRWV5ekxRQTh4R3ZiczdXNGp3bjV6LWtvUmo3OWZtaU8xajFqUkJFd0tITXRNYzRES0xNZHpDRWhzY1l3RC1QUi15Qkt5OQ?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-04T21:43:43.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Oracle Health Execs Subpoenaed After VA Contract Costs Nearly Triple",
       "link": "https://medcitynews.com/2026/09/oracle-healthcare-ehr-va/",
       "source": "MedCity News",
@@ -673,14 +665,6 @@
       "snippet": ""
     },
     {
-      "title": "This hospital started AI training with the CEO",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16dDRBNTY1MWFGbC1Vd3NWMVlPVGlBRFJuckNDOUZrR092d0RrODlpRFJIV3VrNHBmUDZ0LUk4eUNtR19felJRV1VRREIwS1hDcUhBT2EwN0dOLVdMYUM5cjdJbFJ6OElIcnFJQzNQRW1HbjE3NVEtd2hSQy1jb0U?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-04T14:06:48.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Bringing Ski Patrol Lessons to Healthtech Entrepreneurship",
       "link": "https://medcitynews.com/2026/09/bringing-ski-patrol-lessons-to-healthtech-entrepreneurship/",
       "source": "MedCity News",
@@ -697,6 +681,30 @@
       "snippet": ""
     },
     {
+      "title": "OpenAI connects ChatGPT to Epic EHRs",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RVm5DZjVMdHFkTU5RY29tSG1CZlFQb1Z1aThlVE5JczVMdWszOWpJLWRKRWV5ekxRQTh4R3ZiczdXNGp3bjV6LWtvUmo3OWZtaU8xajFqUkJFd0tITXRNYzRES0xNZHpDRWhzY1l3RC1QUi15Qkt5OQ?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-04T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "This hospital started AI training with the CEO",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16dDRBNTY1MWFGbC1Vd3NWMVlPVGlBRFJuckNDOUZrR092d0RrODlpRFJIV3VrNHBmUDZ0LUk4eUNtR19felJRV1VRREIwS1hDcUhBT2EwN0dOLVdMYUM5cjdJbFJ6OElIcnFJQzNQRW1HbjE3NVEtd2hSQy1jb0U?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-04T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "NZ to begin radiology modernisation",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YWjlMWV9vYlV6X1MteWZIRkdpelBKS3UwUjlkaVFFazZCVDBia0dZc25aRlJ4QmVCUGFzY1IyM0VJWlk2WmhIR082SzVWSjBzV1k5WWFlUnl3akdlUi1CSDhveHVXMzZfd3JKRFlITno2YzFJa0gzaGNTTTUyYk0?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-04T03:58:43.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Retinal AI screens dementia, predicts future risk",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlprVi1wOFRoNTM3SnN6cV80SFFNQVdDWGI2RFZ1ekZyYk1FLTZ6eGFwSFl0cEV2Mmw4UkkwX2NWZ2RfT3BUN3NNSF84TUp2TkFiOGIxRDdPVllYYlpXOV9GODF0YndNN290RXY3Q21BakszeXN2R0tfS3RZUUY0bGxWSUlEM2FIS1lGWlFsY0NIbFE?oc=5",
       "source": "MobiHealthNews",
@@ -710,14 +718,6 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-09-04T01:37:25.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Korea, India outline healthcare AI strategies",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdE1iOHUycTQ4N3B5QUhZOUwzU0RXS19vTS1BLWxfakpTb253aG1ROUt1S1IzTjQxRExJdm90eGF0aDFQbUpXNU85ckhvZk8yclVsMk1zbUVaMHR6QjRwVTVWTW5TSDdQNDRIRmlxU1VfZnJkUUktOFBXRjZiaVBJWjNreUFXOTN2WW0ybTNpVmo?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-04T01:23:18.000Z",
       "snippet": ""
     },
     {
@@ -753,28 +753,12 @@
       "snippet": ""
     },
     {
-      "title": "Vitality acquires digital health engagement company Icario",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWJNQlhoSl9tRkhVMUJMMXlrcm9DbHBxTVExZk5QeF9WclRfXzRRTGFBdEtrcFYtQkNUbGcwcy1mVEVGY1pxQXFVSlhNQ2JmZWpXV3BRTEpFbU9sZ21FVmFOSGFVbGtTRDJ4MUJqV0dNQzdXblNTdUIwalBWT0RVV3NVNTNEUzkzcFdzOFdZWWl0ek1RRk52YXVR?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-03T18:29:25.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Ultragenyx Trial Failure Revives Debate About How to Treat a Rare Neuro Disorder",
       "link": "https://medcitynews.com/2026/09/ultragenyx-angelman-syndrome-apazunersen-rare-disease-antisense-oligonucleotide-aso/",
       "source": "MedCity News",
       "sourceId": "medcity",
       "date": "2026-09-03T17:57:53.000Z",
       "snippet": "Ultragenyx Pharmaceuticals’ apazunersen did not meet the goals of its Phase 3 test in Angelman syndrome, a rare genetic neurological disorder with no FDA-approved therapies. The disappointing result has some readthrough to Ionis Pharmaceuti…"
-    },
-    {
-      "title": "Butterfly Network, Merge Labs partner on ultrasound brain-computer interfaces",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXpXNkJyYkhncDE1N3lYTGg3Tk5kd2tocGVjaDdaR21jcDQ3TXpVZ3BZQVdiVEFmelEtM1A0dVNXVDB6MG5wSjEtUlZlN2FmeW8xT0taLUN3ODZ3YmJHWXdmakVGUDlMLTVFd21vamRTdVlSZkd0bk13RDVUTVFhZ2QwVHlqaFlscmJldkxBeURMSUtBNV9JOVRZMkViRVVNM2pxUFlXS0xyZUM2X2c?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-03T17:38:45.000Z",
-      "snippet": ""
     },
     {
       "title": "Cureety acquires AI virtual oncology company Reimagine Care",
@@ -790,14 +774,6 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-09-03T15:24:16.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Why digital health M&A is accelerating",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15U1RyVkJUOHJadGZpaG5qc2NmdXoyaWhPTy1kWlF6MjVuWURBSVctbktPWVQ1bUhyYVhPc1hzUUNUME5STVo0c0tsaG0wOUFvbmtidnNIa2FISElWUUs1akwyRlB3NVp5Z3VhbGVkZWFIaTQ4X3R5dmpTRQ?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-03T14:20:49.000Z",
       "snippet": ""
     },
     {
@@ -822,6 +798,14 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-09-03T12:23:40.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Why digital health M&A is accelerating",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15U1RyVkJUOHJadGZpaG5qc2NmdXoyaWhPTy1kWlF6MjVuWURBSVctbktPWVQ1bUhyYVhPc1hzUUNUME5STVo0c0tsaG0wOUFvbmtidnNIa2FISElWUUs1akwyRlB3NVp5Z3VhbGVkZWFIaTQ4X3R5dmpTRQ?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-03T07:00:00.000Z",
       "snippet": ""
     },
     {
@@ -897,14 +881,6 @@
       "snippet": ""
     },
     {
-      "title": "Kaihan Krippendorff",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JUFZWR3p4U1hMM2w4Z0RLUnhmdlhMYUtkVjdOTEdhejN0bUtTSy1VVXZIWkxpQ0tRY2l3bmZFaUdsdVh6X2tBc24xUjhjQ0FqWHhGS0pBbVpJWHIwYWs5TDl3NVdZTDRrazg0?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-02T12:49:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Exclusive: Konko AI scores $6M for AI patient coordination platform",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcTMtcFpJUjN0LWlSVS16R0o0RDYyTnc2aEZ0Rjk4WURaU0tfeHhLRC1WcUJidk9jWUpNRHUwT2VWOTRaSG1HRkhFU2w3a21Ib1M5Y0NBT0ZMeEJGblRkVm8wU3ZwX0pjNWg4WEZrMDJrTnk4VnVVZUpLYjBDN2x4cVJ0ZjJVWEF2dEEycEEydktrczEtMjREUThFNUc3Zw?oc=5",
       "source": "MobiHealthNews",
@@ -915,6 +891,14 @@
     {
       "title": "The care plan is not the care",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzY09MQzA4cF8zbDF3YW1oWGhxU1hDakZSNXlLNlMxTURGTUxLZXZmYVRrWDNnMkVITUs0aVpWZ1Npd1poRFkzdG1EUFRPMWFFNllUdjFoV3pRcVI2MmlhLW5SV0cyOWM?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-02T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Kaihan Krippendorff",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JUFZWR3p4U1hMM2w4Z0RLUnhmdlhMYUtkVjdOTEdhejN0bUtTSy1VVXZIWkxpQ0tRY2l3bmZFaUdsdVh6X2tBc24xUjhjQ0FqWHhGS0pBbVpJWHIwYWs5TDl3NVdZTDRrazg0?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-09-02T07:00:00.000Z",
@@ -961,14 +945,6 @@
       "snippet": ""
     },
     {
-      "title": "Healthcare’s cybersecurity remediation challenge",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd0NNN2xmU3BzOThPVE8zUWpMZzVTTWs3LXpoYWdnOW5UTlBUZkw4Z2RKTFkyUDFmUmlTQVJLR2lQSHZXZ1hkVXpKSjJfTUx1TGJVeEtONlA2QVB3cWI0NWdtS1BjeG5NYV82elB1NWxnRm9vUFFlQ1NFY1ltOTNGNmVJMGd3aTlsMnVxQV9B?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-01T13:00:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Major Singaporean airport group offers healthcare lessons on agentic AI",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ0VFcEt4Y25oRUFGQ0xYQkZNcnppd2FiVkdWQi1CdlZpdDdOd1htUVBZV2h6MGh5V3hkT3VRcUFxQTBYc3dEZzFLWkhPSU9oRm5Bc3dqUk5MdENGWTl1MG5hMUpuR1pnZ2oydzVyS2F0Z3ViSE9DNWVkc0UtWDRVTS13a1o2Vnlsb2xJNWVCWWp1S0FXRTZYT0RxUV9xdzZYc0FzMkRQbGp0YWhDNWdmLQ?oc=5",
       "source": "Healthcare IT News",
@@ -982,6 +958,30 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-09-01T07:35:55.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "The state of digital health: Part 1",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UOThtWnFQRXNjdmRTMVJsamFqRDJBdnBnOE9QUjRKZWlLWUUtelhoWUo1UmJPRktkZm91RkpMdW82dUFUamwwek93WVZEOEpwQlcwQVVOOS1PVkVzcEZxRFZBeHhDb1Vrb1BWTExVS2hRMXlk?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-01T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Where digital health stands in 2026",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hWGFVM3JVS3lYYkMwWl84QW9iYTlaUTBBcWtZc3NkY0lQUE8tekgtVnlvRlZiSHpqWlFnZWFqNlFFak9fQW81XzdMVXZpckdZUzJmeHBVM2tzTC1QdVdTdzc2dFF6NXBrZUZpdU9jTzhSRWtsY1ZBeQ?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-01T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Medtronic invests $700M in Cornerstone Robotics",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWFZZ3k5bmJsMVhzWWJOOUN0OGJ5WEl6NDJhNnBZREhrYnVZVkR6dHg4UmtBTkk0MEIyVHVhdEJvZFk2aWIzUmFWNFpLQWMyRHVQN2pMU1R0Vk9yanRHTzkxYzh2UG5PdWk1MmpDSkJ2Yi1WTzBRQldLd2N1ODFWOHhXY2JrUQ?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-01T07:00:00.000Z",
       "snippet": ""
     }
   ]
