@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-13T23:01:11.801Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 10,
+  "sources": {
+    "STAT News": 1,
+    "MedCity News": 3,
+    "Healthcare IT News": 3,
+    "MobiHealthNews": 3
+  },
+  "summary": "Today's health-tech landscape shows significant movement on drug pricing policy, senior care innovation, and healthcare infrastructure challenges. An analysis warns that Trump's \"most-favored nation\" pricing initiative could deliver far less savings than projected if pharma companies exploit secretive deal arrangements to circumvent the policy. On the access front, Interra Health is now helping Medicare patients obtain GLP-1 medications through a new Bridge program at $50 monthly, while Inspiren secured $70 million in Series C funding to scale its AI platform for senior living facilities, which uses ambient sensors and computer vision to predict falls before they occur. Meanwhile, McKesson disclosed a cybersecurity incident involving data exfiltration, underscoring ongoing security vulnerabilities in healthcare infrastructure. The broader challenge facing the sector is that healthcare software must grapple with operational complexity that extends beyond user interface design—vendors need solutions that handle the messy realities of modern care environments rather than idealized workflows.",
+  "items": [
+    {
+      "title": "STAT+: Trump’s secretive pharma deals may undermine ‘most-favored nation’ pricing, an analysis suggests",
+      "link": "https://www.statnews.com/pharmalot/2026/09/13/trump-secretive-pharma-deals-undermine-most-favored-nation-pricing/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-13T22:30:00.000Z"
+    },
+    {
+      "title": "Interra Health Adds GLP-1 Bridge Program Support",
+      "link": "https://medcitynews.com/2026/09/interra-health-adds-glp-1-bridge-program-support/",
+      "source": "MedCity News",
+      "date": "2026-09-13T22:29:53.000Z"
+    },
+    {
+      "title": "Inspiren Rakes In $70M to Scale Its AI-Powered Senior Living Platform",
+      "link": "https://medcitynews.com/2026/09/inspiren-senior-living-ai/",
+      "source": "MedCity News",
+      "date": "2026-09-13T14:36:33.000Z"
+    },
+    {
+      "title": "Healthcare Needs Software That Handles a Messy Reality",
+      "link": "https://medcitynews.com/2026/09/healthcare-doesnt-need-simpler-software-it-needs-software-that-handles-a-messy-reality/",
+      "source": "MedCity News",
+      "date": "2026-09-13T13:34:00.000Z"
+    },
+    {
+      "title": "McKesson investigating cybersecurity incident involving 'exfiltration of certain data'",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSl9Fc25xMWd2WUNnOXVNNGwwUE9jYnFiYlozN3dPZVNwaHpjaGpwRWNvQTdBLVZXeTRBbkVOQ2dXS2pxWWpoYkZ4MUZXTjh4ZXZtOWI0TEViZUhmVnpMOTZETUNseGI3UFZULUZXeVcwSkZPR0l1YWR4NTU5M3F1YTZkdEhGUTl6dmlZcmlqYlZaYWRERVlQZDRpVWQxdXFROTZ5WUo2NjZQUkc3R21aOTE0bldVOVlJckR3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-31T13:18:26.000Z"
+    },
+    {
+      "title": "Minimising disruptions while building a smart ICU in Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUENRSl9OS2lBc244RGNDUWNVR3lrUEl1T2NkX0tweGxvUm5OM2FUNVptSUo5cTZCeXRNQkdOeXVyUnlsT2t6R1VocE15c3hHMk5ndzNmTE5ZUFFFcms2Y1RDSFBYeXU1X3ZRelF3RFZaOG1NWlk1eWZVcUh1NlUwTzdvZzlGYUs3V2VRXzRTeG5rdDF4TkdIajhfUUVSRV9HeWc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-31T09:16:42.000Z"
+    },
+    {
+      "title": "Exer AI CEO talks AI movement assessments",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2I5dHI4NkVCVTRIcExtNjJuWXVrT2V0OFlFaWY2Yi0yaDVUTWhGVVJrc0huR1NiejJLbktEd1hORnRnOURCYU5qTndRZUQtamxlY0toanAxbTd0RW1xRXFZb2ozUXU4WHlndnpOMHNzU25aYW1xSUpVaTdtVFVzSjR6UXE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-08-31T07:00:00.000Z"
+    },
+    {
+      "title": "Eve Bender",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80OXBDU1ZDRFlrbE9tOWc1SURPSjg3OGZuZTl1ckk0aXdEaDBkQzhVX1pRWkJYbGlNZ2dPVDNUMVk4SFR6Unh6c3l4VjBrZkE1MEVvazBCTnNyNU5C?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-03T20:10:45.000Z"
+    },
+    {
+      "title": "The promise of IT will arrive fully with genAI, Froedtert CTO says",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdUdsLUsxUHd2WTJfd29OWm54TlRrdFo1YmVpZXBrUkY4aGF1Z0lNY21iR2h2Uk9aby10WFAtR1lHVHFwdlVSX2t6NWFObnMwVDQtOEY0a2JKT2VEWk93ZmRsOFRadG42Y3VnSUhMbHdqUjc0OVV3V2hNZ1ZNNGFyUnlqc05jS2xDRk1iLXRhVS16bzhaTXVJ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2025-07-15T13:38:41.000Z"
+    },
+    {
+      "title": "Jessica Hagen",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RSlREbGdJZUM3ZGlrelZmVExTRkFaRG9idnYwS0w5RDVISnJsaG9IcG1ZWjNLYWFUa1FFTFQ3UTJjVWlWajNPdHZvQnNfVkpvRExVWXZLeEdSemNJR3dMcmowOFdfYmJVZ3c?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2022-12-15T16:50:19.000Z"
+    }
+  ]
+}
