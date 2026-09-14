@@ -1,0 +1,172 @@
+{
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-14T23:45:35.310Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 26,
+  "sources": {
+    "Healthcare IT News": 5,
+    "STAT News": 13,
+    "MedCity News": 4,
+    "MobiHealthNews": 4
+  },
+  "summary": "AI governance continues to emerge as a critical infrastructure priority across healthcare systems, with Samsung Medical Center advancing smart hospital transformation through maturing governance frameworks while shadow AI remains the fastest-growing uncontrolled force in medicine. Multiple health-tech startups are securing substantial funding to scale AI applications, including Nara Health's $14M for third-party administration and Tandem Health's $100M expansion of clinical AI across Europe, alongside regulatory developments like the UK's proposed new healthcare AI regulations and behavioral health AI shifting from screening toward continuous risk monitoring. The biotech sector shows mixed momentum with Scholar Rock achieving first-in-class approval for a rare neuromuscular disease therapy, while AstraZeneca faced setbacks including a failed breast cancer trial, and psychedelic therapies are nearing regulatory approval with positive data from companies like Definium. Meanwhile, public health concerns are mounting as Pennsylvania reported its third measles-related death amid an outbreak, while broader policy shifts include a federal judge blocking Trump administration visa restrictions on graduate students and postdocs, and concerns that the GOP's $50 billion rural health fund is falling short of hospital leaders' expectations.",
+  "items": [
+    {
+      "title": "'Maturing' AI governance underpins Samsung Medical Center's smart hospital transformation",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSDRZS1kxZkRlLVNxTV9MWndZWVZyQU5BSk5UbEwzMnBPZHNIWENaQVJKa21VMDhZTFpkY2hfOEpQcXVIMEtTaUtaTzV6VkJwU1B4QVBsbUlVczBGNGhsVXdoYkZoc21XeFY3VjRlZXJMYktWaEJRWkg4OF9oSXdyMndCblhtaFhPNi1sRXlWbUdOZjYzYU1zN0ZpY2ppWXZ3VkQ3Z0RxRXRJMjFielV5TFFvdF93OXVzMnVkWHh6TVlhUlYzZzRyeA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-14T23:36:53.000Z"
+    },
+    {
+      "title": "Judge blocks Trump administration plans to limit visa length for grad students, postdocs",
+      "link": "https://www.statnews.com/2026/09/14/court-halts-dhs-visa-limits-foreign-scholars/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-14T21:20:48.000Z"
+    },
+    {
+      "title": "Nara Health Secures $14M for Third Party Administration Platform",
+      "link": "https://medcitynews.com/2026/09/nara-health-secures-14m-for-third-party-administration-platform/",
+      "source": "MedCity News",
+      "date": "2026-09-14T20:57:32.000Z"
+    },
+    {
+      "title": "UK commission proposes new healthcare AI regulations",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQblVZM1N5U3lzLUJMQjJ3M3VnUFVYT21RZGc0RmJPcHVVRVpNNkF0UjVlNmFtMEYzanUtZ01JM2I4OGlBTFR4QWRIZlpaWlFRdzJnUERWYzkzcUZXOS1fa25YcUNyakl4M090UFMtbUF4R0NHQk1ZYzFnMjFHdDdQTGFxZXEwNG9iWG9qZVNKVTNxUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-14T19:53:16.000Z"
+    },
+    {
+      "title": "Scholar Rock Drug Wins First-in-Class Approval in Rare Neuromuscular Disease",
+      "link": "https://medcitynews.com/2026/09/scholar-rock-drug-wins-first-in-class-approval-in-rare-neuromuscular-disease/",
+      "source": "MedCity News",
+      "date": "2026-09-14T19:27:24.000Z"
+    },
+    {
+      "title": "Abbott agrees to settlement over closure of largest baby formula plant in the U.S.",
+      "link": "https://www.statnews.com/2026/09/14/abbott-settlement-closure-baby-formula-plant-shortages/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-14T19:18:37.000Z"
+    },
+    {
+      "title": "AI Roundup: Predictive models, access to advanced cryptography and more",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGo5Y2lxS3hzTVlvUzhSOHhMRjlWd3A0WXdjQnFzMUY2aEhXYnV3YkZCcXA5STVPNVBIZS1NVUwybER6akxOd3NPWkpxQWVzMTBtRmlKdkF6REttaTJrTV91TktTc2lSNm9ZNzZJMjQ0QVNxZ05qdHhZNzY5OWZ1clZHZWM0LUFXdFFscl9FUnRNdy1tR1cxN2lmQm52REhBYTBjVHFvOA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-14T18:19:01.000Z"
+    },
+    {
+      "title": "Kennedy to deliver keynote for anti-vaccine group he once led",
+      "link": "https://www.statnews.com/2026/09/14/rfk-speech-childrens-health-defense-conference-washington/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-14T17:37:34.000Z"
+    },
+    {
+      "title": "STAT+: How $500 explains Republican health policy, and the GLP-1 Rx wave",
+      "link": "https://www.statnews.com/2026/09/14/trump-cash-obamacare-plans-rural-hospitals-artificial-intelligence/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-14T16:02:55.000Z"
+    },
+    {
+      "title": "Behavioral health AI moves from screening to continuous risk",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb1FkWlBHQlQ5elhfbDlnTnNjQ1NxZXM2Y0Nhak5iQ2FBNUpUWm5JY2FsWFppbk16SElUdURJdFRBeVY5cFV0VFd3dUpuM3dXN1Rhb21tMWc2eHRpOXNqUnRxNFBHbkNCTmJNUmhORGlTSzVwSWgwTmswMXNjcGR0bWVSaERMajJUai0wdW9rQWRacDc1?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-14T15:53:09.000Z"
+    },
+    {
+      "title": "Enabling 'predictive' preventive care",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON1BCMno2blpXNlo0Mmd4R3dBMUcxNmN6d29TbGZMYktiRHdJaU9Wem9JaS1VSHp1M1ZtOWx3dG00aEcwcG9DUmJLVDh4V1VsME55THJJNmZZSDdMeHkwM2NIQXh0R1Q4SDNXTm5qdEVwYkpIdk5wamt2Y0l4cXRzWDNYbw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-14T15:44:49.000Z"
+    },
+    {
+      "title": "Shadow AI Is the Fastest Growing Force in Medicine, and Hospitals Are the Only Ones Who Can Control It",
+      "link": "https://medcitynews.com/2026/09/shadow-ai-is-the-fastest-growing-force-in-medicine-and-hospitals-are-the-only-ones-who-can-control-it/",
+      "source": "MedCity News",
+      "date": "2026-09-14T15:27:13.000Z"
+    },
+    {
+      "title": "Tandem Health raises $100M to expand clinical AI across Europe",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanlKdVB5RGZVYW9zc1BEenIwQUZudml5eENpRkZKN2I0TWxOZEVhTWFIWGJISWJwVWVBVG1fZFlqc1prRU5vTEkybmNPMHlrQ0Ztdl9ibXBvZXV6N1QxWFhBQUhPaUZQOW9qV0Q2SExqN1VwUXI0SGo3dkxmQnp0RWFZU0EyZHo4TlppdzltWVhibnZCV1QtYzNn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-14T15:06:14.000Z"
+    },
+    {
+      "title": "Pennsylvania officials report state’s third death involving measles",
+      "link": "https://www.statnews.com/2026/09/14/third-measles-related-death-pennsylvania-outbreak/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-14T14:34:20.000Z"
+    },
+    {
+      "title": "STAT+: GSK touts lung cancer data from two drugs",
+      "link": "https://www.statnews.com/2026/09/14/biotech-news-gsk-touts-lung-cancer-data-from-two-drugs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-14T13:34:37.000Z"
+    },
+    {
+      "title": "NUHS focuses on high-impact, low-risk AI use cases",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbE4xbmg0VWFYMjJzNXJya3N4cjBXVEdhbTZhOFZhR25aclI1Ti1SRWJKTTVMRTNJcWNiSmV4RzRtejNRMFRpYnFtZFlQTFNRRlJ6cFE5d2s5Z3Uwc0hTT092WUFZak1lOXFuTUZ4VkRuRVpzcEw1WWt3RWtaZmZXc2F2Qlh1X081Y1Q2OWtqQ0V5Vzdo?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-14T13:20:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about another AstraZeneca trial failure, a Novo name change, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/09/14/another-astrazeneca-trial-failure-novo-name-change/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-14T13:07:51.000Z"
+    },
+    {
+      "title": "Owkin licenses AI scientist, patient data to Servier for oncology research",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbXJjUW9VdzZBa2dwSlJrdGRibEZqNzMza0NQOGRYYWljUFVqaXQ1ZE01YlJKVzZ4aWI1U3gtZnR4WEtkRTRFenRKcFByaWlvanBaVkRNQ3owSnpPck1fM0NJR3Y0WG8yNk5xX0pyZU1ZYXRRbEV5NkZ4THktaTIyczlxQks4dV9lSVh6c1lsQjRMclNUVVZnVjNJZUg3NDVORG5vQw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-14T12:00:00.000Z"
+    },
+    {
+      "title": "From Onboarding to Outcomes: The Privacy-First Identity Workflow for Pharma Marketing",
+      "link": "https://medcitynews.com/2026/09/from-onboarding-to-outcomes-the-privacy-first-identity-workflow-for-pharma-marketing/",
+      "source": "MedCity News",
+      "date": "2026-09-14T11:50:00.000Z"
+    },
+    {
+      "title": "Pennsylvania records third measles-related death amid outbreak",
+      "link": "https://www.statnews.com/2026/09/14/health-enws-pennsylvania-records-third-measles-related-death-amid-outbreak/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-14T11:49:09.000Z"
+    },
+    {
+      "title": "STAT+: Definium’s LSD therapy eased anxiety in second large trial",
+      "link": "https://www.statnews.com/2026/09/14/definiums-lsd-therapy-eased-anxiety-large-trial-psychedelic/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-14T11:00:00.000Z"
+    },
+    {
+      "title": "STAT+: What’s in a name? Novo looks to a rebrand",
+      "link": "https://www.statnews.com/2026/09/14/novo-nordisk-company-rebrand-obesity-diabetes/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-14T08:58:48.000Z"
+    },
+    {
+      "title": "Opinion: Am I a hypocrite for loving football despite CTE?",
+      "link": "https://www.statnews.com/2026/09/14/football-cte-risk-should-we-feel-guilty-for-watching-nfl/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-14T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Restoring public trust in science doesn’t have a simple solution. That’s OK",
+      "link": "https://www.statnews.com/2026/09/14/trust-in-science-academia-research-communication-listening/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-14T08:30:00.000Z"
+    },
+    {
+      "title": "The GOP’s $50 billion rural health fund is coming up short, hospital leaders say",
+      "link": "https://www.statnews.com/2026/09/14/rural-health-transformation-fund-skepticism-shortcomings-part-5-unraveled-series/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-14T08:30:00.000Z"
+    },
+    {
+      "title": "OpenAI, dozens of other firms, see 'limited window' to boost cyber defenses",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0ZoTlo4TjVwYXdpYk9FOFk4TDJHbEYzZU9ieVhHblJZcnNFejNFcEpVNmY5a3dTUUd5dVZhRTgxX080SmxhTmQ0eE5UclVjNm11QnhKOE9fWmMta0FZeWlwT3h5MkRTcmQtY2o5MVlGMFg3NlFINTJFMWdGR01TdDAwQllFcVVMVzdXaFFpemduMldsSlp1ZXN3ckNGLTNwYm5pU3pn?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-01T13:03:00.000Z"
+    }
+  ]
+}
