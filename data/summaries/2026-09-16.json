@@ -1,0 +1,178 @@
+{
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-15T23:27:52.473Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 27,
+  "sources": {
+    "MedCity News": 5,
+    "Healthcare IT News": 5,
+    "STAT News": 12,
+    "MobiHealthNews": 5
+  },
+  "summary": "Hospital operating margins deteriorated significantly in July, dropping to 1.4% from 2.2% in the prior two months as elective surgery volumes declined seasonally and payer mix pressures mounted, signaling ongoing financial strain in the health system. On the technology front, the FDA cleared Beta Bionics' Mint patch pump while Medicare is expanding its pilot program that reimburses technology for chronic disease management, reflecting broader momentum toward digital health adoption. Meanwhile, governance challenges around agentic AI access and the rushed rollout of Medicare's AI prior-authorization system—which caused delayed care in some cases—highlight the tension between innovation velocity and implementation readiness in healthcare IT. Venture funding remained robust with Thatch reaching unicorn status at $1 billion valuation on a $108 million Series C, and GenHealth.ai raising $16.5 million for healthcare AI agents. On the biotech side, GSK acquired global rights to a tri-specific T cell engager from Chimagen for multiple myeloma while Vera's kidney drug Trutakna showed strong Phase 3 results, and obesity drugmakers are now testing treatments in children as young as six. Finally, Pennsylvania reported a fourth measles death, underscoring continued public health concerns in undervaccinated populations.",
+  "items": [
+    {
+      "title": "Hospital Margins Fell This Summer Amid Outpatient Slowdown, Data Shows",
+      "link": "https://medcitynews.com/2026/09/hospital-finance-2/",
+      "source": "MedCity News",
+      "date": "2026-09-15T23:10:28.000Z"
+    },
+    {
+      "title": "Thatch Secures $108M, Reaches $1B Valuation",
+      "link": "https://medcitynews.com/2026/09/thatch-secures-108m-reaches-1b-valuation/",
+      "source": "MedCity News",
+      "date": "2026-09-15T22:25:45.000Z"
+    },
+    {
+      "title": "Agentic AI access a pressing governance challenge for providers",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFNrTlZMRlpJejBmNmtYYlE3WGZVekhvSEZKWkYta0FtOWx0blk2Q0ZtM0hkNE9WX0NSVnNZN0phTzFydHh3RXdLejQ5RXdjcWRTWF9WLVgzdzAtc1IzMUxENm4wSmszY2l4WnBFMUJBOXJULUd0T1VmcVJGVWl4dFQ2UFV0MUctTkkzY2poNFV2dmI0MXNrdWJIWQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-15T19:28:19.000Z"
+    },
+    {
+      "title": "GSK Commits $750M to Get Chimagen’s Phase 1-Ready Drug for Multiple Myeloma",
+      "link": "https://medcitynews.com/2026/09/gsk-chimagen-trispecific-t-cell-engager-multiple-myeloma-cancer-tce/",
+      "source": "MedCity News",
+      "date": "2026-09-15T18:57:36.000Z"
+    },
+    {
+      "title": "A fourth measles death is reported in Pennsylvania",
+      "link": "https://www.statnews.com/2026/09/15/fourth-measles-death-pennsylvania-acute-disseminated-encephalomyelitis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-15T18:43:59.000Z"
+    },
+    {
+      "title": "Beta Bionics’ Mint patch pump gets FDA clearance",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY1RaM0p2X2hQRUhPX3RzMmJCamM2WnZxWFlYWUJhV1BneUFYcXpZLVlwVXNlMHAybnNVdVR0bEpwR1l4X04tR3hsbTlWaUZFdkZyY0ltbnk5ckgxMjdzLXJiN1hnR0FtSE13bXkyZmxCcjY0US1vWVFYbTJtbUdMZXZ0OUZITUtVdGc4?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-15T17:12:53.000Z"
+    },
+    {
+      "title": "Q&A: Wisp's new CEO on the company's next chapter",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PVVpMR0EweVQxdkR0eVNhRzIyYWlJd2xmbWJQTVZrMnFTLVFIXzZ5Wi1oRG92ZzNrR0pPWVFnR0U3YTB5U19GRkRHNjhMcTF6MzFueVk0REI4NkpZWHlRNng5ZTVCMlZhTkR4bVFwM3d5VWNNSEhKbFQ3NmdFeE0?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-15T15:22:55.000Z"
+    },
+    {
+      "title": "Consumer AI is becoming a digital front door. What should health systems do?",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWk5jcHd5aHdmbnprNHdLLUxWTXBFU2J3M01BZzFrRVRtNllfYURhUjktVkxQVjgtMEMtQmlac01sR2RWakJjZjdXNlRRbDRrRFgxVHR1alZQN0lKdWNyU3NiS0JkRUZScFdzdi16MnhFSjFndHVJMEltNFVpODQ1ZlJpZGhndmVybUkwdFl5YmJ6VGxjemtFazZZNnZGT2ZQWWtwdmpzRlRBSFU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-15T15:09:40.000Z"
+    },
+    {
+      "title": "STAT+: RFK Jr. returns to his roots",
+      "link": "https://www.statnews.com/2026/09/15/rfk-childrens-health-defense-chris-klomp-hearings-dc-diagnosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-15T14:55:20.000Z"
+    },
+    {
+      "title": "STAT+: Medicare to expand its pilot that pays for technology to manage chronic diseases",
+      "link": "https://www.statnews.com/2026/09/15/medicare-access-chronic-care-management-tech-pilot-expanding/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-15T14:28:44.000Z"
+    },
+    {
+      "title": "AI platforms can reduce administrative complexity",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTQxWHFja2htMFdxbmJva3o4WTNjNGp4ZlN0aW1ibVd1ZVRMT1F1Z0tjTUx0d2dtSVFwcVNuaWJOd09PU0NfejRMbkw2Z2tNNWhUczdhclJ2cF9BZDlaOEY5dmtMTFZJcGJRSmo5ckQ4X1FWanIyNHM4TVhNVTVfLV9xdzc2SXdHcElXVnVxdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-15T14:06:02.000Z"
+    },
+    {
+      "title": "STAT+: FDA takes applications for new program to shorten drug approval times",
+      "link": "https://www.statnews.com/2026/09/15/fda-launches-program-to-shorten-drug-approval-times/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-15T14:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Obesity drugmakers are testing in kids as young as 6",
+      "link": "https://www.statnews.com/2026/09/15/biotech-news-obesity-drugmakers-are-testing-in-kids-as-young-as-si/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-15T13:50:15.000Z"
+    },
+    {
+      "title": "What AI can do for musculoskeletal care providers",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXlBWHN3VjUwbFRLZEQ0LWhwaDhnemhhT0k2NHJUWXR1UzRfZlFLZTlXTXlwSVJib1E5ZVRCWW1pQXZOczBySXpvalQ1ODVOb3VoalNPWmhtNmJKR1c5a2YzY1ZrN19ueXdRSWthbzV2QnRDM1BFUkNtWGFlR2Y1T3dNbFk5c3pBblBrMw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-15T13:35:00.000Z"
+    },
+    {
+      "title": "The Real Bottleneck in U.S. Pharma Reshoring Isn’t Factories – It’s Talent",
+      "link": "https://medcitynews.com/2026/09/the-real-bottleneck-in-u-s-pharma-reshoring-isnt-factories-its-talent/",
+      "source": "MedCity News",
+      "date": "2026-09-15T13:34:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a GSK deal for a drug from China, job losses in the U.S., and more",
+      "link": "https://www.statnews.com/pharmalot/2026/09/15/gsk-china-drug-licensing-deal-job-losses/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-15T13:29:47.000Z"
+    },
+    {
+      "title": "STAT+: New documents reveal problems with Medicare’s prior-authorization pilot",
+      "link": "https://www.statnews.com/2026/09/15/medicare-ai-prior-authorization-pilot-problems-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-15T13:06:21.000Z"
+    },
+    {
+      "title": "Assort Health",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlZWk3NXRBcmZhalpTTzlKX3RHU0xKZzdUbXFLczcxcV9meWVLajh6UEh4ak9qVUxZelFaMjJRdndYM3VieGdfRzYxclZjVi1TSWF4V3otNUF4YlV3TE5kbl8zaFFtUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-15T13:00:00.000Z"
+    },
+    {
+      "title": "Make every patient interaction count",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOW52MzRXZktuMjBZWlBtQVRrTE42enBGaGR1T1VmWnF1MTF0LWIwU0I2VjBsME1HTDJ4a2cyamlESVNKSHBJZ1BUbExDR2Z6ODBUXy1GZ3R1dU9WcFBGZGFjeldiY0lZVXFFVERSYVhzMlU5WUdFRnE0aW9QYjU2VzdHWQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-15T13:00:00.000Z"
+    },
+    {
+      "title": "Businesses can now apply for NIH funding",
+      "link": "https://www.statnews.com/2026/09/15/health-news-businesses-can-now-apply-for-nih-funding/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-15T12:03:33.000Z"
+    },
+    {
+      "title": "How Human-Led AI Improves Healthcare Marketing Intelligence",
+      "link": "https://medcitynews.com/2026/09/how-human-led-ai-improves-healthcare-marketing-intelligence/",
+      "source": "MedCity News",
+      "date": "2026-09-15T11:50:00.000Z"
+    },
+    {
+      "title": "STAT+: Vera kidney drug Trutakna shows strong final results in Phase 3 trial",
+      "link": "https://www.statnews.com/2026/09/15/vera-kidney-drug-trutakna-shows-strong-phase-3-results-igan/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-15T10:30:00.000Z"
+    },
+    {
+      "title": "Exercise — and echocardiograms — in space protected astronauts’ hearts in study",
+      "link": "https://www.statnews.com/2026/09/15/heart-research-in-space-cardiovascular-health-nasa-astronauts-mars-mission/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-15T09:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Medicare’s AI prior authorization pilot was rushed and full of problems, new documents reveal",
+      "link": "https://www.statnews.com/2026/09/15/medicare-wiser-ai-prior-authorization-pilot-rushed-launch-delayed-care/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-15T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: 3 lessons from the tobacco settlement on how states should use money from Meta",
+      "link": "https://www.statnews.com/2026/09/15/meta-facebook-social-media-addiction-lessons-learned-tobacco-master-settlement/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-15T08:30:00.000Z"
+    },
+    {
+      "title": "GenHealth.ai raises $16.5M to expand healthcare AI agents",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRVMyclNVbjhRUm82T2NsU0htY0lrWHFIY2FZSlE0SGh1ZHl0QklFbXB4T2FFWmlZWXFfMXpFdWdULWhmdkh4dTRiRVktdk03T1puR3NoNXB4eE95U2xjSGd6SmNnVy1YQldqWElxYnNWZExfb1lVejV5Y1g1dW1TWHVIbDlMZTFhYlFRX3FlUVk?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-08T17:03:10.000Z"
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84amhfd05LSGVtZ0pkUDh4NVNJeldXbkZ0cHFFODlYNm5ORXZ0Z0EzYTdHVkZZb2g3UC1oSTFlNFotV0wtUDBSNDZzTQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2016-01-23T09:09:28.000Z"
+    }
+  ]
+}
