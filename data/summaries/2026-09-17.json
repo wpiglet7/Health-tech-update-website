@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-16T23:35:25.199Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 29,
+  "sources": {
+    "MobiHealthNews": 11,
+    "STAT News": 10,
+    "MedCity News": 3,
+    "Healthcare IT News": 5
+  },
+  "summary": "Today's health-tech landscape shows significant movement on multiple fronts. Drug discovery and delivery are advancing with Novo Nordisk partnering with Anthropic on AI-powered development while Novartis acquires Sironax's blood-brain barrier technology for $125 million to address pipeline challenges. Several funding rounds underscore investor confidence in specialized platforms, including Evvy's $40 million for vaginal microbiome analysis and Thatch's $108 million raise at unicorn valuation. On the policy side, political shifts are reshaping healthcare economics—GOP efforts aim to make Medicare Advantage mathematics more favorable to insurers while simultaneously hospitals are dropping MA plans due to rising denial rates and steering patients back to traditional Medicare. AI integration in clinical settings is progressing thoughtfully, with physicians emphasizing that AI works best when seamlessly embedded in workflows rather than taking over decisions, while CMS expands the ACCESS Model to cover additional chronic conditions. Meanwhile, emerging concerns include teenage reliance on AI chatbots as mental health substitutes and ongoing scrutiny of drug-pricing initiatives under the Trump administration.",
+  "items": [
+    {
+      "title": "Novo Nordisk, Anthropic partner on AI drug discovery",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPem5zNVNDb2dyT0wwWEtrdGJpMEJ0TG91dW4zLVQwanZOc1FpbTREdDZZSkZDWS04Q091U204Zlc0RlgyWmhkeTZmY1E2RFNVUUMtQnV3WGNHQV9oTDc1c3FDTWp5cjVHNXlqUnNHUWtQN0NDWTlISTgtMXZuMzBwSDIyUlAtdXlNNk1ieQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-16T22:00:40.000Z"
+    },
+    {
+      "title": "Evvy raises $40M to expand vaginal microbiome platform",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTzdIbHN4cjB6cHVaZGRLUFNXUGVUaFd1eGFhME11YUdMUEpCa29VQkM5cWVKTWUtODQwT0FsNzVuVGdaaW4tQXNueXROT3dZYWE5RnFYVzhzaTgwaUt3X2lRZDg3Y2lVZ0NaTXdOaVhUY2F3Vk1WcVhrSWRIZGxpNEpiWlhOVTloYm9NRF91VQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-16T21:50:37.000Z"
+    },
+    {
+      "title": "STAT+: GOP aims to change Medicare adviser’s math so it’s more favorable to health insurers",
+      "link": "https://www.statnews.com/2026/09/16/medicare-advantage-overpayments-analysis-medpac-change-apples-to-apples-act/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-16T20:20:15.000Z"
+    },
+    {
+      "title": "STAT+: Senators highlight the power Chris Klomp wields at confirmation hearings",
+      "link": "https://www.statnews.com/2026/09/16/senators-highlight-chris-klomp-power-rfk-jr-second-in-command/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-16T19:17:40.000Z"
+    },
+    {
+      "title": "Tandem Health",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lSlpUbHRJTjMzNE03NGcwY3RqZmZvaW9pNnRENUthSmNmV2FuR3VlYm80UXNJZEg3VDFpU3UwUmNidUR6bHBobkdGRjhXa2xCYXEtZDV0Q0xtWmdr?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-16T19:12:09.000Z"
+    },
+    {
+      "title": "Novartis Gains a Way to Get Drugs Into the Brain, Buying Sironax Tech for $125M",
+      "link": "https://medcitynews.com/2026/09/novartis-sironax-blood-brain-barrier-drug-delivery-neuroscience-bbb-nvs/",
+      "source": "MedCity News",
+      "date": "2026-09-16T18:28:23.000Z"
+    },
+    {
+      "title": "Physicians say AI works best when it disappears",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVG5rSEh0Vno1YkIzTDFxdEVleXNuOHJRX3oyMXVsM1kzQk40RmE0Y2V6QUx1M1RXZ21Rem4wcDdFbF9JekFKNzVGTnpHUlBoY0JPeks2MDh1RVdSSjhvcmtPQ2RKLUlZR1R6cjRGczdNWU9lZm9oOUZCYjJERmc3S1BpbGZtMjROV0d0dWpB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-16T16:35:07.000Z"
+    },
+    {
+      "title": "WHO expresses cautious optimism about bid to control Ebola outbreak in DRC",
+      "link": "https://www.statnews.com/2026/09/16/ebola-outbreak-drc-who-cautious-optimism/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-16T16:29:10.000Z"
+    },
+    {
+      "title": "Thatch raises $108M at $1B valuation",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10bUNlVVM0LUFueWZrZnBISGVfa3lTbWI3OWZkdFhWWWtYUmI4Ui1xdmlTWVZnYnJLa1kzZ05PQkRGOWlfQ01GcFVQRDFlMVN0SWhmNnBBTHBld0NtdXB1bmduWXd2d0lhNTd5LTRMd3B0TXE4TFE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-16T16:14:41.000Z"
+    },
+    {
+      "title": "As MA Denial Rates Rise, Hospitals Are Betting on Traditional Medicare Instead",
+      "link": "https://medcitynews.com/2026/09/medicare-hospitial-reimbursement/",
+      "source": "MedCity News",
+      "date": "2026-09-16T15:57:00.000Z"
+    },
+    {
+      "title": "Luma Health expands AI outreach to fill schedules, close care gaps",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYVRJRTI2NnhMVmNxWm5RQ3dabjhUQmVtalFsR21OSDZCb2VYSjllbUx6dkdpLU10YWNNd3NjblN0aEd1a3FGbGhpRjBzaDVHbzl3WGZuSTJyNUpFOWF4NVBOaFVoS1NSNU1FOFo3SmY3NlRwbTVoV2hXdklGNG5GcTNoWENHOVVPZ1gtbERWSENrVExKRTNEeVVMNnVuQ2M?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-16T15:31:14.000Z"
+    },
+    {
+      "title": "STAT+: Scientists made mice with half a brain. Then they filled them with human organoids",
+      "link": "https://www.statnews.com/2026/09/16/human-brain-organoids-neuro-chimeric-mice-study-published-nature/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-16T15:00:00.000Z"
+    },
+    {
+      "title": "AI should assist, not take over",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVVzc3czlka3dJLV85R0s4UXMzVGNMbDJBUWEwVmFRQlRkTjNjRDFZSE11VDcyVGZaZnFSMUdxaUNHZ19FYm5pMmFEbmtsdDF5REh0b3FSemZPZWJkOVMyOHVrWEF5NkZweEpXSXAyV25pQkpDcFJMenFvbXA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-16T14:03:18.000Z"
+    },
+    {
+      "title": "Bringing AI into workflows at the right time",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Xc21feEszY1hJaWtGZEMxbUdFMlFCbkFqekFaSVV0Tjd1bXJKYVFTeXB4UVd4X3BjaHh1Zl9sU0t0aEhlcjdrZXZ1RUZiOXNGYzZRMV93UHR6WTQtNWZwVlA1RHZXY0U5MTRvcUdfLWN5UTBtLTAxNkVNUXpiUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-16T14:00:00.000Z"
+    },
+    {
+      "title": "AI Isn’t a Therapist, but Many Teens Are Treating It Like One",
+      "link": "https://medcitynews.com/2026/09/ai-isnt-a-therapist-but-many-teens-are-treating-it-like-one/",
+      "source": "MedCity News",
+      "date": "2026-09-16T13:50:00.000Z"
+    },
+    {
+      "title": "CMS expands ACCESS Model to cover more chronic conditions",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR09tWDRiSGRGNTkxRzJEQzhxM0hTUGFQNjItQnotQ3UzYnpQZFlLbmhyWk5tTW9aZUVQLTlFWTNfMlN2Z25NT3NpQXdndDdTY0NtLXN6RThqdU5CQmJFTFV2LWU4N0t3bEh6M1lIZUk1YjFsZUNQTGhUcGJNdnFFcFBocTdjZTlyMmxCRnRSblBhakpwcnNj?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-16T13:34:13.000Z"
+    },
+    {
+      "title": "STAT+: Sen. Warren demands to see Trump drug-pricing pharma contracts, accuses RFK Jr. of hiding them",
+      "link": "https://www.statnews.com/2026/09/16/biotech-news-sen-warren-demands-to-see-trump-drug-pricing-contracts/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-16T13:34:04.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about faster FDA approvals, access to experimental drugs in Montana, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/09/16/fda-plans-to-speed-approvals-experimental-drugs-in-montana/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-16T13:29:12.000Z"
+    },
+    {
+      "title": "Building a community hospital for the AI era",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX1JKTHVYQWdZekt3VE9hNnZmb3h2ak1yenhGREJQS0h2cjFXaExZemZfYTlaeGFvZXFJT3pyVXZHV2Z6Q3kzSzhnZGZIMnRXX1hCM1ByQmIwRlkwSF8xd0NRdmRxLVlUaDVQTXR3UmZ6cmFvdlRWR2p2UFFWY0QwWlEzYlI?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-16T13:21:00.000Z"
+    },
+    {
+      "title": "U.S. reaches highest number of measles deaths in decades",
+      "link": "https://www.statnews.com/2026/09/16/health-news-us-reaches-measles-death-high-in-decades/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-16T11:56:12.000Z"
+    },
+    {
+      "title": "Inspiren",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kcU92NUJMTTFZb2drRmdwaXgwYlh5SzZaUnJRUS1ydkhIa2Y3blU5ZEZlNkJBQ0EzN2dRREo5NlktV1R5NnFFU3V4dE1lbWdHWXYtTDBB?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-16T08:45:01.000Z"
+    },
+    {
+      "title": "STAT+: House Democrats may use oversight powers to plan for health care overhaul",
+      "link": "https://www.statnews.com/2026/09/16/healthcare-reform-house-democrats-oversight-targets-after-midterms/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-16T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: How my cancer diagnosis changed the way I train physicians",
+      "link": "https://www.statnews.com/2026/09/16/medical-school-cancer-structure-pathology-professor-personal-experience/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-16T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: STAT+: Dementia should be a campaign issue — not an insult",
+      "link": "https://www.statnews.com/2026/09/16/dementia-november-2026-midterm-elections-policy-privacy-caregivers-economy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-16T08:30:00.000Z"
+    },
+    {
+      "title": "Web pathway expands cardiac rehab options for rural women",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON2VxbnRhcmdpN3c4YXA4M242dWVSU1pBRFpGWGNWZnBaQmNmTWJjZUZQeVVkRnJvVDlYcDhQaFA3elJ4ZzA2NTVGX0F1cmVOR2hwTkpHMzFrMzR6NF9CcmFlR2NfX0l4ZTdhTlFiX3lYVVZCcVIyY20wRno5NzZjZlY1aUZiVUJEaEtWR1hkdDZfRGRmRTBUWA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-16T05:17:25.000Z"
+    },
+    {
+      "title": "National Commission into the Regulation of AI in Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTBEd3ZYUVROeE0tMkt1Q2JXQ1NRWkpzVU5lcXZfNEgzNTNlcFdrSjl3LTRDZXY0d0xOR3dHTlNteDNwQ1phdlJEWnRvUWlTSk9DbER6U2Y3Nzd5YXpRVHMxNmlnZTNwWC1jTU1veDNGSEVaS0tSeTNyaWtxREctMkI4UU1yUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-14T07:00:00.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc0NfX25yYWZzdjVNWHN0Vkl5bWRIVVVDZkgweDBSOG1vbUJYWjBLSWUyYzhOd1ZiMS02U3BLTmZmYUVQNVpkR2tCQVVDNGNYbENyX0dhSjFRUjgyb09tSVBuVmRONWY0TW5DaG9fc1BFRk9zUGxLc2otcldJNjh2ZndrbFFZSG94UTE5VFJkWmNxQThteHR1MmZjc1R6ZGJMMWRMYUplVThtQ3lfSlNRNURBdW1wSTFGUHNLd0FwOHRRZ25Nb2c?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-09T14:22:00.000Z"
+    },
+    {
+      "title": "OpenEvidence launches 4 medical AI models for clinicians",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzUzQmF1OHpGMDBiRUpEbmZwdDRBNnc2ODdjTDgxbUhwMU9UTEJOb0h2YTZ6V3JDXzZIcDI2bVNINEw5ai1nMHNpTVNCUl9TbWlDbHVHZXpyY1d4WW4xekhoQ2VVQVVSc0kyNHd4UnlzN2NnQi12SC1DeTdlY0g3cW5EWkRobGJKZzE1TkRYdFBHZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-08T14:51:06.000Z"
+    },
+    {
+      "title": "House VA Committee votes to subpoena Larry Ellison over Oracle EHR overruns",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbEpTY0JwM2s1cjd4cFJkbm45TU1aVUFFRnQ3aEM2WklXNnRCeU05clM3SjcyMUFBcUJPOUpWSmRIWm5WX25UaVAwbzRNLVNhUjlhLUFPamZ5anl2bzhoMHBTbEZ5UC1lTm9VUjJsWjJHWjBfWmZENnhnVWdXNGFfQ1BONXZXbzluQlFqMF91SXN4SXU3SjA3YlN6WkJzMWhzM2RQVXNRbWNJNlozTE53?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-04T07:00:00.000Z"
+    }
+  ]
+}
