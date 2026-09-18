@@ -1,0 +1,184 @@
+{
+  "date": "2026-09-19",
+  "generatedAt": "2026-09-18T23:08:16.455Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 28,
+  "sources": {
+    "MedCity News": 5,
+    "MobiHealthNews": 7,
+    "STAT News": 10,
+    "Healthcare IT News": 6
+  },
+  "summary": "Major funding rounds underscore continued investment in health-tech verticals, with Angle Health reaching a $2.7 billion valuation on $600 million in equity financing, Ayble Health securing $16 million for virtual digestive health services, and Inspiren raising $70 million for an AI senior care platform. On the regulatory and policy front, the Trump administration is promoting a GENEROUS program to offer cheaper drugs through state Medicaid programs, while CMS is expanding its outcomes-based ACCESS model starting spring 2027 to cover heart failure, COPD, substance use disorders, and tobacco cessation. In clinical breakthroughs, Ultragenyx's Fayuvi became the first FDA-approved gene therapy for Sanfilippo syndrome type A, while Roche and Genentech opened a new Boston R&D center to expand research capabilities. Healthcare infrastructure continues evolving with efforts to advance interstate telehealth licensure and physical AI deployments addressing hospital logistics fragmentation, though emerging concerns about AI governance—including rogue agents and careful scrutiny for older adult populations—highlight the need for thoughtful implementation alongside innovation.",
+  "items": [
+    {
+      "title": "Ayble Health Secures $16M for Virtual Digestive Health Clinic",
+      "link": "https://medcitynews.com/2026/09/ayble-health-secures-16m-for-virtual-digestive-health-clinic/",
+      "source": "MedCity News",
+      "date": "2026-09-18T21:32:03.000Z"
+    },
+    {
+      "title": "Angle Health secures $600M equity financing at $2.7B valuation",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQThPdmhKaEt1MkxweXFSVXQzRHJKNDFKS0syMEozMnBmVjhZQlJNX1NHc1VYSEs5UXdReHNPVjlMNUFUV2ZldzhGZU1jdi1Ma25JU1A1Nm84enczSXZ3NXpiQTJfVGc3TlRZMVVoTzFSYldBSHRvUkFremZIRUdhbndxYklNdEZvT0ExLWhwYUpuMXZDUmFF?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-18T20:54:22.000Z"
+    },
+    {
+      "title": "STAT+: Trump touts pharma deals to offer cheaper drugs to state Medicaid programs",
+      "link": "https://www.statnews.com/2026/09/18/trump-touts-state-participation-generous-medicaid-drug-discount-program/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-18T20:22:36.000Z"
+    },
+    {
+      "title": "Roche, Genentech open Boston R&D center",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwczZzdFNzVG9TNWd3encyYTl4QWVsQjdRNkI3azRjck1Eb2dMaVpwYnotNThueloxRXBBaWx0TXUzcjhLZlpSZGY4SVN6OWE4NW94dnJramR6UWxobzZIOTFTbW5fbjk0Z0dsYXVYQzl3TW44WTNxemw4QzNYUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-18T20:22:23.000Z"
+    },
+    {
+      "title": "Ultragenyx Gene Therapy Is First Approved Treatment for Rare Neuro Disease Sanfilippo",
+      "link": "https://medcitynews.com/2026/09/ultragenyx-gene-therapy-fda-approval-sanfilippo-syndrome-type-a-fayuvi-mps-iiia-rare-disease/",
+      "source": "MedCity News",
+      "date": "2026-09-18T19:38:06.000Z"
+    },
+    {
+      "title": "Q&A: Rogue AI agents and healthcare cybersecurity",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZDVabnJpMWlrd2Y4WVE5eWgyVDk0Nnc0ZlBXNWdHSTh5X3N3UUlOSVFGNVA2VnRZZGMtMXVvVzNmY1N5Q0N3ZVp3cDF3OWNCVzNCOHJETVhtYmpyQVVsYk56aS05NDdSYjVxVndDUldoQ25jcTN2YUNJcXA4dUVoQThvcFJvbHBFMC1j?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-18T17:38:14.000Z"
+    },
+    {
+      "title": "ATA Action forms coalition to advance interstate telehealth licensure",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNW9mQUxLaDhFaHR3dk1xbDVmdnFQSnYyRTBmbDM4VFpmSUVmYWpaQ3psdGJLNWZjOEJlRUh0eWUwckh0RmZzOElyVWF0YWhkWU40T01DSEtVVFVvTlVGdkNscUZnczE1YTQyN0w5WnM4UGJIM0dMaktWbTdCYlFhb2JScllkODRsZTVpdXBWMlNBaVR5REhEWi1rbFNGVlNrYklBakRXbw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-18T17:26:23.000Z"
+    },
+    {
+      "title": "Physical AI takes aim at hospitals' fragmented logistics",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZFAzVGRiM3NrZmJHb3VDS3VVN0xDdTZnM21NQjJqeHpSTWcxdkdNQkFFWWFEM2Uybk95MjVmLS1iRDlQRG0zdTFFaDh5VWtpZk9oblJpUDJjSWQ3dlhmZ0RtanBxeFlldkI2YzlxQmF4T2txWWRkZGIwSm93Qlk0bXkyMTR1Znh1U19Kd1ZZY0M2MjR6?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-18T16:47:30.000Z"
+    },
+    {
+      "title": "STAT+:  In a fight over denied claims, HCA sues out-of-state Blue Cross Blue Shield plan",
+      "link": "https://www.statnews.com/2026/09/18/hca-hospitals-sue-independence-blue-cross-prior-authorization/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-18T16:41:53.000Z"
+    },
+    {
+      "title": "Taiwanese hospital builds own agentic AI",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmdoSzNwUWlhN3RQelFsUHZPWXdQVG80R00tVXBWUEJyQUtzemtrRDV4bGlvVHBKU1p2ZjBDOWpuT09UY3M2SFhvOHFOcDVGMHVxUG5qdWFmcmJaWWUwcFlYT3R2eUVfXzRJY3R6dDdfSHpTYnM0S1g1Slp4RkIybFhzdzdSOW1ON1E?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-18T14:22:00.000Z"
+    },
+    {
+      "title": "CMS Broadens ACCESS Model to New Chronic Conditions",
+      "link": "https://medcitynews.com/2026/09/cms-broadens-access-model-to-new-chronic-conditions/",
+      "source": "MedCity News",
+      "date": "2026-09-18T14:07:06.000Z"
+    },
+    {
+      "title": "How digital maturity validation advances clinical AI",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVW5lWjRIbVhvLUJZLWxfMDRqaGQ2NTZCQ0h4TFNYc3BVWG9rTThfcWtaN2dCUDBRZ3lPbHVSdWRGdzBrSlVaZF8ySE12SW84YnJQWlE1a3ZmYXpzVlg2TnpKRUhWeVJpYTdNaFJVNDNjbXhXemJMeGRqbzc0NVZ5cEdSZm5SdlVqZ1IyRWd0NVRKcFp6VnFTYUVMWko?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-18T13:45:00.000Z"
+    },
+    {
+      "title": "STAT+: Roche expands its Boston footprint with new research center",
+      "link": "https://www.statnews.com/2026/09/18/biotech-news-roche-expands-it-boston-footprint-with-research-center/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-18T13:42:29.000Z"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "link": "https://www.statnews.com/pharmalot/2026/09/18/up-down-ladder-latest-comings-goings-job-changes/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-18T13:38:24.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about licensing deals with China, making drugs in space, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/09/18/rules-for-china-licensing-deals-making-drugs-in-space/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-18T13:29:38.000Z"
+    },
+    {
+      "title": "Extending ADHD Coverage for the Entire Active Day",
+      "link": "https://medcitynews.com/2026/09/extending-adhd-coverage-for-the-entire-active-day/",
+      "source": "MedCity News",
+      "date": "2026-09-18T13:01:00.000Z"
+    },
+    {
+      "title": "Who supports policies for ‘health equity’? It depends on how you’re asking",
+      "link": "https://www.statnews.com/2026/09/18/health-news-who-supports-health-equity-policy-in-america/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-18T12:11:48.000Z"
+    },
+    {
+      "title": "The Shifting Role of Wearables in Healthcare",
+      "link": "https://medcitynews.com/2026/09/the-shifting-role-of-wearables-in-healthcare/",
+      "source": "MedCity News",
+      "date": "2026-09-18T11:58:08.000Z"
+    },
+    {
+      "title": "Opinion: Doctors should educate patients about ‘Asian glow’ and drinking risks",
+      "link": "https://www.statnews.com/2026/09/18/what-is-asian-glow-alcohol-flushing-aldh2-drinking-health-consequences/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-18T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: More young men are coming to me for plastic surgery. The way I think about them has changed",
+      "link": "https://www.statnews.com/2026/09/18/young-men-plastic-surgery-rates-influencers-lookmaxxing-clavicular/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-18T08:30:00.000Z"
+    },
+    {
+      "title": "In Sudan, attacks on hospitals force patients to make dangerous journeys",
+      "link": "https://www.statnews.com/2026/09/18/sudan-civil-war-cancer-treatment-wartime-tom-catena-mother-mercy-hospital/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-18T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: A geriatrician explains why AI for older adults deserves careful scrutiny",
+      "link": "https://www.statnews.com/2026/09/18/geriatrician-explains-why-ai-for-older-adults-deserves-careful-scrutiny/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-18T08:30:00.000Z"
+    },
+    {
+      "title": "Owkin licenses AI scientist, patient data to Servier for oncology research",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbXJjUW9VdzZBa2dwSlJrdGRibEZqNzMza0NQOGRYYWljUFVqaXQ1ZE01YlJKVzZ4aWI1U3gtZnR4WEtkRTRFenRKcFByaWlvanBaVkRNQ3owSnpPck1fM0NJR3Y0WG8yNk5xX0pyZU1ZYXRRbEV5NkZ4THktaTIyczlxQks4dV9lSVh6c1lsQjRMclNUVVZnVjNJZUg3NDVORG5vQw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-14T12:00:00.000Z"
+    },
+    {
+      "title": "Inspiren raises $70M for AI senior care platform",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa2tpeVZKWlBzRzFDdlhibWt3c0pYRGZrRDc4N1Z1RlE3bFI1YUxsbzZxN2wtWUxKVEZpWUUzOERHbThKQ2E2bWhHdnF0SzhkYXEteENIUFQ0OWtXWnpTOU4tblR0YUZoc1d6V010Tmo1NHBGZ29WQnhpcUdPdWVHVTVsNTJ2Zw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-11T19:30:37.000Z"
+    },
+    {
+      "title": "Accenture stays on for My Health Record support",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa3drZ0lhRXFTNFBzelRFSXlqRjFfOFVlbUVvaEtVOGNQQlp6RG1zZkpVbEdNZzI5SzlocExGUGpDZmtmeFoxUFdaN2kwN3NlMzlQUmxqSk1LRlZUTldEek5KelVUdnNpaUI3MWVzLWtkZFRlSnIwb01CRDFYUHhzbXNlSHBobEJKZmc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-07T02:23:25.000Z"
+    },
+    {
+      "title": "Eve Bender",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80OXBDU1ZDRFlrbE9tOWc1SURPSjg3OGZuZTl1ckk0aXdEaDBkQzhVX1pRWkJYbGlNZ2dPVDNUMVk4SFR6Unh6c3l4VjBrZkE1MEVvazBCTnNyNU5C?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-06-03T20:10:45.000Z"
+    },
+    {
+      "title": "The promise of IT will arrive fully with genAI, Froedtert CTO says",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdUdsLUsxUHd2WTJfd29OWm54TlRrdFo1YmVpZXBrUkY4aGF1Z0lNY21iR2h2Uk9aby10WFAtR1lHVHFwdlVSX2t6NWFObnMwVDQtOEY0a2JKT2VEWk93ZmRsOFRadG42Y3VnSUhMbHdqUjc0OVV3V2hNZ1ZNNGFyUnlqc05jS2xDRk1iLXRhVS16bzhaTXVJ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2025-07-15T13:38:41.000Z"
+    },
+    {
+      "title": "Electronic Health Records (EHR, EMR)",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CdEV1WVU1ZEg0UTFWMUxiaVp5QTVpOGh0U2pJR3l4NTVYT0VKS0N2NDZUcUxHSy1WTHNyamhJLURDNHgzSjF3cXR2ZnZzeWwxSGV1NmJpaUZOWHA5aklweV8xMWF2d3Q5aHhPcndudVlLbzFpdmFEWl9Ed0RsZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2025-07-09T13:59:10.000Z"
+    }
+  ]
+}
