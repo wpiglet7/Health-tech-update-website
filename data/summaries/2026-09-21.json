@@ -1,0 +1,237 @@
+{
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-20T23:05:03.290Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 37,
+  "sources": {
+    "MedCity News": 30,
+    "Healthcare IT News": 5,
+    "MobiHealthNews": 2
+  },
+  "summary": "Today's health-tech developments reflect three major themes shaping the sector. First, significant capital is flowing into specialized care and infrastructure: Angle Health raised $600 million for employer benefits, Electra Therapeutics secured $350 million via IPO for precision immunology drugs, and multiple virtual care platforms including Ayble Health and senior living AI company Inspiren closed substantial funding rounds. Second, regulatory and operational challenges persist despite recent innovations—the healthcare system still lacks redundancy in critical clearinghouse infrastructure two years after Change Healthcare's cyberattack, Medicare Advantage denial rates are climbing prompting health systems to steer patients to traditional Medicare, and hospital operating margins fell to 1.4% in July amid payer pressures and surgical slowdowns. Third, drug approvals and M&A activity remain robust, with FDA approvals for Ultragenyx's gene therapy for Sanfilippo syndrome and Scholar Rock's first-in-class neuromuscular disease treatment, while Novartis acquired blood-brain barrier technology from Sironax for $125 million and GSK committed $750 million for a T cell engager from Chimagen. Finally, policymakers are reshaping healthcare: RFK Jr. reorganized the U.S. Preventive Services Task Force leadership, and CMS is expanding its ACCESS outcomes-based payment model to heart failure, COPD, substance use disorders, and tobacco cessation beginning in spring 2027.",
+  "items": [
+    {
+      "title": "Electra’s Upsized IPO Lands $350M for New Class of Precision Immunology Drugs",
+      "link": "https://medcitynews.com/2026/09/electra-ipo-sirp-shlh-immunology-inflammation-precision-medicine-etra/",
+      "source": "MedCity News",
+      "date": "2026-09-20T22:22:27.000Z"
+    },
+    {
+      "title": "Angle Health Raises $600M to Grow Employer Health Benefits Platform",
+      "link": "https://medcitynews.com/2026/09/angle-health-raises-600m-to-grow-employer-health-benefits-platform/",
+      "source": "MedCity News",
+      "date": "2026-09-20T21:48:17.000Z"
+    },
+    {
+      "title": "RFK Jr. Overhauls USPSTF Leadership: 5 Things to Know",
+      "link": "https://medcitynews.com/2026/09/rfk-jr-uspstf-medical/",
+      "source": "MedCity News",
+      "date": "2026-09-20T14:33:00.000Z"
+    },
+    {
+      "title": "Two Years After the Change Healthcare Cyberattack, Healthcare Still Has a Clearinghouse Redundancy Problem",
+      "link": "https://medcitynews.com/2026/09/two-years-after-the-change-healthcare-cyberattack-healthcare-still-has-a-clearinghouse-redundancy-problem/",
+      "source": "MedCity News",
+      "date": "2026-09-20T13:45:00.000Z"
+    },
+    {
+      "title": "The Trials Were Always There — Patients Just Couldn’t Find Them",
+      "link": "https://medcitynews.com/2026/09/the-trials-were-always-there-patients-just-couldnt-find-them/",
+      "source": "MedCity News",
+      "date": "2026-09-20T13:17:00.000Z"
+    },
+    {
+      "title": "Ayble Health Secures $16M for Virtual Digestive Health Clinic",
+      "link": "https://medcitynews.com/2026/09/ayble-health-secures-16m-for-virtual-digestive-health-clinic/",
+      "source": "MedCity News",
+      "date": "2026-09-18T21:32:03.000Z"
+    },
+    {
+      "title": "Ultragenyx Gene Therapy Is First Approved Treatment for Rare Neuro Disease Sanfilippo",
+      "link": "https://medcitynews.com/2026/09/ultragenyx-gene-therapy-fda-approval-sanfilippo-syndrome-type-a-fayuvi-mps-iiia-rare-disease/",
+      "source": "MedCity News",
+      "date": "2026-09-18T19:38:06.000Z"
+    },
+    {
+      "title": "CMS Broadens ACCESS Model to New Chronic Conditions",
+      "link": "https://medcitynews.com/2026/09/cms-broadens-access-model-to-new-chronic-conditions/",
+      "source": "MedCity News",
+      "date": "2026-09-18T14:07:06.000Z"
+    },
+    {
+      "title": "Extending ADHD Coverage for the Entire Active Day",
+      "link": "https://medcitynews.com/2026/09/extending-adhd-coverage-for-the-entire-active-day/",
+      "source": "MedCity News",
+      "date": "2026-09-18T13:01:00.000Z"
+    },
+    {
+      "title": "The Shifting Role of Wearables in Healthcare",
+      "link": "https://medcitynews.com/2026/09/the-shifting-role-of-wearables-in-healthcare/",
+      "source": "MedCity News",
+      "date": "2026-09-18T11:58:08.000Z"
+    },
+    {
+      "title": "Core Technologies",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRkUxbUhBa0M2WmdFM2xlNVlicjFrTlh1QlVXV1hQVWp6bVppQXFDT09SekdWUVRCcHlnRVVJcU1NdENBQ2NyYnpjUk14TV9ZeXlZZjBSUWR4T2VNVzBCempYX0xra2lzbFNtYWxudHZOcWtjZXE0eEIwQ3MyNGpxaU80VEJLTGdQLWZaMEdGamprcVdGbHZ3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-18T01:25:19.000Z"
+    },
+    {
+      "title": "Trump’s $500 ACA Refunds: ‘We Shouldn’t Confuse a Check With a Healthcare Affordability Strategy’",
+      "link": "https://medcitynews.com/2026/09/trumps-500-aca-refunds-we-shouldnt-confuse-a-check-with-a-healthcare-affordability-strategy/",
+      "source": "MedCity News",
+      "date": "2026-09-17T22:15:24.000Z"
+    },
+    {
+      "title": "North Immunology Reverse Merger Comes With $180M for Next-Gen Inflammation Drug",
+      "link": "https://medcitynews.com/2026/09/north-immunology-reverse-merger-aethlon-il-13-1l-18-bispecific-antibody-atopic-dermatitis-eczema-aemd-nrtx/",
+      "source": "MedCity News",
+      "date": "2026-09-17T19:41:13.000Z"
+    },
+    {
+      "title": "How a Cancer Diagnosis Shaped This VC’s Precision Health Thesis",
+      "link": "https://medcitynews.com/2026/09/precision-medicine-healthcare-investment/",
+      "source": "MedCity News",
+      "date": "2026-09-17T19:25:17.000Z"
+    },
+    {
+      "title": "The Missing Link in Surgical Safety: Integrating Patient Warming and Positioning",
+      "link": "https://medcitynews.com/2026/09/the-missing-link-in-surgical-safety-integrating-patient-warming-and-positioning/",
+      "source": "MedCity News",
+      "date": "2026-09-17T13:41:00.000Z"
+    },
+    {
+      "title": "Novartis Gains a Way to Get Drugs Into the Brain, Buying Sironax Tech for $125M",
+      "link": "https://medcitynews.com/2026/09/novartis-sironax-blood-brain-barrier-drug-delivery-neuroscience-bbb-nvs/",
+      "source": "MedCity News",
+      "date": "2026-09-16T18:28:23.000Z"
+    },
+    {
+      "title": "As MA Denial Rates Rise, Hospitals Are Betting on Traditional Medicare Instead",
+      "link": "https://medcitynews.com/2026/09/medicare-hospitial-reimbursement/",
+      "source": "MedCity News",
+      "date": "2026-09-16T15:57:00.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5INTl1MU0zMmh2dXFOSjI0Q2YwSzBwMTRRRWpLVmdkQ3lwMS1GUWRUaFVaYWpTTjFCdXd1bEZGWUlDR25UYnlFNGg0YWFGWFUtS2hlNlA4WTk4b2oxZDFIX3hCc0lqbVA5cFhsTlpGUnFobk81Q1ZrdklHSQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-16T15:21:29.000Z"
+    },
+    {
+      "title": "AI Isn’t a Therapist, but Many Teens Are Treating It Like One",
+      "link": "https://medcitynews.com/2026/09/ai-isnt-a-therapist-but-many-teens-are-treating-it-like-one/",
+      "source": "MedCity News",
+      "date": "2026-09-16T13:50:00.000Z"
+    },
+    {
+      "title": "Hospital Margins Fell This Summer Amid Outpatient Slowdown, Data Shows",
+      "link": "https://medcitynews.com/2026/09/hospital-finance-2/",
+      "source": "MedCity News",
+      "date": "2026-09-15T23:10:28.000Z"
+    },
+    {
+      "title": "Thatch Secures $108M, Reaches $1B Valuation",
+      "link": "https://medcitynews.com/2026/09/thatch-secures-108m-reaches-1b-valuation/",
+      "source": "MedCity News",
+      "date": "2026-09-15T22:25:45.000Z"
+    },
+    {
+      "title": "GSK Commits $750M to Get Chimagen’s Phase 1-Ready Drug for Multiple Myeloma",
+      "link": "https://medcitynews.com/2026/09/gsk-chimagen-trispecific-t-cell-engager-multiple-myeloma-cancer-tce/",
+      "source": "MedCity News",
+      "date": "2026-09-15T18:57:36.000Z"
+    },
+    {
+      "title": "The Real Bottleneck in U.S. Pharma Reshoring Isn’t Factories – It’s Talent",
+      "link": "https://medcitynews.com/2026/09/the-real-bottleneck-in-u-s-pharma-reshoring-isnt-factories-its-talent/",
+      "source": "MedCity News",
+      "date": "2026-09-15T13:34:00.000Z"
+    },
+    {
+      "title": "How Human-Led AI Improves Healthcare Marketing Intelligence",
+      "link": "https://medcitynews.com/2026/09/how-human-led-ai-improves-healthcare-marketing-intelligence/",
+      "source": "MedCity News",
+      "date": "2026-09-15T11:50:00.000Z"
+    },
+    {
+      "title": "Nara Health Secures $14M for Third Party Administration Platform",
+      "link": "https://medcitynews.com/2026/09/nara-health-secures-14m-for-third-party-administration-platform/",
+      "source": "MedCity News",
+      "date": "2026-09-14T20:57:32.000Z"
+    },
+    {
+      "title": "Scholar Rock Drug Wins First-in-Class Approval in Rare Neuromuscular Disease",
+      "link": "https://medcitynews.com/2026/09/scholar-rock-drug-wins-first-in-class-approval-in-rare-neuromuscular-disease/",
+      "source": "MedCity News",
+      "date": "2026-09-14T19:27:24.000Z"
+    },
+    {
+      "title": "Shadow AI Is the Fastest Growing Force in Medicine, and Hospitals Are the Only Ones Who Can Control It",
+      "link": "https://medcitynews.com/2026/09/shadow-ai-is-the-fastest-growing-force-in-medicine-and-hospitals-are-the-only-ones-who-can-control-it/",
+      "source": "MedCity News",
+      "date": "2026-09-14T15:27:13.000Z"
+    },
+    {
+      "title": "From Onboarding to Outcomes: The Privacy-First Identity Workflow for Pharma Marketing",
+      "link": "https://medcitynews.com/2026/09/from-onboarding-to-outcomes-the-privacy-first-identity-workflow-for-pharma-marketing/",
+      "source": "MedCity News",
+      "date": "2026-09-14T11:50:00.000Z"
+    },
+    {
+      "title": "Interra Health Adds GLP-1 Bridge Program Support",
+      "link": "https://medcitynews.com/2026/09/interra-health-adds-glp-1-bridge-program-support/",
+      "source": "MedCity News",
+      "date": "2026-09-13T22:29:53.000Z"
+    },
+    {
+      "title": "Inspiren Rakes In $70M to Scale Its AI-Powered Senior Living Platform",
+      "link": "https://medcitynews.com/2026/09/inspiren-senior-living-ai/",
+      "source": "MedCity News",
+      "date": "2026-09-13T14:36:33.000Z"
+    },
+    {
+      "title": "Healthcare Needs Software That Handles a Messy Reality",
+      "link": "https://medcitynews.com/2026/09/healthcare-doesnt-need-simpler-software-it-needs-software-that-handles-a-messy-reality/",
+      "source": "MedCity News",
+      "date": "2026-09-13T13:34:00.000Z"
+    },
+    {
+      "title": "GenHealth.ai Raises $16.5M to Automate Healthcare Administrative Tasks",
+      "link": "https://medcitynews.com/2026/09/genhealth-ai-raises-16-5m-to-automate-healthcare-administrative-tasks/",
+      "source": "MedCity News",
+      "date": "2026-09-11T20:52:00.000Z"
+    },
+    {
+      "title": "Amwell picked to provide virtual care services for VA",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYTlXS1pyR0lnU19TQmVRS2UwX3dvTlZ4ZUY2Slh3U3RGTUVOc0NjcndwZ3FFYVVjRk9sWXdlLS1nNXpDb1AtdmJyTDBIVDZqT2h6b2lPRjY4VFBUUkE1Zm5jSXp2d0c3WXFuLURhVE9fdVgyV0drX09ZUEpkQkJCT2JldDdXakJjcmhrVw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-11T13:00:00.000Z"
+    },
+    {
+      "title": "Apple acquires assets from biomagnetic sensing startup Sonera",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZUVRSkR3RzljS1M1X2NnaUwzdTYyVTJXaTNYbk9FMmlMS0FzUjNycGVpY0tVT2JNSkt3TUdBbjdyRUtHb0g2RUtTNU1oOEp5LXZnSmNlazJzRjB0Y0E1NTlvNVFrOHp4blgwUjhaeEh2T0gybEYxbXBtaGl3Z0Q3QnF3WDlzc29kWUhLT2tPRm9yaTFuX2F3?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-11T07:00:00.000Z"
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tWkZQY0hueFFlWWtqSWNCc3NPQW93c2xGMzhmeEE2eW1EdTVuM21mcmJGOXcyN0VRbUh3YmkyYk04UjVDZDFYSnczNTRqUkxra2kwRTgyVEZ4YTI3cl9fQ0F3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-09T13:08:03.000Z"
+    },
+    {
+      "title": "New ANZ digital health assurance body launched and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQck0tb2dibDVzcjNDb2Y1V0d2NW8xX2t0cmM4ZWIzZk1DXzl5dC1RX0RCQTZoVVgzN2xQeXFHWWh6YlNzRG9Rb0kyczV0RGIwdEVTeFBLWmNqR0Zqa1NUN3ZscERmYU5jQ25hU290aHhBRjRobWc0S2NQTjVGUXlMcjNQOGpYZWItc0RwSnk3ZGJnZXlKWnU5b3RacmJFeEhDZGNxcms5NA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-07T01:58:19.000Z"
+    },
+    {
+      "title": "The promise of IT will arrive fully with genAI, Froedtert CTO says",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdUdsLUsxUHd2WTJfd29OWm54TlRrdFo1YmVpZXBrUkY4aGF1Z0lNY21iR2h2Uk9aby10WFAtR1lHVHFwdlVSX2t6NWFObnMwVDQtOEY0a2JKT2VEWk93ZmRsOFRadG42Y3VnSUhMbHdqUjc0OVV3V2hNZ1ZNNGFyUnlqc05jS2xDRk1iLXRhVS16bzhaTXVJ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2025-07-15T13:38:41.000Z"
+    }
+  ]
+}
