@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T23:56:57.899Z",
+  "generatedAt": "2026-09-22T23:32:07.506Z",
   "sources": [
     {
       "id": "stat",
@@ -25,6 +25,214 @@
   "count": 120,
   "items": [
     {
+      "title": "Pelago Unveils New Behavioral Health Platform for Substance Use, Mental Health and Behavioral Addiction Care",
+      "link": "https://medcitynews.com/2026/09/pelago-unveils-new-behavioral-health-platform-for-substance-use-mental-health-and-behavioral-addiction-care/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-09-22T23:23:17.000Z",
+      "snippet": "Pelago launched a behavioral health platform that integrates substance use, mental health and behavioral addiction care, using AI-powered triage to connect patients with appropriate treatment. The post Pelago Unveils New Behavioral Health P…"
+    },
+    {
+      "title": "Te Whatu Ora expands AI into rostering",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GdDhoN2V1ZlJNVGNuTF92N3N2WUUycDdIUV9wODZBRG5YU0lYZFJkWmpPQmJWc3pzNjBOSldPUXViY20ya1ZVYlBCYnN6Q0tnc01id3VjeEYwTnlJN2Q3M3FLYW9pZzE5REt6cUpQUVk2T1VCeUNoTzBhWHBRUQ?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-22T22:18:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Adelaide AI detects endometriosis signs from single scan",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaVNEV0JacXNoVGFDLTcwamlDaHVLZ25LaEZPZTBnV0Fvc0Vwb2JTeTdYVVNENXJNcUlPdkdZSXpocElmLVotWk1kR184OGRxaDZVMWxxYWhBRzF4a2tiWDUzeHZGUF9ycG01ZHplbUhkdGJFc3RQcVFKSU0yZGtoQmJFa2xjVmJZclkzalVCdUpyRmFKUVE?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-22T22:10:15.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "How is Oracle Health’s Nurse AI Agent Different?",
+      "link": "https://medcitynews.com/2026/09/how-is-oracle-healths-nurse-ai-agent-different/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-09-22T20:44:11.000Z",
+      "snippet": "The Oracle Health Clinical AI Agent is unique in the way it’s embedded directly in the Oracle Health Foundation EHR, making it easier for nurses who don’t have to shift between tools used for separate tasks. The post How is Oracle Health’s…"
+    },
+    {
+      "title": "Amgen Drug Meets Goals of Key Test in Common Autoimmune Disease With No Approved Meds",
+      "link": "https://medcitynews.com/2026/09/amgen-sjogren-autoimmune-chronic-disease-dazodalibep-cd40l-amgn/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-09-22T19:58:47.000Z",
+      "snippet": "Amgen’s dazodalibep led to statistically significant and clinically meaningful results, according to preliminary Phase 3 results in Sjögren’s disease. This fusion protein could compete against a Novartis antibody under an FDA review that co…"
+    },
+    {
+      "title": "STAT+: HHS unveils new initiatives to reduce animal testing in drug development",
+      "link": "https://www.statnews.com/pharmalot/2026/09/22/hhs-initiatives-reduce-animal-testing-in-drug-development/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-09-22T19:28:42.000Z",
+      "snippet": "For the second time this year, HHS announced new strategies to speed the away from animals in medical testing."
+    },
+    {
+      "title": "Opinion: Former FDA commissioners: Heidi Overton has an opportunity to strengthen the FDA",
+      "link": "https://www.statnews.com/2026/09/22/heidi-overton-fda-commissioner-confirmation-hearing/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-09-22T17:49:03.000Z",
+      "snippet": "Two former FDA commissioners: Heidi Overton is the right pick in a difficult moment."
+    },
+    {
+      "title": "Interoperability roundup: New AI connections, more QHINs",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNzg3UnpzT2pwaGlpQnFHUlA4djhWVjAzcmFDalo3V3ljWXZyYlhwWWhLSWluRlNSOEdRU2xXWkdORGMyYzIzMUZ6aS1McndzejhPWUxhNTdkaGRqTTBFR1EwN0VSMk1oREF2eVBIekVldWZ1OHJaZnloNkY5ZmJfZXJDT3N4YmlLVU9MaGVKeHVCN1ZGZHg0?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-22T17:48:22.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Building an asynchronous telehealth model clinicians can use",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0E5eG9rQ0lHWGRMaGJaSzZFdDFNU3Z1emFRbDZmMGhpbEFrdzFLVHJJeG9mUHJvT21qVkhybHJ5bHZzcDgtWEZ5dkxKQnNQckxNQkJuOHFyeS1tMUVHeGJWOXhZcXlfbVMxcW40alJRNmRwMklWbTVGTHEzdXVuTEYtcm5ZajdBa1NzZF9Vc1lISENTYzRjQ21MNA?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-22T17:32:58.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA-backed Iambic Therapeutics files for IPO",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSEZpTGlwcXBOWHZSaUFWTzNKWmlMQUN3ck50U01UWmFJckx3NURhb2FGRjBFOTJSUnUzS1c4SGlLazBxeGtlbVV0Nnpvcm1KUy1rTHNOdXJpNWdRSFZzSDdmbzQ0MXpDakNTWnpkdnNBQVRmNk9aXzhyVEFMczljYmNCN2Eydw?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-22T17:21:50.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Sens. Warner and Wyden re-intro cyber bill with money for hospitals",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTczT0tlRUhmRk14Unhra2lhMjdIRWlrdGZ0ZWpFazk1cXdQSGtYVzlacC1NZ1ZFRXFERjdybmR0S1pDWWt4Ym80OHJOY2VPLXFlZUw1VnFLaF9ZS3ozMUljVVFlYmx5Rl9IaDZ3SjdTeG9SLTJyVGNOZFBfZjBxZHBodFV6ZTk3dXA3WlR0VFRZOGdqOUJKRGtxbw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-22T16:29:47.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "STAT+: Did the Trump administration just cut Novo a huge financial win?",
+      "link": "https://www.statnews.com/2026/09/22/dc-diagnosis-did-trump-administration-cut-novo-huge-financial-win/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-09-22T16:23:21.000Z",
+      "snippet": "The White House's GENEROUS plan was designed to make drugs more affordable for Medicaid users. There's one glaring potential exception."
+    },
+    {
+      "title": "Heidi Health garnered $340M, reaches $900M valuation",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNHZSdm5MT2drV0cyZi10ZUdZaWFCYWJ4LTNacms3QU5TRkFCcUowYUQzTTNSODU1LTBfRnhmZ3lSa3htTHltNnE3eFRDaUtIektKT0FCZnQ2a0NpYWpWUmZXdHAzcUpxVUEwSm9yb0R4UmJIWEVQQmFBdTY0ZG8xWUVwYlZCLVVuNUpld1p3?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-22T16:18:53.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "STAT+: Novo may be getting a better deal than expected with Medicare’s Bridge program",
+      "link": "https://www.statnews.com/2026/09/22/biotech-news-novo-may-be-getting-a-better-deal-than-expected-with-medicare-bridge/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-09-22T14:23:00.000Z",
+      "snippet": "Eli Lilly and Novo Nordisk were already benefitting a great deal from the Trump administration's pilot program covering obesity drugs for seniors at a price of $245 a month. It…"
+    },
+    {
+      "title": "AI could help unify New Zealand medicines data",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZF9rd2sza1QtVTU1ZGdZWGJBX00tUk5XYzZuTG14V3o1N2k0blpHVHBnbjlnUkNMZE5yVnZLdkEtdW92NGhoTTlLamRFZGdBMC1tZHZlLWpWdUdjWlBCMTJpUUxzLWNXSVZ2VHRvRWZ2SVpLejVXRkpqU2FHeU1NRVhrMUxkSmRNV1RZUmNvc3U?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-22T14:05:17.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Clinical leadership must steer AI adoption",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcnVRVzNwUlhLUWYyWlJMMGN2QkRSMHkyaTlqcFl3dEJTSkNua2ZCUnNPZHMwMHJ3SWpib3UyUWJzYlcweXNtam1OM0tyV2plaDA5MGpZNzVFVVpIYUVSZl9seW9jei01STJmdk5WbmtXN0RRWkFWek8xbGtYbjRRNEVzV1NwZm4wdm9fc3FR?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-22T13:34:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "STAT+: Epic’s mortality model, and Omada’s future products",
+      "link": "https://www.statnews.com/2026/09/22/epics-mortality-model-omadas-future-products-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-09-22T13:15:05.000Z",
+      "snippet": "In this edition of STAT Health Tech: What Epic's mortality prediction algorithm tells us about AI in geriatrics, Omada's expansion plans, and more."
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about pharma seeking to protect China deals, a Roche obesity drug, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/09/22/pharma-seeks-to-protect-china-deals-roche-obesity-drug/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-09-22T13:14:34.000Z",
+      "snippet": "Western pharmaceutical companies are urging the Trump administration to allow them to keep doing deals with Chinese companies for drug candidates"
+    },
+    {
+      "title": "AI Workers Need a Probation Period, Not Just a Pilot",
+      "link": "https://medcitynews.com/2026/09/ai-workers-need-a-probation-period-not-just-a-pilot/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-09-22T13:06:00.000Z",
+      "snippet": "Healthcare leaders know how to test software. We don’t yet have a shared playbook for onboarding agents expected to do a job end to end. That is the gap a probation period is meant to fill. The post AI Workers Need a Probation Period, Not J…"
+    },
+    {
+      "title": "New federal autism committee head has financial ties to leucovorin",
+      "link": "https://www.statnews.com/2026/09/22/health-news-federal-autism-committee-head-has-financial-ties-to-leucovorin/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-09-22T11:54:41.000Z",
+      "snippet": "RFK Jr. has installed John Gaitanis, a pediatric neurologist, as the new chair of the Interagency Autism Coordinating Committee, which helps the federal government decide how to allocate roughly $2 billion…"
+    },
+    {
+      "title": "STAT+: Ohio governor’s race is a battle over Covid, health costs, and trust in science",
+      "link": "https://www.statnews.com/2026/09/22/ohio-governor-election-health-care-policy-acton-ramaswamy/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-09-22T08:30:00.000Z",
+      "snippet": "The race between Amy Acton and Vivek Ramaswamy could be the election’s most direct test of where the heartland stands on health care and the pandemic."
+    },
+    {
+      "title": "STAT+: Why an influential GOP health policy expert still backs the Medicaid cuts — and which policy target is next",
+      "link": "https://www.statnews.com/2026/09/22/brian-blase-paragon-health-institute-gop-aca-medicaid-reforms/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-09-22T08:30:00.000Z",
+      "snippet": "Why an influential GOP health policy expert still backs $1 trillion in Medicaid cuts — and which policy target is next."
+    },
+    {
+      "title": "Opinion: Social media bans are passing around the world. How will we know if they help teens?",
+      "link": "https://www.statnews.com/2026/09/22/social-media-bans-australia-uk-teen-mental-health/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-09-22T08:30:00.000Z",
+      "snippet": "“Researchers must seize this opportunity to examine how social media — and its regulation — impacts teenagers,” writes Wellcome’s Camilla Iannone."
+    },
+    {
+      "title": "Opinion: The science on relieving cancer symptoms is clear. Why isn’t insurance paying?",
+      "link": "https://www.statnews.com/2026/09/22/integrative-oncology-cancer-symptoms-insurance-asco-sio-pain-fatigue/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-09-22T08:30:00.000Z",
+      "snippet": "Research shows that integrative therapies reduce cancer-related pain, fatigue, anxiety, and nausea. Why won't insurance pay?"
+    },
+    {
+      "title": "Government & Policy",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xOVEta01IRUNURXJyV3pzUU9UNnZ6MXFxT3NmMi1xaUdBMWptb05SVzJvR1NnVEl2QWxMSlVHSmhOb01nUi1PTEIwZUh1ZGtPM1dIektPRmxHdjVyUXp6b05Ka29zY19XbkU2bTYtV2xScHJKYjVNRGF5UDJQSFk?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-21T23:29:53.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Core Technologies",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRkUxbUhBa0M2WmdFM2xlNVlicjFrTlh1QlVXV1hQVWp6bVppQXFDT09SekdWUVRCcHlnRVVJcU1NdENBQ2NyYnpjUk14TV9ZeXlZZjBSUWR4T2VNVzBCempYX0xra2lzbFNtYWxudHZOcWtjZXE0eEIwQ3MyNGpxaU80VEJLTGdQLWZaMEdGamprcVdGbHZ3?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-21T22:25:18.000Z",
+      "snippet": ""
+    },
+    {
       "title": "STAT+: Members of Congress push back on plan to create a commission of political appointees to review NIH grants",
       "link": "https://www.statnews.com/2026/09/21/trump-plan-for-commission-to-review-nih-grants-push-back/?utm_campaign=rss",
       "source": "STAT News",
@@ -33,12 +241,20 @@
       "snippet": "Several members of Congress voiced strong opposition about a reported plan to create a panel of political appointees to sign off on NIH grants"
     },
     {
+      "title": "Analytics",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQRUZ5V3V4T3lpbFdFRE01SEx6TjdCOWVhNmgweWNPWVdwelhVaGxFdXluVlRJNFRPdVQtZlBBRjVpVUZsakVzVWkwM2JCSzBpNmszSk9IelRwcjFxVjJXWkV1b25fM1REVlRUQlBXWGpFV3JYMW5TOEVqdFp3RWZVcmFCam5URDA5dGgtQ2s5Yk5NMENtZE1wRkx0RGZlQkJEU1dHeENNc09FbURxWGxCQjRIc3Y1RE42b1VEN0x1M2hXRFpxc29rQkZrVFBIQ250R1hIQ2ZZNWFFMDljaml0WUpFNXVWTlJsWUVuZnRrbXNLb1BIdzhyUjdXRE50RmYyVnpVQlVUMERfQ19qeFcwTHZWaFVTQmxuM3NoRzZBcTlka21VUGRwcFgxdlI0Rjk0aGRPU3V3?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-21T20:55:19.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Radiopharmaceutical Dealmaking Continues With Telix’s $1.65B ITM Acquisition",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONmh1UElUZ2pNUEU1WmF6b2dwTi11QjIxaF83WXJpam9STzhpd2VzcVBKQmJKaDJRX0NaOGduTFlyR0ViQ0VFVDBqMnhlZnVUNDI5SHJMdVdFcFJHbTRlV1A4b3c4cG9jLWo5b2JQZEtQTUZLa1h5TC1BQWJBcEExQnEwd2txbmtlRnpRb0UzclBUcXRXTEZUTjlMQTQyTzNoeWk4?oc=5",
+      "link": "https://medcitynews.com/2026/09/telix-itm-merger-acquisition-radiopharmaceutical-cancer-gep-nets-tlx/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-21T20:42:35.000Z",
-      "snippet": ""
+      "date": "2026-09-21T20:36:07.000Z",
+      "snippet": "Telix Pharmaceuticals is acquiring Isotope Technologies Munich, or ITM, in a $1.65 billion stock deal that will create a radiopharmaceuticals company with greater global scale. ITM’s lead pipeline asset is in late-stage development for a ty…"
     },
     {
       "title": "Oura launches IPO targeting $2.2B",
@@ -50,11 +266,11 @@
     },
     {
       "title": "Array Behavioral Care Unveils New Triage Model",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUtJOE1VOG01VUcwUmpjbmV3OEFNOUVnaXpqRU1vbm1hOXJ4QUxqREtLN09UQ21OUnBnZGNKT0xzbTNKX1B0b1NpYzFXaTdtZlVwcUsyRTFiSjY5bVQzTlNVX0FwSlpjamZmXzZMR2M5akFyMkwtS3JPU09FdEJLVU5hYUhqQQ?oc=5",
+      "link": "https://medcitynews.com/2026/09/array-behavioral-care-unveils-new-triage-model/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-21T19:50:35.000Z",
-      "snippet": ""
+      "date": "2026-09-21T19:44:25.000Z",
+      "snippet": "Array Behavioral Care launched a new service to help providers assess patients with urgent behavioral health needs and connect them to appropriate care. The post Array Behavioral Care Unveils New Triage Model appeared first on MedCity News."
     },
     {
       "title": "Want healthcare AI to work? Start with clinicians",
@@ -81,20 +297,20 @@
       "snippet": ""
     },
     {
-      "title": "How AI Is Transforming Clinical Documentation at Intermountain Health",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcUc2a1Z2aHg3ZkxYWVVraFJoZGF5OVQ0dmdXc2xFeXJTVWs5eG9jN1JyeE5TVE5Na2g2TnpPRVJWa0liNnlpc0pwZTJrLTZYR2ZOVl9CZ29aTjYzczFQUTRsX2FDUnl6R3ZXaHlVVnpqcGxfMVlQME1mS0dGVnR1STlQNjM5eHo0aHpyYVFxWXdPUjl2eU01X0ZVa19xbU9fVG04WQ?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-21T17:27:50.000Z",
-      "snippet": ""
-    },
-    {
       "title": "ARPA-H taps 7 organizations for AI cardiovascular care platform",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU2RYNnRqaHFHZURUR3A3Y1RNdjNORnFXdXVnaDk0UXZOQjRmTU9VZjFlOFB0TTZxOXpKSjhIYnZUV18tWWdmUnQyVEFGdDVLQmlUUi1JbTFBRDRjV2tpQjBtX21oeXdZM21ZRUdaU3ltZVFzVmpOaG1KQXJEMEVzaFZ4OENKd2lYUEFQVE5DaGdsMTkxTWdNNjh4WUQ4dw?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-09-21T17:22:35.000Z",
       "snippet": ""
+    },
+    {
+      "title": "How AI Is Transforming Clinical Documentation at Intermountain Health",
+      "link": "https://medcitynews.com/2026/09/how-ai-is-transforming-clinical-documentation-at-intermountain-health/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-09-21T17:20:53.000Z",
+      "snippet": "Since implementing AI clinical documentation improvement (CDI) tools, Intermountain has seen a 22% point increase in inpatient chart completion during or immediately after rounds. The post How AI Is Transforming Clinical Documentation at In…"
     },
     {
       "title": "Where asynchronous telemedicine works – and where it doesn't",
@@ -110,14 +326,6 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-09-21T15:54:52.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Government & Policy",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UdUNqODVMZzBLSjY5LUg0Mjh4TzEtYm16T0w5VXBYREhlZlJ3THRTNEFWTTFEYlpMR2lvVmg0QUVZOTRsdXluWEUwb1lPTUI5NmZWR3hkNlgzWTdoQnZzLTVvMEIxemlTdl9zYUtyR3FxVW5ZUDJHUldSTEVaX0U?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-21T15:36:26.000Z",
       "snippet": ""
     },
     {
@@ -137,14 +345,6 @@
       "snippet": ""
     },
     {
-      "title": "The Nurse Is Health Care’s Most Underpriced Founder",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLVhLeWE2RkVqY3ZPWXhxRklMSThmeHlPcHUxQWNYeEZFMUtVT3FpYjdfNXZMNURVVUNGVFZ6Q1pfZmRFVGpSb3h3ZU42T2RsSGhpNU13RkZLWUJlcGZCaklUX25qQTZnamxldS1YNGdhUnVSVEZsenQwM0M4OXNmcGZEM0dabTNNejNN?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-21T13:33:54.000Z",
-      "snippet": ""
-    },
-    {
       "title": "STAT+: Pharmalittle: We’re reading about Novo plans to expand its pipeline, early Alkermes ADHD data, and more",
       "link": "https://www.statnews.com/pharmalot/2026/09/21/novo-to-expand-pipeline-alkermes-releases-adhd-data/?utm_campaign=rss",
       "source": "STAT News",
@@ -153,11 +353,35 @@
       "snippet": "Novo Nodisk outlined plans to expand its pipeline and find new products that it could sell more like consumer goods than traditional medicines"
     },
     {
+      "title": "The Nurse Is Health Care’s Most Underpriced Founder",
+      "link": "https://medcitynews.com/2026/09/the-nurse-is-health-cares-most-underpriced-founder/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-09-21T13:31:00.000Z",
+      "snippet": "They see the problem first, build the fix, and decide whether it is ever adopted. The market has trained them to hide the one credential that de-risks the deal. The post The Nurse Is Health Care’s Most Underpriced Founder appeared first on…"
+    },
+    {
+      "title": "Electronic Health Records (EHR, EMR)",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOGFySklFQ3lRckhFc0ZBdEVaM0tsUnd1SEJJbGRMZXZVTjNTZW9RWXpydFpuaEZ3ZU5rTzh0aVJTaUFvVWI5NE1fLVZ4MVhrZmczTmZYYnBNWFhwS3ZNWG1JWWdQS1Zyb2NoVGVxTFJCODRfXzV5dHlGN3RSMF9NQzJhUndDYm9iS0lBVlJrYXdYZFpI?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-21T13:21:22.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Navigating risk and the 'black box' of clinical AI",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2pVbTR3VmtuX1JodTVLWFMzd0lRcWlQd0c1QVJaRmk3Q3dteGJYUmhld1FsS1N5c091Ynhwa0lzMVRHcEFCTkxKcUQ3a0Q1ci13SnBNanR1WUtMS1lRQjlwSm5lbVRabWhpSDdpc2NxMmFrM3paRGhnVVdLR2d2Y3I1OUJXWENhem9RMFZ3bTE?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-09-21T13:20:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWZkdzhJY19aTWNFMWkzTWRtYU5BNnVMR01QZnM3QzZxUFplUUZ5RUp2cUo5OW1jRHB2YU9PRURwMDVaVWQ3NWt0TGFFUEVsU0Z0UjhsNUhwaWZNOFplcFdia0hDeU9YSC0wanlxVEdDaHdhNVpLNGxfa0xTZzY2QVRfbHZBRDhZN1hTM2JYb3RPSzNRaFBOTFV6bw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-21T13:07:32.000Z",
       "snippet": ""
     },
     {
@@ -174,14 +398,6 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-09-21T13:00:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Electronic Health Records (EHR, EMR)",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVlVlb19XQU9XQTlXaDdlRlY0enFuNEpzNEYzcnRaVldKTll5S2xDV0M3V3EzYndSWmVPYTVneHR2eHdVZVNBb245Qjg4UFFHV3dPOEtZVzVtU2FYenVZalp4SFNKZE16NnRsZjR5SEVPMlZHWGI4a2NxdkItakczRlNxd3lEY2xRMGctX3JLSWNydzQ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-21T12:31:33.000Z",
       "snippet": ""
     },
     {
@@ -225,43 +441,11 @@
       "snippet": "How one state's governor's race is a test of whether Robert F. Kennedy Jr.'s MAHA movement has an enduring political draw."
     },
     {
-      "title": "Why is trust in science important?",
-      "link": "https://www.statnews.com/2026/09/21/trust-in-science-reporter-nick-florko-interview-status-report-alex-hogan/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-09-21T08:30:00.000Z",
-      "snippet": "STAT's Alex Hogan sits down for an in-depth conversation with our new trust-in-science reporter, Nicholas Florko, on the latest episode of STATus Report."
-    },
-    {
-      "title": "Skeptical about modern medicine? I know the feeling — and want to listen",
-      "link": "https://www.statnews.com/2026/09/21/trust-in-science-nick-florko-on-understanding-growing-scientific-mistrust/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-09-21T08:30:00.000Z",
-      "snippet": "\"I know what it means to be searching for an explanation to what ails you, and a way to fix it,\" writes STAT's new trust-in-science reporter, Nicholas Florko."
-    },
-    {
-      "title": "Addiction clinics see rising cases of kratom and 7-OH withdrawal",
-      "link": "https://www.statnews.com/2026/09/21/kratom-withdrawal-addiction-centers-report-surge/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-09-21T08:30:00.000Z",
-      "snippet": "Addiction clinics are seeing a surge in patients dependent on potent kratom and 7-OH products."
-    },
-    {
-      "title": "Opinion: ClinicalTrials.gov needs a pregnancy and lactation checkbox",
-      "link": "https://www.statnews.com/2026/09/21/clinical-trials-website-pregnant-lactating-patients-checkbox/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-09-21T08:30:00.000Z",
-      "snippet": "It’s hard to identify which clinical trials pregnant and lactating patients can join. Here’s one fix, experts write."
-    },
-    {
-      "title": "signal regulatory proteins Coverage",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTVnRaU1JrY1RmU21yLTlYNC15ckd3Q1FuN0RmeHg3ZDRQcmZKQ251ZVdSTHJQdmtUTjA5SktmM2pVQjhaTDdVOGkwQ3NRdzZLSUdFVFlCZnBhSW5GYi1JZ0FGZUVEZw?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-21T03:53:54.000Z",
+      "title": "AWS Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lNU5mU08tWGtTc2R5akZTaDVIMXVTeGhMNWc1ekl2VHA5QWIxN005SHVsckFORTNXd2ZDVlFyX1hRUkVWdlI2Wk1sUHRGN0dIT0w2alZPdHd1NzNOakpPbUdVZWZ3Qm51NWpZR2NVNVVZWms?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-21T07:09:28.000Z",
       "snippet": ""
     },
     {
@@ -273,108 +457,52 @@
       "snippet": ""
     },
     {
-      "title": "STAT+: Radiopharma companies merge after one receives surprise FDA rejection",
-      "link": "https://www.statnews.com/2026/09/20/radiopharma-companies-itm-telix-merger/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-09-20T23:25:57.000Z",
-      "snippet": "ITM Isotope Technologies Munich SE and Telix Pharmaceuticals, two leading companies in the burgeoning radiopharmaceuticals field, are merging."
-    },
-    {
       "title": "Electra’s Upsized IPO Lands $350M for New Class of Precision Immunology Drugs",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWC1uRWZCR3kwRVgwbDNJNVlkUVFBdEFjMk1mTmg4Wklrcm5hWVFibndpZ3g1MndkWHJKRlBQYXA5T3lwVVdSRFNnMXp5TW1WZ0l5b1pUdW9BOWdiUTBrUTRkRnZiVTJzM1cwcEFVYUNGcjd6VDdWS25Hb21hYU4wd3pxX2JiWTMtOWgyYS1oN2FyMWhUdmhlWF83Umt1d2dRVTRNdA?oc=5",
+      "link": "https://medcitynews.com/2026/09/electra-ipo-sirp-shlh-immunology-inflammation-precision-medicine-etra/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-20T22:37:29.000Z",
-      "snippet": ""
+      "date": "2026-09-20T22:22:27.000Z",
+      "snippet": "Electra Therapeutics’ IPO cash will support a potential first-in-class drug whose lead indication is a rare hyperinflammatory disorder with no FDA-approved treatments. Meanwhile, clinical-stage biotechs Marea Therapeutics and Sensorion reve…"
     },
     {
       "title": "Angle Health Raises $600M to Grow Employer Health Benefits Platform",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemgyVEhSUWw1Yzc2ZnBjM0dReEgtMmNZSnJad29xT2NNZVZFcFh4am9rZ05pUTBBdjVxMW94a3pXSzBNWTNOSjdFcFo0RjJncHlUNmprMWJ5dlo4Um4yeWJ6aXIzNWNzV29nY3lYNFVIbnBEMWVPUzZBeEpiMzI2X1VvaGJVelZWWjEteFFtelBhWl8zTkxiSThJX2xDd0FU?oc=5",
+      "link": "https://medcitynews.com/2026/09/angle-health-raises-600m-to-grow-employer-health-benefits-platform/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-20T21:56:05.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Robert F Kennedy Jr. Coverage",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15OWlWU3NETFN6U256NUZadWxaTzR6S29oRl9Ld3FZUGhjbmUtMzdWSkpXUDFoM0JncUVHY215enJvdVR6T2hNWnBRTHNsei00a0thbDJ0M0NYWGlmdW5V?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-20T19:33:37.000Z",
-      "snippet": ""
+      "date": "2026-09-20T21:48:17.000Z",
+      "snippet": "Angle Health’s funding round was led by Vitruvian Partners, with participation from Town Hall Ventures, Blumberg Capital, Portage Ventures, PruVen Capital and Y Combinator. The post Angle Health Raises $600M to Grow Employer Health Benefits…"
     },
     {
       "title": "RFK Jr. Overhauls USPSTF Leadership: 5 Things to Know",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rMTlwa3drWGVSUEVwSllvUE1rWVRSZkdkcFRBRDI3dUVaTGZ5U2c1SUVick8tcEh4cWh6d21vUUdXZ2ZfUkEzdTllaU00bVFqdzBOZHpKWTFOeTdlY0EySWJFM1E?oc=5",
+      "link": "https://medcitynews.com/2026/09/rfk-jr-uspstf-medical/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-20T14:41:23.000Z",
-      "snippet": ""
+      "date": "2026-09-20T14:33:00.000Z",
+      "snippet": "HHS Secretary Robert F. Kennedy Jr. named eight new members to the U.S. Preventive Services Task Force this week, completing the 16-seat panel amid ongoing tension over its leadership. The post RFK Jr. Overhauls USPSTF Leadership: 5 Things…"
     },
     {
       "title": "Two Years After the Change Healthcare Cyberattack, Healthcare Still Has a Clearinghouse Redundancy Problem",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeVAxWk1QNWVlYm1ucEJ3MUk1dGhqSHVnanQ2UzlqemhINjd1clBJaks3UzNKZVhPMkJQMFR4YjRraFUxbTluVXUzdm1GS0F4UFNhSXhlanFrd2tJT3ZqNVB3OUhLOTVXei1HbXJjbUk3TzlYV0c2S2h6RUJlMHF2bjhVZHVvZlNsU1gyamtEaFJJQllIR2JhSFJrRGZRSmVBNHUzSGg3NHpCa05QMFZHMTFMemh6ZWVpZEZRemRwNjVhNjJnSVg0dDRNSTMxb2xJQWNLTg?oc=5",
+      "link": "https://medcitynews.com/2026/09/two-years-after-the-change-healthcare-cyberattack-healthcare-still-has-a-clearinghouse-redundancy-problem/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-20T13:59:46.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "- MedCity News",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBMbmVwOFk4ZXljdFlkWXJkNDBKZkV5NzFVTnZhWGZJTmM1bW1ZN1ZNUkVVY29XX3poSU85dDFNTUFlVEYySUFudFln?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-20T13:50:05.000Z",
-      "snippet": ""
+      "date": "2026-09-20T13:45:00.000Z",
+      "snippet": "What happened was not just a cybersecurity failure, it was an infrastructure failure. The post Two Years After the Change Healthcare Cyberattack, Healthcare Still Has a Clearinghouse Redundancy Problem appeared first on MedCity News."
     },
     {
       "title": "The Trials Were Always There — Patients Just Couldn’t Find Them",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSG10OE54QjZpR04xX1ZacHduT2xmMHJTYlhESzRZWkI0M0RYbkFhN2FsR3poZXdpRDIxeW5ndy12UUEyaGF2V2hJbjQ1ampaT1cyVU5EWDBNWnZkRFp3c1R6cjVFc1haTTkwTVhpWHRJMzFlNXhrcHprMHBrZDJZUDZ1NzdJMHdhbHNMakwwdUhtV0NIdk5XTA?oc=5",
+      "link": "https://medcitynews.com/2026/09/the-trials-were-always-there-patients-just-couldnt-find-them/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-20T13:29:33.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Jehovah’s Witnesses allow blood-derived products but keep ban on whole-blood transfusions",
-      "link": "https://www.statnews.com/2026/09/19/jehovahs-witnesses-blood-derived-products-transfusions/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-09-19T14:13:11.000Z",
-      "snippet": "The Jehovah’s Witnesses have partly eased their longstanding prohibition on the medical use of donated blood."
-    },
-    {
-      "title": "Fayuvi Coverage",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIZlA4UnVmcDBwaGhZanVhVTR3Y3ZhTEJQQjZFOE44TDdZdC1OeXc3bzl1M1lqYVhrMGQwVk5vZU0zTkQxMURxY3FWcw?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-19T05:16:27.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "CMS ACCESS Coverage",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCenZ6NmdfY0Q4aDlHSThpVlNDRmEzaER4TFBsRXJGVTFCZE1peVRockR1UzlmRVRZRXpneDlsUnRaTk1PZnRpc1hxTGdBSnZQ?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-19T05:16:26.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Ultragenyx Gene Therapy Is First Approved Treatment for Rare Neuro Disease Sanfilippo",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMElNTjhlMWRTS3NESVdTcDBUVHQ3MEg3ZGNCMl9PdlYtNExDaTJuSzFMOFVaTTI5Yi1Kem5iTTk1S21tWnd0WUhiZ2UwZGdzbVZ0NnlTc2Q2M1I5NWtCSGV0Vk5VeG1hcEZOSUlkXzVMa25wQlJCR1duTTItbE84U1p0SzhTRmRHZnRhaFNEMzl4Si1NRG9XOEExZUdKSHl2SGpEOF9nSGFXald1NjNINUNJNGU0dFFsQmJMcFYzNG1raVE?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-19T04:40:13.000Z",
-      "snippet": ""
+      "date": "2026-09-20T13:17:00.000Z",
+      "snippet": "This structural problem calls for a structural solution, requiring no new science, regulation, or data. The post The Trials Were Always There — Patients Just Couldn’t Find Them appeared first on MedCity News."
     },
     {
       "title": "Ayble Health Secures $16M for Virtual Digestive Health Clinic",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYnFZTWJGalR5TUlfVFFwbXlzeEluZWhHQloyTTlxREh5R0NTb2Z6djhOM0g3eHdyczl0cnh4eEdYMUttR3JJTzdjYUNDZ0tpZXZBa0pfUDRuTUdnRWVTT3RHZU01R1B2RDM0RGRNWG0tVG9JSDV4WmpSS2JDbGE0SlhTZUhndEFMOVZNWWFueUlPc09qSTI5bQ?oc=5",
+      "link": "https://medcitynews.com/2026/09/ayble-health-secures-16m-for-virtual-digestive-health-clinic/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-18T21:34:32.000Z",
-      "snippet": ""
+      "date": "2026-09-18T21:32:03.000Z",
+      "snippet": "Ayble Health’s Series A round was led by Neon, with participation from Unum Ventures, Upfront Ventures, M13, Cleveland Clinic Ventures, DigiTx and Accomplice. The post Ayble Health Secures $16M for Virtual Digestive Health Clinic appeared f…"
     },
     {
       "title": "Angle Health secures $600M equity financing at $2.7B valuation",
@@ -385,12 +513,12 @@
       "snippet": ""
     },
     {
-      "title": "STAT+: Trump touts pharma deals to offer cheaper drugs to state Medicaid programs",
-      "link": "https://www.statnews.com/2026/09/18/trump-touts-state-participation-generous-medicaid-drug-discount-program/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-09-18T20:22:36.000Z",
-      "snippet": "Every state will participate in the GENEROUS program, but many of the details are unknown."
+      "title": "Ultragenyx Gene Therapy Is First Approved Treatment for Rare Neuro Disease Sanfilippo",
+      "link": "https://medcitynews.com/2026/09/ultragenyx-gene-therapy-fda-approval-sanfilippo-syndrome-type-a-fayuvi-mps-iiia-rare-disease/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-09-18T19:38:06.000Z",
+      "snippet": "Ultragenyx Pharmaceutical’s Fayuvi is now the first FDA-approved therapy for the underlying cause of Sanfilippo syndrome type A, an ultra-rare inherited neurological disorder. It’s the second approved gene therapy for Ultragenyx, which spec…"
     },
     {
       "title": "Roche, Genentech open Boston R&D center",
@@ -425,22 +553,6 @@
       "snippet": ""
     },
     {
-      "title": "STAT+: In a fight over denied claims, HCA sues out-of-state Blue Cross Blue Shield plan",
-      "link": "https://www.statnews.com/2026/09/18/hca-hospitals-sue-independence-blue-cross-prior-authorization/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-09-18T16:41:53.000Z",
-      "snippet": "Several Texas hospitals are suing an out-of-state Blue Cross for unpaid medical claims, highlighting the varying standards for whether care is medically necessary."
-    },
-    {
-      "title": "Caduceus Capital Partners Coverage",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4VS1KeVRsbnhkRWlWZEFlN2dTWVAySEdZNE8zamNxNklvZmxIeG5XNnFIMXZQX21hR044bTZYYTZYcTFIYTNGQTlTNVlzTVp4WVpyQUllWnFmOGhvWGlrTjhrTkU?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-18T15:37:34.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Taiwanese hospital builds own agentic AI",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmdoSzNwUWlhN3RQelFsUHZPWXdQVG80R00tVXBWUEJyQUtzemtrRDV4bGlvVHBKU1p2ZjBDOWpuT09UY3M2SFhvOHFOcDVGMHVxUG5qdWFmcmJaWWUwcFlYT3R2eUVfXzRJY3R6dDdfSHpTYnM0S1g1Slp4RkIybFhzdzdSOW1ON1E?oc=5",
       "source": "MobiHealthNews",
@@ -450,11 +562,11 @@
     },
     {
       "title": "CMS Broadens ACCESS Model to New Chronic Conditions",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUWVRNE1vUXlId1U0eGZ0T1BBcFJpdUJ6TmdleFFiZHVyZWhBZGVUNHFDY01DbUlvTHZzR2VGMk1panVFc0FPLUc5XzRveWp6RXFjXzJVZ0Jla3JxYnV6Y3RGZVc2bWpNbURpS1BHTzZXRkMwWXdyaU1ENVM4QVpVMHhWQmtZeWVwR1hRdQ?oc=5",
+      "link": "https://medcitynews.com/2026/09/cms-broadens-access-model-to-new-chronic-conditions/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-18T14:20:05.000Z",
-      "snippet": ""
+      "date": "2026-09-18T14:07:06.000Z",
+      "snippet": "CMS will expand its ACCESS model starting in spring 2027 to cover heart failure, COPD, substance use disorders and tobacco cessation. The outcomes-based payment model, which launched in July with 160 participating providers, will now make r…"
     },
     {
       "title": "How digital maturity validation advances clinical AI",
@@ -465,76 +577,36 @@
       "snippet": ""
     },
     {
-      "title": "STAT+: Roche expands its Boston footprint with new research center",
-      "link": "https://www.statnews.com/2026/09/18/biotech-news-roche-expands-it-boston-footprint-with-research-center/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-09-18T13:42:29.000Z",
-      "snippet": "A gene therapy approved for Sanfilippo syndrome, good and bad news for Xenon Pharma, and more biotech news"
-    },
-    {
-      "title": "STAT+: Up and down the ladder: The latest comings and goings",
-      "link": "https://www.statnews.com/pharmalot/2026/09/18/up-down-ladder-latest-comings-goings-job-changes/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-09-18T13:38:24.000Z",
-      "snippet": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-    },
-    {
-      "title": "STAT+: Pharmalittle: We’re reading about licensing deals with China, making drugs in space, and more",
-      "link": "https://www.statnews.com/pharmalot/2026/09/18/rules-for-china-licensing-deals-making-drugs-in-space/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-09-18T13:29:38.000Z",
-      "snippet": "The U.S. is working on rules for investing in China that would likely preserve pharma's ability to strike most licensing deals for Chinese drugs"
-    },
-    {
       "title": "Extending ADHD Coverage for the Entire Active Day",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUszNENhTnZNMmxrYzViNFBLTGVpOHJrWjZ5LUMxQkJvZXRUcVpOUDBGMDRCd3g0MHM1cVdqM1ZhQUdDajVLaDQyMkY5Y29McDdFc25TTWt1Y1FjejJmMTJ2NlU5QmFSZU5ONHRRajZ1aUVQbDk4SU4ySFgxRkxneE5WaVJkdnAxYnc?oc=5",
+      "link": "https://medcitynews.com/2026/09/extending-adhd-coverage-for-the-entire-active-day/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-18T13:03:48.000Z",
-      "snippet": ""
+      "date": "2026-09-18T13:01:00.000Z",
+      "snippet": "The next evolution in ADHD therapy needs to focus not only on drug efficacy but also on how treatment aligns with the ever-busy and demanding lives of patients, families, and caregivers. The post Extending ADHD Coverage for the Entire Activ…"
     },
     {
       "title": "The Shifting Role of Wearables in Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTDQxa1lNcXlNTlVMSm1SZUhja2VYOEFLZG1tUUp2cEM0Q3RKdEdwM043MTZYRUFCeGJtaTdEY1RZUmdyVlpHcWhFemlsVzZEdTNhVHhNa2lkT0xDZ0xkOHR2ZEhvZHd4Slh4b09BTEtpZGFKYzlaUGZIYzV6RnFzTmkyTQ?oc=5",
+      "link": "https://medcitynews.com/2026/09/the-shifting-role-of-wearables-in-healthcare/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-18T12:07:28.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "reverse merger Coverage",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KQUx4c245allQT0RPQ3FibFAxZXZRM0ZVZml3MEY1OTE5WGVFZ3dnQzZJTXVuTWNPaEZjUk1GWm9VSHpWQlVMQjJ6RFdVdzZPU3p2Z2pR?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-18T08:04:11.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Core Technologies",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRkUxbUhBa0M2WmdFM2xlNVlicjFrTlh1QlVXV1hQVWp6bVppQXFDT09SekdWUVRCcHlnRVVJcU1NdENBQ2NyYnpjUk14TV9ZeXlZZjBSUWR4T2VNVzBCempYX0xra2lzbFNtYWxudHZOcWtjZXE0eEIwQ3MyNGpxaU80VEJLTGdQLWZaMEdGamprcVdGbHZ3?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-18T01:25:19.000Z",
-      "snippet": ""
+      "date": "2026-09-18T11:58:08.000Z",
+      "snippet": "The INVEST Digital Health conference, which will spotlight the consumer influence in healthcare, will include a discussion on wearables. It is scheduled for October 29 at Pegasus Park in Dallas. Register today! The post The Shifting Role of…"
     },
     {
       "title": "Trump’s $500 ACA Refunds: ‘We Shouldn’t Confuse a Check With a Healthcare Affordability Strategy’",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcXV4eUc4VUZMOGVRdl9La3lLTzVOa1hxeEZQbE1MNUJtcHdlLTB6U3BWNUdvQ2NGVUIzWE1Ca1N3MWNHX3FLd1luUzNmTFpJSXdDckQyZ2VFZk1uak9TN3BZUWpQcFN3WDVSOWxjWmoyQV9VUTg5eWMySWZieXhYNWlTTDhzbzBIY3kybTh1OWRNY29yWlZuLW1lM2FDaFBDMHZvMkQzUmM4OEhoRVVoQzlhRW85OWEzeFVOWlVxU3dKUQ?oc=5",
+      "link": "https://medcitynews.com/2026/09/trumps-500-aca-refunds-we-shouldnt-confuse-a-check-with-a-healthcare-affordability-strategy/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-17T22:20:39.000Z",
-      "snippet": ""
+      "date": "2026-09-17T22:15:24.000Z",
+      "snippet": "Trump’s $500 ACA refunds offer immediate financial relief to some enrollees, but healthcare experts question whether they address the broader affordability challenges facing Americans. The post Trump’s $500 ACA Refunds: ‘We Shouldn’t Confus…"
     },
     {
       "title": "North Immunology Reverse Merger Comes With $180M for Next-Gen Inflammation Drug",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLUdWQU03X0ZBWjhOZHQ0cWNFVGRNejZIVWRqaW5mWlZaOGpIQkQzS0VOSGdrUmRSdHN5MThZa0xvOTNQTHU1M2IyYzZyRVRkRE8yYzNvYjBxOWNoUDBHUGZMME9namNKMTZBbGhSaFZoSDE5V0FrcGEwZUZsRlhpb1VzamNjbGx0VmMwc3RuSHZtU3g3YllIZUwtcXItV0JKaDJhX0UyOHdRejJnV0xfT2k5Tkt2RXoxclVjU2piS0FXd093SXhjd1dYRzVvNXYyLS0zSTNB?oc=5",
+      "link": "https://medcitynews.com/2026/09/north-immunology-reverse-merger-aethlon-il-13-1l-18-bispecific-antibody-atopic-dermatitis-eczema-aemd-nrtx/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-17T19:46:09.000Z",
-      "snippet": ""
+      "date": "2026-09-17T19:41:13.000Z",
+      "snippet": "North Immunology is going public in a reverse merger with Aethlon Medical. With eczema as the lead indication, the inflammation and immunology biotech aims to show its bispecific antibody offers efficacy and tolerability advantages over San…"
     },
     {
       "title": "Hello Patient acquires Converse Health to broaden workflow automation",
@@ -546,11 +618,11 @@
     },
     {
       "title": "How a Cancer Diagnosis Shaped This VC’s Precision Health Thesis",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Sb1JxUzIxRFA5U3JzRHl1ZTFrX2g1M2ZBQlg0WEYzTEpURC1sckxxbXc4SktZVXJFWlpIb1ZNRjVwcVlxOXhMekNUZkpBaldrSXE0OEVac09pd2luNlk1RGxJWW5lNEpSZHlsdElpQkw4SF92bHZNYUVoTVNkZw?oc=5",
+      "link": "https://medcitynews.com/2026/09/precision-medicine-healthcare-investment/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-17T19:26:09.000Z",
-      "snippet": ""
+      "date": "2026-09-17T19:25:17.000Z",
+      "snippet": "After a near-miss with her own breast cancer diagnosis, Ariel Ganz co-founded Arben Ventures, a precision health and longevity fund that has backed 83 early-stage startups in three years. The post How a Cancer Diagnosis Shaped This VC’s Pre…"
     },
     {
       "title": "RWJBarnabas Health, Rutgers and AWS launch innovation hub",
@@ -586,11 +658,11 @@
     },
     {
       "title": "The Missing Link in Surgical Safety: Integrating Patient Warming and Positioning",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEUtN2ZxTV8ybHd6VkFlM0FtdkxWQkRJbXZDek9WS3RkNnBfa1MtUWFBdkNpZXRIRkRVeGtFbEx4c2JHd0I5Tmp2TnRwS2pkQ1o2bm1HemVPaG42UjBaY2Fad0I5QWxqQTZ5eS1UMWlMc055MFJOVHo4c1BMaGMzalU4b2JoeTZRdHdONE9YT3NtV3liNkZUQWx0UjAyZEtWN0hXNTQ4NWVxQ1R2cW1aeU1R?oc=5",
+      "link": "https://medcitynews.com/2026/09/the-missing-link-in-surgical-safety-integrating-patient-warming-and-positioning/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-17T13:41:09.000Z",
-      "snippet": ""
+      "date": "2026-09-17T13:41:00.000Z",
+      "snippet": "Historically, warming and positioning have been addressed independently because, in many surgical procedures, they do not significantly interfere with one another. However, that’s not the case in most robotic-assisted surgeries. The post Th…"
     },
     {
       "title": "Oracle leaders receive subpoenas to appear before House VA Committee",
@@ -626,11 +698,11 @@
     },
     {
       "title": "Novartis Gains a Way to Get Drugs Into the Brain, Buying Sironax Tech for $125M",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSG1PeEtXeDN0RXRoRTFtQkxfbWFKdkNVekVnbjdwQ0NyU0FsdmF5dWdOa2tjQmkzM2xhY00yMkw1NG9UQklSMm9LdkwxQXJoMkZJZ3pNSEFSMTByX3dJRGpzcGEzUGc0YTRlNWJlWTFuYlplRTJKby1WS09LNWhVa2NTMFRVQzJJdTVSS2R0NnFxTnV4MVlRZTZjbHpYQTRXY1VwWTB6WQ?oc=5",
+      "link": "https://medcitynews.com/2026/09/novartis-sironax-blood-brain-barrier-drug-delivery-neuroscience-bbb-nvs/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-16T18:35:03.000Z",
-      "snippet": ""
+      "date": "2026-09-16T18:28:23.000Z",
+      "snippet": "Novartis is acquiring a Sironax platform technology designed to transport a range of drug modalities across the protective blood-brain barrier. The deal comes as Novartis weathers several pipeline setbacks, including trial failures for neur…"
     },
     {
       "title": "Physicians say AI works best when it disappears",
@@ -641,20 +713,12 @@
       "snippet": ""
     },
     {
-      "title": "Thatch raises $108M at $1B valuation",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10bUNlVVM0LUFueWZrZnBISGVfa3lTbWI3OWZkdFhWWWtYUmI4Ui1xdmlTWVZnYnJLa1kzZ05PQkRGOWlfQ01GcFVQRDFlMVN0SWhmNnBBTHBld0NtdXB1bmduWXd2d0lhNTd5LTRMd3B0TXE4TFE?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-16T16:14:41.000Z",
-      "snippet": ""
-    },
-    {
       "title": "As MA Denial Rates Rise, Hospitals Are Betting on Traditional Medicare Instead",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oWWlfRUlkRGpTQjlrWXA3eFlLZGkxOGlxYnRwUVI5VUQ0bXZJTHJNbmM5LXNXYVZ5OVZTQ3M0N3FuamNFMUVyTXZzR3VtOW9vM3BWMlNHUFZDcS1KUnJuUTcwSlJHNHN1RmhoVnhwOHN0MWM?oc=5",
+      "link": "https://medcitynews.com/2026/09/medicare-hospitial-reimbursement/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-16T15:59:15.000Z",
-      "snippet": ""
+      "date": "2026-09-16T15:57:00.000Z",
+      "snippet": "As Medicare Advantage denial rates climb, health systems are dropping plans and steering patients back to traditional Medicare. Pearl Health CEO Michael Kopko thinks the original Medicare Advantage bargain has broken down — and that the mod…"
     },
     {
       "title": "Luma Health expands AI outreach to fill schedules, close care gaps",
@@ -690,11 +754,11 @@
     },
     {
       "title": "AI Isn’t a Therapist, but Many Teens Are Treating It Like One",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbzJLWDA3Ri10aWl4Zm1IWVk1NWZ4WTRjbzFIS1FYN0J0SkZ1T2ZZeEJuSUpPRkRyeGM0MnhuRFBUZXZRQ0NQQmZYd2tDTUM3elRMNTdzNkE2X1FfMm1DWUdKU1c2MFpUMndndnA2d3MtNUhyTHFMMWV1RFZvN3hQTG85OGtGbllOYUZYSktIcjNsTU9lcFJB?oc=5",
+      "link": "https://medcitynews.com/2026/09/ai-isnt-a-therapist-but-many-teens-are-treating-it-like-one/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-16T13:58:31.000Z",
-      "snippet": ""
+      "date": "2026-09-16T13:50:00.000Z",
+      "snippet": "Clinicians have a responsibility to understand the risks posed by AI chatbots and to inform teen patients, their parents and caregivers about them. The post AI Isn’t a Therapist, but Many Teens Are Treating It Like One appeared first on Med…"
     },
     {
       "title": "CMS expands ACCESS Model to cover more chronic conditions",
@@ -714,19 +778,19 @@
     },
     {
       "title": "Hospital Margins Fell This Summer Amid Outpatient Slowdown, Data Shows",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Qal8yR1pWMVhqMml4WGVLR0ZhdVVtYk9tZEwtZzZlcEZmMjd2c045R1p1QmVES3ViM2pORzZZa095RTBQc2lJQnBmS0dFbFdZZHowNXhDX3pMYWdiZHBISg?oc=5",
+      "link": "https://medcitynews.com/2026/09/hospital-finance-2/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-15T23:12:05.000Z",
-      "snippet": ""
+      "date": "2026-09-15T23:10:28.000Z",
+      "snippet": "Hospitals’ operating margins fell to 1.4% in July, down from 2.2% in May and June, according to new data from Kaufman Hall. The margin decrease was driven largely by a seasonal slowdown in elective surgeries and payer mix pressures. The pos…"
     },
     {
       "title": "Thatch Secures $108M, Reaches $1B Valuation",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16LWh2R2JUdjRKXzVIRy00T2haNGVxYW8tTEtOS1hwV0hwTV9LRElLUXF1dzF1ckJGTTg0S2Q2WnMzZzYyeGc1SU9iV0FLWEVtOGx2V0l0eEg4cGN0YkhOWUVkQlZRbXpsRHlROHIzRnAtWnBvLTdyNFBNdlhWZw?oc=5",
+      "link": "https://medcitynews.com/2026/09/thatch-secures-108m-reaches-1b-valuation/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-15T22:40:52.000Z",
-      "snippet": ""
+      "date": "2026-09-15T22:25:45.000Z",
+      "snippet": "The Series C funding round was from The General Partnership, Index Ventures, General Catalyst and Andreessen Horowitz. The post Thatch Secures $108M, Reaches $1B Valuation appeared first on MedCity News."
     },
     {
       "title": "Agentic AI access a pressing governance challenge for providers",
@@ -735,6 +799,14 @@
       "sourceId": "hitn",
       "date": "2026-09-15T19:28:19.000Z",
       "snippet": ""
+    },
+    {
+      "title": "GSK Commits $750M to Get Chimagen’s Phase 1-Ready Drug for Multiple Myeloma",
+      "link": "https://medcitynews.com/2026/09/gsk-chimagen-trispecific-t-cell-engager-multiple-myeloma-cancer-tce/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-09-15T18:57:36.000Z",
+      "snippet": "GSK is acquiring global rights to a T cell engager that Chimagen Biosciences developed to hit three targets. GSK believes this tri-specific approach could offer advantages over currently available drugs that hit two targets, but other big p…"
     },
     {
       "title": "Beta Bionics' Mint patch pump gets FDA clearance",
@@ -761,20 +833,20 @@
       "snippet": ""
     },
     {
-      "title": "The Real Bottleneck in U.S. Pharma Reshoring Isn’t Factories – It’s Talent",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNkVjM0MwNl9wNmpFbkpwdXB0QldYM1hHZUR1MkNUV1R2aVdSdDc3QXlkNnh6M3RQVVRTRlczc1ZlT1VEelF3MzhZanNJWUlPMUFuaWZ3cVRnS0Nxdk5PeENEMVJyaWt6UWVZcmYtREVIOHZid2hrTHlDWEJqZHNmTVpNY1E5Wk1FMU9tNzQ2eS1IRXJhbUtCUkgxdjIwN3JMUDZJSw?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-15T13:47:58.000Z",
-      "snippet": ""
-    },
-    {
       "title": "What AI can do for musculoskeletal care providers",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXlBWHN3VjUwbFRLZEQ0LWhwaDhnemhhT0k2NHJUWXR1UzRfZlFLZTlXTXlwSVJib1E5ZVRCWW1pQXZOczBySXpvalQ1ODVOb3VoalNPWmhtNmJKR1c5a2YzY1ZrN19ueXdRSWthbzV2QnRDM1BFUkNtWGFlR2Y1T3dNbFk5c3pBblBrMw?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-09-15T13:35:00.000Z",
       "snippet": ""
+    },
+    {
+      "title": "The Real Bottleneck in U.S. Pharma Reshoring Isn’t Factories – It’s Talent",
+      "link": "https://medcitynews.com/2026/09/the-real-bottleneck-in-u-s-pharma-reshoring-isnt-factories-its-talent/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-09-15T13:34:00.000Z",
+      "snippet": "Pharma leaders must take a “construction crew” mindset and start treating workforce development in the same manner as they do critical infrastructure. The post The Real Bottleneck in U.S. Pharma Reshoring Isn’t Factories – It’s Talent appea…"
     },
     {
       "title": "Make every patient interaction count",
@@ -785,11 +857,19 @@
       "snippet": ""
     },
     {
-      "title": "Nara Health Secures $14M for Third Party Administration Platform",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaGpKaVVVSjZiNTBaTklZam9sbkJCMnlRcjBmRm12dkIwRHhleXp3V04taU9RQTM4ZE5zbEwwXzVCTWFERW5JcUtIN0JrbjdpdHNYd0hjOVc0V2habXBWdGYtZ1d4eTdEQXpRY0lPZVZwYm5XMU0zYy1wN1VxbWV1OFkydVRWV1dIbGd6V3VfMFVfUDcxS2RVLWJBVmc?oc=5",
+      "title": "How Human-Led AI Improves Healthcare Marketing Intelligence",
+      "link": "https://medcitynews.com/2026/09/how-human-led-ai-improves-healthcare-marketing-intelligence/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-09-14T21:04:50.000Z",
+      "date": "2026-09-15T11:50:00.000Z",
+      "snippet": "[Sponsored] A new white paper from LiveWorld highlights how AI tools for healthcare marketers fall short and what’s needed for more effective marketing strategies. The post How Human-Led AI Improves Healthcare Marketing Intelligence appeare…"
+    },
+    {
+      "title": "'Maturing' AI governance underpins Samsung Medical Center's smart hospital transformation",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSDRZS1kxZkRlLVNxTV9MWndZWVZyQU5BSk5UbEwzMnBPZHNIWENaQVJKa21VMDhZTFpkY2hfOEpQcXVIMEtTaUtaTzV6VkJwU1B4QVBsbUlVczBGNGhsVXdoYkZoc21XeFY3VjRlZXJMYktWaEJRWkg4OF9oSXdyMndCblhtaFhPNi1sRXlWbUdOZjYzYU1zN0ZpY2ppWXZ3VkQ3Z0RxRXRJMjFielV5TFFvdF93OXVzMnVkWHh6TVlhUlYzZzRyeA?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-14T23:36:53.000Z",
       "snippet": ""
     },
     {
@@ -806,6 +886,14 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-09-14T18:19:01.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Behavioral health AI moves from screening to continuous risk",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb1FkWlBHQlQ5elhfbDlnTnNjQ1NxZXM2Y0Nhak5iQ2FBNUpUWm5JY2FsWFppbk16SElUdURJdFRBeVY5cFV0VFd3dUpuM3dXN1Rhb21tMWc2eHRpOXNqUnRxNFBHbkNCTmJNUmhORGlTSzVwSWgwTmswMXNjcGR0bWVSaERMajJUai0wdW9rQWRacDc1?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-14T15:53:09.000Z",
       "snippet": ""
     },
     {
@@ -833,38 +921,6 @@
       "snippet": ""
     },
     {
-      "title": "Interra Health Adds GLP-1 Bridge Program Support",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUg1clRUdnpaUnBoRHNXRURWd2xIMWN3aTIwZWZET3V1NzJsU0NhMUZLZzlZbVNOVS1FSmlFS0RrNnE2d1JGSUhyTWJ5eGxRakVKcTRsUGVVaU40NE16b2hHSWctSlNLX0dKQzZ6emlDTkJ0bGExR3k3Y3FBVFZxM2pvd05fSzRh?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-13T07:00:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "GenHealth.ai Raises $16.5M to Automate Healthcare Administrative Tasks",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVWdOXzNSbElLbFJTR0RHZ0hCS01RZXNIcEVlVEFzZ0ZsTWdaVWpJMFhSdHlPY1FZVlBybkZTRHlCNnVsc1BoVnpoVEtHOG5DVVpCNVQyMlJiX2VMN29ONUwxb1VzdXRJeFZ5aGZsSlAybzRiMndNMUo5XzZGY1lyVTc5b1ZxYVRDMUYtUWlNN0QwZmJDc1ZRa045bWdoUmhNdFQ0eg?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-11T20:55:06.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Nutromics Nabs FDA Breakthrough Status for Antibiotic Monitoring Patch",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02V3g2UVhzeEdva0o3LTQ4TG8ycHRKelV5R241S0wtNGNPbDlMR09Id1htVGNtNi1UeWtIWXY3T2RMX0ZUV2JhaDFfVmtlQWJTU0VzaE1BV2FKNTRlWEMyYTB2dExmYkpX?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-11T16:36:28.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Augmenting the Systems That Support Patient Mobility",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa1pscktJLXBWdkZpM295X1J1MUszY3M1NWl3REJjbzhUYS1KbEVXQk9tQWxhcXhwRWh0aVlzSVc2c1pyZThzOUVnRlFYQWszZmpBR013WGduZ1Q4TXFPZW9BZFMyOFdyVXlvY0x6V3picUxDNG1IQVk1VGpNYXdadk9iYVdjR0pmUk1sZ1Vn?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-11T13:36:25.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Amwell picked to provide virtual care services for VA",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYTlXS1pyR0lnU19TQmVRS2UwX3dvTlZ4ZUY2Slh3U3RGTUVOc0NjcndwZ3FFYVVjRk9sWXdlLS1nNXpDb1AtdmJyTDBIVDZqT2h6b2lPRjY4VFBUUkE1Zm5jSXp2d0c3WXFuLURhVE9fdVgyV0drX09ZUEpkQkJCT2JldDdXakJjcmhrVw?oc=5",
       "source": "Healthcare IT News",
@@ -881,6 +937,14 @@
       "snippet": ""
     },
     {
+      "title": "Veradigm reports third-party vendor cyberattack",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWF6YlpNWnFHYnozQUozTWdQelpfVW9vd2UtRHRkaF9XQndhOWRlUW55Q2VNVHp3d0xUN3ZzQW83ZUJxNnNIanNEcENFTXlXTXZoVjNITi1ENjNkV1JIMENlZ1hZekppRnVOWnlEVUdVaDl2SVJiNHZYQW5GV2F3TllLRmx2anBTOXExY0VB?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-11T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
       "title": "SNFs face growing pressure to improve outcomes",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejFWMUFaZHAxTWtsNVQxMVBBaGl3RnNMUGxZUFZWeUFYb1dGUXJZdVdSYW9xcUJhQk5SSEtKZkZNSmV1amZUcURqRW5rQWNhb0FzU3B0bldwbXR1TjZlY3dvdmJNa3oyeEdaRmtsem95ZDJiRjdwbEtoeE1pUXhKRG1OaERKT0k?oc=5",
       "source": "MobiHealthNews",
@@ -889,35 +953,11 @@
       "snippet": ""
     },
     {
-      "title": "digital identity Coverage",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IZ2lPbGw0RzNmbkdwNWRkQlgtSXRob1JYUDd6TGtqQThPQmJkN1lzQTRjX0ZKSGhWOWluRnItbU8yMDZQMEIwUVF5MDZJM1Rxcm5vM3hlUFo?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-11T06:41:31.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "At INVEST Digital Health, Health Wildcatters Will Highlight Latest Cohort of Startups",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa2JjUUxOUEdCRUxybm96emk5T0pyR3JhM0JBc3B5T05Va1FNSGJpaTIyNkI1Tkh2SHhiRnNqYzFObllNUFBOT2d1Tm5Gc2xtVHhVQ25iT0pDMm4weUExTi1VR3BCS2d4ZU5ONGdyLXVnZEdLelBTYUp1M08yMk1VZGtNVng1dWZLYmpqaXRhTUxoR09qSEtkcmNocEdjWTU1QXJwV3RxbDZaaEtjNU02M091eHNsMmRl?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-11T03:06:35.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Imprivata CEO: AI Agents Need the Same Scrutiny as an Unvetted Contract Nurse",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UZ1pEMllDS3pSUzJWSVBwcnB0d1BoX2J5bjBmS3FZZnI0SUFQcGxKMUNudFdfbkJrTDJsQ0RYNmZ6RnVZXzlzdU9RWVIxd1pFWENwVjByN3piNXMyaFZMTWJR?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-10T22:04:36.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Applying agentic AI to continuous post-discharge patient care",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNk9NMjNrWEdqdnFzWDVsVlUteWFSUGdxRjkxWVllWGNnaFg2UkRmMDZoUUZqc1RMV3pPeVV3bHg2V2YydjVQR0pLRzlod0RjNXI0czNWLV8wbDFXZkgyWnlsMWlRMGwxXzNrZWxCSl9UTUNyMmRUdDhRWjBhb1ZMQVZkRWJjR2c1U1ViM05sWmdXbWxyT2pUb3JQYTNQRzhPMXRLMw?oc=5",
+      "title": "Health systems still must plan, even as telehealth goalposts keep moving",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNk1GRnVEZmxpZFBaOS15Nnl0RV9LTkU0Y0FGUTFVczdrMHhjTFlwUjdkZm9Zc1E3aGdMbFR2U0RYcll3V2Fad3NaSFB1R3k1X1VGNXY0RVNkNW1hZWdlaTFqTmdhbUQwZXhmZHFsWEp1TUN5cEYxMnl0TzBYeGN5cklTZjNkb183VW8zTV9oUVRkNzZneHNEbFhsME0yaUY2eHhZbS1mcHJVQQ?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
-      "date": "2026-09-10T07:00:00.000Z",
+      "date": "2026-09-10T16:26:15.000Z",
       "snippet": ""
     },
     {
@@ -937,51 +977,11 @@
       "snippet": ""
     },
     {
-      "title": "Ethics Isn’t a Pharma Value — It’s a Competitive Moat",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZjNha2lVY2kyd2VBNHFHM29US0N6c2hhbDV3Uk42TFlRYnY0c1JRZy1FZTQtbTd6Wk05TnNDQ3VTbUR5X1VBelVrTHdkeTMtNXVMQWEtWlluOGx1ZXRUWnkxOEZVTTVJVFRqZy1BZmVlTkstU0xEa1d0LUMtRl9kTG5SRGxIdGpyVHc?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-09T13:37:12.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Apple unveils Watch Series 12, iPhone 18, Health app",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMUdZWkhqa0xyYjJRUmt2dWQ5aFNSTG82NUwtcEVDVTJQYmlid3RKZDJBU2hSS2Nxa2RNdmVrWEg3RFZtQVV0dXluODJOU1hSYm5oaGF6NWFJUGUwNXNOdUR4YnVjTzJkZm5KNVpWdVdsUmRObXBqYnZVbEZwclUtZ1FxMVFDOTlLaTlaTzdsWQ?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-09T07:00:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Forus Secures $150M Series C, Reaches $3B Valuation",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHR0SnZfaWh5ZnlFUTBXQ1NZUXhXSXExNGstVFpVbHRYRktfRzU3N3MxY21JQ3FxeC12NjgyaERxQXRLandwaFN3bS1mVEtxdjJvV0RNTWR4Nl9WR0tFQ1dXTWpGbjZDRmNXQWJyeDRQWGZucXFrQTkzb0xNMll0WEloc3J1NF9T?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-08T22:10:35.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Forus scores $150M at a $3B valuation",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DZmEzLXVsRXRVa2RoVVh0SEJoN3BfYkZ2U1EzVno3dEJ0dXpLTmhPLWNuTDRRTzZTY3c3VVppT2ZxZy1GSHlvM1hPTFEtYnowQ0l5LTc1ZjNUaEhlVEpRX2VJUnFiWDFTeVJCMjJXT3ZNVDIw?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-08T18:16:21.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Survey Reveals AI Adoption is Accelerating in Healthcare, But Readiness is Not",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0ZubzJqV2pVODhERGZhMzNINVZpaFNLc2ZTV2p0RXJCY1dFRVJpeW51cFJfdThDQ19VbDUyWGFJVE82Z0NHdjd4cnRfeXNhcnNScGYteVV2X3JoMF93SDhXZHo2UDFvUkZMajBWNzNSWTZJc0kwWjVIelVlaEo1VElNWUZKbU94akhRRXZQZWZFMm5kUDRYeUR2ajUzMHZYYWh3MEp4NTNJQXFNXzlJ?oc=5",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-08T12:04:26.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Measuring AI's value for nurses, beyond faster charting",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2VYbnFrdTZhS0tCUWRqTDFXZlhLNGJlYlhHUC0zNzdxaDFDMVBZX1EzSHYxMVpIcUNhMDA3N0lDR3dzdjlBX1VHQkNhS0xiMFZpWDhvbHdqNmEwYTFNRzFFWmtWOGF3WjRzdG8xQ2lmTWdaUTlSck8xaDAybFJRR1pmSHdkSEpKYWNFUjc2SzU?oc=5",
+      "title": "Nurses must take lead on governing the AI that's changing their workflows",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcG9QWXVxaDJ0V3VibjFBOTBBMXJKZUJmWHJ1RVB0cFFFN004VDlIX0VvcmN1Y1RqY0RYVVA1V1hMYkFuRnotLTlvZU9GYzlLT0JFYnJZTnQ1T3JzRnBNby1jZU52T3A0LWotRlNQWmI3Q0ZUVzlsY0w1MTZ1WTBZZ3pKcTNxaDd5bDZzQmU2NTZZR0VNVFZSa2hwc29DZHFlbnZEWWl3?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
-      "date": "2026-09-08T07:00:00.000Z",
+      "date": "2026-09-09T17:06:49.000Z",
       "snippet": ""
     }
   ]
