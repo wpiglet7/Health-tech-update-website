@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-24T23:48:23.191Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 29,
+  "sources": {
+    "MobiHealthNews": 3,
+    "MedCity News": 4,
+    "STAT News": 16,
+    "Healthcare IT News": 6
+  },
+  "summary": "Today's health-tech landscape highlights several major momentum shifts. Major insurers UnitedHealth, Cigna, and Centene have adopted a shared credentialing platform through CertifyOS, streamlining provider onboarding across multiple plans. Meanwhile, significant funding rounds underscore investor confidence in specialized health tech: Rightway raised $155 million for pharmacy benefits technology and Precision Neuroscience secured $250 million for brain-computer interfaces. On the regulatory front, Heidi Overton's FDA commissioner nomination hearing emphasized speed and innovation to compete globally, while separately, Chris Klomp advanced toward confirmation as deputy HHS secretary. The healthcare AI transformation is accelerating across radiology and oncology, with Massachusetts General Brigham partnering with GE Healthcare on radiation oncology AI and radiology startups increasingly becoming \"AI-native\" practices. Finally, a measles outbreak reaching its worst U.S. levels since 1991—including deaths in Pennsylvania among unvaccinated populations—signals a critical public health concern as vaccination rates decline.",
+  "items": [
+    {
+      "title": "Rightway raises $155M to expand pharmacy benefits technology",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjNqeFRnZVRsRzlrWlZoSDRRcWQ5aURqbnUtTUFNbG9aaEJqQzRZbFUwQmIwOUxQQ2FaQnpacHV6bFpCYjQ0cW8zNTVuSlFvTnRzVHpZaDgxdXNQaktSSmdzalY5ZnFYVDlzU2VjVDU0V0c5aWZpTXVMeF9kSVJ1dW5PeEVYc3FEU3A3TWNXZE5uLUJqdXNV?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-24T22:07:10.000Z"
+    },
+    {
+      "title": "UHC, Cigna and Centene Sign On to New National Shared Credentialing Program",
+      "link": "https://medcitynews.com/2026/09/uhc-cigna-and-centene-sign-on-to-new-national-shared-credentialing-program/",
+      "source": "MedCity News",
+      "date": "2026-09-24T20:31:18.000Z"
+    },
+    {
+      "title": "STAT+: FDA commissioner nominee Heidi Overton keeps opinions to herself in Senate hearing",
+      "link": "https://www.statnews.com/2026/09/24/fda-commissioner-nominee-heidi-overton-senate-hearing-dodges-questions/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-24T20:21:32.000Z"
+    },
+    {
+      "title": "The FDA’s Overton era, and dispatches from Shanghai",
+      "link": "https://www.statnews.com/2026/09/24/chronicling-chinese-drug-development-from-shanghai-readout-loud/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-24T19:30:38.000Z"
+    },
+    {
+      "title": "Lilly Again Looks to China for New Drugs, Paying InnoCare $100M to Start R&D Pact",
+      "link": "https://medcitynews.com/2026/09/eli-lilly-innocare-pharma-china-drug-discovery-research-development-lly/",
+      "source": "MedCity News",
+      "date": "2026-09-24T18:31:17.000Z"
+    },
+    {
+      "title": "Precision Neuroscience raises $250M for brain-computer interface",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckhHM0JQUkpSaHA5Zk5NdmVTczNIb1ZMR1ZpcmxjS29VVnhKLWt6aHdJX3ZNXzk4RTNMeXJTSk01NzJ0UUlIanVZT2FjTzNVWTNtZzRUdHAza3VVMVc1NWhqSTV1SU41YTZ1YWRmZHoyQmZ1eUpJeDdRcVE4elhGdFQ1eFRTS2NhaXlfTDV0dG1KYnNMRGN6NEJ6UQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-24T18:14:41.000Z"
+    },
+    {
+      "title": "What moving to a healthcare AI reality looks like for Oracle",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjBxQ3g4VGh6U2RUVnhHakRkOFBkSG5scDZwb1pXY1hOY3pNYmwya2IyX1QwTDdIc21nVWlCd2dRMnZMclY2aUNwRUkyOG53SXE0Z3lGb1I0SVNqYTJoTjhLaWZ2VUNseGMxY1J4XzNqNGp2dGZtZ01QNVRoai1wSjZZU3dRd1B1TUIyOQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-24T18:07:54.000Z"
+    },
+    {
+      "title": "Senate finance committee backs Chris Klomp, advancing him to full Senate vote",
+      "link": "https://www.statnews.com/2026/09/24/chris-klomp-vote-senate-finance-committee-hhs-deputy-secretary/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-24T16:38:12.000Z"
+    },
+    {
+      "title": "How to recruit a healthcare chief AI officer",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0JSOXhjMTdwNXp4Vmh1TklYYkxWTmRSbGdDRVlMb2FsbHRYQkg5bzhOTktCVFp1TVRRY05ucXR0aVBKRlprTl9sMzN2VDdOeTl4MEhMZGhCYnpBekhCekV5SVRsT2R6c1ZEaEZxZnVNUmtPUVNYWDc1R21zczgzcWZWMA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-24T16:31:31.000Z"
+    },
+    {
+      "title": "From OpenNotes to “Doc Can I Record You?” Why Physicians Should Embrace Era of Accountability",
+      "link": "https://medcitynews.com/2026/09/from-opennotes-to-doc-can-i-record-you-why-physicians-should-embrace-era-of-accountability/",
+      "source": "MedCity News",
+      "date": "2026-09-24T15:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Indonesian ruling against ‘patent evergreening’ by pharma industry sends critical message, patient advocates say",
+      "link": "https://www.statnews.com/pharmalot/2026/09/24/indonesian-court-rules-against-patent-evergreening-boosting-access-medicines/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-24T14:57:54.000Z"
+    },
+    {
+      "title": "MGB enlists GE Healthcare to develop genAI for radiation oncology",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb0hOSzg5X0VHLWc3RW1tcmk5dkYwVEs3am1uTFQtU3YzRnVnT093Y0xFUklrVWtDWmZJeDczbElpM2psRlVuTWVpOFJrcmdjZVdTV0wzS21Bd21LQUNkOG5ya0JYOWZHd2pBY1V0bTNKbWJHZVBHOFY1YmFITEJGODBtYzNyUUMwVHJUYUVmMUFOTGJwM2Q3bkpfSy0?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-24T14:26:36.000Z"
+    },
+    {
+      "title": "Stakeholder collaboration can ensure AI expands care access",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVVBdW1fQ3Y5VXp4QW5xNE5vREYwTk01RG84NGo4S0VtNHRjREg3WjVDdmI5ZUZjWXl0NjY2ajdkZE5KaTV2Ynh2cDRXaFM4WXJvRU9aTWFmbjZuN1N6SjhodHc2WUhzSmVmcWNnUmxjNjZhRW1scmU5SDhFZEItOVhfcUI3c05IRDBUSWVNb0NTVVFQNmhkV2ZoNmk?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-24T14:18:10.000Z"
+    },
+    {
+      "title": "STAT+: Kyverna’s cell therapy shows lasting autoimmune benefit",
+      "link": "https://www.statnews.com/2026/09/24/biotech-news-kyverna-cell-therapy-shows-lasting-autoimmune-benefit/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-24T13:52:10.000Z"
+    },
+    {
+      "title": "Modernizing Medicare Advantage for the Next Generation of Seniors",
+      "link": "https://medcitynews.com/2026/09/modernizing-medicare-advantage-for-the-next-generation-of-seniors/",
+      "source": "MedCity News",
+      "date": "2026-09-24T13:40:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about the FDA commissioner nominee, a Lilly partnership in China, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/09/24/fda-commissioner-nominee-heidi-overton-lilly-china-partnership/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-24T13:21:50.000Z"
+    },
+    {
+      "title": "STAT+: The rise of the AI-native radiology practice",
+      "link": "https://www.statnews.com/2026/09/24/the-rise-of-the-ai-native-radiology-practice-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-24T13:21:14.000Z"
+    },
+    {
+      "title": "Why clinical leaders must shape healthcare AI",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdDZPcVN1akd2V1NnaXRnc2hfX0dqV3RmSjJQQnp1ejUxeDVWQVJEOG8wOFhqZjdxT0FhcmlheXZzYU5hS0dnd0s4ZG9KZlZFd0xjZ21fZkhpcjdMWEowdUhsNmw4TzlOTXREdklzd0ZVVjhwaFMzY3JfU29NMjA3MW1oOGxNbHhleWZOeg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-24T13:20:00.000Z"
+    },
+    {
+      "title": "One of the most contagious diseases on the planet is having its worst U.S. outbreak since 1991",
+      "link": "https://www.statnews.com/2026/09/24/health-news-measles-contagious-outbreak-u-s-deaths-1991/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-24T11:52:28.000Z"
+    },
+    {
+      "title": "STAT+: Why Gilead can’t stop talking about its ambitions in immunology",
+      "link": "https://www.statnews.com/2026/09/24/gilead-immunology-inflammation-biotech-moderna-merck/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-24T10:30:00.000Z"
+    },
+    {
+      "title": "STAT+: How a young doctor rose from rural New Mexico to FDA commissioner nominee",
+      "link": "https://www.statnews.com/2026/09/24/heidi-overton-profile-fda-commissioner-nominee/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-24T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: In radiology, AI is blurring the line between technology development and clinical practice",
+      "link": "https://www.statnews.com/2026/09/24/radiology-ai-blurred-line-between-tech-development-clinical-practice/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-24T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Momentum is building for a big change to how doctors get paid",
+      "link": "https://www.statnews.com/2026/09/24/patients-first-act-congress-moves-on-doctor-pay-medicare-reform/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-24T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Trump boast on drug pricing policy overstated state-level interest in federal program",
+      "link": "https://www.statnews.com/2026/09/24/trump-medicaid-generous-model-state-interest/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-24T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Heidi Overton, Trump’s pick for FDA head, faced questions at Senate hearing",
+      "link": "https://www.statnews.com/2026/09/24/heidi-overton-fda-commissioner-confirmation-hearing-2/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-24T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Measles almost killed me. Now I’m a doctor — and I’m scared of what’s happening",
+      "link": "https://www.statnews.com/2026/09/24/measles-outbreak-experience-child-doctor-1961/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-24T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: STAT+: A moment of reckoning for preventive cardiology and the precision medicine revolution",
+      "link": "https://www.statnews.com/2026/09/24/lpa-horizon-zeus-results-pelacarsen-preventive-cardiology-precision-medicine-disappointment/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-24T08:30:00.000Z"
+    },
+    {
+      "title": "Women-focused cancer clinic in Indonesia digitises oncology EMR",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmljd0xOTDRQak9ramNBMUNtMFlkQkpoaXFCWDVlU3hhMkhVTC1TREQ5NXdlT3F0aUtFOFQ4SkVVN0xLQkVsUGlkcDVYc0xmTWwzT0JQQnZHa1pyaW1icnM5VVZId3NOYTdFOEdlR2ttMHV0dUF3Qmd2eVNVLXgyd3JhWmo5RmNma3cwS1dscEp3am0yQXRDQTlaTzQ1NkJRNWwyUFZ3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-24T08:15:23.000Z"
+    },
+    {
+      "title": "OpenAI agent breaches Australian Medicare portal",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc29EaXZlY3EzZXJMTVViYy01VWlFMFNaYllyY3FCdnZMVTFIcFlfZ1MwVnRWcEJpTWJubFkyWnFIdTg1UHlFQWJkenF0UG0xSFpiMWc0ZmlDSEp5Wi1xYnJlWHRjRkU0SlRWRkVyYWpwZjRwcUdyWFNmdHphdk1mUU8wZWxGLVl4ZW03MloyVFdDdWZW?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-24T07:57:30.000Z"
+    }
+  ]
+}
