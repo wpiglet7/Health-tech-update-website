@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-25T23:53:44.550Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 24,
+  "sources": {
+    "MedCity News": 3,
+    "MobiHealthNews": 6,
+    "STAT News": 11,
+    "Healthcare IT News": 4
+  },
+  "summary": "Today's health-tech news reflects several converging trends shaping the industry. Regulatory and policy matters are commanding significant attention, with FDA approvals moving forward on new treatments like Eli Lilly's once-weekly insulin for type 2 diabetes and draft guidance issued for robotic surgical devices, while questions persist around FDA leadership and pharmaceutical oversight. On the innovation front, AI adoption is expanding across healthcare settings—from ambient charting to support nursing teams and coronary CT imaging at Sentara Health to clinical AI co-design initiatives—though growing concern about the environmental footprint of these technologies is prompting evaluation of their sustainability impact. The financing landscape remains active, with Basalt Health raising $20 million for post-acute care admissions and gene-therapy biotech ADARx completing a substantial IPO with AbbVie backing. Beyond commercial developments, broader healthcare issues are surfacing, including physician burden from high drug costs, pandemic preparedness efforts around flu treatment licensing, and policy debates ranging from disability services protections to measles mortality reporting.",
+  "items": [
+    {
+      "title": "Report: High Drug Costs Are Creating Hidden Burden for Physicians",
+      "link": "https://medcitynews.com/2026/09/report-high-drug-costs-are-creating-hidden-burden-for-physicians/",
+      "source": "MedCity News",
+      "date": "2026-09-25T22:11:03.000Z"
+    },
+    {
+      "title": "Basalt Health raises $20M to speed post-acute admissions",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVVRa20tQXBDVGtoLUNteGVtaUlPRGNLeHlRLUtkcTVZcFEzODlzNE1jY1JiejNjMTNZaGJSb3JxSUNQWm5tb252bnBCSXJEb0ZjTmtTdUExWkVnMkZvYkR0eU5SNENqVUlWblhXMm02QzhRdF9FTVkzaTJwR0hLV0NDS1h0RTF1QXg1ZHlVYnU5QQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-25T20:10:00.000Z"
+    },
+    {
+      "title": "Gene Silencing-Biotech ADARx Makes Some Noise With $535M Stock Market Debut",
+      "link": "https://medcitynews.com/2026/09/adarx-ipo-small-interfering-rna-gene-silencing-sirna-hae-adrx/",
+      "source": "MedCity News",
+      "date": "2026-09-25T19:29:58.000Z"
+    },
+    {
+      "title": "FDA releases draft guidance for robotic surgical devices",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdkw2MlEtTFhLY2V5MUNJSFBuZG40elRyVFk2STlLcmFOcUFVbG94aWVPWlVBSlRRMnV5b1diR1VnckgwREs5bzNta09lVzFlLUZQRVBuUFZLSGJjYkJVVTJDWjRETnk0NVYtVkxwLTZCSXNiX1YwalV5QkQ4TXNGZDBkZkI3bFoxVjdZTXpMVHlOUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-25T18:19:50.000Z"
+    },
+    {
+      "title": "STAT+: Licensing deals on generic versions of Roche flu drug aimed at preparing for pandemic",
+      "link": "https://www.statnews.com/pharmalot/2026/09/25/roche-xofluza-influenza-treatment-agreements/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-25T17:50:04.000Z"
+    },
+    {
+      "title": "Weighing healthcare AI adoption's environmental impact",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmJLd1JIOHNLcmNtWWd3U3l3TFVuRjZ1YTIyMmdkNVB3VEJSNWJ3VDRzR3pQM0NhYmpLTWwwdndmbUpaVUVHY3hWMlRVYlpnRS1kZzhXYUxwRXRjMWJ6S3pvTi1YSXppb1JNV2h0UWpzV3htZXZmaXIwQUVMbkJ4NGwydUNMQ2Zybm1fNmJGZjN6Z0d2?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-25T16:04:04.000Z"
+    },
+    {
+      "title": "Inside Sentara Health's AI-assisted approach to coronary CT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONzVsTnNLSW1mR1VOLXhEVFhYU2VnRURsVXIzbTE1QzB4UDhubTluaUZVTEUtc0JLYWtWem5MNVZreGVsRlVNb3FteGl2WVNQS3BSU0dVckRyQ1pPR3RyTHhXRjZ2UlcxUGtuUHZkbXh3eW93U2pPbTQ1UkRaVzUxRFROQ2g4Tm5aMGFqM1FfWmJpdS0yWkNlaw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-25T16:01:05.000Z"
+    },
+    {
+      "title": "STAT+: Lilly wins approval for once-weekly insulin shot",
+      "link": "https://www.statnews.com/2026/09/25/biotech-news-lilly-wins-approval-for-weekly-insulin-shot/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-25T15:25:10.000Z"
+    },
+    {
+      "title": "Opinion: FDA commissioner nominee Heidi Overton is ignoring the science on abortion drug",
+      "link": "https://www.statnews.com/2026/09/25/heidi-overton-confirmation-hearing-mifepristone-abortion-evasive/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-25T14:39:38.000Z"
+    },
+    {
+      "title": "AI Goes All In To Support Nursing Teams: Ambient Charting is Just the Start",
+      "link": "https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/",
+      "source": "MedCity News",
+      "date": "2026-09-25T13:51:50.000Z"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "link": "https://www.statnews.com/pharmalot/2026/09/25/up-and-down-the-ladder-latest-comings-goings-jobs-pharma-biotech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-25T13:38:18.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a reticent FDA commish nominee, a Novo deal, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/09/25/reticent-fda-commish-nominee-novo-deal/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-25T13:32:10.000Z"
+    },
+    {
+      "title": "HIMSSCast: Training nurses to speak care out loud",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPanNETTRfMDRHSWI1eUR3NWV6QXNfbTVndnVNbGs4ck5aQnlPenNpTl9CUEVicmgwZzJDY25EVG1rR0t1bHR2cjFOZFJyV18taUZZRGUyOHQ0ZDFPWjlkQVJqSXlEZ1UyZTNzLUQxdk10SkIzNGpyXzJFMUsybzJ1clItb1hLLXU4X1NjMDFibw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-25T13:26:00.000Z"
+    },
+    {
+      "title": "Assessing the environmental impact of healthcare AI",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTS1BYkEwYjBjRERHX3JUTm1BYXZqaFozVGdoeGhoZ296dmN3UUdrTlgxVEN1bFR0WG1sdjNtVWd2aGxwMkpBRjBvdFBqUG10bTA5S0IwLVdnNzRSUzcwY3BNZGgxQkd2NlZoZmVieVVWNENkRWhfWTl2UmUtRlRpeXhLenM3NFFSWkRR?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-25T13:00:00.000Z"
+    },
+    {
+      "title": "How digital tools can help healthcare address climate change",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbjJwZWVlaVI4Mnl4YXZRMktkdFNoTUJpTk02MWZ6QlJYT3ZtaVhsZjl4SXQzaTY3bU5JQU1Sb3Q0bTVGZnR1bmZpRE9zVEZueEFCV25DLVozRXN3emtZNHVQZ2l1bXJUdklfeW44U0xXN3dKR3RMR2s2Qno0NkV6M3NZTG5lanJCQnZ5OTMyUGhSUlFkWTNrZHhxZDA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-25T13:00:00.000Z"
+    },
+    {
+      "title": "Federal judge rolls back landmark disability protections",
+      "link": "https://www.statnews.com/2026/09/25/health-news-federal-judge-rolls-back-landmark-disability-protections/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-25T12:53:55.000Z"
+    },
+    {
+      "title": "How Big Tobacco flooded the FDA with public comments to kill a menthol cigarette ban",
+      "link": "https://www.statnews.com/2026/09/25/fake-grassroots-campaign-jama-study-rutgers-researchers-fda-menthol-ban/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-25T08:30:00.000Z"
+    },
+    {
+      "title": "At least five candidates vie to become the next WHO leader, as questions over U.S. role loom",
+      "link": "https://www.statnews.com/2026/09/25/world-health-organization-candidates-for-next-director-general/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-25T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: The head of Kennedy’s new autism project has roots in Iraq War, Sesame Street",
+      "link": "https://www.statnews.com/2026/09/25/russell-shilling-leads-arpa-h-spectra-initiative-autism-care/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-25T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: RFK Jr.’s use of the National Center for Health Statistics will add confusion to measles deaths count",
+      "link": "https://www.statnews.com/2026/09/25/measles-deaths-statistics-pennsylvania-outbreak-cdc-nchs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-25T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: The ‘died with’ vs. ‘died of’ measles discussion misses something very important",
+      "link": "https://www.statnews.com/2026/09/25/died-with-not-from-measles-physicians-explain-death-certificate-rules/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-25T08:30:00.000Z"
+    },
+    {
+      "title": "GP trainees tapped to co-design clinical AI",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUDZQaTBubFE4WU5DdFoxajkzMkJ4VHozcUxUUmhQZmpHNWx2TmsxMFFZSWt6M24zYktNOUl2UnVLdFQybmxMOW5MWWZSbm5sdkREeGg0R3VXLWs4Tm9QME9SZEZfS0VHTUtMc1lBaVhpcVNsSG9ESXA4QkNXMjdZckdiMU5kLTZYdWc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-25T05:00:04.000Z"
+    },
+    {
+      "title": "Best Practice to integrate clinical AI search",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMExDTjlrZjBNdmpZTS1GemcxMUU1LWVwWWJZSDBQWDhPeG9VRnRacUN5bkktaGZ2QzF2TnZKV05ibkMwS3IxOGJIdExmYmFYZmFoSDlpbVNyNHkxQlFHZ0lvSE1OckRRZDNiQnFDYjhoclFtUW51SVpmamJ4VTdlZEIzdWJTbE9TOFE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-25T04:59:52.000Z"
+    },
+    {
+      "title": "Xella Health integrates Oura data into women's care",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYTlVY29adG4xbUZNSlZ4cXJwU1VlanVqbGQ3RmFzMDNpbVoyQlNpV2M0TnFnNE1VOElKbzlNMmhCcDYyNEZ1N2w5UHBHeC1ZbE9BRzhKeWVVZWZ0TnZ5WFE1aTYyblRXM1FUSUl0MTVfWnpvZUM4am5mZHJDd3hUUHRDakZ3YjVS?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-24T17:12:10.000Z"
+    }
+  ]
+}
