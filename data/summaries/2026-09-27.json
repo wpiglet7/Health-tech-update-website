@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-26T23:26:13.317Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 11,
+  "sources": {
+    "STAT News": 2,
+    "MobiHealthNews": 5,
+    "Healthcare IT News": 4
+  },
+  "summary": "Several significant developments are reshaping healthcare delivery and policy this week. The Trump administration is exercising rare budgetary authority to claw back nearly $1 billion in congressionally approved spending, with most cuts targeting HHS programs serving refugees and unaccompanied minors, signaling potential shifts in how health services are funded and prioritized. Meanwhile, regulatory progress is opening new opportunities, as the ATA Action coalition works to advance interstate telehealth licensure, which could expand access to remote care across state lines. On the technology front, artificial intelligence is increasingly becoming central to healthcare operations, with platforms demonstrating ability to reduce administrative complexity while moving behavioral health AI beyond initial screening to continuous patient risk monitoring—essentially creating a digital front door for health systems to engage consumers. Private sector investment continues, with Roche and Genentech opening a new Boston R&D center, even as a public health expert warns that despite decades of progress since the 2001 anthrax attacks, significant gaps remain in America's readiness for future biological threats.",
+  "items": [
+    {
+      "title": "Opinion: I worked on the CDC investigation of the anthrax letters. 25 years later, are we ready for the next biothreat?",
+      "link": "https://www.statnews.com/2026/09/26/anthrax-letters-25th-anniversary-cdc-investigation-new-biothreats-ai/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-26T11:00:00.000Z"
+    },
+    {
+      "title": "MedLuma",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40VnB6cVdzOTZGT0RHV29IMjQ5UlVIQ2gwN21jdGdpZlhvUVIya1A0ZXpxU1RsSVdpTUtEWUhxcXIxZkpRZjNrVWlaeVhzRERWWEZrdg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-26T08:33:51.000Z"
+    },
+    {
+      "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
+      "link": "https://www.statnews.com/2026/09/25/trump-administration-cancel-spending-hhs-programs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-26T01:03:38.000Z"
+    },
+    {
+      "title": "Roche, Genentech open Boston R&D center",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwczZzdFNzVG9TNWd3encyYTl4QWVsQjdRNkI3azRjck1Eb2dMaVpwYnotNThueloxRXBBaWx0TXUzcjhLZlpSZGY4SVN6OWE4NW94dnJramR6UWxobzZIOTFTbW5fbjk0Z0dsYXVYQzl3TW44WTNxemw4QzNYUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-18T19:07:38.000Z"
+    },
+    {
+      "title": "ATA Action forms coalition to advance interstate telehealth licensure",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNW9mQUxLaDhFaHR3dk1xbDVmdnFQSnYyRTBmbDM4VFpmSUVmYWpaQ3psdGJLNWZjOEJlRUh0eWUwckh0RmZzOElyVWF0YWhkWU40T01DSEtVVFVvTlVGdkNscUZnczE1YTQyN0w5WnM4UGJIM0dMaktWbTdCYlFhb2JScllkODRsZTVpdXBWMlNBaVR5REhEWi1rbFNGVlNrYklBakRXbw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-18T17:26:23.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXM1RE9kUlFqamhrSzB0V1BmR3ktVjc1ZmtxTG1rbHVQZ25ZbHBpbXd2YnFLcW1RaHo0LUF6YVhIZmc2clktckNOUnNCM1pUZG5va2taZ0FsX2h1cVlyNTZYckQxbXNiWXpiOHRBRjBfRjNTMWdZZzF0ZGRLbDVIbU9FUERaY2hENUthRw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-17T16:57:14.000Z"
+    },
+    {
+      "title": "Consumer AI is becoming a digital front door. What should health systems do?",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWk5jcHd5aHdmbnprNHdLLUxWTXBFU2J3M01BZzFrRVRtNllfYURhUjktVkxQVjgtMEMtQmlac01sR2RWakJjZjdXNlRRbDRrRFgxVHR1alZQN0lKdWNyU3NiS0JkRUZScFdzdi16MnhFSjFndHVJMEltNFVpODQ1ZlJpZGhndmVybUkwdFl5YmJ6VGxjemtFazZZNnZGT2ZQWWtwdmpzRlRBSFU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-15T07:00:00.000Z"
+    },
+    {
+      "title": "AI platforms can reduce administrative complexity",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTQxWHFja2htMFdxbmJva3o4WTNjNGp4ZlN0aW1ibVd1ZVRMT1F1Z0tjTUx0d2dtSVFwcVNuaWJOd09PU0NfejRMbkw2Z2tNNWhUczdhclJ2cF9BZDlaOEY5dmtMTFZJcGJRSmo5ckQ4X1FWanIyNHM4TVhNVTVfLV9xdzc2SXdHcElXVnVxdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-15T07:00:00.000Z"
+    },
+    {
+      "title": "AI Roundup: Predictive models, access to advanced cryptography and more",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGo5Y2lxS3hzTVlvUzhSOHhMRjlWd3A0WXdjQnFzMUY2aEhXYnV3YkZCcXA5STVPNVBIZS1NVUwybER6akxOd3NPWkpxQWVzMTBtRmlKdkF6REttaTJrTV91TktTc2lSNm9ZNzZJMjQ0QVNxZ05qdHhZNzY5OWZ1clZHZWM0LUFXdFFscl9FUnRNdy1tR1cxN2lmQm52REhBYTBjVHFvOA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-14T07:00:00.000Z"
+    },
+    {
+      "title": "Behavioral health AI moves from screening to continuous risk",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb1FkWlBHQlQ5elhfbDlnTnNjQ1NxZXM2Y0Nhak5iQ2FBNUpUWm5JY2FsWFppbk16SElUdURJdFRBeVY5cFV0VFd3dUpuM3dXN1Rhb21tMWc2eHRpOXNqUnRxNFBHbkNCTmJNUmhORGlTSzVwSWgwTmswMXNjcGR0bWVSaERMajJUai0wdW9rQWRacDc1?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-14T07:00:00.000Z"
+    },
+    {
+      "title": "Enabling 'predictive' preventive care",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON1BCMno2blpXNlo0Mmd4R3dBMUcxNmN6d29TbGZMYktiRHdJaU9Wem9JaS1VSHp1M1ZtOWx3dG00aEcwcG9DUmJLVDh4V1VsME55THJJNmZZSDdMeHkwM2NIQXh0R1Q4SDNXTm5qdEVwYkpIdk5wamt2Y0l4cXRzWDNYbw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-14T07:00:00.000Z"
+    }
+  ]
+}

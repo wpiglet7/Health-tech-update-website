@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T23:53:40.668Z",
+  "generatedAt": "2026-09-26T23:26:09.898Z",
   "sources": [
     {
       "id": "stat",
@@ -25,6 +25,38 @@
   "count": 120,
   "items": [
     {
+      "title": "Opinion: I worked on the CDC investigation of the anthrax letters. 25 years later, are we ready for the next biothreat?",
+      "link": "https://www.statnews.com/2026/09/26/anthrax-letters-25th-anniversary-cdc-investigation-new-biothreats-ai/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-09-26T11:00:00.000Z",
+      "snippet": "“We’ve come a long way since the fall of 2001, but we find ourselves with recent widening gaps in public health readiness and mitigation,” writes Daniel B. Jernigan."
+    },
+    {
+      "title": "MedLuma",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40VnB6cVdzOTZGT0RHV29IMjQ5UlVIQ2gwN21jdGdpZlhvUVIya1A0ZXpxU1RsSVdpTUtEWUhxcXIxZkpRZjNrVWlaeVhzRERWWEZrdg?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-26T08:33:51.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
+      "link": "https://www.statnews.com/2026/09/25/trump-administration-cancel-spending-hhs-programs/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-09-26T01:03:38.000Z",
+      "snippet": "President Trump is canceling nearly $1 billion in spending approved by Congress, and most of the cuts are focused on HHS programs that serve refugees and unaccompanied minors."
+    },
+    {
+      "title": "Rethinking healthcare to reduce its environmental impact",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVJUaEpLVlI1TGJDaVVhV2M2eDZnVEp0WjZLTkp3c0NlZHZ6OVN0Q1ZFbFU4TmR3dFlGT21FZFJ4UDZBUlh2Vzh6a21vRzkxS1k2UllORW9Bd1lTNmtqMmhIUVVjY3RtdkRVazVaYkxyelplUEpWSVc3Q00ybjRCOEpEZ25PYS0wRmtIVEJ6Q2luQ01OQkE5Tg?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-25T22:52:52.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Report: High Drug Costs Are Creating Hidden Burden for Physicians",
       "link": "https://medcitynews.com/2026/09/report-high-drug-costs-are-creating-hidden-burden-for-physicians/",
       "source": "MedCity News",
@@ -38,14 +70,6 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-09-25T20:10:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Rethinking healthcare to reduce its environmental impact",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVJUaEpLVlI1TGJDaVVhV2M2eDZnVEp0WjZLTkp3c0NlZHZ6OVN0Q1ZFbFU4TmR3dFlGT21FZFJ4UDZBUlh2Vzh6a21vRzkxS1k2UllORW9Bd1lTNmtqMmhIUVVjY3RtdkRVazVaYkxyelplUEpWSVc3Q00ybjRCOEpEZ25PYS0wRmtIVEJ6Q2luQ01OQkE5Tg?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-25T20:05:57.000Z",
       "snippet": ""
     },
     {
@@ -369,22 +393,6 @@
       "snippet": ""
     },
     {
-      "title": "One of the most contagious diseases on the planet is having its worst U.S. outbreak since 1991",
-      "link": "https://www.statnews.com/2026/09/24/health-news-measles-contagious-outbreak-u-s-deaths-1991/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-09-24T11:52:28.000Z",
-      "snippet": "The CDC has added a single measles death to its online counter. In the last few weeks, four unvaccinated people have died from measles in Pennsylvania, according to state officials.…"
-    },
-    {
-      "title": "STAT+: Why Gilead can’t stop talking about its ambitions in immunology",
-      "link": "https://www.statnews.com/2026/09/24/gilead-immunology-inflammation-biotech-moderna-merck/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-09-24T10:30:00.000Z",
-      "snippet": "Gilead Sciences’ top executives have been emphatically bullish about the biotech’s years-long push to develop drugs for inflammatory and autoimmune diseases."
-    },
-    {
       "title": "Women-focused cancer clinic in Indonesia digitises oncology EMR",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmljd0xOTDRQak9ramNBMUNtMFlkQkpoaXFCWDVlU3hhMkhVTC1TREQ5NXdlT3F0aUtFOFQ4SkVVN0xLQkVsUGlkcDVYc0xmTWwzT0JQQnZHa1pyaW1icnM5VVZId3NOYTdFOEdlR2ttMHV0dUF3Qmd2eVNVLXgyd3JhWmo5RmNma3cwS1dscEp3am0yQXRDQTlaTzQ1NkJRNWwyUFZ3?oc=5",
       "source": "Healthcare IT News",
@@ -551,14 +559,6 @@
       "sourceId": "medcity",
       "date": "2026-09-22T19:58:47.000Z",
       "snippet": "Amgen’s dazodalibep led to statistically significant and clinically meaningful results, according to preliminary Phase 3 results in Sjögren’s disease. This fusion protein could compete against a Novartis antibody under an FDA review that co…"
-    },
-    {
-      "title": "Interoperability roundup: New AI connections, more QHINs",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNzg3UnpzT2pwaGlpQnFHUlA4djhWVjAzcmFDalo3V3ljWXZyYlhwWWhLSWluRlNSOEdRU2xXWkdORGMyYzIzMUZ6aS1McndzejhPWUxhNTdkaGRqTTBFR1EwN0VSMk1oREF2eVBIekVldWZ1OHJaZnloNkY5ZmJfZXJDT3N4YmlLVU9MaGVKeHVCN1ZGZHg0?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-22T17:48:22.000Z",
-      "snippet": ""
     },
     {
       "title": "Building an asynchronous telehealth model clinicians can use",
@@ -817,11 +817,19 @@
       "snippet": "Ultragenyx Pharmaceutical’s Fayuvi is now the first FDA-approved therapy for the underlying cause of Sanfilippo syndrome type A, an ultra-rare inherited neurological disorder. It’s the second approved gene therapy for Ultragenyx, which spec…"
     },
     {
-      "title": "Taiwanese hospital builds own agentic AI",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmdoSzNwUWlhN3RQelFsUHZPWXdQVG80R00tVXBWUEJyQUtzemtrRDV4bGlvVHBKU1p2ZjBDOWpuT09UY3M2SFhvOHFOcDVGMHVxUG5qdWFmcmJaWWUwcFlYT3R2eUVfXzRJY3R6dDdfSHpTYnM0S1g1Slp4RkIybFhzdzdSOW1ON1E?oc=5",
+      "title": "Roche, Genentech open Boston R&D center",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwczZzdFNzVG9TNWd3encyYTl4QWVsQjdRNkI3azRjck1Eb2dMaVpwYnotNThueloxRXBBaWx0TXUzcjhLZlpSZGY4SVN6OWE4NW94dnJramR6UWxobzZIOTFTbW5fbjk0Z0dsYXVYQzl3TW44WTNxemw4QzNYUQ?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
-      "date": "2026-09-18T14:22:00.000Z",
+      "date": "2026-09-18T19:07:38.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "ATA Action forms coalition to advance interstate telehealth licensure",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNW9mQUxLaDhFaHR3dk1xbDVmdnFQSnYyRTBmbDM4VFpmSUVmYWpaQ3psdGJLNWZjOEJlRUh0eWUwckh0RmZzOElyVWF0YWhkWU40T01DSEtVVFVvTlVGdkNscUZnczE1YTQyN0w5WnM4UGJIM0dMaktWbTdCYlFhb2JScllkODRsZTVpdXBWMlNBaVR5REhEWi1rbFNGVlNrYklBakRXbw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-18T17:26:23.000Z",
       "snippet": ""
     },
     {
@@ -831,14 +839,6 @@
       "sourceId": "medcity",
       "date": "2026-09-18T14:07:06.000Z",
       "snippet": "CMS will expand its ACCESS model starting in spring 2027 to cover heart failure, COPD, substance use disorders and tobacco cessation. The outcomes-based payment model, which launched in July with 160 participating providers, will now make r…"
-    },
-    {
-      "title": "How digital maturity validation advances clinical AI",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVW5lWjRIbVhvLUJZLWxfMDRqaGQ2NTZCQ0h4TFNYc3BVWG9rTThfcWtaN2dCUDBRZ3lPbHVSdWRGdzBrSlVaZF8ySE12SW84YnJQWlE1a3ZmYXpzVlg2TnpKRUhWeVJpYTdNaFJVNDNjbXhXemJMeGRqbzc0NVZ5cEdSZm5SdlVqZ1IyRWd0NVRKcFp6VnFTYUVMWko?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-18T13:45:00.000Z",
-      "snippet": ""
     },
     {
       "title": "Extending ADHD Coverage for the Entire Active Day",
@@ -857,6 +857,14 @@
       "snippet": "The INVEST Digital Health conference, which will spotlight the consumer influence in healthcare, will include a discussion on wearables. It is scheduled for October 29 at Pegasus Park in Dallas. Register today! The post The Shifting Role of…"
     },
     {
+      "title": "Taiwanese hospital builds own agentic AI",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmdoSzNwUWlhN3RQelFsUHZPWXdQVG80R00tVXBWUEJyQUtzemtrRDV4bGlvVHBKU1p2ZjBDOWpuT09UY3M2SFhvOHFOcDVGMHVxUG5qdWFmcmJaWWUwcFlYT3R2eUVfXzRJY3R6dDdfSHpTYnM0S1g1Slp4RkIybFhzdzdSOW1ON1E?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-18T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Trump’s $500 ACA Refunds: ‘We Shouldn’t Confuse a Check With a Healthcare Affordability Strategy’",
       "link": "https://medcitynews.com/2026/09/trumps-500-aca-refunds-we-shouldnt-confuse-a-check-with-a-healthcare-affordability-strategy/",
       "source": "MedCity News",
@@ -865,32 +873,24 @@
       "snippet": "Trump’s $500 ACA refunds offer immediate financial relief to some enrollees, but healthcare experts question whether they address the broader affordability challenges facing Americans. The post Trump’s $500 ACA Refunds: ‘We Shouldn’t Confus…"
     },
     {
-      "title": "Hello Patient acquires Converse Health to broaden workflow automation",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTVlaHlmTDhCZWpQRFJZdTZnY1FXeE53N3pEb1hCeG5rMEpweEs1TDVVU3RPZklZckd2YTJndDlFTndiN0JGMzlBWE4waGJfcDNLZ201TlFmN3ViM2V2b3lfRHlKZ1liaVBXcUt0VHNUZmNZcXNvUWJ6b0tYNnJwbGlhZGo3d2dFemxDNnFkMGM5TU5mSnFSbEd5Q1JSM3p0Q21TZg?oc=5",
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXM1RE9kUlFqamhrSzB0V1BmR3ktVjc1ZmtxTG1rbHVQZ25ZbHBpbXd2YnFLcW1RaHo0LUF6YVhIZmc2clktckNOUnNCM1pUZG5va2taZ0FsX2h1cVlyNTZYckQxbXNiWXpiOHRBRjBfRjNTMWdZZzF0ZGRLbDVIbU9FUERaY2hENUthRw?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
-      "date": "2026-09-17T19:31:06.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Effective clinical AI adoption starts before go-live",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU3BqV2JTZ1R0ZzRsXzRSWm4tcFM4YkU3TFh4ZzZKXzB0dkJmUWlVUUphTXQtUkowbWFINXoyT0JMeXU4VDRyamluQ3BmM3lRd0RfWk85R1NQMmNURW5rOWJiZ3BzNnlzR1h3UFhtcUd1am5OUmROUk9LX21WRWItOGxhYm5BMEdWYU9n?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-17T16:09:27.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Oracle leaders receive subpoenas to appear before House VA Committee",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNXVGeXYzRlg1ajNUNHc0WUUwMWswb1R6RkdDOXVLTWExYXZyeXFoQ3RDUnBJcEgwM3g3VGMzWG5QRjE4UGthbERSaU1qdVY5dl9NQ3BTcUdkZl82QTJjQ2ljYXdodmJ2OG1XdmlsaVBzYng2NGZFdUotcWtIVEpMdjN1ek1XNnV5aE1zLTdyODE2c1pUQUhIbUtzbnQ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-17T13:31:00.000Z",
+      "date": "2026-09-17T16:57:14.000Z",
       "snippet": ""
     },
     {
       "title": "RWJBarnabas Health, Rutgers and AWS launch innovation hub",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSkJoSWtrMnNZcGRWTnR5VUg4RFVIWVV1VVhGUDltZllmZmN4T2dUZENHWjRjV2JReF9od3h1dTJQQUNnd2taRlVLR1NqTXhHSmJFMEtodGM2YjRLZVdQaUhndHYyM19McEJxdmVxbEtFZm44Y054aEhpZUZTVThHbVRIREJqbzd5bGdXMWpZSm5XbnJxbl9fYXNn?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-17T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Oracle leaders receive subpoenas to appear before House VA Committee",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNXVGeXYzRlg1ajNUNHc0WUUwMWswb1R6RkdDOXVLTWExYXZyeXFoQ3RDUnBJcEgwM3g3VGMzWG5QRjE4UGthbERSaU1qdVY5dl9NQ3BTcUdkZl82QTJjQ2ljYXdodmJ2OG1XdmlsaVBzYng2NGZFdUotcWtIVEpMdjN1ek1XNnV5aE1zLTdyODE2c1pUQUhIbUtzbnQ?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-09-17T07:00:00.000Z",
@@ -910,22 +910,6 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-09-16T22:00:40.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Physicians say AI works best when it disappears",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVG5rSEh0Vno1YkIzTDFxdEVleXNuOHJRX3oyMXVsM1kzQk40RmE0Y2V6QUx1M1RXZ21Rem4wcDdFbF9JekFKNzVGTnpHUlBoY0JPeks2MDh1RVdSSjhvcmtPQ2RKLUlZR1R6cjRGczdNWU9lZm9oOUZCYjJERmc3S1BpbGZtMjROV0d0dWpB?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-16T16:35:07.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Consumer",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5INTl1MU0zMmh2dXFOSjI0Q2YwSzBwMTRRRWpLVmdkQ3lwMS1GUWRUaFVaYWpTTjFCdXd1bEZGWUlDR25UYnlFNGg0YWFGWFUtS2hlNlA4WTk4b2oxZDFIX3hCc0lqbVA5cFhsTlpGUnFobk81Q1ZrdklHSQ?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-16T15:21:29.000Z",
       "snippet": ""
     },
     {
@@ -953,14 +937,6 @@
       "snippet": ""
     },
     {
-      "title": "AI should assist, not take over",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVVzc3czlka3dJLV85R0s4UXMzVGNMbDJBUWEwVmFRQlRkTjNjRDFZSE11VDcyVGZaZnFSMUdxaUNHZ19FYm5pMmFEbmtsdDF5REh0b3FSemZPZWJkOVMyOHVrWEF5NkZweEpXSXAyV25pQkpDcFJMenFvbXA?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-16T07:00:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Beta Bionics' Mint patch pump gets FDA clearance",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY1RaM0p2X2hQRUhPX3RzMmJCamM2WnZxWFlYWUJhV1BneUFYcXpZLVlwVXNlMHAybnNVdVR0bEpwR1l4X04tR3hsbTlWaUZFdkZyY0ltbnk5ckgxMjdzLXJiN1hnR0FtSE13bXkyZmxCcjY0US1vWVFYbTJtbUdMZXZ0OUZITUtVdGc4?oc=5",
       "source": "MobiHealthNews",
@@ -969,19 +945,43 @@
       "snippet": ""
     },
     {
-      "title": "What AI can do for musculoskeletal care providers",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXlBWHN3VjUwbFRLZEQ0LWhwaDhnemhhT0k2NHJUWXR1UzRfZlFLZTlXTXlwSVJib1E5ZVRCWW1pQXZOczBySXpvalQ1ODVOb3VoalNPWmhtNmJKR1c5a2YzY1ZrN19ueXdRSWthbzV2QnRDM1BFUkNtWGFlR2Y1T3dNbFk5c3pBblBrMw?oc=5",
+      "title": "Consumer AI is becoming a digital front door. What should health systems do?",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWk5jcHd5aHdmbnprNHdLLUxWTXBFU2J3M01BZzFrRVRtNllfYURhUjktVkxQVjgtMEMtQmlac01sR2RWakJjZjdXNlRRbDRrRFgxVHR1alZQN0lKdWNyU3NiS0JkRUZScFdzdi16MnhFSjFndHVJMEltNFVpODQ1ZlJpZGhndmVybUkwdFl5YmJ6VGxjemtFazZZNnZGT2ZQWWtwdmpzRlRBSFU?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
-      "date": "2026-09-15T13:35:00.000Z",
+      "date": "2026-09-15T07:00:00.000Z",
       "snippet": ""
     },
     {
-      "title": "Make every patient interaction count",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOW52MzRXZktuMjBZWlBtQVRrTE42enBGaGR1T1VmWnF1MTF0LWIwU0I2VjBsME1HTDJ4a2cyamlESVNKSHBJZ1BUbExDR2Z6ODBUXy1GZ3R1dU9WcFBGZGFjeldiY0lZVXFFVERSYVhzMlU5WUdFRnE0aW9QYjU2VzdHWQ?oc=5",
+      "title": "AI platforms can reduce administrative complexity",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTQxWHFja2htMFdxbmJva3o4WTNjNGp4ZlN0aW1ibVd1ZVRMT1F1Z0tjTUx0d2dtSVFwcVNuaWJOd09PU0NfejRMbkw2Z2tNNWhUczdhclJ2cF9BZDlaOEY5dmtMTFZJcGJRSmo5ckQ4X1FWanIyNHM4TVhNVTVfLV9xdzc2SXdHcElXVnVxdw?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-15T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "AI Roundup: Predictive models, access to advanced cryptography and more",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGo5Y2lxS3hzTVlvUzhSOHhMRjlWd3A0WXdjQnFzMUY2aEhXYnV3YkZCcXA5STVPNVBIZS1NVUwybER6akxOd3NPWkpxQWVzMTBtRmlKdkF6REttaTJrTV91TktTc2lSNm9ZNzZJMjQ0QVNxZ05qdHhZNzY5OWZ1clZHZWM0LUFXdFFscl9FUnRNdy1tR1cxN2lmQm52REhBYTBjVHFvOA?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
-      "date": "2026-09-15T13:00:00.000Z",
+      "date": "2026-09-14T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Behavioral health AI moves from screening to continuous risk",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb1FkWlBHQlQ5elhfbDlnTnNjQ1NxZXM2Y0Nhak5iQ2FBNUpUWm5JY2FsWFppbk16SElUdURJdFRBeVY5cFV0VFd3dUpuM3dXN1Rhb21tMWc2eHRpOXNqUnRxNFBHbkNCTmJNUmhORGlTSzVwSWgwTmswMXNjcGR0bWVSaERMajJUai0wdW9rQWRacDc1?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-14T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Enabling 'predictive' preventive care",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON1BCMno2blpXNlo0Mmd4R3dBMUcxNmN6d29TbGZMYktiRHdJaU9Wem9JaS1VSHp1M1ZtOWx3dG00aEcwcG9DUmJLVDh4V1VsME55THJJNmZZSDdMeHkwM2NIQXh0R1Q4SDNXTm5qdEVwYkpIdk5wamt2Y0l4cXRzWDNYbw?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-14T07:00:00.000Z",
       "snippet": ""
     }
   ]
