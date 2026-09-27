@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-27T23:42:34.463Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 9,
+  "sources": {
+    "MedCity News": 4,
+    "MobiHealthNews": 4,
+    "Healthcare IT News": 1
+  },
+  "summary": "# Health-Tech Daily Digest — September 28, 2026\n\nFDA approval of Mirum Pharmaceuticals' Atebrioz marks a significant milestone for fibrodysplasia ossificans progressiva treatment, becoming the third approved option for this ultra-rare bone disorder and offering distinct advantages over existing therapies. Beyond individual drug approvals, the healthcare industry faces mounting questions about liability and accountability as AI systems take on more critical roles in diagnosis and treatment planning, with traditional lines of responsibility becoming increasingly blurred in these high-stakes decisions. On the access front, despite five decades of advances in pediatric rheumatology treatments, significant gaps persist in getting these therapies to children who need them, highlighting a systemic failure to translate medical innovation into real-world patient benefit. The medtech sector is also grappling with a commercialization challenge where promising prototypes frequently stall in development because teams prioritize technical features over solving the actual business and market problems they should be addressing. Additionally, partnerships like the Iambic and AbbVie collaboration on AI-driven drug discovery signal growing momentum in applying artificial intelligence to pharmaceutical development, though success will depend on balancing technological capability with practical implementation.",
+  "items": [
+    {
+      "title": "Mirum Pharma Pill Lands FDA Approval for Ultra-Rare Bone Growth Disorder",
+      "link": "https://medcitynews.com/2026/09/mirum-pharmaceuticals-incyte-fda-approval-zilurgisertib-atebrioz-ultra-rare-disease-mirm-incy/",
+      "source": "MedCity News",
+      "date": "2026-09-27T17:54:06.000Z"
+    },
+    {
+      "title": "When AI Gets Medicine Wrong, Who’s Liable?",
+      "link": "https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/",
+      "source": "MedCity News",
+      "date": "2026-09-27T14:00:00.000Z"
+    },
+    {
+      "title": "Fifty Years of Pediatric Rheumatology, but Children Still Can’t Access the Treatments They Need",
+      "link": "https://medcitynews.com/2026/09/fifty-years-of-pediatric-rheumatology-but-children-still-cant-access-the-treatments-they-need/",
+      "source": "MedCity News",
+      "date": "2026-09-27T13:57:00.000Z"
+    },
+    {
+      "title": "MedTech Commercialization Gap: Moving Beyond Technical Viability",
+      "link": "https://medcitynews.com/2026/09/medtech-commercialization-gap-moving-beyond-technical-viability/",
+      "source": "MedCity News",
+      "date": "2026-09-27T13:41:00.000Z"
+    },
+    {
+      "title": "clinical knowledge",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iVEYwQXFvLUw0Z3loYXBaLVplajgyZmFvYU5GU21KWHY2blFSQ04xa080RWtaYnFmR3g0T2szRkpGanZmclBBc05qT0l2QlhFYXV2TFdOUUQxbk9WelFrZHlPTQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-25T07:00:00.000Z"
+    },
+    {
+      "title": "Analytics",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOcVJ3djR0X2tGVGFQdEhLSnBocENtckpDTXhuM3RXLUZKSXFlRm1XWnR6UnBDd0NWUlVkVEloekx4bm9zc2xIblNWZWZlTWNuNENMTmF5ektGNFY0N0ZQbG8tRTloZEwzV05WejVBWkJ4SDB6ejFGNzFocGxUQU82STJETVJyTk5hVnRpaVg3elZvdnNKVXVwVUxHMjhfSjlXRHc3QWk2V2E3N2NBa29tV0VSUGszaHZVS19GM3kxaGhMSmJFTmhXU24tYXJobWlJeEdUZDQwWkF5ZXZVWHhQWmt4dmxxb2hZTE1xNURIYWs2ME1oWVFPXzJrUFdjcHB5a0EzQi1aTllaZUtoQ082TlNJejh2SS12VFlTc0NZb0hNenhlNnZ4czVQNTJ4MExWTF9lWjV1aw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-21T21:32:32.000Z"
+    },
+    {
+      "title": "Iambic, AbbVie partner on AI drug discovery",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3YwcFhIUFFLcjFlcXBMaUJYUWpDOTZoZlRpTjc4aUZHNWtGOTBxSFJuSEt1dEJHY2F1Vld3Q3pDNlI5ZkNRcmdMNnM1VTZBTDh5UHowV2RSd25iSUhpSm1xZWZqRnFoWms1a3RCQUJTREd1QjVycEVUV0pqeVVMNw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-21T17:35:20.000Z"
+    },
+    {
+      "title": "Digital Health",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iQlJrQjZrNVFJSHRBSUZEQUxvSTJfWXY1bFVsWG1haVRNX2RNMVZWa3pneWFjSWxpaVViZERCcHQ5ZUl5NjhueEdCampmSFVERU9CdFk2VUxESmRBMENndnY3NElPMFVlTTNHVC1LSC1mTzNRdlpCMU4wdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2025-07-09T19:31:19.000Z"
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84amhfd05LSGVtZ0pkUDh4NVNJeldXbkZ0cHFFODlYNm5ORXZ0Z0EzYTdHVkZZb2g3UC1oSTFlNFotV0wtUDBSNDZzTQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2016-01-23T09:09:28.000Z"
+    }
+  ]
+}
