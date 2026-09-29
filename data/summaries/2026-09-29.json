@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-29",
+  "generatedAt": "2026-09-29T00:52:51.391Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 30,
+  "sources": {
+    "MedCity News": 5,
+    "STAT News": 10,
+    "Healthcare IT News": 6,
+    "MobiHealthNews": 9
+  },
+  "summary": "Today's health-tech landscape shows competing pressures across innovation, governance, and access. On the clinical front, DreaMed received FDA clearance for MODI, a CGM-connected insulin dosing tool for Type 2 diabetes, while AbbVie won approval for a once-daily Parkinson's pill, signaling continued momentum in precision medicine and chronic disease management. Merck made two notable moves: acquiring a KRAS G12D cancer drug candidate from SciBrunch for $400 million, but also discontinuing Recarbio, an important antibiotic despite superbug resistance concerns, highlighting tensions between portfolio strategy and public health needs. The GLP-1 drug landscape is shifting as manufacturers increasingly market these obesity medications as lifestyle enhancers for \"customers\" rather than disease treatments for \"patients,\" raising questions about appropriate use. Across the sector, AI governance and implementation remain critical focal points, with hospitals and payers adopting AI tools but struggling to establish adequate governance frameworks and address cybersecurity risks. Finally, the Trump administration's actions—including a nearly $1 billion HHS budget clawback targeting immigrant and diversity programs and Supreme Court involvement in transgender healthcare restrictions—are reshaping regulatory and funding priorities in ways that will affect health equity and program availability.",
+  "items": [
+    {
+      "title": "DreaMed Wins FDA Clearance for CGM-Driven Insulin Automation Tool for Both Type 2 Injection Regimens",
+      "link": "https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/",
+      "source": "MedCity News",
+      "date": "2026-09-28T23:12:46.000Z"
+    },
+    {
+      "title": "New Coalition Launches to Expand Direct Contracting",
+      "link": "https://medcitynews.com/2026/09/new-coalition-launches-to-expand-direct-contracting/",
+      "source": "MedCity News",
+      "date": "2026-09-28T22:59:02.000Z"
+    },
+    {
+      "title": "Risk from toxic metals can persist months after wildfires, Maui study finds",
+      "link": "https://www.statnews.com/2026/09/28/hawaii-wildfire-air-quality-risk-study/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-28T21:07:09.000Z"
+    },
+    {
+      "title": "STAT+: Merck discontinues a crucial antibiotic despite concerns over superbug resistance",
+      "link": "https://www.statnews.com/pharmalot/2026/09/28/merck-discontinues-antibiotic-recarbrio-in-u-s-despite-superbug-concerns/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-28T20:45:43.000Z"
+    },
+    {
+      "title": "Merck Pays $400M for Cancer Drug Prospect From China-Based SciBrunch",
+      "link": "https://medcitynews.com/2026/09/merck-cancer-drug-scibrunch-china-ras-inhibitor-kras-g12d-mrk/",
+      "source": "MedCity News",
+      "date": "2026-09-28T20:32:55.000Z"
+    },
+    {
+      "title": "Q&A: Designing AI workflows for meaningful impact",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWklnSWN5VkQ2cGE2YXhvRnl2c2o0N3ZpUUQ4WF9nMUU4WWpxblVzWmRnamRzdVFESDNJaFNiT1RsaFBRLW1zZWJvSWx5TWZTWXNocVZoaGpSTFBjTFYyZlVySkxHMm0zNTFlcWxMT2R5MXR4NF9rY2dnN2lBMWJtLThreVdZNFZz?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-28T18:03:48.000Z"
+    },
+    {
+      "title": "Trump administration asks Supreme Court to allow transgender medical care restrictions in prison",
+      "link": "https://www.statnews.com/2026/09/28/trump-administration-supreme-court-transgender-medical-care-restrictions-prison/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-28T17:55:51.000Z"
+    },
+    {
+      "title": "What it will take for AI to deliver better clinical decisions",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDVSWThHNEVGNnJ0cVQxRlF4TWlZSHlrc1VJS2tUSHA1V3lMekllSjBwbFJoZ0RRZFBmLWJwY0VJNzJralE1VGNleW82SHlFTGhrWlR4M0hiSGhvbV9KNHYtM1F0LVVDeFhENU14Y2RYWHdSWHFvVWIzbzJUN0hnQS04bWgybjV0TVhobTRWMk9WQlhobFRn?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-28T16:22:12.000Z"
+    },
+    {
+      "title": "STAT+: It really is bleak out there, and list prices matter",
+      "link": "https://www.statnews.com/2026/09/28/health-insurance-premiums-soar-2027-quorum-health-nonprofit-conversion/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-28T14:55:21.000Z"
+    },
+    {
+      "title": "STAT+: AbbVie wins FDA nod for Parkinson’s pill",
+      "link": "https://www.statnews.com/2026/09/28/biotech-news-abbvie-wins-fda-nod-for-parkinsons-pill/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-28T13:40:32.000Z"
+    },
+    {
+      "title": "Beyond One-Size-Fits-All: Women, Substance Use, and the Need for Gender-Responsive Care",
+      "link": "https://medcitynews.com/2026/09/beyond-one-size-fits-all-women-substance-use-and-the-need-for-gender-responsive-care/",
+      "source": "MedCity News",
+      "date": "2026-09-28T13:35:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about GLP-1s becoming lifestyle drugs, a setback for Merck and Daiichi, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/09/28/glp1-lifestyle-drug-marketing-merck-daiichi-lung-cancer-setback/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-28T13:06:52.000Z"
+    },
+    {
+      "title": "How hospitals can rethink operations for sustainability",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSW5oYjdiQzgtMHVmUmpTNGx2NUthaXJXdGVlRnduaVJnS1lseDVLZk85ZktJYkJTeGc4ZTdmME9HVWJNdEJ3bTJXZGtueUU4MWRuNk1lRzNhNU1JcHdSVkQwUGExeTNtUERLbG5WZDVkNk45V3F0RWxMeHBaTXh3WWRIeWM4WDZTTXZtMnZVTlNqZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-28T13:04:19.000Z"
+    },
+    {
+      "title": "Reducing healthcare's environmental footprint",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWVI2eFU4YkRya28xQm1pUkpWTjZNVkwzY0kwWTV5T0tZaUVFN1dnQzExLTRJX0dBcnVxRFNFTC1IbXItWXN0Vlp2c2VCd015aVlqSmk2Ul9oWC16ZzZvVUtDdEVaa3VxS1ZSM042N3I1MzhjN0p3WUZvUlp6dTZnZWJrQ2dPZW00eE9J?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-28T13:00:00.000Z"
+    },
+    {
+      "title": "Longevity must be technology-assisted but human-driven",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTE1YWZFSUNJMFZYQW5yYVFwRU15bTJOUnJkWENmcG1wZ2plek1sNFpiRTVjaE82UHhyclFwVmpEU1pfSjFsT25xOE1iLXZ0dFdNTS1aNzduRFhxODFBT01MWFkxMWcyMVd3RFpobXhaWFdvcExBRk1iRzNmc2s5dkRfcXlVQmZPYVF2SU5KaXF4cUhpMHc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-28T13:00:00.000Z"
+    },
+    {
+      "title": "How hospitals can make healthcare AI greener",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdWpNekt6OVNMMUxnSTgzNlI5NUx6RTZDdWZlV0xWbWFxOC0zeTkzX3VIV2N6Y1ZlV19pTVBBZ1g5RndvdjI3YmVmVHB6b3ZIam1NM0RCdlp3bG1DdjhoZUY1eUR6V0ktR0xTMTNjR3RSOXBOU3FRQzYzcDFBTEprN2hZMDJZMkU?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-28T13:00:00.000Z"
+    },
+    {
+      "title": "Trump uses ‘contested’ power to cut more funding to HHS",
+      "link": "https://www.statnews.com/2026/09/28/health-news-trump-uses-contested-power-to-cut-more-funding-to-hhs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-28T12:22:37.000Z"
+    },
+    {
+      "title": "Hospital and Payer AI Governance Is at a Crossroads",
+      "link": "https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/",
+      "source": "MedCity News",
+      "date": "2026-09-28T11:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Once described as obesity medicines for ‘patients,’ GLP-1s are increasingly lifestyle drugs for ‘customers’",
+      "link": "https://www.statnews.com/2026/09/28/glp1-marketing-shift-obesity-medicine-weight-loss-drug/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-28T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: AI is eroding the barriers that kept biological weapons rare",
+      "link": "https://www.statnews.com/2026/09/28/ai-bioweapons-pathogens-guardrails-policy-warning/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-28T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: I discovered a new structure in the heart — just by looking closely",
+      "link": "https://www.statnews.com/2026/09/28/heart-structure-left-atrial-septal-pouch-lasp-anatomy-discovery/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-28T08:30:00.000Z"
+    },
+    {
+      "title": "Heidi targets more Asia-Pacific health systems",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVmFpb09HOXc3QkhuaUhySG5WYnlFZUhRMXFfZzlIZDUtVVE3QjZPb0l1T1NHaEY5WVE1bmF5UFBGRUVLLXRnU1BPV0hvRWlBbVpVTWM1d0FfTVpXZ2JqdGdMcnNKN0xucldhRlJwN3hzQ01NbkRCSXlVLUlhZm1RT0NEZWdqOE00eExad2h6SQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-28T04:36:30.000Z"
+    },
+    {
+      "title": "Ping An launches AI-assisted care for expats",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa042NGExOHR5Q01Kb1JWcHVSM01jWFByZ2NwX0pSSEdzY0xGYjY5eGtRMDJGaXd1OHJTOXNKZHdsbGRPUFpnZHJ1QjZyZ1RvWnl5UUZXZkVrajdrd2YtMzRFeURhbWdUOGxsWVhDMFdITWhjY1RSTzI4bkRZYkdsajVpajY?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-28T04:17:53.000Z"
+    },
+    {
+      "title": "Electronic Health Records (EHR, EMR)",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLW43OXp2WkxjLXlSMG4zLWxJbnI0OXoyV012ck5fd3pNb283S3hMZmhJUUlxenBVTE9WcFBpOFVuUWxBT1h3Ny16VzlJRFFocThXaXNWSmxKZUswNHkzd3VPeXU3d3hCRUswOUJpNVlMSjhXanFCMUh1WXBNWEhoeXROVENFVlktNUxRb2lFTzlWWHZBb2c?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-27T22:29:01.000Z"
+    },
+    {
+      "title": "Q&A: Teal Health scores $22M to broaden at-home cervical cancer screening",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVR1NE1rSVFRM3Y1UXp6LUVMeTVQQmZyMldtd3F2VXFCQWh0T3VaWjF2ekZUMUpsaDJVWk9DMlJkVzdoaXpQYW9YOFUxYjNJaFRMMFczRnFpMUdWNjhGN2lFTXYzSE1zVFZhaFEyd0xMQnQyUXNiY0k3Ym9Fa0ROZmdiMWItZDdXNy1iSmJxcGp0bEQ3Z19IRmdKWjdUcWlQcWc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-23T17:26:57.000Z"
+    },
+    {
+      "title": "Interoperability roundup: New AI connections, more QHINs",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNzg3UnpzT2pwaGlpQnFHUlA4djhWVjAzcmFDalo3V3ljWXZyYlhwWWhLSWluRlNSOEdRU2xXWkdORGMyYzIzMUZ6aS1McndzejhPWUxhNTdkaGRqTTBFR1EwN0VSMk1oREF2eVBIekVldWZ1OHJaZnloNkY5ZmJfZXJDT3N4YmlLVU9MaGVKeHVCN1ZGZHg0?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-22T17:48:22.000Z"
+    },
+    {
+      "title": "Q&A: Rogue AI agents and healthcare cybersecurity",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZDVabnJpMWlrd2Y4WVE5eWgyVDk0Nnc0ZlBXNWdHSTh5X3N3UUlOSVFGNVA2VnRZZGMtMXVvVzNmY1N5Q0N3ZVp3cDF3OWNCVzNCOHJETVhtYmpyQVVsYk56aS05NDdSYjVxVndDUldoQ25jcTN2YUNJcXA4dUVoQThvcFJvbHBFMC1j?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-18T07:00:00.000Z"
+    },
+    {
+      "title": "Hello Patient acquires Converse Health to broaden workflow automation",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTVlaHlmTDhCZWpQRFJZdTZnY1FXeE53N3pEb1hCeG5rMEpweEs1TDVVU3RPZklZckd2YTJndDlFTndiN0JGMzlBWE4waGJfcDNLZ201TlFmN3ViM2V2b3lfRHlKZ1liaVBXcUt0VHNUZmNZcXNvUWJ6b0tYNnJwbGlhZGo3d2dFemxDNnFkMGM5TU5mSnFSbEd5Q1JSM3p0Q21TZg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-17T19:31:06.000Z"
+    },
+    {
+      "title": "Luma Health expands AI outreach to fill schedules, close care gaps",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYVRJRTI2NnhMVmNxWm5RQ3dabjhUQmVtalFsR21OSDZCb2VYSjllbUx6dkdpLU10YWNNd3NjblN0aEd1a3FGbGhpRjBzaDVHbzl3WGZuSTJyNUpFOWF4NVBOaFVoS1NSNU1FOFo3SmY3NlRwbTVoV2hXdklGNG5GcTNoWENHOVVPZ1gtbERWSENrVExKRTNEeVVMNnVuQ2M?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-16T15:31:14.000Z"
+    },
+    {
+      "title": "AI should assist, not take over",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVVzc3czlka3dJLV85R0s4UXMzVGNMbDJBUWEwVmFRQlRkTjNjRDFZSE11VDcyVGZaZnFSMUdxaUNHZ19FYm5pMmFEbmtsdDF5REh0b3FSemZPZWJkOVMyOHVrWEF5NkZweEpXSXAyV25pQkpDcFJMenFvbXA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-16T07:00:00.000Z"
+    }
+  ]
+}
