@@ -1,0 +1,226 @@
+{
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-30T00:11:23.642Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 35,
+  "sources": {
+    "STAT News": 16,
+    "MedCity News": 5,
+    "MobiHealthNews": 4,
+    "Healthcare IT News": 10
+  },
+  "summary": "The health-tech sector is navigating significant shifts across funding, policy, and clinical integration. Tiny Health secured $33 million in Series B funding to expand microbiome testing, while EliseAI raised $350 million at a $4 billion valuation to scale healthcare AI automation, demonstrating continued venture appetite despite broader economic concerns. On the pharma side, AstraZeneca invested $2 billion in Summit Therapeutics for cancer drug development, and Novo agreed to pay up to $2.6 billion to license a weekly weight loss pill from China's Hengrui Pharma, signaling continued M&A and licensing activity in high-value therapeutic areas. Policy uncertainty looms ahead of the midterm elections, with lawmakers urging the Trump administration to reconsider restrictions on imported medications from Canada and overseas, while questions persist around Medicare's elimination of automatic breakthrough device designations and potential shifts in drug pricing, Medicaid, and research funding. In parallel, healthcare organizations are addressing practical challenges including clinician-driven data leakage, shadow AI risks on devices, and communication breakdowns, while the MAHA movement's evolution toward corporate participation is drawing scrutiny from grassroots supporters.",
+  "items": [
+    {
+      "title": "STAT+: At MAHA Summit, a grassroots movement goes corporate",
+      "link": "https://www.statnews.com/2026/09/29/maha-summit-washington-dc-2026-corporate-interests-swamp-grassroots/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-29T22:46:45.000Z"
+    },
+    {
+      "title": "Tiny Health Secures $33M to Expand Microbiome Testing",
+      "link": "https://medcitynews.com/2026/09/tiny-health-secures-33m-to-expand-microbiome-testing/",
+      "source": "MedCity News",
+      "date": "2026-09-29T22:16:55.000Z"
+    },
+    {
+      "title": "Unite Us, Instacart Link Care Coordination and Grocery Benefits to Scale Food-as-Medicine",
+      "link": "https://medcitynews.com/2026/09/unite-us-instacart-link-care-coordination-and-grocery-benefits-to-scale-food-as-medicine/",
+      "source": "MedCity News",
+      "date": "2026-09-29T21:43:55.000Z"
+    },
+    {
+      "title": "STAT+: Lawmakers urge Trump to rethink new rule that could restrict imported meds from Canada and overseas",
+      "link": "https://www.statnews.com/pharmalot/2026/09/29/lawmakers-urge-trump-rethink-new-rule-that-could-restrict-imported-medicines/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-29T20:41:40.000Z"
+    },
+    {
+      "title": "Tiny Health raises $33M to expand microbiome testing",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQazhKMmFZcXlkSnRuYjNYd0lrZkdHODNvLUROQUMxTHY3NjJVdkhWbUp3V3Y2NXlaMzdKYUhHM3ByTzUyZWxKVnlLOHNQQU83UjNBZ0o4dGNocVVENnBDb3lVOWdoMlFkdHAyd0FGTzY0bUlIbDRSaUlwbkZlbHdYa3BTOFMzSlI0U18xSA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-29T20:24:19.000Z"
+    },
+    {
+      "title": "AstraZeneca Places a $2B Bet on a Summit Therapeutics Cancer Drug",
+      "link": "https://medcitynews.com/2026/09/astrazeneca-summit-therapeutics-gastrointestinal-cancer-pd-1-vegf-bispecific-antibody-adc-combination-smmt-azn/",
+      "source": "MedCity News",
+      "date": "2026-09-29T19:25:15.000Z"
+    },
+    {
+      "title": "MedCity Pivot Podcast: A Conversation With AliveCor’s Priya Abani",
+      "link": "https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/",
+      "source": "MedCity News",
+      "date": "2026-09-29T18:13:41.000Z"
+    },
+    {
+      "title": "STAT+: PhRMA taps Eric Cantor as new CEO",
+      "link": "https://www.statnews.com/2026/09/29/eric-cantor-named-phrma-ceo/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-29T17:56:29.000Z"
+    },
+    {
+      "title": "STAT+: Beam Therapeutics sues Chinese biotech, VC-backed startup, alleging theft of intellectual property",
+      "link": "https://www.statnews.com/2026/09/29/beam-therapeutics-yoltech-serapha-gene-editing-lawsuit/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-29T17:54:41.000Z"
+    },
+    {
+      "title": "Trump launches AI-driven digital front door for the federal government",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0FqMzRIRVBoYnJnNzh0YjNfeWtDRERVeVJkNUNuN2NwMGtSbGJTV3ZPSS1VcUQ3SEZUV0ZQTm5kakhjWHBVTmExdmVyYkZUNUhoekZEZkNFWWNJZWpzd2NpRWd2TGdGQ3NEVmtOaDlpYTNCT0k2SFU5NTlsUzdxM3pDSW1CSVljall2Uk1ONlp2SDZMU2lGeWhHZmo2eXRmSEE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-29T17:29:19.000Z"
+    },
+    {
+      "title": "Flora Fertility, Clue partner on fertility planning",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdVp3RWlaMHducjlKVkZfVkJGNEZiU2RJcGJwSHlfdFBqUjd0VGxJNmZPMnlvN0Y5SmhWYUYxdGNWSjdsbGNleS1EemlOLTBvUmtCeXpEM1I2OTV0b1V3bUFTRjlsVExteENOWVFLa2ZMMzY4MVhzVEhvV0I2dUZXQUxid3N6bXNLak5F?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-29T17:09:05.000Z"
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pQklKQklSbFJCSTVQeVdCdk9ibHl0WGQ5emtGTzFNckwtc2Y1TUNfc05sMXJTZTVCRzdsQl9KQ0p3Q1V5ZVJBSWdvTDZoeVhudTUtZXNwOXVPZ3cwbGk5ag?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-29T17:08:53.000Z"
+    },
+    {
+      "title": "EliseAI raises $350M at $4B valuation to expand healthcare AI automation",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRk84UHY4NTRHNXU2d1lNYkt0bUpBSGxSa25IaC1jRmpXYUdzUDR5b1dNa0pzS2RKZ2JlbXpTbXdQV2diU001U29BZF9EWW5MUmMwTGdGY0lNMUJKYWFMS3VOdVJLMmRBeUpRZzM4YmN4NXA2S0ItZVNpRjFzWGZjam55QWRQVlEzYmdsdHhMMjNaTndVQzYxbnNkYWw2dzk5eGc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-29T16:53:26.000Z"
+    },
+    {
+      "title": "STAT+: Overton won’t get a vote before midterms",
+      "link": "https://www.statnews.com/2026/09/29/heidi-overton-fda-commissioner-vote-midterms-health-care-policy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-29T16:14:43.000Z"
+    },
+    {
+      "title": "Clinical AI pilots falter when data loses meaning",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSURUbHdmTUo4OGZSUlh4aWt1MzlHYUF4SFd3czd2N0l0MUczektXY1BkVXpOMUphMHpmNHZRcDNxZWgzdlVQeGhGOFBYUldSRUQ4eGVFSTVmRktlQzlhcTl6NGNZVGpNd2MwdkViU2VUcmJRb1QwSkxGLXFZQmozNHhybUFOTFl2T2dRSjMydno?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-29T16:01:30.000Z"
+    },
+    {
+      "title": "STAT+: Anthropic joins ARPA-H clinical AI moonshot, will hold closed-door health care event",
+      "link": "https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-29T14:32:24.000Z"
+    },
+    {
+      "title": "Clinicians are creating 'well-meaning' data leakage",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONThBbXVlMXdWSUs3dXZxU0tZemFuZzJZLUdfS3NkNVRBQ3R3LWYxc2Z1Q3ZhYWp0ZHMza0JLdFFFb2pCUkttbTlrVkduVWswZnlBc1ppbmROd1h1ZUF3WjZzNFJtci1hVWNZd3hqejJhbmhFQkhKZmNad3piNTEyeVRRTnp6QWEtcDViMGtlUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-29T14:04:20.000Z"
+    },
+    {
+      "title": "STAT+: AstraZeneca invests $2 billion in Summit Therapeutics",
+      "link": "https://www.statnews.com/2026/09/29/biotech-news-astrazeneca-invests-2-billion-in-summit-therapeautics/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-29T13:52:51.000Z"
+    },
+    {
+      "title": "The risks of shadow AI on clinician devices",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KNVhObEpuSWdocFVBa3Zad1pwMmFZcFZqS1FwMXFLNXpOX0E5SWJ2NjNXMzZDSWhROUFlRkM2NnUtV1JkdHRrUVktR3FYTTlvdHRkM2preDZGdDNmOGdDNWNHVWJFbVFCOHdxZWdqQ1BLYVZTMGxfQ3FWdGQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-29T13:31:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Novo licensing a Chinese obesity pill, Merck pulling an antibiotic, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/09/29/novo-licenses-obesity-pill-from-china-merck-pulls-antibiotic/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-29T13:25:06.000Z"
+    },
+    {
+      "title": "PerfectServe",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nMnNFXzdwYkhQeWM3d0FpZ3VVNFBBZFNOaWxOdW1PR2FHR0l5VzNsbkszczh6STBHQjB4dHhzTzFZNWNrV2pER0pYRGNBdVRJRnpReEc1NU1qRVdwd1V0cVMybjQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-29T13:00:00.000Z"
+    },
+    {
+      "title": "The hidden cost of broken communication and scheduling",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdGJLbUhuTnd3Q2dTdm9zNVQ1THRtRUU2SGkzcUZjMmFpVHlNMXFWNkVxTlFoSXQ5b0dYM3ZtQnhWSm5ZeUpldGFNek1xMUtRU2ZuckRfemJmQ1FyeFpEUTVURXNaYVE5Vk9QVkktdU96ekFncGRiZlJPcV9kN3FkRDRSemVXTlZRVEdySnpR?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-29T13:00:00.000Z"
+    },
+    {
+      "title": "Researchers slow neurodegeneration in mice by barring T cells from the brain",
+      "link": "https://www.statnews.com/2026/09/29/health-news-researchers-slow-neurodegeneration-in-mice-t-cells/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-29T12:02:41.000Z"
+    },
+    {
+      "title": "Latest hospital AI deployments in Singapore and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMDhlY19kM2czN2NqRUw3c0I3TkU0ZGFwWks2R3NVS00xeEpfYXZDSEtrTHV0UEJOZXlZQjdBdWVySGZBTktBVjVlbWV1aTVXbEpwYkd0WFI4Y1ZpekVSQ3JzSFQ4azFhN0hVZHozMXJnLVk1TEM1RlNCb2pUeU1QWXYzV3J0VVZDTGpIZlFDcHFHM3MwNkZveUk5RmRfb1NW?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-29T11:52:44.000Z"
+    },
+    {
+      "title": "STAT+: UniQure’s gene therapy continues to slow Huntington’s progression after four years",
+      "link": "https://www.statnews.com/2026/09/29/uniqure-huntingtons-gene-therapy-slows-disease-progression-four-years/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-29T11:05:00.000Z"
+    },
+    {
+      "title": "The Illegal Drug Marketplace in Your Patients’ Pockets",
+      "link": "https://medcitynews.com/2026/09/the-illegal-drug-marketplace-in-your-patients-pockets/",
+      "source": "MedCity News",
+      "date": "2026-09-29T09:52:38.000Z"
+    },
+    {
+      "title": "Why MAHA wants to make health data much more accessible",
+      "link": "https://www.statnews.com/2026/09/29/why-maha-wants-to-make-health-data-much-more-accessible/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-29T08:30:00.000Z"
+    },
+    {
+      "title": "She’s spent two decades talking to parents who don’t vaccinate their children. Here’s what she’s learned",
+      "link": "https://www.statnews.com/2026/09/29/understanding-vaccine-skepticism-in-parents/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-29T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: The last ‘breakthrough’ devices to get special treatment from Medicare",
+      "link": "https://www.statnews.com/2026/09/29/fda-breakthrough-medical-devices-special-treatment-medicare/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-29T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Drug pricing, Medicaid, and research funding: The key policy issues at stake in the midterms",
+      "link": "https://www.statnews.com/2026/09/29/healthcare-industry-midterm-elections-analysis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-29T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Child health is the national security crisis we keep ignoring",
+      "link": "https://www.statnews.com/2026/09/29/childrens-health-national-security-military-labor-workforce-policy-fixes/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-29T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Massive SNAP cuts could mean more children are separated from their families",
+      "link": "https://www.statnews.com/2026/09/29/snap-cuts-states-health-child-welfare-cps-foster-care/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-29T08:30:00.000Z"
+    },
+    {
+      "title": "Sens. Warner and Wyden re-intro cyber bill with money for hospitals",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTczT0tlRUhmRk14Unhra2lhMjdIRWlrdGZ0ZWpFazk1cXdQSGtYVzlacC1NZ1ZFRXFERjdybmR0S1pDWWt4Ym80OHJOY2VPLXFlZUw1VnFLaF9ZS3ozMUljVVFlYmx5Rl9IaDZ3SjdTeG9SLTJyVGNOZFBfZjBxZHBodFV6ZTk3dXA3WlR0VFRZOGdqOUJKRGtxbw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-22T14:09:40.000Z"
+    },
+    {
+      "title": "Analytics",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxORkp5TDFvMHhfSU91X1o2WjlHOWRzUzBHN0QtdzBlQTVZWUFnZV9NcUtOMmh1eVdLLURzNzRNSGc4MU9obXpCSTYtVk1CNHNMNDE1QUZNTDRNYTFHb3JIVzk5d1I5MXlvdnBZTTM1aGdhaHlCbnNEUHFCcTVlcS1uektIcDlNT1lXZ1Q1RU5MeDcyb0JyV2FXX0E1V2ZhSGNjdmdzdmNUQ2lzR0lDbFVxRTk3aWNkOW1FQVpXSVgyNm1BNkh6OG5EVGV6cWt3Y0RVTklQa0tHalFBWjRwZkxNcklDU0duVWhOS2NaU1d2NVdUY1NtVk9MZlBqUTNzMW5Sd0hNMU9mMldTSlFNbmNJMWs5TDVJR3lJc0k0aHc2Mm5UZVg1UHJJR2lOdEw1Skg1bTZfdW1HSQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-21T21:44:25.000Z"
+    },
+    {
+      "title": "Physical AI takes aim at hospitals' fragmented logistics",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZFAzVGRiM3NrZmJHb3VDS3VVN0xDdTZnM21NQjJqeHpSTWcxdkdNQkFFWWFEM2Uybk95MjVmLS1iRDlQRG0zdTFFaDh5VWtpZk9oblJpUDJjSWQ3dlhmZ0RtanBxeFlldkI2YzlxQmF4T2txWWRkZGIwSm93Qlk0bXkyMTR1Znh1U19Kd1ZZY0M2MjR6?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-18T16:47:30.000Z"
+    }
+  ]
+}
