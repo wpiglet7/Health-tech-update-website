@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T00:25:48.807Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 29,
+  "sources": {
+    "STAT News": 13,
+    "MedCity News": 5,
+    "Healthcare IT News": 7,
+    "MobiHealthNews": 4
+  },
+  "summary": "The health-tech landscape faces mounting pressures across regulatory, commercial, and policy fronts as October begins. On the policy side, the Trump administration's finalized Medicare drug pricing rule proved substantially weaker than initially proposed, applying to only four companies and delivering savings 96% below original estimates, while hundreds of thousands of legal immigrants including refugees face Medicaid coverage losses starting today. UnitedHealth Group faces a significant legal challenge as an investor lawsuit alleging manufactured earnings to hide declining profits will proceed past a dismissal motion, and rural voters aligned with the MAHA health movement report that Trump's policies have not improved their communities' health outcomes. On the clinical and technology fronts, federal health officials are accelerating efforts to use AI in clinical trials to compete globally, though healthcare organizations must balance efficiency gains with maintaining human decision-making authority and clinical trustworthiness. Meanwhile, Eli Lilly's combination obesity drug showed significant weight loss in mid-stage testing despite high discontinuation rates raising tolerability concerns, and biotech intellectual property theft allegations surfaced as Beam Therapeutics sued a former scientist accused of stealing IP for a Chinese venture.",
+  "items": [
+    {
+      "title": "Trump’s watered-down Medicare drug pricing rule saves 96% less than initial proposal",
+      "link": "https://www.statnews.com/2026/09/30/trump-final-globe-rule-will-save-medicare-much-less-money-on-drugs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-30T23:15:09.000Z"
+    },
+    {
+      "title": "STAT+: UnitedHealth investor lawsuit moves forward on allegations it ‘manufactured earnings’ to hide declining profits",
+      "link": "https://www.statnews.com/2026/09/30/unitedhealth-investor-lawsuit-moves-forward-allegations-of-manufactured-earnings-to-hide-declining-profits/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-30T22:40:54.000Z"
+    },
+    {
+      "title": "FDA Looks to Bring New Scientific, Consumer Voices to Advisory Committees",
+      "link": "https://medcitynews.com/2026/09/fda-advisory-committee-recruit-adcomm-scientific-consumer-regulation/",
+      "source": "MedCity News",
+      "date": "2026-09-30T21:34:38.000Z"
+    },
+    {
+      "title": "MedCity FemFwd: Opportunities in the Fertility Market",
+      "link": "https://medcitynews.com/2026/09/medcity-femfwd-opportunities-in-the-fertility-market/",
+      "source": "MedCity News",
+      "date": "2026-09-30T21:19:21.000Z"
+    },
+    {
+      "title": "4 Notable Health Tech Funding Announcements in September",
+      "link": "https://medcitynews.com/2026/09/4-notable-health-tech-funding-announcements-in-september/",
+      "source": "MedCity News",
+      "date": "2026-09-30T20:52:18.000Z"
+    },
+    {
+      "title": "AI’s Healthcare ‘Doomsday’? It May Be Less About Autonomy Than Trust",
+      "link": "https://medcitynews.com/2026/09/ais-healthcare-doomsday-it-may-be-less-about-autonomy-than-trust/",
+      "source": "MedCity News",
+      "date": "2026-09-30T20:45:06.000Z"
+    },
+    {
+      "title": "STAT+: HHS announces new efforts to speed up, expand clinical trials with AI",
+      "link": "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-30T20:09:15.000Z"
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44Y19fb3l3bVRQMXdHQ2ZwZlRzNEI5dm1URkw0b3dLc2l1WUsyME1va0d0akk4dzVETFk1bFpIcUoydVBRaXVLVTdmM2RWVGZCMDRNeEo0RW9RTDFhR3hVMg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-30T17:24:04.000Z"
+    },
+    {
+      "title": "AI-enabled triage holds big promise, but needs clinical evidence",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcG5SQTlTT00xeU9XbWppU3BIQVRrWlZuc2NZaEhhZEoxb1Rvd0tsR2NLUWVKNUJWMEIwT2VOeGFud2xhTmR5VmpIUlhGU2ZHdXNCQmpTWTltVjlyR3J3WTNKQkRhd3BiMDFfQnNJTVZZOERGLTN1RzExVkt6RExWbHJ1T0oydXdJdzVaRjBvQ1VwV1BJdW5VOEZRbE9EQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-30T16:33:18.000Z"
+    },
+    {
+      "title": "Transforming Intensive Care with AI: From Data Capture and Research to Real-World Deployment",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdk9IQWVVRV9NaG9CMkt6bXkwUGhQWnNIekd3UVZWTGppTWE5OU55bGg5TlhFY19EcGgzbHhfekF4NW9XdlVpelVHYk5hX2JST29HWWFuZjIzODJEZVJxV3lLLTNEaXRoY0tsS2lscnZSLUQ1eGJzemoyQU80RWFTYjRUWWcxcmhjM0ZPd3JWUnpoODBJOXA5d1BDekR3TnpGNzc1NE5UaC1NbDl0SjFNdlpTdmlYcE9HSUJLYQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-30T15:52:24.000Z"
+    },
+    {
+      "title": "U.S. poised to boot legal immigrants from Medicaid, including refugees and sex-trafficking victims",
+      "link": "https://www.statnews.com/2026/09/30/legal-immigrants-risk-losing-medicaid-coverage-trump/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-30T15:50:06.000Z"
+    },
+    {
+      "title": "Owlet creates the Baby Safety Task Force and more digital health news",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3N5YUxtQ1VaQUlQLTBZMTRQYUVzcl9kclVSVjFaT0JLbUVkZGRJN1FMOEFNeHF1SWx6YXJ1V3gxeUFDdFRjTHdmM2ExNV9BM2hBb0hXc0FUTVpJZTNiMU1FRzhXRDI3QVdERXk5ZnJuaklINFQzSWcycFpzdDhpV0pmMGotUFhtNHN6WUUyb1pVUXlkd0QtbGZ3UEp4TzhWWlJz?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-30T15:49:05.000Z"
+    },
+    {
+      "title": "STAT+: What health tech leaders are talking about in Washington policy circles",
+      "link": "https://www.statnews.com/2026/09/30/health-tech-policy-conversations-washington-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-30T14:37:55.000Z"
+    },
+    {
+      "title": "STAT+: Eli Lilly’s Zepbound combined with amylin drug led to significant weight loss in mid-stage trial",
+      "link": "https://www.statnews.com/2026/09/30/eli-lilly-zepbound-amylin-combination-drug-study/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-30T14:15:00.000Z"
+    },
+    {
+      "title": "Rural MAHA followers say Trump hasn’t improved health of their communities, poll finds",
+      "link": "https://www.statnews.com/2026/09/30/rural-maha-followers-poll-trump-hasnt-improved-community-health/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-30T14:12:49.000Z"
+    },
+    {
+      "title": "Providers and payers both still spending on IT despite financial pressures",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNmNtNExwckJmaFBjN285dmRrTi1ZdmZ1X210WUNwQWh6blFueUp1U1NucUFoak8zWElkVTJPdWpfWkRmOUUyci1pRF9HMGI5V1pfLUwtRVJNc0UzdjZRM0RqTW5JbnhIU095a0xzcEp5QkpCYkliOEZzS0pxdmxibGhQWW5BaEpaNFA5NkVzRkU3NXczN0Z4WmdrZFRzdldfakd5RkJKNXRPWG51UGc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-30T13:58:41.000Z"
+    },
+    {
+      "title": "STAT+: Three biotech updates, including accusations of theft and and a new lobbying leader",
+      "link": "https://www.statnews.com/2026/09/30/biotech-news-updates-accusations-of-theft-new-phrma-guy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-30T13:39:27.000Z"
+    },
+    {
+      "title": "AI Won’t Fix Social Care, But Could It Help Us Finally Make It Work?",
+      "link": "https://medcitynews.com/2026/09/ai-wont-fix-social-care-but-could-it-help-us-finally-make-it-work/",
+      "source": "MedCity News",
+      "date": "2026-09-30T13:39:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Beam suing over IP theft, a Trump rule on importing meds, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/09/30/beam-sues-over-trade-secret-theft-trump-drug-import-rule/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-30T13:35:50.000Z"
+    },
+    {
+      "title": "Rethinking healthcare procurement to lower emissions",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTUxwMERhY0R6WXRWd05GajhPTmxIaWxqN1hvU3RFcEg2XzRCSTA3T0dpNVFlWS1ONFMyQ0pudW1FRUpzQVpsNmFHRkRCckJsdHU3MXQ4SjRLYi1sRDFTTTJ1VG5KODdsSkowTC1iODlodHlOY0w1aWZPRXVNWGNDUklyam8tQXB3eVRra29BSQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-30T13:01:07.000Z"
+    },
+    {
+      "title": "Advancing healthcare innovation sustainably",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZkxIRmd5ZGJvTDJrWmRlOTg3bXZrWDVEQ202S2IwTXo4TzZ4N3g3QXVIWHdRQ090WXY0SHhVT1hZR2drdDQ2THUyZFY1QlRzV05pRWZjd2RSTDBLVlRUTk1RT1BhUk5DQXFmSnFUTE9qa043cjR6OWl0VWNvVHlWclFQVzJSbmRTUUE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-30T13:00:00.000Z"
+    },
+    {
+      "title": "Healthcare's climate footprint and the patient experience",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMExwSVBJVGgtdTJ2cVNWSmwybVFsZEJFYmxJREVBZERyWjJEQkoxQ1Z4bjNGOWtiTUdmaGdKNFRmQkdwR09EV3RkNXFCektYb0hWcTF1czhDRzNuaDNxRFRiSGxKZS1YR204N09ZUW9wYXBUV2Y1WXVOVUZ4dlQ2QlNwdmFIXzdLMnR4eTh3V2NtQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-30T13:00:00.000Z"
+    },
+    {
+      "title": "CDC measles death count still lags Pennsylvania’s",
+      "link": "https://www.statnews.com/2026/09/30/health-news-cdc-measles-death-count-still-lags-pennsylvania/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-30T11:59:12.000Z"
+    },
+    {
+      "title": "Opinion: America’s biotech race with China must be won at home",
+      "link": "https://www.statnews.com/2026/09/30/china-america-biotech-race-security/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-30T08:30:00.000Z"
+    },
+    {
+      "title": "Kratom and 7-OH should be regulated, experts agree. They’re split on how",
+      "link": "https://www.statnews.com/2026/09/30/dea-proposal-7-oh-kratom-schedule-1-drug/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-30T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: STAT+: What to think about those mice with half-human brains",
+      "link": "https://www.statnews.com/2026/09/30/xeno-mice-human-brains-cortex-research-ethics/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-09-30T08:30:00.000Z"
+    },
+    {
+      "title": "Electronic Health Records (EHR, EMR)",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVNkV3pSVEVBT1VfVHZ0Q2w2LXZpRV9yTXZOZFpEMEV0bE9URFUtNVhOZXh3Tkc3WlVIVlVTVVVqQldpemVNbGxpV2NwXzVEQWVwZjBLUC04bFdYbFk5UjdqZ0JUemdPMUJ5dVVIbmxVb1VRQ1lPMmpDZUIyODR1bDd4dlFmblpSVkp0emduVE9lcERMNlE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-30T00:03:51.000Z"
+    },
+    {
+      "title": "Flora Fertility",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96U2huQTFLUjJIUjFpaXoyd2gwSV9IMkNVQWpGU3M1UkJ6NVE3dFJyN2VxMkU0elRkSkJDMUJMc1c1WHBUelhFajluTmxYczlNN2JHM2hMOHU2Z0I1eC1v?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-29T18:46:05.000Z"
+    },
+    {
+      "title": "Hong Kong HA plans technology convergence hub",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTloeFJ1Q2VzanVrQmI2bm16a2pWbHVqc1hmOWN1QWRlRHhMODJnbVBHWHNYTk5reWt1ZFVrQVl1VktJbGpSdzBmTjhodUU1bFJJdGg2WXhGVUpFSzJtdldsTTFfSkd3MVBZdUJ2ZUpKYzJCWGhZenJnQ0E2QW5va2szVjFpc25lUlphNENMNFh6QQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-23T05:56:19.000Z"
+    }
+  ]
+}
