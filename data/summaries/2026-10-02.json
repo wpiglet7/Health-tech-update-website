@@ -1,0 +1,208 @@
+{
+  "date": "2026-10-02",
+  "generatedAt": "2026-10-02T00:36:30.806Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 32,
+  "sources": {
+    "MedCity News": 3,
+    "STAT News": 17,
+    "MobiHealthNews": 4,
+    "Healthcare IT News": 8
+  },
+  "summary": "The health-tech sector faces significant structural pressures across multiple fronts. Pharmacy benefit manager consolidation continues to deepen, with four companies now controlling 75 percent of the national market, while Medicare Advantage plans are simultaneously shifting more costs onto seniors despite stable premiums—developments that underscore ongoing concerns about healthcare affordability. Meanwhile, artificial intelligence is expanding rapidly across clinical applications beyond documentation, from chronic-care management experiments to advanced diagnostic capabilities like whole-genome analysis, though regulatory and standardization questions persist. On the biotech front, Chinese companies are rapidly gaining ground, now representing roughly half the global drug pipeline and attracting international attention, while American innovators continue advancing in targeted therapies, including gene editing and monoclonal antibody approaches. Policy uncertainty also looms as Congressional health committees face major turnover and the Trump administration pursues healthcare initiatives including scaled-back Medicare drug pricing measures that are projected to deliver substantially less savings than originally proposed. Finally, venture capital activity remains selective, as evidenced by companies like Oura delaying IPO plans amid market uncertainty while others like ElevenLabs and Ortet secure substantial valuations.",
+  "items": [
+    {
+      "title": "AMA: PBM Market Concentration Is On the Rise",
+      "link": "https://medcitynews.com/2026/10/ama-pbm-market-concentration-is-on-the-rise/",
+      "source": "MedCity News",
+      "date": "2026-10-01T22:38:24.000Z"
+    },
+    {
+      "title": "STAT+: Medicare Advantage plans shift more costs onto seniors in 2027",
+      "link": "https://www.statnews.com/2026/10/01/medicare-advantage-plans-have-higher-deductibles-fewer-benefits-in-2027/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T21:14:01.000Z"
+    },
+    {
+      "title": "Oura postpones IPO amid market uncertainty",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHpXQnAzcHN6MUYtNHFWeWhheHR0Q0wzVFh5emVBaTRHQk84a0phQUdwRmxUdHhqaDctSkFMbTlHUmxZZGpkS3dyc21KME9jUld5UUctZ05MMV9Sd3kxc29jclJDUVIyZE41VllqSUdzOVZ2eUpPWlJtSXFhbkhVUGlLUzQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-01T20:38:05.000Z"
+    },
+    {
+      "title": "Sanofi Puts Up $1B to Expand Regeneron Alliance and Develop Next-Gen Dupixent",
+      "link": "https://medcitynews.com/2026/10/sanofi-regeneron-partnership-next-generation-dupixent-immunology-inflammation-sny-regn/",
+      "source": "MedCity News",
+      "date": "2026-10-01T20:13:10.000Z"
+    },
+    {
+      "title": "California Gov. Newsom signs 3 bills to govern healthcare AI",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZzl5OHVlczdydGxrX1FIUzZ0ZENaQjFYcEdjZGc1NE9wR201RkJLRDRscV8zNHN6WkEzTG5YYmhkc05qb2RwNXlRNmpzLWxBbmxkS3lUYlZmYVVDODJDSVdFOTl0Q3RwRGxXZjc1NEZCRDhVcnA5RXBaOV8yMm96QnZyZzRWT0twWGxvWkJpMU9fTmFfRnlkWGJB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-01T19:27:43.000Z"
+    },
+    {
+      "title": "Top journal’s special issue on women’s health casts spotlight on menopause and pain",
+      "link": "https://www.statnews.com/2026/10/01/womens-health-issues-academic-journal-science-special-edition/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T18:00:00.000Z"
+    },
+    {
+      "title": "Ortet launches health AI lab with $500M commitment from Thoreau",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT3VuM05GQ2g1T0RSR2hPZFZpZ0FjRGdaOG1zX0xwLUtZRlBCb1hid2x5aTBNVEVwY2hZa0FIdGczNEdJZ2lVUWRac29YbVh0Mk5raGxzZ3BRa2dIVlhEWHRIRl9yVmxHLUlJaUowYWozQmpNa2pGWS1BTlhqTzg5ZTUyVGhib21CcjIxQzFOMnJ4dw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-01T17:02:27.000Z"
+    },
+    {
+      "title": "AI moves beyond the note and into clinical workflows",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeDJhNGxoLVlIOFFPekh4N2R5RGx0dDRRajNEdDhqYTU3MmZwY3NQeUcxLTZXQmtSLWREZnRjMW1QamFXN25naXUxQ3BkeTZNTEtFT3ZEZEN3OFphXzgtQ01PTFN3Z0l1N1NNWVFEaTBfcXJfdmlFOU9RdWJvTTZiR3FMczlRRVk3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-01T16:42:06.000Z"
+    },
+    {
+      "title": "Mistrust in science and a juicy gene-editing lawsuit",
+      "link": "https://www.statnews.com/2026/10/01/readout-loud-podcast-trust-in-science-gene-editing-lawsuit/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T16:31:11.000Z"
+    },
+    {
+      "title": "As CDC redesigns annual health survey, it removes questions about disabilities",
+      "link": "https://www.statnews.com/2026/10/01/cdc-health-survey-redesign-removes-questions-about-disabilities/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T16:15:16.000Z"
+    },
+    {
+      "title": "ElevenLabs hits $22B valuation with employee tender",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ3FaTHk1OU5yU0dIZTlhRXpfN2ZIeUFRdWd3OE5lWF80RkxLTC1JRkJJOWdVaG0xWmJMaFFhX1E4YzRCQ3c0SXBMZHZpNzlwNURTV01mRmhteTBqY2VadkI3bzBnZmUxeFZIaG50SkxVYzJ1SmRPanFfQ3lEdmRyS2hVZUk1Y1Rw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-01T15:53:41.000Z"
+    },
+    {
+      "title": "STAT+: A journey to witness China’s biotech boom up close",
+      "link": "https://www.statnews.com/2026/10/01/biotech-news-journey-to-witness-chinas-biotech-boom-up-close/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T15:22:13.000Z"
+    },
+    {
+      "title": "STAT+: MAHA goes corporate",
+      "link": "https://www.statnews.com/2026/10/01/maha-goes-corporate-trump-waters-down-medicare-drug-pricing-model/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T14:47:01.000Z"
+    },
+    {
+      "title": "Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUVVOZzdpb3JRclR3c1ppS29nVjRWYTdBUVhQQy1UbTNvRklKYTRnSkI5Wmo5Q3NDMTR6Z2tJdzZycWtRamxISno2RjJESWthQ3V3Wm9udE9LNTd3LW1NSHp6Q0xvWGlHaTMzdTNyVUpLdFlPVmV1OFB3QnZweWsxNkQ1NEt4MkgyM0E?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-01T14:30:59.000Z"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON2tfSkI2ejVYZDJWMUpyc3pWbkJhOXU0ZUpHX0NVbHNiaXlvWDVCVmdRcjFDaFNWQ0ZtcC0zOGNMUDNBa3JuamVVQ2VHVXc4aEZxcWV4UlpHYmtjaUJtaHBvUUZGWjNPaFUyblk2Wm84dkZweDJoMng0OXMwd1d4MnI2Ml9FWmxvTXJmS2xrRUFlMDkyWGRTNg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-01T14:10:05.000Z"
+    },
+    {
+      "title": "Closing gaps in ataxia care through telehealth",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ29fSFRHd3BvcE9QQkR4QnB2a3AxZi1pREhvcjFPd2FQQjVlbDhNYWU3ZWs5M1ZyRWtwMDdFck10UjlqWG5aRG9oT1U5WGJaRXNueEVQcE1iUVlkS2ZsNVpaVWltRnBJczh3LXh4LTdLZFBiTzNpY0lkMTBqdjlLcnlSNGZLR2c?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-01T14:06:41.000Z"
+    },
+    {
+      "title": "STAT+: A major insurer on how it may replicate Medicare’s chronic-care experiment",
+      "link": "https://www.statnews.com/2026/10/01/major-insurer-on-medicare-access-model-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T14:02:51.000Z"
+    },
+    {
+      "title": "Synapticure says ataxia is now covered by its virtual neurology care",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1JGekVOdFJBWXdkVk1Sd3o2RUVOa3VIRWVhNmRoMnl5ZWZTVmYyWS1XUWRLLXlZN2xfVC1RUlY1TUR6cDYxLWt6ZVBOdmo1SzZRUjBSZjZRRkljSXI3dFhOelNRWTM4OUprV0lQQlFqd0pLOERmZkJZWFhtbmtTbGFJYTRybzZoblFYdHdYNGZZS0xCeU1tNnNXa2lKM3pFTEU4?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-01T13:37:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a plan to lower Medicare drug prices, a Lilly obesity drug, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/10/01/trump-plan-to-lower-medicare-drug-prices-lilly-obesity-drug/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T13:26:58.000Z"
+    },
+    {
+      "title": "The Real Gap in All of Us Isn’t Consent, It’s Conversion",
+      "link": "https://medcitynews.com/2026/10/the-real-gap-in-all-of-us-isnt-consent-its-conversion/",
+      "source": "MedCity News",
+      "date": "2026-10-01T13:19:00.000Z"
+    },
+    {
+      "title": "ARPA-H awards UVM up to $38M for ICU digital twin AI",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMmlmWjNHM1BqS1JTVWJ1MTY2eWFWZnhqeDhEMk1Td1BqQzBXZEkwbXFNMnVGWm1FU1phOXF2WXRLYURCTS10UGtaY3prVUNueDQ4Wm14X0tKUkNKTFVPQzNYUWw0SktyMHBYdVY3eU1OR29DY2JEdndHTXU1Y1UwOHZNcnFsUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-01T12:45:28.000Z"
+    },
+    {
+      "title": "Trump administration appeals ruling blocking limits on international student visas",
+      "link": "https://www.statnews.com/2026/10/01/health-news-trump-administration-appeals-ruling-blocking-student-visa-limits/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T11:50:22.000Z"
+    },
+    {
+      "title": "STAT+: Invivyd’s pursuit of a Covid vaccine alternative gets a lift, but an FDA hurdle may await",
+      "link": "https://www.statnews.com/2026/10/01/invivyds-covid-antibody-development/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T10:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Why a Huntington’s patient isn’t fazed by the waning effect of UniQure’s gene therapy",
+      "link": "https://www.statnews.com/2026/10/01/huntingtons-disease-uniqure-drug-study-results-patients/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T10:30:00.000Z"
+    },
+    {
+      "title": "STAT+: In Shanghai’s ‘Science City,’ China’s ascendant biotechs make their pitch to the world",
+      "link": "https://www.statnews.com/2026/10/01/china-biotech-boom-jefferies-conference-shanghai/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Can a top Republican from a bygone political era fix pharma’s woes in Washington?",
+      "link": "https://www.statnews.com/2026/10/01/eric-cantor-phrma-populist-drug-policy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Two key Senate health committees face major shake-ups",
+      "link": "https://www.statnews.com/2026/10/01/midterm-election-health-care-policy-impact-senate-republican-turnover/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: I studied GLP-1 use in children. The results are reassuring",
+      "link": "https://www.statnews.com/2026/10/01/glp-1-weight-loss-drugs-children-research-obesity-disease/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Claude analyzed my genome in 30 minutes. Now we need standards for the results",
+      "link": "https://www.statnews.com/2026/10/01/claude-ai-genome-analysis-standards-ethics/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Sanofi, Regeneron expand partnership after Dupixent success",
+      "link": "https://www.statnews.com/2026/10/01/sanofi-regeneron-agreement-dupixent-antibodies-immunology/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-01T06:16:27.000Z"
+    },
+    {
+      "title": "Analytics",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSWJRdXZucDc2NkF0Mlh5ZGFiRjVZMWFxS2NZRTNNdTd2T0tvQTZDbkQ2N2xRYlhEQTBHQ0FMRGgyMWRtWGw3VkVReUZZeW9iZktoZlRFWndaOFhCRDRRSDR4OFVXa3g0MlJ4c0hMYkdMeXhBaTBRTnU0UGdfNW05UDZJMGhqWkdWZlFhUw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-30T21:36:24.000Z"
+    },
+    {
+      "title": "Government & Policy",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTjNmX1VHNHRCcGYtQ0V6VG5wdW53RzBRSlJjQm13ZUxYZENLb2UwM2RudFZKMERZRk1ZbGFVbVJMYVdjbHBzYmxQZjZyUVVzOXN0cmF2aHR6cjB3cnQ5QUZyUUVyQ0hweWJyaHdQS3hCbHJqeHFMaU93QVZGOTVoOQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-29T20:02:34.000Z"
+    }
+  ]
+}
