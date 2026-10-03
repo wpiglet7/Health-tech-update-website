@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T00:17:31.561Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 31,
+  "sources": {
+    "MedCity News": 5,
+    "Healthcare IT News": 10,
+    "MobiHealthNews": 5,
+    "STAT News": 11
+  },
+  "summary": "The health-tech landscape is shifting across several fronts this week. Conversational AI platforms are attracting significant capital, with Parakeet Health securing $10 million in Series A funding to expand its agentic platform for patient engagement, signaling continued investor confidence in AI-driven patient interaction tools. Meanwhile, the NIH is modernizing its public interface with a redesigned website aimed at cutting through organizational complexity, while questions persist about appropriate autonomy levels for clinical AI agents and the realism of broader healthcare AI visions. On the pharmaceutical side, Eli Lilly's direct-to-consumer model in Australia is disrupting traditional pharmacy channels, Pfizer advanced its vitiligo treatment toward regulatory submission with positive Phase 3 data, and a 340B drug program pilot is reshaping how drugmakers interact with providers through rebate-based models. Public health challenges remain acute, with Pennsylvania's measles outbreak claiming a fifth death, Congo's Ebola crisis now exceeding 4,000 deaths despite treatment center sabotage, and access improvements for addiction medications not yet translating into sustained patient retention.",
+  "items": [
+    {
+      "title": "Debunked Episode 30: ACCESS Tries to Succeed Where VBC Fails, AI, and UnitedHealth Gets the Last Week Tonight Treatment",
+      "link": "https://medcitynews.com/2026/10/debunked-episode-30-access-tries-to-succeed-where-vbc-fails-ai-and-unitedhealth-gets-the-last-week-tonight-treatment/",
+      "source": "MedCity News",
+      "date": "2026-10-02T21:30:35.000Z"
+    },
+    {
+      "title": "Parakeet Health Secures $10M for Conversational Agentic Platform",
+      "link": "https://medcitynews.com/2026/10/parakeet-health-secures-10m-for-conversational-agentic-platform/",
+      "source": "MedCity News",
+      "date": "2026-10-02T20:43:41.000Z"
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13Sms0YkE1V2hYNHR6dkYyaTdSOExBb3FjYmxIdy1pWE1GcGwwVzRCWG5YOFVlYUY5ZHNuc2V0VjJhYlpocVJiOGFOdG5pUTRkV3dLbGdrQXd4a1AwV25KRA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-02T20:28:12.000Z"
+    },
+    {
+      "title": "Parakeet Health raises $10M to expand AI patient engagement",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMG5DZ2pXMERNRXByM3NaY2lrUGdoU0ZLcFhDTENiMzJ4SEQ4bmJIbmxzSlZtUVNUMkZEa2FwRDNIY1QydlBJaFFSOWhXdGdwTTBjNURvNUVNMjhPcUZhRnIwYzBwMzlsTjZiVy0xajVDMW5faHlFcWY5VG1mQV9udGtvYTlFVkJDT2ludGhaRFBfSnRYMGc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-02T20:16:44.000Z"
+    },
+    {
+      "title": "NIH rolling out streamlined website to help public find information more easily",
+      "link": "https://www.statnews.com/2026/10/02/nih-launching-streamlined-website-to-help-public-find-information/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-02T19:59:07.000Z"
+    },
+    {
+      "title": "Two new studies take the pulse of vital sign technology and workflows",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHVFM3VPYklVZGtzWnZoZjh1bVVWRDhTbHZ5d0NmbGVYaEdQYmo3bVp6MEt4T19mYUhQVkU3aWl0YzBDUzR2NE8xX0VXV29uNk1ZUnFMa25QR0dmOTZZcVNzMnd3eWNyT3duWnE2dXdfMUxnWFN2aFZUcndqRkk0S2pRazVQRnZUMnRLd3lZdE5KbHc0eTBBcVhpMTc0aEk1U3c?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-02T19:13:49.000Z"
+    },
+    {
+      "title": "Pfizer Pill’s Phase 3 Data in Vitiligo Pave Way for FDA, EMA Submissions",
+      "link": "https://medcitynews.com/2026/10/pfizer-vitiligo-litfulo-ritlecitinib-jak-tec-inhibitor-autoimmune-disease-immunology-pfe/",
+      "source": "MedCity News",
+      "date": "2026-10-02T17:47:18.000Z"
+    },
+    {
+      "title": "What it’s like to wait for the call from the Nobel Prize committee",
+      "link": "https://www.statnews.com/2026/10/02/nobel-prize-2026-geneticist-mary-claire-king-long-waiting-not-getting-winner-call/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-02T16:07:11.000Z"
+    },
+    {
+      "title": "How much autonomy should a clinical AI agent have?",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVVMzcWFBYlItOHNEVVZZVmx6R1lrV2hLY05kbDdBTUR2N0pSVzFaQlRtblo5c0ZTcUpKbXlNa0c2U3lRYjNZRkxmem9UM01zTmJXRjBwVy1CUXAzZHl6UlZFUE1ka0FOS3VCQkFRNjJGN0hsMGhnd0xwMWc2eXo3THo0ZXY2ODBpYkx1OG1B?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-02T16:01:20.000Z"
+    },
+    {
+      "title": "A physician on Bill Gates' AI predictions",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsSXhYZzlvYVZWeWtERU9hNjc1elJObk9Kb2hEM0tObFkzdHA3SFA2RmM2MDBOblp5TVc4dmFWSkZOaVBvQmpNRm5rN0o4MTNJeHJicmZWRnZoOFc4MkptVFVpcGVNU3VLTTd0d2c1N3phcG1kOFk3ZXdldms?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-02T15:53:23.000Z"
+    },
+    {
+      "title": "Grindr acquires HIV telehealth provider for $250M",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcDBEYnowbENka2dfUTRTSW5hZmxqeDl3andVMkpCLTg4TDZzQXU2ci1MVW94OG43SXNwZnBRTzZZbnNYcXlraFpTeUJRS0hOd1JKSEdSd09yQ2tWX2ZZMDd5a2FsMDRuSXpZbGU1UXhZcXJrS3hmQmx1RHJDM25Jd3JTSUZxM00?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-02T15:42:26.000Z"
+    },
+    {
+      "title": "Access to addiction meds for young people has improved — but retention hasn’t",
+      "link": "https://www.statnews.com/2026/10/02/youth-opioid-treatment-retention-study-barriers-to-care/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-02T15:00:00.000Z"
+    },
+    {
+      "title": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000",
+      "link": "https://www.statnews.com/2026/10/02/ebola-outbreak-congo-4000-deaths/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-02T14:25:00.000Z"
+    },
+    {
+      "title": "STAT+: Lilly bypasses Australian pharmacies with DTC model",
+      "link": "https://www.statnews.com/2026/10/02/biotech-news-lilly-bypasses-australian-phramacies-with-dtc-model/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-02T13:58:31.000Z"
+    },
+    {
+      "title": "Bill Gates has a vision for healthcare AI - is it realistic?",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd0lUdVF6c053cnJXcExfUkNJSEZRcHdYbXZtcDNmZkpQZGh0bG56MV9iTm5FSm4yN1hfOVF1ei0xRU1VR0tnR0FrbGZTQUlfajFUd21lNTFhbzNZekpQVExxS1Z0V3Y1bVNZOUpVbENYN2Rzb2g0RUE5cVVDb1M0bE9wWFlqYUk4RTdkOTNzb1o?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-02T13:31:00.000Z"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "link": "https://www.statnews.com/pharmalot/2026/10/02/up-and-down-the-ladder-comings-goings-pharma-biotech-jobs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-02T13:20:02.000Z"
+    },
+    {
+      "title": "It’s Time We Reframe Healthcare Organizational Culture Using Behavioral Science",
+      "link": "https://medcitynews.com/2026/10/its-time-we-reframe-healthcare-organizational-culture-using-behavioral-science/",
+      "source": "MedCity News",
+      "date": "2026-10-02T13:12:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about the 340B drug pilot program, an obesity drug disappointment, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/10/02/340b-drug-pilot-program-boehringer-zealand-obesity-trial/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-02T13:11:16.000Z"
+    },
+    {
+      "title": "How big is Pennsylvania’s measles outbreak?",
+      "link": "https://www.statnews.com/2026/10/02/health-news-how-big-is-pennsylvania-measles-outbreak/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-02T11:53:43.000Z"
+    },
+    {
+      "title": "Hospitals’ Cost Containment Conundrum",
+      "link": "https://medcitynews.com/2026/10/hospitals-cost-containment-conundrum/",
+      "source": "MedCity News",
+      "date": "2026-10-02T11:50:00.000Z"
+    },
+    {
+      "title": "Government & Policy",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zM3RNSWR2VDZsazk5ZExYR3lJMXlpLVljVWdmTVFORUNLLXBBM0xxVHdtOUx3WVF3Mk5sRXg3LXpjdHNzdDRSb2NDTnFZb0R6b3lIbXNGa004WHluZDN5LW04aHNIMU9XNjJWR2hLRDlMeEV6R0V2VklDN1BrTlk?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-02T11:48:04.000Z"
+    },
+    {
+      "title": "STAT+: NIH awarded all its grant funding, but delayed and opaque decisions stymied researchers",
+      "link": "https://www.statnews.com/2026/10/02/nih-grant-funding-fy2026-analysis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-02T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: The law has to catch up on orphan-designated drugs with multiple uses",
+      "link": "https://www.statnews.com/2026/10/02/340b-policy-orphan-designated-drugs-pharmacy-losses-hrsa-congress/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-02T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: I treated heat stroke at the NYC Marathon. Marathons need to prepare for a climate-changed world",
+      "link": "https://www.statnews.com/2026/10/02/marathons-climate-change-extreme-heat-medical-planning/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-02T08:30:00.000Z"
+    },
+    {
+      "title": "Vuno expands across China and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3JOdnNoSUItbDVCQnY5THhMdW03S0NpUFVaRExXbkZUQzlQamNnQjY1Uy1sMmV0NXIwYmpEZ0pGcmpPMThxSFFmYUIyT2h6YTVFYXFVMUI5WEpvam5yRlVoLXhKcUhCZnVCU2ZYY3VsbFRNOS1FUGJQRXJMeWhDd0dVLXBSYkc3dlE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-02T05:00:01.000Z"
+    },
+    {
+      "title": "Heidi rolls out AI agents and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLW1ONnBFbm9xQUlidWt5NlA4NGpPVk9mc2xCZkE3WFVlcjRUQzlRUWY1ZlAyaWU3dXJ1OG1KZzJDM0k5dTl1d0FCSDV2TGctdVl4eHdaZHZ1WTh0b3VZV0NXM2lOZVIyMG1FVDdmMkRTaGpXVm9RcTBuNzg5NThyTGZZQnZwU09B?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-02T04:59:57.000Z"
+    },
+    {
+      "title": "DHDA contracts Leidos for computing services and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUm9RTEdrLVZkcGMzdEZKTmFLbnFBUlVlWmozSHY4S2M0d2lEYi1LeVRfaUs1aUpJWHdhN1lYTkZqMk5MY1hzaEtrNXprUHlQNkRxRWs5MngwMzVzVmZqYmhoX3l1eE14b1MxblU1WDZMUGJIa2JmVzNzNXJmUGs5QjVIS1BQU0lUd3ZQN29RejlGUUZ3RVBtTGJIS2tfd0E?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-02T04:53:58.000Z"
+    },
+    {
+      "title": "Digital Health",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ0M2Nm0xUlFXQkI4SzhoNFdnckdHOTlvUXdBMm0yOUxMblBzMXpQdVNpbXpoWWxMQWI1R3pkQko0Vk9SdXlZbFZUeWtSUkh4U1pWTkpwVVZkTDh0d0xyZ0dyaVk2RzZwQk51SzZaZEhFTXRydHpZMW9YcXlTajdFVzFvUGJkYlB5Y2tybjJWRzU5U1U?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-02T03:08:15.000Z"
+    },
+    {
+      "title": "Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbi1BV1ZLbmNobUQ0YTdXUmxsSVI4OUFfMzF6d09mWnl5T2k3UGRfNzRlakVKR1J0eTNfYV92MjZvWk0tR0gtWFBXcUR4ZUF0ZGthVUdkWHJ4cjh2Mmg3NkFMN3hTQ0pQSlRNaFZ4NkVFSEpTSVNjdmFvOWlXVjF5MDZTUTE4S0V2bnc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-01T22:52:49.000Z"
+    },
+    {
+      "title": "Broadband gaps leave rural communities facing multiple barriers to care",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYjNfSWVraVVudXh3SGNsXzhubnVFZHFpMlN6dmVnUWpKRjh6ZEFKNHpLNnhVUVc1czNjOUZpdEg1ZGVtcVNycWwteHFUdEdaU1gwaTB4ZmF6U0xaaWZUcGFGdjVtREJuWnFneThlMDFrZXVJdWlLNlR0ZmNkNi0wWEEtN21Bd0VQaF9nQmlyd3loLVlLYkU5VGtNQkloQzVsMUI4MFJpbXkzQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-01T13:00:00.000Z"
+    },
+    {
+      "title": "Electronic Health Records (EHR, EMR)",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQnJEamhDcXJMRElzOVEtN21ON084SVUtaDJqLURSOWY3a0NYRXBBQk5QLXNmV25tWkhsSGd4WUloQ3dMd0w5VmRwd3VkUGNzUU1GZ0RrbmpISXlGT2xzdktVLWhQdEkzUTZXSHA4cGJFLWVXdHVlbnAzY0tqR1N4cUw3WHM4UzkxbjdxSjVFM3N5RG8?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-30T04:54:40.000Z"
+    }
+  ]
+}
