@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T00:17:27.621Z",
+  "generatedAt": "2026-10-03T23:37:43.741Z",
   "sources": [
     {
       "id": "stat",
@@ -24,6 +24,22 @@
   ],
   "count": 120,
   "items": [
+    {
+      "title": "Bill Siwicki",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVl2RHFiUzVheXVMYUxDN0pmT0pyNDRRZnlOc0dKaXNXWmc0SjM5MGR3bjZUdlVvM0FDR3ZQZkhEWnJJSGRYaUNqWXFFaHVySjRBYV9taHlmY0dlU3JvTjlVWGx2RFQ0Sk92Vm12Nk5odnBMTXp2T2twemo4ZURKSG9pNVJETkxpWnlBQw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-03T10:32:30.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Analytics",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSWJRdXZucDc2NkF0Mlh5ZGFiRjVZMWFxS2NZRTNNdTd2T0tvQTZDbkQ2N2xRYlhEQTBHQ0FMRGgyMWRtWGw3VkVReUZZeW9iZktoZlRFWndaOFhCRDRRSDR4OFVXa3g0MlJ4c0hMYkdMeXhBaTBRTnU0UGdfNW05UDZJMGhqWkdWZlFhUw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-03T02:04:25.000Z",
+      "snippet": ""
+    },
     {
       "title": "Debunked Episode 30: ACCESS Tries to Succeed Where VBC Fails, AI, and UnitedHealth Gets the Last Week Tonight Treatment",
       "link": "https://medcitynews.com/2026/10/debunked-episode-30-access-tries-to-succeed-where-vbc-fails-ai-and-unitedhealth-gets-the-last-week-tonight-treatment/",
@@ -73,12 +89,20 @@
       "snippet": ""
     },
     {
+      "title": "A physician on Bill Gates' AI predictions",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsSXhYZzlvYVZWeWtERU9hNjc1elJObk9Kb2hEM0tObFkzdHA3SFA2RmM2MDBOblp5TVc4dmFWSkZOaVBvQmpNRm5rN0o4MTNJeHJicmZWRnZoOFc4MkptVFVpcGVNU3VLTTd0d2c1N3phcG1kOFk3ZXdldms?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-02T18:52:16.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Pfizer Pill’s Phase 3 Data in Vitiligo Pave Way for FDA, EMA Submissions",
       "link": "https://medcitynews.com/2026/10/pfizer-vitiligo-litfulo-ritlecitinib-jak-tec-inhibitor-autoimmune-disease-immunology-pfe/",
       "source": "MedCity News",
       "sourceId": "medcity",
       "date": "2026-10-02T17:47:18.000Z",
-      "snippet": "Pfizer’s Litfulo significantly improved skin pigment measures in two pivotal studies in vitiligo, results that were presented during European Academy of Dermatology and Venereology annual meeting. If Pfizer’s daily pill is approved, it woul…"
+      "snippet": "Pfizer’s Litfulo significantly improved skin pigment measures in two pivotal studies in vitiligo, results that were presented during the European Academy of Dermatology and Venereology annual meeting. If Pfizer’s daily pill is approved, it…"
     },
     {
       "title": "What it’s like to wait for the call from the Nobel Prize committee",
@@ -94,14 +118,6 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-10-02T16:01:20.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "A physician on Bill Gates' AI predictions",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsSXhYZzlvYVZWeWtERU9hNjc1elJObk9Kb2hEM0tObFkzdHA3SFA2RmM2MDBOblp5TVc4dmFWSkZOaVBvQmpNRm5rN0o4MTNJeHJicmZWRnZoOFc4MkptVFVpcGVNU3VLTTd0d2c1N3phcG1kOFk3ZXdldms?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-02T15:53:23.000Z",
       "snippet": ""
     },
     {
@@ -433,14 +449,6 @@
       "snippet": "DHS has appealed a court ruling blocking it from restricting how long international students and postdoctoral researchers can remain in the U.S."
     },
     {
-      "title": "Analytics",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSWJRdXZucDc2NkF0Mlh5ZGFiRjVZMWFxS2NZRTNNdTd2T0tvQTZDbkQ2N2xRYlhEQTBHQ0FMRGgyMWRtWGw3VkVReUZZeW9iZktoZlRFWndaOFhCRDRRSDR4OFVXa3g0MlJ4c0hMYkdMeXhBaTBRTnU0UGdfNW05UDZJMGhqWkdWZlFhUw?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-30T21:36:24.000Z",
-      "snippet": ""
-    },
-    {
       "title": "FDA Looks to Bring New Scientific, Consumer Voices to Advisory Committees",
       "link": "https://medcitynews.com/2026/09/fda-advisory-committee-recruit-adcomm-scientific-consumer-regulation/",
       "source": "MedCity News",
@@ -761,22 +769,6 @@
       "snippet": "[Sponsored] Research from MedCity News and Cotiviti shows robust AI adoption by payers and providers, but what steps are they taking for AI governance and AI weaponized cybersecurity threats? The post Hospital and Payer AI Governance Is at…"
     },
     {
-      "title": "Heidi targets more Asia-Pacific health systems",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVmFpb09HOXc3QkhuaUhySG5WYnlFZUhRMXFfZzlIZDUtVVE3QjZPb0l1T1NHaEY5WVE1bmF5UFBGRUVLLXRnU1BPV0hvRWlBbVpVTWM1d0FfTVpXZ2JqdGdMcnNKN0xucldhRlJwN3hzQ01NbkRCSXlVLUlhZm1RT0NEZWdqOE00eExad2h6SQ?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-28T04:36:30.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Ping An launches AI-assisted care for expats",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa042NGExOHR5Q01Kb1JWcHVSM01jWFByZ2NwX0pSSEdzY0xGYjY5eGtRMDJGaXd1OHJTOXNKZHdsbGRPUFpnZHJ1QjZyZ1RvWnl5UUZXZkVrajdrd2YtMzRFeURhbWdUOGxsWVhDMFdITWhjY1RSTzI4bkRZYkdsajVpajY?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-28T04:17:53.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Mirum Pharma Pill Lands FDA Approval for Ultra-Rare Bone Growth Disorder",
       "link": "https://medcitynews.com/2026/09/mirum-pharmaceuticals-incyte-fda-approval-zilurgisertib-atebrioz-ultra-rare-disease-mirm-incy/",
       "source": "MedCity News",
@@ -841,14 +833,6 @@
       "snippet": ""
     },
     {
-      "title": "Weighing healthcare AI adoption's environmental impact",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmJLd1JIOHNLcmNtWWd3U3l3TFVuRjZ1YTIyMmdkNVB3VEJSNWJ3VDRzR3pQM0NhYmpLTWwwdndmbUpaVUVHY3hWMlRVYlpnRS1kZzhXYUxwRXRjMWJ6S3pvTi1YSXppb1JNV2h0UWpzV3htZXZmaXIwQUVMbkJ4NGwydUNMQ2Zybm1fNmJGZjN6Z0d2?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-25T16:04:04.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Inside Sentara Health's AI-assisted approach to coronary CT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONzVsTnNLSW1mR1VOLXhEVFhYU2VnRURsVXIzbTE1QzB4UDhubTluaUZVTEUtc0JLYWtWem5MNVZreGVsRlVNb3FteGl2WVNQS3BSU0dVckRyQ1pPR3RyTHhXRjZ2UlcxUGtuUHZkbXh3eW93U2pPbTQ1UkRaVzUxRFROQ2g4Tm5aMGFqM1FfWmJpdS0yWkNlaw?oc=5",
       "source": "Healthcare IT News",
@@ -865,14 +849,6 @@
       "snippet": "The question is whether these AI tools will be another fragmented layer of technology or true assistants to help them spend more time on patient care. The post AI Goes All In To Support Nursing Teams: Ambient Charting is Just the Start appe…"
     },
     {
-      "title": "HIMSSCast: Training nurses to speak care out loud",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPanNETTRfMDRHSWI1eUR3NWV6QXNfbTVndnVNbGs4ck5aQnlPenNpTl9CUEVicmgwZzJDY25EVG1rR0t1bHR2cjFOZFJyV18taUZZRGUyOHQ0ZDFPWjlkQVJqSXlEZ1UyZTNzLUQxdk10SkIzNGpyXzJFMUsybzJ1clItb1hLLXU4X1NjMDFibw?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-25T13:26:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Assessing the environmental impact of healthcare AI",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTS1BYkEwYjBjRERHX3JUTm1BYXZqaFozVGdoeGhoZ296dmN3UUdrTlgxVEN1bFR0WG1sdjNtVWd2aGxwMkpBRjBvdFBqUG10bTA5S0IwLVdnNzRSUzcwY3BNZGgxQkd2NlZoZmVieVVWNENkRWhfWTl2UmUtRlRpeXhLenM3NFFSWkRR?oc=5",
       "source": "Healthcare IT News",
@@ -886,6 +862,14 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-09-25T13:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Weighing healthcare AI adoption's environmental impact",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmJLd1JIOHNLcmNtWWd3U3l3TFVuRjZ1YTIyMmdkNVB3VEJSNWJ3VDRzR3pQM0NhYmpLTWwwdndmbUpaVUVHY3hWMlRVYlpnRS1kZzhXYUxwRXRjMWJ6S3pvTi1YSXppb1JNV2h0UWpzV3htZXZmaXIwQUVMbkJ4NGwydUNMQ2Zybm1fNmJGZjN6Z0d2?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-25T07:00:00.000Z",
       "snippet": ""
     },
     {
@@ -913,11 +897,11 @@
       "snippet": ""
     },
     {
-      "title": "What moving to a healthcare AI reality looks like for Oracle",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjBxQ3g4VGh6U2RUVnhHakRkOFBkSG5scDZwb1pXY1hOY3pNYmwya2IyX1QwTDdIc21nVWlCd2dRMnZMclY2aUNwRUkyOG53SXE0Z3lGb1I0SVNqYTJoTjhLaWZ2VUNseGMxY1J4XzNqNGp2dGZtZ01QNVRoai1wSjZZU3dRd1B1TUIyOQ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-24T18:07:54.000Z",
+      "title": "Xella Health integrates Oura data into women's care",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYTlVY29adG4xbUZNSlZ4cXJwU1VlanVqbGQ3RmFzMDNpbVoyQlNpV2M0TnFnNE1VOElKbzlNMmhCcDYyNEZ1N2w5UHBHeC1ZbE9BRzhKeWVVZWZ0TnZ5WFE1aTYyblRXM1FUSUl0MTVfWnpvZUM4am5mZHJDd3hUUHRDakZ3YjVS?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-24T17:12:10.000Z",
       "snippet": ""
     },
     {
@@ -953,11 +937,19 @@
       "snippet": ""
     },
     {
+      "title": "What moving to a healthcare AI reality looks like for Oracle",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjBxQ3g4VGh6U2RUVnhHakRkOFBkSG5scDZwb1pXY1hOY3pNYmwya2IyX1QwTDdIc21nVWlCd2dRMnZMclY2aUNwRUkyOG53SXE0Z3lGb1I0SVNqYTJoTjhLaWZ2VUNseGMxY1J4XzNqNGp2dGZtZ01QNVRoai1wSjZZU3dRd1B1TUIyOQ?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-24T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
       "title": "OpenAI agent breaches Australian Medicare portal",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc29EaXZlY3EzZXJMTVViYy01VWlFMFNaYllyY3FCdnZMVTFIcFlfZ1MwVnRWcEJpTWJubFkyWnFIdTg1UHlFQWJkenF0UG0xSFpiMWc0ZmlDSEp5Wi1xYnJlWHRjRkU0SlRWRkVyYWpwZjRwcUdyWFNmdHphdk1mUU8wZWxGLVl4ZW03MloyVFdDdWZW?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
-      "date": "2026-09-24T07:57:30.000Z",
+      "date": "2026-09-24T07:00:00.000Z",
       "snippet": ""
     },
     {
@@ -977,11 +969,19 @@
       "snippet": ""
     },
     {
-      "title": "Q&A: Teal Health scores $22M to broaden at-home cervical cancer screening",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVR1NE1rSVFRM3Y1UXp6LUVMeTVQQmZyMldtd3F2VXFCQWh0T3VaWjF2ekZUMUpsaDJVWk9DMlJkVzdoaXpQYW9YOFUxYjNJaFRMMFczRnFpMUdWNjhGN2lFTXYzSE1zVFZhaFEyd0xMQnQyUXNiY0k3Ym9Fa0ROZmdiMWItZDdXNy1iSmJxcGp0bEQ3Z19IRmdKWjdUcWlQcWc?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-23T17:26:57.000Z",
+      "title": "Health IT transformation is at an inflection point, says consultancy CEO",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWFkOUxzRFpwcUV3eHliUVV3bWZaYi0xWWdLQUd3WTZFQnZTNGoxeXB6SDZTNUhhbW02WURMV09CUG0wdnI0WG4xOVphTXFLV184R3k4bGM1VFptQmdWVk1VOWpGR045UWsxSU90YmxyQlYwUHUtdVJQLWR6eXNhWGR3VU1xMGtWT3huc1F4cnN0YXZTQm9XVVVNbFBPRWdwenc?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-23T16:18:14.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Abridge ambient AI now available to all VA medical centers",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMVhVT0xJYlpXVllYZGFtYVdydmVUcjFIcFhySHdnd2p3d25rM1JMQ2drNFBXNFNVRDNIaWxDRmpsUkh4eWw0N1BPYVYwajg4ZVpJQXJMMkNXb1hTeFRCQ1pFM0FFZ0RfcjFsY0JEbWlGSUNVUnE2dUxzQl9VNDU5SjNXMFRqVFNqQThUdDFWZjJNTjVpczlGOQ?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-23T14:12:24.000Z",
       "snippet": ""
     }
   ]
