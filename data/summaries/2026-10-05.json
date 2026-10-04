@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-05",
+  "generatedAt": "2026-10-04T23:52:47.858Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 9,
+  "sources": {
+    "MedCity News": 4,
+    "STAT News": 1,
+    "Healthcare IT News": 3,
+    "MobiHealthNews": 1
+  },
+  "summary": "The health-tech landscape today reflects tensions between innovation and access alongside emerging regulatory pressures. ai3Bio is advancing immune-reset science by targeting inflammatory T cells rather than B cells, potentially opening new treatment pathways for autoimmune liver disorders. Meanwhile, policy developments are creating coverage disruptions: the Trump administration's ACA fraud crackdown will remove 760,000 people from Marketplace coverage, prompting healthcare experts to warn against penalizing patients rather than bad actors, while the administration simultaneously announced $90 Medicare premium payments for seniors ahead of midterm elections. On the access front, rural patients and Medicaid enrollees face persistent diagnostic gaps in allergy care, with disparities driving higher misdiagnosis rates and emergency department utilization. On the infrastructure side, healthcare organizations are increasingly turning to AI-powered tools to strengthen privacy monitoring and accelerate data breach investigations, reflecting growing recognition that technology can enhance security operations.",
+  "items": [
+    {
+      "title": "Immunology Startup ai3Bio Aims to Redefine What It Means to Reset the Immune System",
+      "link": "https://medcitynews.com/2026/10/immune-reset-startup-ai3bio-immunology-inflammation-autoimmune-liver-disease-t-cell-th17-il-17-cgas-sting/",
+      "source": "MedCity News",
+      "date": "2026-10-04T23:43:54.000Z"
+    },
+    {
+      "title": "Trump’s ACA Fraud Crackdown: Experts Urge Going After Bad Actors, Not Patients",
+      "link": "https://medcitynews.com/2026/10/trumps-aca-fraud-crackdown-experts-urge-going-after-bad-actors-not-patients/",
+      "source": "MedCity News",
+      "date": "2026-10-04T23:28:03.000Z"
+    },
+    {
+      "title": "Trump announces $90 payments for seniors’ Medicare premium costs ahead of midterm elections",
+      "link": "https://www.statnews.com/2026/10/04/trump-announces-90-dollar-payments-for-medicare-premiums/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-04T16:58:12.000Z"
+    },
+    {
+      "title": "Closing the Diagnostic Gap: Why Access to Allergy Care Isn’t Equal",
+      "link": "https://medcitynews.com/2026/10/closing-the-diagnostic-gap-why-access-to-allergy-care-isnt-equal/",
+      "source": "MedCity News",
+      "date": "2026-10-04T13:48:00.000Z"
+    },
+    {
+      "title": "Healthcare Privacy Leaders Look to AI to Improve Monitoring and Data Breach Investigations",
+      "link": "https://medcitynews.com/2026/10/healthcare-privacy-leaders-look-to-ai-to-improve-monitoring-and-data-breach-investigations/",
+      "source": "MedCity News",
+      "date": "2026-10-04T13:00:00.000Z"
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnU1ZqQTJQZzF6MFU5cnFIYnZDT3VoR05zVkQ0MjZPMHoxemZOWnMtS0ItVEZlcVpTbVhNUUk3ZURtZkxWaWZqY2lEcUc2RGlSV1hXM0pHV3l0Szh3dDNPaw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-03T22:35:04.000Z"
+    },
+    {
+      "title": "Freddie",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PRnJSNmRqeWFRb0F3THU1aGgtZXkzenBWdEVHUHFyY2hCSU00Q21kakY0b1g1MEpwZlVEVEU3WU9aTWNHb0NJdl9sd1dqQlRqejNSWA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-02T18:45:28.000Z"
+    },
+    {
+      "title": "Government & Policy",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1feXFTX3F2c0FFSlI0Z2JpUFpCaHd5bFkyOWZDcHc0NnhMS3UtR09ybkJLNkw4eDVWVWRPM3ZXQXNFUkszUGMzMmxhb0xJYno1aHNLQ0tCVVdiMENuOVMyTHRUZ2lON3NJekZlR3RLaURjb1FnTThOUy1CcHN4Zw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-02T09:13:45.000Z"
+    },
+    {
+      "title": "HIMSSCast: Training nurses to speak care out loud",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPanNETTRfMDRHSWI1eUR3NWV6QXNfbTVndnVNbGs4ck5aQnlPenNpTl9CUEVicmgwZzJDY25EVG1rR0t1bHR2cjFOZFJyV18taUZZRGUyOHQ0ZDFPWjlkQVJqSXlEZ1UyZTNzLUQxdk10SkIzNGpyXzJFMUsybzJ1clItb1hLLXU4X1NjMDFibw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-25T13:26:00.000Z"
+    }
+  ]
+}

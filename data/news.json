@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T23:37:43.741Z",
+  "generatedAt": "2026-10-04T23:52:44.852Z",
   "sources": [
     {
       "id": "stat",
@@ -24,6 +24,54 @@
   ],
   "count": 120,
   "items": [
+    {
+      "title": "Immunology Startup ai3Bio Aims to Redefine What It Means to Reset the Immune System",
+      "link": "https://medcitynews.com/2026/10/immune-reset-startup-ai3bio-immunology-inflammation-autoimmune-liver-disease-t-cell-th17-il-17-cgas-sting/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-10-04T23:43:54.000Z",
+      "snippet": "While the immune reset field is mainly focused on depleting pathogenic B cells, ai3Bio is applying its novel approach to inflammatory T cells. The startup’s initial disease targets are autoimmune disorders of the liver that have few treatme…"
+    },
+    {
+      "title": "Trump’s ACA Fraud Crackdown: Experts Urge Going After Bad Actors, Not Patients",
+      "link": "https://medcitynews.com/2026/10/trumps-aca-fraud-crackdown-experts-urge-going-after-bad-actors-not-patients/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-10-04T23:28:03.000Z",
+      "snippet": "The Trump administration’s ACA fraud crackdown will remove 760,000 people from Marketplace coverage, drawing criticism from healthcare experts and advocates. The post Trump’s ACA Fraud Crackdown: Experts Urge Going After Bad Actors, Not Pat…"
+    },
+    {
+      "title": "Trump announces $90 payments for seniors’ Medicare premium costs ahead of midterm elections",
+      "link": "https://www.statnews.com/2026/10/04/trump-announces-90-dollar-payments-for-medicare-premiums/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-10-04T16:58:12.000Z",
+      "snippet": "President Trump is promising more payments to voters just ahead of the Nov. 3 midterm elections — this time for seniors' Medicare Part B premiums"
+    },
+    {
+      "title": "Closing the Diagnostic Gap: Why Access to Allergy Care Isn’t Equal",
+      "link": "https://medcitynews.com/2026/10/closing-the-diagnostic-gap-why-access-to-allergy-care-isnt-equal/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-10-04T13:48:00.000Z",
+      "snippet": "Rural patients, Medicaid enrollees, and patients from underrepresented racial and ethnic groups are more likely to go undiagnosed, more likely to be misdiagnosed, and more likely to end up in an emergency department rather than an allergist…"
+    },
+    {
+      "title": "Healthcare Privacy Leaders Look to AI to Improve Monitoring and Data Breach Investigations",
+      "link": "https://medcitynews.com/2026/10/healthcare-privacy-leaders-look-to-ai-to-improve-monitoring-and-data-breach-investigations/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-10-04T13:00:00.000Z",
+      "snippet": "At a recent symposium on privacy, experts discussed how AI supports a faster and oftentimes more insightful approach to data security, while identifying which privacy risks healthcare organizations must monitor. The post Healthcare Privacy…"
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnU1ZqQTJQZzF6MFU5cnFIYnZDT3VoR05zVkQ0MjZPMHoxemZOWnMtS0ItVEZlcVpTbVhNUUk3ZURtZkxWaWZqY2lEcUc2RGlSV1hXM0pHV3l0Szh3dDNPaw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-03T22:35:04.000Z",
+      "snippet": ""
+    },
     {
       "title": "Bill Siwicki",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVl2RHFiUzVheXVMYUxDN0pmT0pyNDRRZnlOc0dKaXNXWmc0SjM5MGR3bjZUdlVvM0FDR3ZQZkhEWnJJSGRYaUNqWXFFaHVySjRBYV9taHlmY0dlU3JvTjlVWGx2RFQ0Sk92Vm12Nk5odnBMTXp2T2twemo4ZURKSG9pNVJETkxpWnlBQw?oc=5",
@@ -57,14 +105,6 @@
       "snippet": "The Series A round was led by Canvas Ventures, with participation from Blank Space Ventures, StoryHouse Ventures and HMC INQ. The post Parakeet Health Secures $10M for Conversational Agentic Platform appeared first on MedCity News."
     },
     {
-      "title": "News",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13Sms0YkE1V2hYNHR6dkYyaTdSOExBb3FjYmxIdy1pWE1GcGwwVzRCWG5YOFVlYUY5ZHNuc2V0VjJhYlpocVJiOGFOdG5pUTRkV3dLbGdrQXd4a1AwV25KRA?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-02T20:28:12.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Parakeet Health raises $10M to expand AI patient engagement",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMG5DZ2pXMERNRXByM3NaY2lrUGdoU0ZLcFhDTENiMzJ4SEQ4bmJIbmxzSlZtUVNUMkZEa2FwRDNIY1QydlBJaFFSOWhXdGdwTTBjNURvNUVNMjhPcUZhRnIwYzBwMzlsTjZiVy0xajVDMW5faHlFcWY5VG1mQV9udGtvYTlFVkJDT2ludGhaRFBfSnRYMGc?oc=5",
       "source": "MobiHealthNews",
@@ -94,6 +134,14 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-10-02T18:52:16.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Freddie",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PRnJSNmRqeWFRb0F3THU1aGgtZXkzenBWdEVHUHFyY2hCSU00Q21kakY0b1g1MEpwZlVEVEU3WU9aTWNHb0NJdl9sd1dqQlRqejNSWA?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-02T18:45:28.000Z",
       "snippet": ""
     },
     {
@@ -202,10 +250,10 @@
     },
     {
       "title": "Government & Policy",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zM3RNSWR2VDZsazk5ZExYR3lJMXlpLVljVWdmTVFORUNLLXBBM0xxVHdtOUx3WVF3Mk5sRXg3LXpjdHNzdDRSb2NDTnFZb0R6b3lIbXNGa004WHluZDN5LW04aHNIMU9XNjJWR2hLRDlMeEV6R0V2VklDN1BrTlk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1feXFTX3F2c0FFSlI0Z2JpUFpCaHd5bFkyOWZDcHc0NnhMS3UtR09ybkJLNkw4eDVWVWRPM3ZXQXNFUkszUGMzMmxhb0xJYno1aHNLQ0tCVVdiMENuOVMyTHRUZ2lON3NJekZlR3RLaURjb1FnTThOUy1CcHN4Zw?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
-      "date": "2026-10-02T11:48:04.000Z",
+      "date": "2026-10-02T09:13:45.000Z",
       "snippet": ""
     },
     {
@@ -231,14 +279,6 @@
       "sourceId": "stat",
       "date": "2026-10-02T08:30:00.000Z",
       "snippet": "A doctor’s request to marathons: Let’s make evidence-based medical plans — especially for extreme heat."
-    },
-    {
-      "title": "Vuno expands across China and more briefs",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3JOdnNoSUItbDVCQnY5THhMdW03S0NpUFVaRExXbkZUQzlQamNnQjY1Uy1sMmV0NXIwYmpEZ0pGcmpPMThxSFFmYUIyT2h6YTVFYXFVMUI5WEpvam5yRlVoLXhKcUhCZnVCU2ZYY3VsbFRNOS1FUGJQRXJMeWhDd0dVLXBSYkc3dlE?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-02T05:00:01.000Z",
-      "snippet": ""
     },
     {
       "title": "Heidi rolls out AI agents and more briefs",
@@ -439,14 +479,6 @@
       "sourceId": "hitn",
       "date": "2026-10-01T12:45:28.000Z",
       "snippet": ""
-    },
-    {
-      "title": "Trump administration appeals ruling blocking limits on international student visas",
-      "link": "https://www.statnews.com/2026/10/01/health-news-trump-administration-appeals-ruling-blocking-student-visa-limits/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-10-01T11:50:22.000Z",
-      "snippet": "DHS has appealed a court ruling blocking it from restricting how long international students and postdoctoral researchers can remain in the U.S."
     },
     {
       "title": "FDA Looks to Bring New Scientific, Consumer Voices to Advisory Committees",
@@ -793,36 +825,12 @@
       "snippet": "As a country, we have developed treatments capable of improving the quality of life and preventing long-term damage for children with rheumatic conditions, yet many children cannot obtain them when they need them most. This needs to change.…"
     },
     {
-      "title": "MedTech Commercialization Gap: Moving Beyond Technical Viability",
-      "link": "https://medcitynews.com/2026/09/medtech-commercialization-gap-moving-beyond-technical-viability/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-27T13:41:00.000Z",
-      "snippet": "What are the common reasons that a prototype fails to make the transition? There are several, but they all boil down to early-stage programs ignoring the business problem in favor of the technology problem. The post MedTech Commercializatio…"
-    },
-    {
-      "title": "Report: High Drug Costs Are Creating Hidden Burden for Physicians",
-      "link": "https://medcitynews.com/2026/09/report-high-drug-costs-are-creating-hidden-burden-for-physicians/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-25T22:11:03.000Z",
-      "snippet": "When drug prices are too high for patients, physicians take on additional workload to find solutions. A newly released 2026 Physician Drug Cost Survey by RazorMetrics examined how prescription cost pressures affect physicians’ practices. Th…"
-    },
-    {
       "title": "Basalt Health raises $20M to speed post-acute admissions",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVVRa20tQXBDVGtoLUNteGVtaUlPRGNLeHlRLUtkcTVZcFEzODlzNE1jY1JiejNjMTNZaGJSb3JxSUNQWm5tb252bnBCSXJEb0ZjTmtTdUExWkVnMkZvYkR0eU5SNENqVUlWblhXMm02QzhRdF9FTVkzaTJwR0hLV0NDS1h0RTF1QXg1ZHlVYnU5QQ?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-09-25T20:10:00.000Z",
       "snippet": ""
-    },
-    {
-      "title": "Gene Silencing Biotech ADARx Makes Some Noise With $535M Stock Market Debut",
-      "link": "https://medcitynews.com/2026/09/adarx-ipo-small-interfering-rna-gene-silencing-sirna-hae-adrx/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-25T19:29:58.000Z",
-      "snippet": "ADARx Pharmaceuticals upsized its IPO and raised additional cash through a private placement with partner AbbVie. Lead ADARx program onvuzosiran is in Phase 3 testing for the rare disease hereditary angioedema, and the RNA therapies pipelin…"
     },
     {
       "title": "FDA releases draft guidance for robotic surgical devices",
@@ -841,12 +849,12 @@
       "snippet": ""
     },
     {
-      "title": "AI Goes All In To Support Nursing Teams: Ambient Charting is Just the Start",
-      "link": "https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-09-25T13:51:50.000Z",
-      "snippet": "The question is whether these AI tools will be another fragmented layer of technology or true assistants to help them spend more time on patient care. The post AI Goes All In To Support Nursing Teams: Ambient Charting is Just the Start appe…"
+      "title": "HIMSSCast: Training nurses to speak care out loud",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPanNETTRfMDRHSWI1eUR3NWV6QXNfbTVndnVNbGs4ck5aQnlPenNpTl9CUEVicmgwZzJDY25EVG1rR0t1bHR2cjFOZFJyV18taUZZRGUyOHQ0ZDFPWjlkQVJqSXlEZ1UyZTNzLUQxdk10SkIzNGpyXzJFMUsybzJ1clItb1hLLXU4X1NjMDFibw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-25T13:26:00.000Z",
+      "snippet": ""
     },
     {
       "title": "Assessing the environmental impact of healthcare AI",
@@ -861,7 +869,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbjJwZWVlaVI4Mnl4YXZRMktkdFNoTUJpTk02MWZ6QlJYT3ZtaVhsZjl4SXQzaTY3bU5JQU1Sb3Q0bTVGZnR1bmZpRE9zVEZueEFCV25DLVozRXN3emtZNHVQZ2l1bXJUdklfeW44U0xXN3dKR3RMR2s2Qno0NkV6M3NZTG5lanJCQnZ5OTMyUGhSUlFkWTNrZHhxZDA?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
-      "date": "2026-09-25T13:00:00.000Z",
+      "date": "2026-09-25T07:00:00.000Z",
       "snippet": ""
     },
     {
@@ -894,14 +902,6 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-09-24T22:07:10.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Xella Health integrates Oura data into women's care",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYTlVY29adG4xbUZNSlZ4cXJwU1VlanVqbGQ3RmFzMDNpbVoyQlNpV2M0TnFnNE1VOElKbzlNMmhCcDYyNEZ1N2w5UHBHeC1ZbE9BRzhKeWVVZWZ0TnZ5WFE1aTYyblRXM1FUSUl0MTVfWnpvZUM4am5mZHJDd3hUUHRDakZ3YjVS?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-24T17:12:10.000Z",
       "snippet": ""
     },
     {
