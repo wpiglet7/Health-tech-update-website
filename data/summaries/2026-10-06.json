@@ -1,0 +1,358 @@
+{
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T01:41:53.547Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 57,
+  "sources": {
+    "MedCity News": 32,
+    "MobiHealthNews": 6,
+    "Healthcare IT News": 4,
+    "STAT News": 15
+  },
+  "summary": "Utah is emerging as a hub for healthcare AI experimentation, with multiple initiatives advancing AI-driven prescription capabilities. The state is piloting an AI product that can evaluate patients and write new drug prescriptions without prior human review, while Nolla Health has launched a separate pilot for AI acne prescriptions and August AI is testing AI prescription renewals. These developments highlight both the potential and regulatory questions around clinical AI autonomy. Meanwhile, the Trump administration continues pushing healthcare transparency through new pricing disclosure regulations and is providing $90 subsidies for Medicare Part B premiums, while also advancing a crackdown on ACA fraud. The FDA approved Eli Lilly's Jaypirca as a first-line chronic lymphocytic leukemia therapy, and Vaxcyte reported success in Phase 3 trials for its experimental pneumococcal vaccine, positioning it to challenge Pfizer and Merck in a competitive market. The Nobel Prize in Medicine was awarded for optogenetics, a foundational brain research tool now driving experimental treatments for blindness and Alzheimer's, signaling the field's momentum in translating basic research into clinical applications.",
+  "items": [
+    {
+      "title": "Investing in Community Health: A New Model for Safety-Net Healthcare Innovation",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXAxNXJ4WVBra0JKeVlTaWFNU3ZJVXVkaW5aTGJpM1ZMT0Q0OUp4NEZhTDQ1ZWExdVp2eERZc0VyT0I5ZVNETXh2cHIxZ2gzRkxkT3o1dm9JdkF0N21ERDRicnF1MnBwaVpMdzVnNUdNdmtaYVRjamJQVklKMFFtUC1Qb0hoanJqa0NNNVNyeVZMbVJLMlVyX1Z4eFdfN0ZoOGVuZ0l3ZEtCRWNvMFdDaw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-10-05T23:24:37.000Z"
+    },
+    {
+      "title": "Shionogi Adds to Its Rare Disease Strategy With $2B IntraBio Acquisition",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVGg2a05uU0FfbDE3OGNPNEVpWm5NWmNWdEYwUUE4M1hNRXFiU0JxSnpCbFpBMVVJb2R3YjFxTkNHWWJQVjhsZXY1dGVrV1htNGMwbG1XOURpY1pqRmlIZDZfeE9vZXpzWFhGbGNiaDh0aG4tVFV0LU5tQ3FTWmJCb0w5OFR0R3kyZjZnSWY2clRkRW9hY2hxYXBhVUM3SlRiVFhSbE0xaw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-10-05T21:15:37.000Z"
+    },
+    {
+      "title": "AI tools face attribution challenges",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xR28zSFhLSkFSbmZndk1VakRtLU1TRm5IRmVXT3h4Qk52R3VZU2Nuc2c2NmpGcnpKVldLQTRJR0FveEVSYjNKa2s2blEyam5URTFQSV9BbkU1MzU5WU9kVllZY2trS2Rnd2tCYWZqeXliZlFvZlhqcFJ6WTZBdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-05T20:27:05.000Z"
+    },
+    {
+      "title": "VA awards Optum $30B for dental care overhaul, VHA expands RISE effort",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNekdrNkwxWTMycHVNNTdyeHNoLUJ6a05KWHJDNjZqeVhPWnNvY3gySmZ5Qjg2OEJMZl91N1k3dl9icTh6TjVxRXhjUW5RNVdycFRVcjZNMDhrdF9wTWhsTkJjV1NVb1hDUDF3TlMzSzBtWlF5YWhxaFZZVklMM0E0YkstaDQxbHpMLUl1YkJtUVh6VjlGVFVSYW5DTnNUTG1NeEZ1WQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-05T20:17:52.000Z"
+    },
+    {
+      "title": "STAT+: Judges skewer HHS arguments in hearing over Medicare Advantage audits lawsuit",
+      "link": "https://www.statnews.com/2026/10/05/humana-medicare-advantage-radv-audits-lawsuit-hearing/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-05T20:13:42.000Z"
+    },
+    {
+      "title": "STAT+: Nobel-winning optogenetics research has led to experimental treatments for blindness and Alzheimer’s",
+      "link": "https://www.statnews.com/2026/10/05/2026-nobel-prize-winning-optogenetics-research-explained/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-05T20:08:24.000Z"
+    },
+    {
+      "title": "Nolla Health launches Utah pilot for AI acne prescriptions",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMk9yNEg3X2tTNEhoS2c1YzNwTmM1SlBib1lKTlBWU0pqYWxKRWlsamlHWkl6ZzNPNTFlRWdvdFdaU2hmaHJDM2t6U1JjTW1JOER0SkdFR3RnZ1VHTDZBUmE0SERNaVNGNjRzSGx6WG1DS2RlenZicTlmNURnOGZ6LUxtUTVyS3dJWXoxQ0tGV1lkUk1C?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-05T19:55:27.000Z"
+    },
+    {
+      "title": "Trump Administration Announces $90 Payments to Help Cover Medicare Part B Premiums",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEVWTFo5c1FISkszYmtYd2Q0QkwxLWthcGJfMHRBemd0dURfNGVMUUlhRms0UHVmUmVnWTQwcXBLSEtZaU5GWC1QclFMQ09xVWl2dW5IaWtNYUR4VTFXSHcwR2dPeDQwdksyNGVMbGhnemptOUxzQVpTbEw2WTMyWjVhWkxFRXJGME96WUNNVGhNcHZ6NV84azRieVllWVc3SGxXbUw4MGN4ZGJ3TGxsS3J3NkM?oc=5",
+      "source": "MedCity News",
+      "date": "2026-10-05T19:35:34.000Z"
+    },
+    {
+      "title": "The Biggest Healthcare Fix Might Not Come From a Vendor",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjQzMnJwc2RXN1hYU2NRd2hObjFhTm5CYTNtekRpZ2FvTEVJLWZOTUZTNmFZNy1VcEhydWFTWndTWnF3cUhCcG1LcUlveWF4SlJkN3hCQmtTXzVnX0M5Njctek43b3FBWTlFV19FeFJLaFhrNU5OMWQ2a1F6WU8ySTVrUm9wYldyVklEdHlQTkdxQQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-10-05T19:00:45.000Z"
+    },
+    {
+      "title": "STAT+: New Trump regulations would clean up health care pricing disclosures",
+      "link": "https://www.statnews.com/2026/10/05/trump-kennedy-transparency-in-coverage-regulations-health-care-prices-disclosure/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-05T18:33:57.000Z"
+    },
+    {
+      "title": "Strengthening Dental Payment Integrity Through Smarter Claim Editing",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNlA3NkVmLU1fa2p6c3JRY1NfR2gzRFE0ZDZ6TkV5bWRZUmhVWWVzTE44a3pwQmlJMUU5UGM2UGpDY1dlLUlRdTJFbUxfOHZiZ3M0V1dfTVRmRExVQmVLTThobjdLa050U1NMMHYteDd1RG9udWUxVklzcUo5SmM1S1JIejZjMVhWWjNNRVFrbjdtTUE2QXY5Z2JaV3VIR1p4MDNn?oc=5",
+      "source": "MedCity News",
+      "date": "2026-10-05T17:31:44.000Z"
+    },
+    {
+      "title": "STAT+: Prices, prices, prices",
+      "link": "https://www.statnews.com/2026/10/05/health-care-prices-make-care-insurance-expensive-health-care-inc/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-05T16:38:08.000Z"
+    },
+    {
+      "title": "Making payer data actionable at the point of care",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmthZGY4cUg1Q3h3S1hJWVpQM1FobWl2M3FZRVRvN19BdXZMOTQtNXZtMzVGRHdnSF9PM2tVNWVaRGwxU2VwbXIyWDBFRXRDZklBdl9HZkx6UGd6WWV4VEZBRDVGMjBrMlNBQUZ5bzVfaEhza0ZKWDJFeGRkTnY4cVpBRQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-05T16:07:43.000Z"
+    },
+    {
+      "title": "STAT+: Utah plows ahead with more health AI pilots for prescriptions, women’s health",
+      "link": "https://www.statnews.com/2026/10/05/utah-expands-health-ai-sandbox-picks-third-party-auditors/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-05T16:00:14.000Z"
+    },
+    {
+      "title": "Utah approves August AI to pilot AI prescription renewals",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZzNLY3FTenNkU09BY2tKalloM2pfZG5qZDBTdjhhUnZvSTJyay1QYWNoaXZWLWdPU0xDS2JMcVIxUDZPdHZKcnhtTV85R0YzZE9WcTNucFI1QjVEa250S1NwNlpDYTNUNVJ5MnVyTmk2ZW5rZndhZWVMc3NKU2oyQlc3aXIzeFpXSlpOVHJkanRIV2dq?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-05T16:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Lilly’s Jaypirca approved as first-line CLL therapy",
+      "link": "https://www.statnews.com/2026/10/05/biotech-news-lilly-jaypirca-approved-as-first-line-cll-therapy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-05T13:55:41.000Z"
+    },
+    {
+      "title": "How should the quality and efficacy of clinical AI be benchmarked?",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWHRlUmQ4UFluZG1jQXBhY1lFLTd5WDdRYzFLekM0LUlYWjRNWV8xaXZQa1g5Nm5SdWlMRXRXR054WlF0Z0RoNnRWMGQ2a2ZxcnQ0Z1lybWNZMXlsZV9oRl9CNnEtZkVxaXpmVHU5TG1FTGlqV1hiSTQyV1YwQklrdmZyMTcwSUxwSXk5Y2tJbDZJZUVuYVBRN291aXNEQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-05T13:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a Vaxcyte pneumococcal shot, increasing pharma M&A, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/10/05/vaxcyte-pneumococcal-vaccine-rising-pharma-mergers-acquisitions/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-05T13:10:03.000Z"
+    },
+    {
+      "title": "STAT+: Vaxcyte claims success in bid to beat Pfizer and Merck in lucrative vaccine market",
+      "link": "https://www.statnews.com/2026/10/05/vaxcyte-pneumococcal-vaccine-study-pfizer-merck/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-05T12:19:11.000Z"
+    },
+    {
+      "title": "Could we one day vaccinate against every cancer?",
+      "link": "https://www.statnews.com/2026/10/05/health-news-could-we-one-day-vaccinate-against-every-cancer/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-05T12:00:51.000Z"
+    },
+    {
+      "title": "Immunology Startup ai3Bio Aims to Redefine What It Means to Reset the Immune System",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWi1jYUZabnk0clBfMmpwUHFadzd0cUpMSG1lcFlUX0JLVF9LX0RLV3lRNFRkYTRPM3BVVmZlUW1vVmZobEZ2QlprYUNrWWU2TGQ2STI4Tl9oY01weFh0VmhJYWtESzY5eFpVSlJnbFJiVjJwZ0JrN1VNc2wyTXA3a0E1LW0zNWZ2eGIxcjFxZmd6MUFmN2VCSGZCNWppMjZ6TnVlc1RIZk5xSE14dXkxNjNQQ19QS2lJNnktenl0WUhmekUyU2JZbHprTFpYdzdaTm16bg?oc=5",
+      "source": "MedCity News",
+      "date": "2026-10-05T10:24:36.000Z"
+    },
+    {
+      "title": "2026 Nobel Prize in Medicine awarded for brain research tool called optogenetics",
+      "link": "https://www.statnews.com/2026/10/05/nobel-prize-medicine-2026-winner-deisseroth-hegemann-nagel/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-05T10:00:11.000Z"
+    },
+    {
+      "title": "STAT+: Are stem cells the next peptides? These advocates think RFK Jr. could make it happen",
+      "link": "https://www.statnews.com/2026/10/05/stem-cell-industry-seeks-fda-regulation-like-peptides/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-05T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Will Claude ever win a Nobel Prize for medicine?",
+      "link": "https://www.statnews.com/2026/10/05/could-ai-win-nobel-prize-medicine/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-05T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Divergent trial results on cancer vaccines have the field grappling with hard questions",
+      "link": "https://www.statnews.com/2026/10/05/cancer-vaccines-mrna-clinical-trials/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-05T08:30:00.000Z"
+    },
+    {
+      "title": "Hospital and pharmaceutical prices are smothering America’s businesses",
+      "link": "https://www.statnews.com/2026/10/05/hospital-bills-drug-prices-insurance-premiums-spiral-part-5-out-of-pocket-series/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-05T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Energy drinks’ new college sports partnerships make them more dangerous than ever",
+      "link": "https://www.statnews.com/2026/10/05/energy-drinks-public-health-college-sports-partnerships-research/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-05T08:30:00.000Z"
+    },
+    {
+      "title": "Analytics",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPSlAwbnFrV0RiMWJuR1hkWFFlamZKM0xMMU5hMzg1bHlsN3d5cjNVbGVFZzdRTU1sVTZlQmZYNUZlWms1UG8xY2drN2ZVZEJzYlNYajZnVHBlV1l5MHhfdGo4RjdpOGN4UG9qS2ZGZkNELXFEWmFXS2RjSkRsV0wzWDBwX0ZwdUJYQWRQTFB4aTloY3U0RjhWdzZBeEFicTY2SXk5bHdtV0NMbFQ0TEtqekx3NXJRQkxUNGdaZ1NKRGRBQjR6elhUM1RXZFZJenl2SkJOZm00Qy1qMXU1ZVh0WXlEb2VDZHVfODA5RVFFd1Y3Z243X21MSnh2cUk2ekEwbXZTeE1tTmV1WVJKZFVmZmVMdlRTRTZRSDZOWFU2UURhUEpYQ043dkZUWElzb2F4Qmd3NUVQcGt5UmwxanRSNTk2VEhLWTd1V2pzRlpTM3YyQUVza2lOenhR?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-05T06:00:59.000Z"
+    },
+    {
+      "title": "Closing the Diagnostic Gap: Why Access to Allergy Care Isn’t Equal",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNjZXWmJKQUphY2s1LWhZUGlseVI5VkRCY0Q4cGtJb1FGNG9tUzg2VmJZZ2VEQWYxNnNMR09oT0JubXRad0tTVnZZOWVQU3VBTnBIaVRHZFIyRmpZQVFCWW9jcHVpS3JZLXdRWXhaMFdNcHFTRVRPWUh1aVlrc0I2aTFHbTF3R1FYM01QTVZUeDBJV1I1V1YtNlJZaVpUZw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-10-04T23:53:28.000Z"
+    },
+    {
+      "title": "Trump’s ACA Fraud Crackdown: Experts Urge Going After Bad Actors, Not Patients",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWV9vMWpVRzVTWWc1bWRTQjVkSE9HNzYwdUh1c1oteGNNUXp4SFpTOHYwYXZzYjBhUjZQUTN0NDRwYmZMazN0T21mYWZRTkQ4SkdBZnFPc2VVWUdoNWRRZkpjVFR3bEdBZEFCbV9XbG5lRFlya210ZmhuWS10ZUtvVjdpWWJGZkdtSVphRk9Jb2RJbmJ5Z3I2UGJSUTg4RjBWeUtSZkZobDcxenZx?oc=5",
+      "source": "MedCity News",
+      "date": "2026-10-04T23:30:20.000Z"
+    },
+    {
+      "title": "Healthcare Privacy Leaders Look to AI to Improve Monitoring and Data Breach Investigations",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWHNBZkpoQ1R0SzRjWF8xSHd3eEs4ZkhXSFRtbGxrZE5Ndk1hMENvNF9NeXZsa3ZfQjJUYVhyaThLRUI2a1ZoMmhBSWFtblVUZU9ucjV1VGFOOGh5LVd6LXppVzZ3RGh5UUd0ZmtRWW9aQ1EyYklnUGMyYVAzRzNnUEhha2FuU0RSOXBzNVhrRGI5WXVPajQ3ZldxOUV1RU5fTmdTTUlHUGhmOWxIYW9qRndXcTNheVBxTGhoRE9xdXE?oc=5",
+      "source": "MedCity News",
+      "date": "2026-10-04T13:05:19.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmtCeURaWklRSHo4UEdaczhodVVpdEx6czZxbHJ4ellfWkwxYk9hNDdNNEk0ZGM4ZndrTTk3VzRaMnM5MnZZbE10OWJoSEVERkI3aTMzV2s2cVZTUHh5a0RUWDhGZ1NVcF9EcnRmOU5Pbkg2WjNwUHhxT3BwaXgtaHdQR2s4VDdwVXZIWjhtUy1qZkJ5WHc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-03T14:15:00.000Z"
+    },
+    {
+      "title": "Debunked Episode 30: ACCESS Tries to Succeed Where VBC Fails, AI, and UnitedHealth Gets the Last Week Tonight Treatment",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaGhFSnh5R3hiT1lJTVpNUWdmWGNTbWhZb000RlFzUmlocWdsTjUxVk54Zk9PTVVaVU5WRkdIM2NNZXBfNXZTa3J1RzNnc1NRRmhySEd3ckMzZUF0eW9HamVNNlFOUjhjMThQZkVxRzJsTEM0bjk3SHpreHAydV9GYmdUSFBFQVJOVGJyWnpCeGdkOWYzSHRpNjYtcmZjMnpLb0gyUXgxQnNiRktOaHRFWXZPOGpVdnBma0hXRkNONlhNR3Q1b3ROS1B1V3N3alMyOHhnUWRtXzJUbzhUYVAtQjMtSQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-10-02T21:38:05.000Z"
+    },
+    {
+      "title": "Pfizer Pill’s Phase 3 Data in Vitiligo Pave Way for FDA, EMA Submissions",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHF4V0hOclF1ckVUR1I2S194Y1ByVVFSQUJfOFdMblNUTWp6VnU3dGt0SHhySTdCZlljRzk3NVFob0FmM3ROdVFDN1ZzbUl1Sm5pNHo4MmN1RERqWkNuXzNuRzJvRGVzbkx3aWdMMnotZEw4VHN1RnJkSnhvam1YUTloUzVzOWlBZzRERXMwWXNtVWxtb3lqLVk0STFSd0w3TE9GS2RSOFpvVU1uSnI0ZjEyTkRrNEVfTWsya2VB?oc=5",
+      "source": "MedCity News",
+      "date": "2026-10-02T17:49:35.000Z"
+    },
+    {
+      "title": "It’s Time We Reframe Healthcare Organizational Culture Using Behavioral Science",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjUzQUF4Y0NYdlo0MThkTV9ZbldsUHU3andfWnNwMHgzNW05YmFnX29NT2d3VTUteFphc0xSVk1lZG1UTTI5aWsyZ0I1MG5LbUY0WVRySEwtMUZBN0NEZkRkRkVMLXZNck1TYnNrd2lveXFiTHpzeFp3Z1M1Y0hqVTNFbmYySUlEUkpuSUFHWV95MWUxWFU2ZU84U3RXSVFLbDdtYU1CYXJPaGVuUEdGXw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-10-02T13:28:05.000Z"
+    },
+    {
+      "title": "Hospitals’ Cost Containment Conundrum",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ScktCRENRWC1CY1JTSU1OLUI4S0RWZ2UxRFRudlo0MkVZNUFjSGl4d3F3RzZGLVNILWs3eXNMMkVndElrTUZ0MUtJVzhVTXpCTl9VeFJnMF9SNEdIRU1CaThORWFtRTNST2dDOVE1eUdjTThsZWoyWA?oc=5",
+      "source": "MedCity News",
+      "date": "2026-10-02T11:56:46.000Z"
+    },
+    {
+      "title": "Vuno expands across China and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3JOdnNoSUItbDVCQnY5THhMdW03S0NpUFVaRExXbkZUQzlQamNnQjY1Uy1sMmV0NXIwYmpEZ0pGcmpPMThxSFFmYUIyT2h6YTVFYXFVMUI5WEpvam5yRlVoLXhKcUhCZnVCU2ZYY3VsbFRNOS1FUGJQRXJMeWhDd0dVLXBSYkc3dlE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-02T05:00:01.000Z"
+    },
+    {
+      "title": "AMA: PBM Market Concentration Is On the Rise",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0kyT1Y0ZU9EN1JCRFlrdWRJNmwzMDVEaGpLQ2xFNG9oMWZ5SW5KVkNlZFJrYUNNV3NBRzNzdFlyajZQZXdwT01la1FTYXJsV0R3d2ozQzNSTTZrZGVzUmgyaWVXblNlSTc3TVZqOFFuRFZyaWM2TzBxYV9INDVMQ0Z3?oc=5",
+      "source": "MedCity News",
+      "date": "2026-10-01T22:39:21.000Z"
+    },
+    {
+      "title": "Sanofi Puts Up $1B to Expand Regeneron Alliance and Develop Next-Gen Dupixent",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmZqM0k2VWUtNWhFMWd3Qmo2aEhqXzg4OG8yTW9tRC1iRDlOcmttTmxqTDF3STJMbFZVSGU0aC1mY2M1MjFWNmpRTGJyN2tSaHRYQWdTaW9nOVl2Q1I2SmVwRFA4R25HaVc4ek5ndXZzQ0hvOXUyUmZqRm91M1FIVHdOYVhFaEpMVGhYRnUySVQ4N3NtZXo5N25DZjRVcDBkY1o3NjFhSmp1aWZWU01JLXRvUHJmNU03emlZ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-10-01T20:14:21.000Z"
+    },
+    {
+      "title": "The Real Gap in All of Us Isn’t Consent, It’s Conversion",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTE5yUThTVHJob3VjVWVGRUJhV2hxRFU0MWJ1WHpGNWNPSGVqNVZrZXFwX0VGZVlSck5TRzkxMU1uQjZOWXBfMjR3YzlZaGluY3ZGZ2pEbHktLWtwLTRwcVVSMlF0QUNWQ1RqcmR3MDFyRkdORzZwRnQtRGtnX0w4ekZmRzdfREhnd2s2R2ZJTQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-10-01T13:34:05.000Z"
+    },
+    {
+      "title": "FDA Looks to Bring New Scientific, Consumer Voices to Advisory Committees",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkhtbWxyNElaRlAwT3hBMUM3R1hKQURtdHZLOEVEQm1GbVg5STJjRE1SckhnalhDMFBoVTVfV0l1UjNmUUNiSTNkVEdaYktvRDB3UUlJR3dFZU5IZHJnWTdxOE5OOVZ6YzBWRExISE5tRkw0Skp2SkFrMjZ6N0FJeW1COFR3LWhldFFWRHhfTW9OckFkYkFGYW9OUFh5SmpvUW9F?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-30T21:38:55.000Z"
+    },
+    {
+      "title": "MedCity FemFwd: Opportunities in the Fertility Market",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTUlRdkpfbkZwV202UlNkMU9EdXhzZWQ4OFZzdkpsd0VUUDBUdFVlWVNtTmdtam5qQkVOS0g4NkJrVjNJLUlJbE16WVFLR3ZVUTdvcHdkNFNtckcxSkdOODRwY1JPdFhDNXQ4OExlaVlTUlJVOW9BQ05IRjJkN1VSR1FyRkx2dFhMVUlTMjlR?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-30T21:23:55.000Z"
+    },
+    {
+      "title": "AI’s Healthcare ‘Doomsday’? It May Be Less About Autonomy Than Trust",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWRIS2h0b3JzakhDajk3c0xMYWpUZEtUVUdpSGF5X3k0UHFzRzR5Sl9rdEMxLVhGaTBLNU5zc2FPZnUwRFpZbi02WVhINVNkSEp2NHFHR05mbEZwUmlYRDZDaFhvaENyZlJUT1hhMlRpZ2Y0bXNDd2ZFV3lnQzFwQXZrMGVVUTVwTVZuS0xTa1Qwa09zV193akllZ1QtQQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-30T20:59:14.000Z"
+    },
+    {
+      "title": "4 Notable Health Tech Funding Announcements in September",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM1JsNWQ0Y2wyYWtyWUQ2NGt1ZDhDellLdk1FWXFKckVEWExZd2g4ODFoaV8ycTVxZzlvRGlPZ3o4UmRFVGZiYzFZdUZ2eVlXdVZvemdTT0hVOG1ySDJ5QXB4bDdJdXQxN1BObTlZR0YtcldNX05aQ0NGVmNkNXd4UkZFeUNPYzVvYl9Qb0t2c1diZEU?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-30T20:53:55.000Z"
+    },
+    {
+      "title": "Tiny Health Secures $33M to Expand Microbiome Testing",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMUtCR195YlhMQTFQTHZLUU13OU5QbjhQN2JGS0hGcnpyQkEzN0o3eVotc2M4YVE0alZyamNjeklJOG9EUmVJV0hkbmp2VmIyUXVlNThjNUd1c2FzLWNmeWE0WGZEWlFBMVREN0RKNTF5RHlPenRIcF8xVEdBckNzWGViVTBMZEpnZXdVZVd3?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-29T22:21:04.000Z"
+    },
+    {
+      "title": "Unite Us, Instacart Link Care Coordination and Grocery Benefits to Scale Food-as-Medicine",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeEh4VDJYcTQ4VmZhOUl1QlMxRldMdHhfaDlLUjA1akxUMkFLYUUtQW5WWkxNWmJ3dEVlWHpsTGRpRW9jMEswUTIzcjktYURhQWQ2SVRYdjhoRG5ySmoxX1pFUU52UVFQdm1JUHlWQlVhSEw4enZJM0dMMlptM2pMaEszbGhUUW4wZmNVb0lxenQxVGsyTXdwUW5PdmxoeTZKRXM2cHIydmV4djBMOHFRSGZWc25kc2hJWFZHa0Jn?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-29T21:48:55.000Z"
+    },
+    {
+      "title": "AstraZeneca Places a $2B Bet on a Summit Therapeutics Cancer Drug",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYVhPeTBrLWFId0hEaFBYSG5ySktvbkdORjRwSG42Z3Mwd21VYWszeERSLUoyU1RabWVhRUxCRzVWQzFMN1B2TjFELUp3d0pVOUJTTjNKbTZDMXctbnFWS3RoeWFjNjFnbGZRU1U4Yng2NTg0RHYxWnJUY2NkWl9FTzNjMUNfNWd1TGppNDBudS00OEdJdTR1ZnlpYUtiYVcxUFJiNHU2MjBrUHIxWGx1Q0VDR0ZWYkJOTzVDMnFnZzBINzNmTVpUSFR0ZlV3SVk3YUVsOWwxRmtydUk?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-29T19:36:53.000Z"
+    },
+    {
+      "title": "The Illegal Drug Marketplace in Your Patients’ Pockets",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa2h5bmlMU1NsMGdRVU9WUE1HQ0x5c3h2MjY2eklCNDFLa2x4VmUyMzVQTXE0TmJOd0daU0lhNDdXWm9Ta25OUHlXUjBET05jOHNnWGZRWjhYNlpGRmNvbWxFU3diRDFqSFNsdWlvaTE3VmVqMVJGTndxSml4dFFfazhNa2pVdE0zVVlFTmhsaw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-29T09:53:55.000Z"
+    },
+    {
+      "title": "DreaMed Wins FDA Clearance for CGM-Driven Insulin Automation Tool for Both Type 2 Injection Regimens",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmJrb2lwZl94MHM1aXVZcS1YZlowYjBIOXdZZTVvUENaNmZqdENjRktUU0NMYTZNQzdkbHd5Q3lqamRJeG9ZRVc5Q3VDNVhaZzduaFFSX25BdXVqalpyRERsbGFiVjNaalJydzdqVjdHN0hxUlNkaXJ6dHFNVFVOWDdmM0JEVWYyQlgyVGVoZ1JXRGVwRzhaY2hyY0xFM1JuM20taU40N25NMkJLcGJHNXl4MW0zSzdxVjF3NFRZdDVtZzMzY3Y2b0MxVlZkdw?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-28T23:13:55.000Z"
+    },
+    {
+      "title": "New Coalition Launches to Expand Direct Contracting",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNG4ySHMwQ1NDMkpUTkJudDhDc1V6aXgzM2dSOG1tZGFpZ3BtNmZCTmNuTjA5c1FqcE5hOHZoMTdHUXBacHU0SFFFVENQNHUwM29BZXIxYVl6MVl4UmZab0Z4TEdYdXZwd1NsX2FJQjVXVkM4SE45SWVJS0taeGg0T3k3YjhoVGh3dTBkMQ?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-28T23:03:55.000Z"
+    },
+    {
+      "title": "Merck Pays $400M for Cancer Drug Prospect From China-Based SciBrunch",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUTJTNmFBbXFLSUo2cnZFbWNQSlY5TTN6T0lpZ3g1dVJWZjdndzBOdW1kVUxSd3MyUWM2ZE9USzZkYXhqNGtoTzBfUUp5MlBSX19ZRmN6d3p1V2NsR04wVjFXeHktMlJrOURZYmlyTE9ZVnNXam1zWS1yNHBwOHRFbk1lUFpFQTFxYTFmWVVPSmJ1UmNreFBEOG9n?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-28T20:33:55.000Z"
+    },
+    {
+      "title": "Beyond One-Size-Fits-All: Women, Substance Use, and the Need for Gender-Responsive Care",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZXVzQmEzdnVWdmRBNlBhOEZnNnIwQkdUaDhHWjRCdW1lVUE0SlVaMWFGcHFDbXJsaWFOb20tcHh0clp1UXdDb3FKZmw5dDQ3RlpjNFhnWVZHS0txdGNONzlJem5lWEQtRDkzQmNMaGlqdk1ZOEVtcWI1YnUyVS15ekZ6VWd3SXNxUUZNejIwclVDOTBwVGFELVRrQ2F6Tk1WRmtranlGTXZDQXBUYmtEc29MVDhEbEx1?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-28T13:38:55.000Z"
+    },
+    {
+      "title": "Ping An launches AI-assisted care for expats",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa042NGExOHR5Q01Kb1JWcHVSM01jWFByZ2NwX0pSSEdzY0xGYjY5eGtRMDJGaXd1OHJTOXNKZHdsbGRPUFpnZHJ1QjZyZ1RvWnl5UUZXZkVrajdrd2YtMzRFeURhbWdUOGxsWVhDMFdITWhjY1RSTzI4bkRZYkdsajVpajY?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-28T04:17:53.000Z"
+    },
+    {
+      "title": "AI Goes All In To Support Nursing Teams: Ambient Charting is Just the Start",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDBhdl9DWVVKYmU4OVlFVTRmbVFBbnRpODJOYzVEVEdEQjZqakpBXzBTQjF3b0lBS3hWaUI0enQ5Wnh2cjM4UnZOdTN3b09LQ1lDcVZwRWxNZGt2MndaaV83a0x1azliV0kzY3k2M0xQdktOZEREa0FRTmpvX2VpRHpYRlRFVE5MN0RGWmhwMEpKYkhXU1JGa2tBQmt1Sk1NblQxUmpVVndYZGs?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-25T13:56:46.000Z"
+    },
+    {
+      "title": "Gene Silencing Biotech ADARx Makes Some Noise With $535M Stock Market Debut",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDA5VWxJbUx3bktCWHBid2RfSmtaS2hObUJHNW0wNXdQWkFzVjduQ0lKZnkyazBXZFJQRjJWVnM3OHZZNExhQWNQNUFEbG1xNnNhUHhiSFpqTDg4ZTNjbEc0b0xlaTJCSjAzc2FLdUV6OWdwXzdlS2xKdE15UWtGWGQ2S3dKczlYR2F6WllnU0R4enBFYWlSYmxn?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-25T07:00:00.000Z"
+    },
+    {
+      "title": "From OpenNotes to “Doc Can I Record You?” Why Physicians Should Embrace Era of Accountability",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTFI2a2MybVdnSGRGVkpvWDIzMnI1YVNjWkF0eVAtSjVaS3VwbVpUR2poY3hGVVZzanQwNnZyUS00aFp3a0h1QldxMnRabTM0aVVjUlQzQlAwcElCOTNDcVR5bFZWRm14bGtoNUdtRmRobEZVc2duWFlpZ1gyT3phZV9PS3FVdGFEM0tMUWhHX3M2TTg0VnpRUTF4NGxOSUxVSW9qTmdhRWpsODdLcDFmOG1JTlpaWEVySlRCV25jRjA?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-24T15:18:26.000Z"
+    },
+    {
+      "title": "Modernizing Medicare Advantage for the Next Generation of Seniors",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTlyNExMUE8yeWNmV3hHYTh5d1JKdUk2cUhNRWwzcmlYc3FRSTRyTHRJSXdnZkJuYWRxMWpYbEpSdkVfRGZZMENxc1dYYWNHbS0zdmJxdXNIMVFiYnVUSTJzQmhZQ1JnLW84MlZodXpRQThEdTlTdEJMSE1yM0hnNnlaMEVBWU9SaHFmWVh2V2Q3OExfOVlQY1ZlMU1SLVE?oc=5",
+      "source": "MedCity News",
+      "date": "2026-09-24T13:53:15.000Z"
+    }
+  ]
+}
