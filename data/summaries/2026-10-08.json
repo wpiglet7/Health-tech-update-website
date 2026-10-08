@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T00:50:46.378Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 33,
+  "sources": {
+    "MedCity News": 6,
+    "STAT News": 14,
+    "Healthcare IT News": 8,
+    "MobiHealthNews": 5
+  },
+  "summary": "Today's health-tech landscape reveals significant structural challenges alongside incremental advances. A Trilliant Health report highlights how misaligned financial incentives are driving up costs and harming outcomes across the U.S. healthcare system, while regulatory and competitive pressures are mounting on multiple fronts—the Justice Department is intensifying fraud enforcement against drugmakers, the Trump administration is pursuing lower Medicare drug prices despite PhRMA's legal challenge, and proposals like a $70,000 international student work visa fee could worsen healthcare workforce shortages. On the technology side, Teladoc is expanding its virtual care platform with contactless vitals monitoring and ambient AI scribing, while investment activity remains mixed: Vitalize raised $31 million for hospital staffing solutions and General Medicine secured $120 million, but Caribou Biosciences is shutting down after failing to fund its CAR-T cell therapy trial. Regulatory uncertainty is also brewing around AI deployment, particularly in Utah's AI sandbox which may face FDA complications, and healthcare systems are increasingly focused on governance frameworks to build confidence in AI implementations across their organizations.",
+  "items": [
+    {
+      "title": "Trilliant Health: Misaligned Incentives Are Undermining US Healthcare",
+      "link": "https://medcitynews.com/2026/10/trilliant-health-misaligned-incentives-are-undermining-us-healthcare/",
+      "source": "MedCity News",
+      "date": "2026-10-07T21:50:46.000Z"
+    },
+    {
+      "title": "Teladoc Health Adds Contactless Vitals and Ambient AI Scribe to Virtual Visit Platform",
+      "link": "https://medcitynews.com/2026/10/teladoc-health-adds-contactless-vitals-and-ambient-ai-scribe-to-virtual-visit-platform/",
+      "source": "MedCity News",
+      "date": "2026-10-07T21:13:34.000Z"
+    },
+    {
+      "title": "STAT+: In small trial, optogenetics restores some vision lost to retinitis pigmentosa",
+      "link": "https://www.statnews.com/2026/10/07/optogenetics-restores-some-vision-retinitis-pigmentosa/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-07T21:00:00.000Z"
+    },
+    {
+      "title": "HHS announces $20M in health tech and AI prize challenges",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPejlWR29iRHFCbEUyeGVZaFF4aFlvd2xfdTJPXy1Wd2Z6cFRibUQ2VEtFaDNSVzFCOGI1Z0lBQ0pQYUNHbjRYLUxqQzR5NGJ6SG5tS2VjSVJLTnREX2RyS0NvYnVaZmZVejN2Y05SZElmNkxEbW5UdVNkUW1YSkEzLWdwbFhlT3JWTVZJWlRWZWEyaHBiQkE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-07T20:18:21.000Z"
+    },
+    {
+      "title": "Vitalize raises $31M to tackle hospital staffing",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYnJXOTltQXBwUHBKbkhtY3loNERHZDU1dHJkV1JpYzE2NlF5aTF2UHhBTEc2bUJDbGRZQ2dvYXpWeXJrU0VqaWNHQk5SYkdWTk5FaWRXcUNoU1RKM3RrdnJHaTlXcGMxRmlNT2hUcFluNGpLWDhhZ09adW9SdHF6eTY2a3RJc1E?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-07T19:54:37.000Z"
+    },
+    {
+      "title": "Trump administration proposes $70,000 fee for popular international student work program",
+      "link": "https://www.statnews.com/2026/10/07/trump-administration-proposes-fee-targeting-interational-students-optional-practical-training/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-07T19:41:16.000Z"
+    },
+    {
+      "title": "Caribou Bio’s Journey With Off-the-Shelf Cell Therapy Reaches the End of the Road",
+      "link": "https://medcitynews.com/2026/10/caribou-biosciences-allogeneic-cell-therapy-crispr-cancer-lymphoma-crbu/",
+      "source": "MedCity News",
+      "date": "2026-10-07T18:21:47.000Z"
+    },
+    {
+      "title": "Datavant adds ID.me verification to records requests",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMGFwV0Y4MnlJS08yMzdJazBJbmZfQk5fNUZMZ0kwM3VDelBBSlVXSW9oVTdhTXBNanFlS2g3bm5FS2d4NTVNNU9FVVFPaWlxSngtS0dDQWVzSzJVUE4yMlAxVFpxMkpvdjVLcTFVT0hPMnBFNS1PUlZBdzFZdXhIUzhRUEM3Y3dDX3BZcw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-07T17:41:12.000Z"
+    },
+    {
+      "title": "STAT+: PhRMA sues over Trump policy mandating lower drug prices in Medicare",
+      "link": "https://www.statnews.com/2026/10/07/phrma-sues-over-drug-pricing-model-globe/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-07T16:58:32.000Z"
+    },
+    {
+      "title": "Analysis: Earlier detection could unlock $527B in women's health spending",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSExSMzZhVkFiMl8zSXBhR1phQ0hWczZvbHhzc2M2ZjJuRlFLVFBfNnhfTWtnblpIcnF4U05HdmhDVXJkY1hrMUdLbE9VdUFLbXRzWWR1YTF6ckttNE9NLUxVdE5Ya0NwbzRFejRBckoxREdYSVUwSFF4NGZxbk1Dc3BHek1zRFY4V251Umd2VG1VaDdaZG5ncld2RlBLRUpKdkstcGNR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-07T15:10:36.000Z"
+    },
+    {
+      "title": "General Medicine raises $120M for healthcare shop",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFpUQ3BaM0VPeUFyRjIzUjVCVGQ0RHlteE5tczZMTTl6MXNhM2dkaDRITmp0OWltMnZ0R0sxZXN5SXB3dnpDeHlZSXJLbHhiVHlXTkpBZ3QyLUU4bVMzd0pDVlZ6TUplNmhLMVJoT3N1NWthM2p4Y19rWmV0cVMzd0NtMVE0X28?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-07T14:47:37.000Z"
+    },
+    {
+      "title": "Constant Vigilance is the Watchword for Healthcare AI Governance",
+      "link": "https://medcitynews.com/2026/10/constant-vigilance-is-the-watchword-for-healthcare-ai-governance/",
+      "source": "MedCity News",
+      "date": "2026-10-07T14:17:19.000Z"
+    },
+    {
+      "title": "How healthcare staff can build confidence in AI",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRUFMSkxHazVQWG1CbndvM29QcFViaVBZaFB6Q2tCX1lJMWlWM0c3cWFwbzF2NEFMMjZhOHJmQ2FzeGxoRl9mX09sUll6NkI5Uy1uMXFfaGxjN0VoQmRZR3AzOWRYX1pyY185UUMtZmVXbkszVUstdUF1YTExZFI5Rmp6dTlCai1xTEtoaFVWUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-07T14:06:30.000Z"
+    },
+    {
+      "title": "STAT+: Merck suffers a setback in Europe over its new Keytruda formulation",
+      "link": "https://www.statnews.com/pharmalot/2026/10/07/merck-suffers-setback-in-europe-over-new-keytruda-formulation/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-07T14:06:29.000Z"
+    },
+    {
+      "title": "STAT+: Forbion raises $2.6 billion, its largest fundraise to date",
+      "link": "https://www.statnews.com/2026/10/07/biotech-news-forbion-raises-2-6-billion-largest-fundraise/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-07T13:42:22.000Z"
+    },
+    {
+      "title": "PBM Transparency Is Still Too Opaque — How Can Employers Rein In Drug Costs?",
+      "link": "https://medcitynews.com/2026/10/pbm-transparency-is-still-too-opaque-how-can-employers-rein-in-drug-costs/",
+      "source": "MedCity News",
+      "date": "2026-10-07T13:41:00.000Z"
+    },
+    {
+      "title": "STAT+: Why health AI pilots in Utah may be on a collision course with the FDA",
+      "link": "https://www.statnews.com/2026/10/07/utah-sandbox-health-ai-pilots-and-fda-regulations-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-07T13:38:52.000Z"
+    },
+    {
+      "title": "Digital maturity model supports care delivery in super-aged Taiwan",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVZoZnEwUFg4LXg3UTd6T0lQZjdTa29jb3h0am0xazhMVEIxMTNXUEI2bDE5Q3VDNnpzTHN1azZNMEFOVnowQ0lWN3hwc2NiYXRBa0FKa0U4OVdTaVVXclZ4M1VXOWFGcUNDeTRJZkxySHQ2UXN4TkNUWEdrWUJFazhOa0F3TmJSZG1Cd0luZEVTU3hkMmVFcWZOdlZLZEQyVVhBRmJ3NTA0WXM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-07T13:18:00.000Z"
+    },
+    {
+      "title": "From Distributor to Disruptor: Amazon’s Healthcare Flex",
+      "link": "https://medcitynews.com/2026/10/from-distributor-to-disruptor-amazons-healthcare-flex/",
+      "source": "MedCity News",
+      "date": "2026-10-07T13:10:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about WHO obesity guidelines for kids, DOJ targeting pharma, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/10/07/who-obesity-guidelines-for-kids-doj-targets-pharma/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-07T12:56:49.000Z"
+    },
+    {
+      "title": "BD",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xbUNqWnpRNWlfaVE0RFBwRTBpVVUxU21JdjQ5a1h0TF8tRVB3eGZoNVRkOHN4RWRSN1BNSU8zdzZ3ZEx4SDZ2Y2dFd3Z2aXNGNmVOaVJGaTV6Zw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-07T12:13:03.000Z"
+    },
+    {
+      "title": "STAT+: Justice Department targets drugmakers in new directive on combating white-collar fraud",
+      "link": "https://www.statnews.com/pharmalot/2026/10/07/trump-administration-adds-pharma-to-list-priorities-combating-white-collar-fraud/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-07T12:10:42.000Z"
+    },
+    {
+      "title": "Why healthcare systems need value-led technology investment",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUlPS2dzdTZZUElzRmtsdl9nQ19ELUdQLWZzbXZINFdUOFBvVTZBemM1cERjSFkwTGswdlJpa250Y2NXSmJCdzNyaUtVcWJDQWNSTEhVaHZveVRHcDJhWkZtZGxYdDVkeEtwdmlrRFFJeXpUWEc3a1V3N1FvaXlwMlIzTEZqeXhYRHoyUlBMdl90c1hYdWJKSkJ3Qk5NSlJqOGY0RQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-07T12:00:05.000Z"
+    },
+    {
+      "title": "ER visits from people born outside the U.S. dropped after ICE raids",
+      "link": "https://www.statnews.com/2026/10/07/health-news-er-visits-from-people-born-outside-the-u-s-dropped-after-ice-raids/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-07T11:50:41.000Z"
+    },
+    {
+      "title": "2026 Nobel Prize in chemistry awarded for ‘mirror image’ molecule research, with impact on pharmacology",
+      "link": "https://www.statnews.com/2026/10/07/nobel-prize-chemistry-henri-kagan-kenso-soai-2026-winner/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-07T10:42:28.000Z"
+    },
+    {
+      "title": "STAT+: Caribou Biosciences, biotech co-founded by Jennifer Doudna, is shutting down",
+      "link": "https://www.statnews.com/2026/10/07/caribou-biosciences-shutting-down-lymphoma-car-t-therapy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-07T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: In Duchenne muscular dystrophy, a promising therapy is available to a fortunate few",
+      "link": "https://www.statnews.com/2026/10/07/muscular-dystrophy-exon-skipping-drugs-novartis-dyne/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-07T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Democrats plot a midterms push for MAHA voters",
+      "link": "https://www.statnews.com/2026/10/07/democrats-focus-on-food-toxins-win-maha-voters-midterm-elections/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-07T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: My oncologist recommended active surveillance for prostate cancer. Life insurers called it ‘untreated cancer’",
+      "link": "https://www.statnews.com/2026/10/07/active-surveillance-prostate-cancer-life-insurance-policy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-07T08:30:00.000Z"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemRBTkpYZ0hoYlBVVE1DQ1htRmpJbmVFZVpIY3RKTVNQRFdTbUtIVS1LZDNJSTQwTnRZaV9pdk9lX2JZZUpIVkVRQnh4eERnYTA0M0prU3VTUG11cmxjY09TVXY3dUpldnZzSGZiQ3ZFNzFzaE5uQXp4Z1BmdC1MZ2lqTTlicXlzNlRZ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-07T02:00:16.000Z"
+    },
+    {
+      "title": "Government & Policy",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90a3V3aGdhWjFZY1pUeFVlLWJSODJyUlgtQmUwaWdqeFVmSW1nSVhtNXlLalhLVll1bjlabElwYzg0akhrSGJRejNoSDRTenI2V3BuTW5kTTZVb285UjJTYk5fTTZyNmctN3owRk5SVnNUQXJXdXgtaHVldzMxQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-02T09:12:00.000Z"
+    },
+    {
+      "title": "(Sponsored) Choosing the right-sized AI models to control hospital costs",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXdVYUc0Tm92dTZsRk9sSTlZSUxZeVFxNkR2RldGZ3ZmN2hoVksyUFZHYzUzaEFiMHZTWWFBdHN5T01vOEFKZDNUc1JWU0xtN29FU2duM3JVWFFGRWRJUkN3WU5QVnpibXFmRHlyUkppUXh0OFFlVkhhb3FpcWhKdS00OVBsWGRFZEZOMUV5TEtlclFqSXJ4ZXQtWEpNUF9iRllLaDZHamttbVk?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-29T07:00:00.000Z"
+    },
+    {
+      "title": "iMedway",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03TzY3RTQ0RU9qQndlLVZtNHN4dGVOUnJhS0RmUFRXTmlaQTlzNTRPRkRERFg5emJmMC1NR251UjVjUENZMWZfVWxHbDlRa25OTl9kbGRiMmFPTnNqRHc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-29T07:00:00.000Z"
+    }
+  ]
+}
