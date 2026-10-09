@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-09T01:04:00.181Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 33,
+  "sources": {
+    "STAT News": 18,
+    "MedCity News": 3,
+    "Healthcare IT News": 5,
+    "MobiHealthNews": 7
+  },
+  "summary": "The health-tech sector is seeing significant venture activity and regulatory developments this week. Multiple startups are raising substantial funding rounds aimed at operational challenges in healthcare: Arboretum LifeSciences launched with $30 million for precision medicine diagnostics and drug development, Vitalize secured $31 million for hospital labor and capacity management, Healthleap raised $38 million for AI patient screening, and Multiply Labs brought in $75 million for manufacturing robotics. Meanwhile, regulatory and policy issues are creating headwinds—the Trump administration is investigating nine universities for visa fraud affecting postdoctoral researchers, fragmented state AI rules threaten to slow patient access to emerging technologies, smaller biotech firms are struggling with new tariff exemptions, and the FDA signals its abortion pill safety review will extend into next year. On the clinical innovation front, companies are pushing AI applications directly to consumers, including a startup bringing breast cancer risk prediction algorithms to patients without waiting for physician gatekeeping, while health systems grapple with how to operationalize earlier AI-detected cognitive decline into actionable clinical pathways.",
+  "items": [
+    {
+      "title": "Trump administration investigates 9 universities for alleged visa fraud",
+      "link": "https://www.statnews.com/2026/10/08/trump-administration-investigates-universities-j1-visa-fraud/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T23:09:27.000Z"
+    },
+    {
+      "title": "Startup Arboretum Sprouts, Bringing a Precision Medicine Approach to Common Diseases",
+      "link": "https://medcitynews.com/2026/10/startup-arboretum-lifesciences-diagnostics-genetic-test-drug-development-common-diseases/",
+      "source": "MedCity News",
+      "date": "2026-10-08T22:01:54.000Z"
+    },
+    {
+      "title": "STAT+: House Democrat seeks to scrap No Surprises Act’s costly arbitration process",
+      "link": "https://www.statnews.com/2026/10/08/house-democrat-proposes-change-to-no-surprises-act-arbitration-process/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T21:44:05.000Z"
+    },
+    {
+      "title": "AI roundup: New products from Oracle, athenahealth, Suki and others",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmZyX05UV0lIYWpLWnZ5ZnJ0U1NuYkpCYzB0RjM3UVdIaGRXeDA2dFozNmtWVndsVVFjWmxsY0hJbTdOR2txSlhJaVlLOWpuWG5PUEJfcmtMbk1IRGE3Sk81OGhoYjFjaTJvRnVOWFlrQWNXSVdsbFY0eXhUVGNtZ3JrREg4VjdTUFJVZkZFbm1CaEtUOWtJMU40azZWZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-08T20:19:33.000Z"
+    },
+    {
+      "title": "Vitalize Secures $31M To Help Hospitals Manage Labor, Capacity",
+      "link": "https://medcitynews.com/2026/10/vitalize-secures-31m-to-help-hospitals-manage-labor-capacity/",
+      "source": "MedCity News",
+      "date": "2026-10-08T20:04:08.000Z"
+    },
+    {
+      "title": "Healthleap raises $38M for AI patient screening",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ2xuTVkwRUxmRTFNcHVnY19RVU9OOHI1Tk9RaGVYaExoal9yMjhIejU1aVlYZ2hLc3pZX2VaWmYxQlBWdHQ4ZWpyM2stU3FpTDRCbG8wR1JZZVMyUjgwemFadlRwZHJaT09xYlZhVEppVlo4allQQkpEWjFKNl80OV90Y0k?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-08T19:50:07.000Z"
+    },
+    {
+      "title": "NIH funding uncertainty thwarts U.S. researchers",
+      "link": "https://www.statnews.com/2026/10/08/readout-loud-podcast-nih-funding-research-biotech-caribou-nobel-prize/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T18:50:54.000Z"
+    },
+    {
+      "title": "A rural CIO's guide to getting more from technology",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdEJSemJpM2k3TmFDVnJKZ2FiTVlGTW8tU0kyVW15UzBYY3V2c2V4RkZxNnBSN3BXdGZ1VnNJUU9STHBNaHhFVzA1RjFLN3UwRFhCSEVGTGtCTDAyX0hvVldVcnlvaDctUjFYMUJvT3Aza2tDRm1BUVRRRTlQZG9NcUFPUFk?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-08T16:07:47.000Z"
+    },
+    {
+      "title": "STAT+: AI for breast cancer risk prediction goes DTC, regulatory cloud over Utah sandbox, and AI psychosis",
+      "link": "https://www.statnews.com/2026/10/08/breast-cancer-ai-goes-dtc-utah-sandbox-ai-psychosis-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T15:43:59.000Z"
+    },
+    {
+      "title": "STAT+: The fresh faces that may shake up key Senate committees ahead of midterms",
+      "link": "https://www.statnews.com/2026/10/08/health-policy-news-fresh-faces-shake-up-senate-committees-2026-midterms/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T15:31:38.000Z"
+    },
+    {
+      "title": "STAT+: Roche goes beyond licensing in deal with Chinese biotech",
+      "link": "https://www.statnews.com/2026/10/08/biotech-news-roche-goes-beyond-licensing-in-deal-with-chinese-biotech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T15:18:05.000Z"
+    },
+    {
+      "title": "Multiply Labs raises $75M for manufacturing robotics",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcVRoSG9mTmp4UnJNaS1rYXQtRWc3SElNNEdPT0d4LXFTdm9SQVk1U09ZY1RYcFQ5UXNtOWRXMGlPOU1EZkdwSF9KcGk0R0NzdzM5SFdKWWV6MUExUjFCQUQ2c2Y4aDNQTk1ORnJucExKTXNwWDJnUGVxSExRUmlhbzhVV2tCLVJhRjJv?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-08T15:09:54.000Z"
+    },
+    {
+      "title": "FDA says its safety review of abortion pill will continue into next year",
+      "link": "https://www.statnews.com/2026/10/08/fda-mifepristone-abortion-pill-safety-review-continue-into-2027/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T15:02:53.000Z"
+    },
+    {
+      "title": "Fragmented state AI rules could slow patient access",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0Q5LUxaWms1Tm0yU09Sbk1qaVdJd2wzN19JaVZRamwyb2Nvb3lDa0FUdjZnMDJtV2JuVkRRYmlUbEpPOFhwRHhwZWlzdVZOejV5aTdwUUItS1dzT09VdmdmUWdsUEwxQjhCajcwMkFESjUwa21tNzBZb1dhSWVmQTJFSVZfaXVKeUNyRGZSaElhS1k?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-08T14:57:44.000Z"
+    },
+    {
+      "title": "Anthropic expands cybersecurity verification tools, invites hospitals to apply",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVRDY0dncklTdloxNlZlNnFsWDJlWVNDTUdySzh6V0Q3SWR5OXhjaVB3RThRb3g0cjhwTkFCMlRXNkdzb2hXSXpzcDJDUVh3NFNubjNTQ0NCQ1dhekFzZU5vX0FraVZlM1ljaklBYTVuaDNqcERMcUc4THVQRHh0SlY5Z2twb1gyc0VjVmtvdkg0SE56UGVoaGxrU2NNajd4QjRKNGNESHVTOXQ4X2hkMDNn?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-08T14:20:00.000Z"
+    },
+    {
+      "title": "STAT+: Argenx sees unusual setback with failure of late-stage study of drug for autoimmune disease",
+      "link": "https://www.statnews.com/2026/10/08/argenx-autoimmune-disease-study-sjogrens/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T14:02:29.000Z"
+    },
+    {
+      "title": "AI Can Flag Cognitive Decline Earlier — Health Systems Still Own What Happens Next",
+      "link": "https://medcitynews.com/2026/10/ai-can-flag-cognitive-decline-earlier-health-systems-still-own-what-happens-next/",
+      "source": "MedCity News",
+      "date": "2026-10-08T13:53:00.000Z"
+    },
+    {
+      "title": "Career development aids in nurse retention",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWk9tMzN5Ukc0akdDVnpuTzRXeks5NnhDZ0FfNDZqSFVvVjVjNFNBdlRFU3N2Wm85d082N3l1NV9zcVE3M0RnVm9wQnptWEcxUF9lNEREckx2ekcwUm00Ni11MmRfeElyYXdYQjJtNjZEVk0tNUtwR0JmQk85TEhTNXZ3?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-08T13:51:35.000Z"
+    },
+    {
+      "title": "Health systems can adapt to nurse workforce needs",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaG1FQktHT1BLQ0NNMlBzMmplMk5CYVNKX2xGN0RCMHQwRnJxSEdmak0zSU81WEdNWkZQTUxuYmw0TzkzU21vUTlSanZaNGt0bndFUzJjZy1BTkNSMVlDWlRzSWpGaHZUZUtsR3hRY1JBWnR6ZEoyQVlTcURFbnh6NE1VeS1IWXdhcm9CRkxn?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-08T13:17:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about PhRMA suing Trump, biotech frustration over tariffs, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/10/08/phrma-suing-trump-biotech-frustration-tariffs-pharmalittle-newsletter/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T13:15:33.000Z"
+    },
+    {
+      "title": "STAT+: Roche inks drug discovery deal with Chinese biotech, focused on molecular glue medicines",
+      "link": "https://www.statnews.com/2026/10/08/roche-defand-therapeutics-drug-development-deal/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T12:00:00.000Z"
+    },
+    {
+      "title": "The Nobel boys club (again)",
+      "link": "https://www.statnews.com/2026/10/08/health-news-nobel-boys-club-again-2026-winners/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T11:53:27.000Z"
+    },
+    {
+      "title": "Health Care Without Harm",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVdzVvRmowR09SNzVlam9zbHlTdGFLbk5QeFZycmp2RUhab1M1VWtiaHM2cGxVb2laQ2o1WG1kaWhwdm1GaXhSSzVKRlpyUnRnWmFxNHk4UlJBUE5WbTRvbHdXclJBdUZrejdR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-08T10:17:20.000Z"
+    },
+    {
+      "title": "STAT+: Biotech companies are struggling to navigate Trump’s new tariffs",
+      "link": "https://www.statnews.com/2026/10/08/trump-tariffs-section-232-imported-prescription-drugs-challenge-biotech-companies/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Dozens of Democrats vie for slots on key House health committees",
+      "link": "https://www.statnews.com/2026/10/08/midterm-election-democrats-vie-for-roles-house-health-care-committees/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: How CMS plans to fix a major flaw in the 340B drug discount program",
+      "link": "https://www.statnews.com/2026/10/08/340b-drug-discount-program-cms-reform-proposal/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: England and other nations are on the path toward eliminating hepatitis C. Why not the U.S.?",
+      "link": "https://www.statnews.com/2026/10/08/us-hepatitis-c-cure-medication-cost-elimination/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Why this startup is taking its AI to predict breast cancer risk directly to patients",
+      "link": "https://www.statnews.com/2026/10/08/why-clairity-took-breast-cancer-risk-prediction-ai-directly-to-patients/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T08:30:00.000Z"
+    },
+    {
+      "title": "Breast cancer can behave differently in older women. This physician is making more tailored treatments a reality",
+      "link": "https://www.statnews.com/2026/10/08/breast-cancer-research-older-women-neil-carleton-stat-wunderkind/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T08:30:00.000Z"
+    },
+    {
+      "title": "A mother-daughter quest to find fellow members of an ultra-rare genetic community",
+      "link": "https://www.statnews.com/2026/10/08/rare-disease-nicolaides-baraitser-syndrome-history-ncbrs-researchers/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-08T08:30:00.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM1NHVVZXM2h6SHlicTVGeUtKbENfUThWVzJYSFlnbkxlOXBYWjJDNmpqMnV0cjNSNldxTlF3RW8wd19aUmxfbTd3MG91WjNNUENzdm5jNzgwTXZ3cVdVMFlvanF0M0hqc0pDUzNucTdZOEROVFkwTkF4ZTNiZ2RGblhtVUI?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-07T15:34:23.000Z"
+    },
+    {
+      "title": "Chris Gullo",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1Y3kzaV9EeGN4VTZabFoxanBnY2c4V0o1Rm1qdGxjb0NhdXNYNENhSzlFcWFtUWdObjFkV0VNNGlEM0F6WUhTb0w0NnoxZGg5MEkxVlFQdDhoNW5WQkFBbGJLdHhhVW8?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-06T23:42:55.000Z"
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZMVlOVzlXd0Y2Mk5QZVd5eG1qZnZVamd0QmhwOFRsM0E2YUt0ZnpTRG5reEwzZ0w4enUtU0JaSVZ4MmN0RnZENVJOelZKbGhCY2dUWWpmVkk3ZUdOSmJUNA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-06T23:23:37.000Z"
+    }
+  ]
+}
