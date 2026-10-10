@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T00:36:42.169Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 24,
+  "sources": {
+    "STAT News": 12,
+    "MobiHealthNews": 6,
+    "MedCity News": 2,
+    "Healthcare IT News": 4
+  },
+  "summary": "The health-tech landscape today reflects significant regulatory pressures, infrastructure investments, and emerging opportunities across multiple sectors. The Trump administration's policy initiatives are creating friction with established healthcare players: hospitals are again suing over the 340B drug rebate pilot program's shift from upfront discounts to after-the-fact rebates, while proposed census changes eliminating race, ethnicity, and citizenship questions are raising public health concerns among epidemiologists. On the clinical innovation front, several companies are advancing specialized therapeutics—TRexBio raised $116 million in its IPO to develop regulatory T cell activators in partnership with Eli Lilly, while Life Biosciences reported positive early data from its cellular reprogramming approach for glaucoma—alongside emerging diagnostics like Astrin and OpenLoop's expanded breast cancer blood testing. AI is increasingly reshaping healthcare operations, from improving surgical volume at Houston Methodist to raising cybersecurity risks that require active mitigation strategies, though digital maturity experts caution against wholesale staff replacement. Behavioral insights also emerged: a new analysis found that pharmaceutical gifts and payments to physicians correlate with inappropriate prescribing, potentially driving up healthcare costs, while smaller ventures like Outro and Payerset are targeting specific pain points in medication tapering and pricing transparency respectively.",
+  "items": [
+    {
+      "title": "STAT+: Biotech leader, leading lab leak theorist no longer in consideration for top infectious disease role",
+      "link": "https://www.statnews.com/2026/10/09/steven-quay-no-longer-in-consideration-for-top-infectious-disease-role/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-09T21:03:52.000Z"
+    },
+    {
+      "title": "STAT+: Hospitals sue – again – to halt Trump administration’s 340B rebate pilot",
+      "link": "https://www.statnews.com/2026/10/09/hospitals-sue-to-halt-340b-rebate-pilot-trump/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-09T20:27:27.000Z"
+    },
+    {
+      "title": "Outro raises $7M for antidepressant tapering",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQWYwNjNqMWQwN3V2N3R2cVdyTzMzSXNlOWVmaDZpVEN2WGR4Zk14WnlsM3A0cGpxSi1fNmJnZEo5c1Fab2k1OHBVbjQ0SmlKdFR2ZWQtRmZFVzhMN1Nmc2FkSlNybUJ2UXNycmtqcThXbVNvdVJ1Ym1RdzBfSXg4MA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-09T19:52:21.000Z"
+    },
+    {
+      "title": "TRrexBio’s IPO Bags $116M to Bring the Immune System Back Into Balance",
+      "link": "https://medcitynews.com/2026/10/trrexbio-ipo-regulatory-t-cell-treg-autoimmune-disease-immunology-inflammation-trxb-retension-rtsn/",
+      "source": "MedCity News",
+      "date": "2026-10-09T18:26:41.000Z"
+    },
+    {
+      "title": "Astrin, OpenLoop expand breast cancer blood testing",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjI0VVdMSDFjX2ZnYjBrLTdiRkh2bW9qdDZ1cGdCTm1seVoxVndCcWd1UHdrbERsRTFodklZSzRHUXNhenlMeUNvQWtxT0RKMmpvaU1JanRzZGYxaXlSUTE4dGF0N0Rfb3FDZTlTOTlEbktyeENXZlRUQ3NRYzhRRkFqTURBV1p0SGItZ0FNdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-09T17:30:04.000Z"
+    },
+    {
+      "title": "Payerset brings AI to healthcare pricing analysis",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0ozb0JlOG1QMVlTU214aGF4WjBNdThCU2lnM2dmTWpGd2pLbVpEb1MyRTRHd3RPY3VrWkFDWWNfY3pNRjJvWUlMdkJId3RlejNaalRxWFF4SUpPb0U2NVpFVEhjSDNzRzgwYVQyT3F4cW5Kb0s1YjZPT2FENzFBRGw4YWRMRUJqSEE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-09T16:57:03.000Z"
+    },
+    {
+      "title": "How AI is raising healthcare cybersecurity risks – and how to fight back",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeWpsZEE5TGNLZVVqcUhWMS1yb2ZjNWxjVWNkV09yb2RBak42UmtLTThNZEZnN0EwelgtdDlvR2U1YTNJOGFtUDMtMzBBUmdxU1ZSSkZNMi10OUNyTVRSdTI5akp2XzhQV09PWHNmTENaamc5bEhGNXBpa1RVeEQ4OVFET0JGZW8xZkp1d256MEpTNXIyRHg3dlI0TjRsRjVxUTRXMw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-09T16:39:44.000Z"
+    },
+    {
+      "title": "STAT+: Pharma’s free lunches for doctors boost inappropriate prescribing, analysis finds",
+      "link": "https://www.statnews.com/pharmalot/2026/10/09/pharma-free-lunches-to-doctors-boost-inappropriate-prescribing/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-09T16:33:55.000Z"
+    },
+    {
+      "title": "STAT+: Medicare Advantage star ratings trigger new bonuses, and uncertainty",
+      "link": "https://www.statnews.com/2026/10/09/medicare-advantage-insurers-star-ratings-2027-humana-alignment/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-09T15:55:47.000Z"
+    },
+    {
+      "title": "STAT+: Life Biosciences share glaucoma study updates for its cellular reprogramming drug",
+      "link": "https://www.statnews.com/2026/10/09/biotech-news-life-biosciences-share-glaucoma-cellular-reprogramming-drug-update/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-09T15:41:39.000Z"
+    },
+    {
+      "title": "Houston Methodist measures a 7% surgical volume gain with AI",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUFRBWlJvLUpBTWVLOVFTRDkwcnNqdExzQVN3R081UWljRFh3V3N1RjhBSkNiTm1DeE16WF9XdE5PT3paS0U4ZW92RFV3T1VSNU1MMEZZQnhXX3BfSVFXUUxnbEMxVzZfZDRxQzNfWXlqTVhaZ3h5eU9GQk1yV0hPd2lpMlVxMC1YQXRrQjZsUkhnUXUz?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-09T14:45:48.000Z"
+    },
+    {
+      "title": "Digital maturity means not replacing staff with AI",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaEQteDZXdDA5MFRsY1lsMURDVHY0MWJrOG9NQ01Ra2F0SGNjNXo4dGRBMEpmOExORjl1UUxGOTBjMk5SbWdQcmlLdlhfWGtrR2kyN3JxY0lQOWlmOGFyVmVRQzRCZXZWQ1FJakVEMDhSYlR3RXFnb0hmUllDNk5GVzN4TkV4d1hYZ1pCXzdCMzU?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-09T14:06:36.000Z"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "link": "https://www.statnews.com/pharmalot/2026/10/09/up-and-down-ladder-latest-comings-and-goings-jobs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-09T13:59:35.000Z"
+    },
+    {
+      "title": "What Life Sciences Commercial Teams Can Learn from Digital Health",
+      "link": "https://medcitynews.com/2026/10/what-life-sciences-commercial-teams-can-learn-from-digital-health/",
+      "source": "MedCity News",
+      "date": "2026-10-09T13:49:00.000Z"
+    },
+    {
+      "title": "How these census changes could threaten public health",
+      "link": "https://www.statnews.com/2026/10/09/health-news-census-changes-threaten-public-data-collection/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-09T13:23:29.000Z"
+    },
+    {
+      "title": "Taipei Municipal Wanfang Hospital achieves Stage 7 EMRAM",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeGRKLU50MHFlX0RPZFZ3NFIzRVdJeEhBdWYwQzNxUjYtM09xSnBIX1FaU1RxN0FoOVFTMTBhb09wT3puLVRFR3BHUzVrdERiVWhMQkluYnBnLWQ3SkxZZ3BhTGRFX1ZQSENYTHdVbnN6SmZORXZyNHBLUkJ2MjlMcEZJYWo3OXlPM1NBNzctY1FlV2d3R0x6YTRMQkVOSDdna0E?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-09T13:19:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a setback for Argenx, Lilly suits over copycat versions of an obesity drug, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/10/09/pharmalittle-were-reading-about-a-setback-for-argenx-lilly-suits-over-copycat-versions-of-an-obesity-drug-and-more/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-09T13:17:20.000Z"
+    },
+    {
+      "title": "STAT+: Will MAHA survive the midterms?",
+      "link": "https://www.statnews.com/2026/10/09/maha-movement-rfk-jr-campaign-trail-midterm-elections/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-09T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Proposed U.S. census changes could be catastrophic for public health",
+      "link": "https://www.statnews.com/2026/10/09/2030-census-public-health-data-equity-morbidity-mortality/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-09T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: 50 years ago, my colleagues and I pursued basic research science that became revolutionary",
+      "link": "https://www.statnews.com/2026/10/09/robert-gallo-interleukin-2-human-retroviruses-immunotherapy-basic-science/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-09T08:30:00.000Z"
+    },
+    {
+      "title": "The fall of Roe dramatically changed abortion access. This researcher used Reddit to capture how",
+      "link": "https://www.statnews.com/2026/10/09/betsy-pleasants-stat-wunderkind-abortion-access-reddit-nlp/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-09T08:30:00.000Z"
+    },
+    {
+      "title": "AI-enabled triage holds big promise, but needs clinical evidence",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcG5SQTlTT00xeU9XbWppU3BIQVRrWlZuc2NZaEhhZEoxb1Rvd0tsR2NLUWVKNUJWMEIwT2VOeGFud2xhTmR5VmpIUlhGU2ZHdXNCQmpTWTltVjlyR3J3WTNKQkRhd3BiMDFfQnNJTVZZOERGLTN1RzExVkt6RExWbHJ1T0oydXdJdzVaRjBvQ1VwV1BJdW5VOEZRbE9EQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-09-30T16:33:18.000Z"
+    },
+    {
+      "title": "Healthcare's climate footprint and the patient experience",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMExwSVBJVGgtdTJ2cVNWSmwybVFsZEJFYmxJREVBZERyWjJEQkoxQ1Z4bjNGOWtiTUdmaGdKNFRmQkdwR09EV3RkNXFCektYb0hWcTF1czhDRzNuaDNxRFRiSGxKZS1YR204N09ZUW9wYXBUV2Y1WXVOVUZ4dlQ2QlNwdmFIXzdLMnR4eTh3V2NtQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-30T13:00:00.000Z"
+    },
+    {
+      "title": "Flora Fertility, Clue partner on fertility planning",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdVp3RWlaMHducjlKVkZfVkJGNEZiU2RJcGJwSHlfdFBqUjd0VGxJNmZPMnlvN0Y5SmhWYUYxdGNWSjdsbGNleS1EemlOLTBvUmtCeXpEM1I2OTV0b1V3bUFTRjlsVExteENOWVFLa2ZMMzY4MVhzVEhvV0I2dUZXQUxid3N6bXNLak5F?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-29T17:09:05.000Z"
+    }
+  ]
+}
