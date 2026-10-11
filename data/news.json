@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T00:36:37.936Z",
+  "generatedAt": "2026-10-11T00:09:20.069Z",
   "sources": [
     {
       "id": "stat",
@@ -24,6 +24,14 @@
   ],
   "count": 120,
   "items": [
+    {
+      "title": "Americans trust science more than peers around the world, survey shows",
+      "link": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-10-10T23:01:00.000Z",
+      "snippet": "Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay."
+    },
     {
       "title": "STAT+: Biotech leader, leading lab leak theorist no longer in consideration for top infectious disease role",
       "link": "https://www.statnews.com/2026/10/09/steven-quay-no-longer-in-consideration-for-top-infectious-disease-role/?utm_campaign=rss",
@@ -313,14 +321,6 @@
       "snippet": ""
     },
     {
-      "title": "STAT+: Argenx sees unusual setback with failure of late-stage study of drug for autoimmune disease",
-      "link": "https://www.statnews.com/2026/10/08/argenx-autoimmune-disease-study-sjogrens/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-10-08T14:02:29.000Z",
-      "snippet": "Argenx said its blockbuster drug Vyvgart didn’t outperform placebo in a Phase 3 trial of patients with Sjögren's disease, a chronic autoimmune disorder."
-    },
-    {
       "title": "AI Can Flag Cognitive Decline Earlier — Health Systems Still Own What Happens Next",
       "link": "https://medcitynews.com/2026/10/ai-can-flag-cognitive-decline-earlier-health-systems-still-own-what-happens-next/",
       "source": "MedCity News",
@@ -342,6 +342,14 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-10-08T13:17:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Health Care Without Harm",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVdzVvRmowR09SNzVlam9zbHlTdGFLbk5QeFZycmp2RUhab1M1VWtiaHM2cGxVb2laQ2o1WG1kaWhwdm1GaXhSSzVKRlpyUnRnWmFxNHk4UlJBUE5WbTRvbHdXclJBdUZrejdR?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-08T10:17:20.000Z",
       "snippet": ""
     },
     {
@@ -601,6 +609,14 @@
       "snippet": ""
     },
     {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBidjFiQjFaZW5aUlRUdXlsd1B1dDVhUEU1cGlnLWV4R1dlSE05VnRnWjhZQWViTDlVbVk2d1dCQ01OUFVfN3VzaTE2UF9RQmlSUjZ0aEtCNTVpZzhDeDE0MnNsQTRvSU5QLUxEZTNKdFBBREhvY09N?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-06T00:23:35.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Investing in Community Health: A New Model for Safety-Net Healthcare Innovation",
       "link": "https://medcitynews.com/2026/10/investing-in-community-health-a-new-model-for-safety-net-healthcare-innovation/",
       "source": "MedCity News",
@@ -785,14 +801,6 @@
       "snippet": "Data, behavioral insights, and experimentation can be used to understand how stress, motivation, and trust shape company culture. Positively changing company culture leads to direct improvements in patient health outcomes, clinician wellbei…"
     },
     {
-      "title": "Government & Policy",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90a3V3aGdhWjFZY1pUeFVlLWJSODJyUlgtQmUwaWdqeFVmSW1nSVhtNXlLalhLVll1bjlabElwYzg0akhrSGJRejNoSDRTenI2V3BuTW5kTTZVb285UjJTYk5fTTZyNmctN3owRk5SVnNUQXJXdXgtaHVldzMxQQ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-02T09:12:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Vuno expands across China and more briefs",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3JOdnNoSUItbDVCQnY5THhMdW03S0NpUFVaRExXbkZUQzlQamNnQjY1Uy1sMmV0NXIwYmpEZ0pGcmpPMThxSFFmYUIyT2h6YTVFYXFVMUI5WEpvam5yRlVoLXhKcUhCZnVCU2ZYY3VsbFRNOS1FUGJQRXJMeWhDd0dVLXBSYkc3dlE?oc=5",
       "source": "MobiHealthNews",
@@ -801,35 +809,11 @@
       "snippet": ""
     },
     {
-      "title": "Heidi rolls out AI agents and more briefs",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLW1ONnBFbm9xQUlidWt5NlA4NGpPVk9mc2xCZkE3WFVlcjRUQzlRUWY1ZlAyaWU3dXJ1OG1KZzJDM0k5dTl1d0FCSDV2TGctdVl4eHdaZHZ1WTh0b3VZV0NXM2lOZVIyMG1FVDdmMkRTaGpXVm9RcTBuNzg5NThyTGZZQnZwU09B?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-02T04:59:57.000Z",
-      "snippet": ""
-    },
-    {
       "title": "DHDA contracts Leidos for computing services and more briefs",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUm9RTEdrLVZkcGMzdEZKTmFLbnFBUlVlWmozSHY4S2M0d2lEYi1LeVRfaUs1aUpJWHdhN1lYTkZqMk5MY1hzaEtrNXprUHlQNkRxRWs5MngwMzVzVmZqYmhoX3l1eE14b1MxblU1WDZMUGJIa2JmVzNzNXJmUGs5QjVIS1BQU0lUd3ZQN29RejlGUUZ3RVBtTGJIS2tfd0E?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-10-02T04:53:58.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Finance",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbi1BV1ZLbmNobUQ0YTdXUmxsSVI4OUFfMzF6d09mWnl5T2k3UGRfNzRlakVKR1J0eTNfYV92MjZvWk0tR0gtWFBXcUR4ZUF0ZGthVUdkWHJ4cjh2Mmg3NkFMN3hTQ0pQSlRNaFZ4NkVFSEpTSVNjdmFvOWlXVjF5MDZTUTE4S0V2bnc?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-01T22:52:49.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "California Gov. Newsom signs 3 bills to govern healthcare AI",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZzl5OHVlczdydGxrX1FIUzZ0ZENaQjFYcEdjZGc1NE9wR201RkJLRDRscV8zNHN6WkEzTG5YYmhkc05qb2RwNXlRNmpzLWxBbmxkS3lUYlZmYVVDODJDSVdFOTl0Q3RwRGxXZjc1NEZCRDhVcnA5RXBaOV8yMm96QnZyZzRWT0twWGxvWkJpMU9fTmFfRnlkWGJB?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-01T19:27:43.000Z",
       "snippet": ""
     },
     {
@@ -857,14 +841,6 @@
       "snippet": ""
     },
     {
-      "title": "Closing gaps in ataxia care through telehealth",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ29fSFRHd3BvcE9QQkR4QnB2a3AxZi1pREhvcjFPd2FQQjVlbDhNYWU3ZWs5M1ZyRWtwMDdFck10UjlqWG5aRG9oT1U5WGJaRXNueEVQcE1iUVlkS2ZsNVpaVWltRnBJczh3LXh4LTdLZFBiTzNpY0lkMTBqdjlLcnlSNGZLR2c?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-01T14:06:41.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Synapticure says ataxia is now covered by its virtual neurology care",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1JGekVOdFJBWXdkVk1Sd3o2RUVOa3VIRWVhNmRoMnl5ZWZTVmYyWS1XUWRLLXlZN2xfVC1RUlY1TUR6cDYxLWt6ZVBOdmo1SzZRUjBSZjZRRkljSXI3dFhOelNRWTM4OUprV0lQQlFqd0pLOERmZkJZWFhtbmtTbGFJYTRybzZoblFYdHdYNGZZS0xCeU1tNnNXa2lKM3pFTEU4?oc=5",
       "source": "Healthcare IT News",
@@ -873,19 +849,27 @@
       "snippet": ""
     },
     {
-      "title": "Oura postpones IPO amid market uncertainty",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHpXQnAzcHN6MUYtNHFWeWhheHR0Q0wzVFh5emVBaTRHQk84a0phQUdwRmxUdHhqaDctSkFMbTlHUmxZZGpkS3dyc21KME9jUld5UUctZ05MMV9Sd3kxc29jclJDUVIyZE41VllqSUdzOVZ2eUpPWlJtSXFhbkhVUGlLUzQ?oc=5",
+      "title": "California Gov. Newsom signs 3 bills to govern healthcare AI",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZzl5OHVlczdydGxrX1FIUzZ0ZENaQjFYcEdjZGc1NE9wR201RkJLRDRscV8zNHN6WkEzTG5YYmhkc05qb2RwNXlRNmpzLWxBbmxkS3lUYlZmYVVDODJDSVdFOTl0Q3RwRGxXZjc1NEZCRDhVcnA5RXBaOV8yMm96QnZyZzRWT0twWGxvWkJpMU9fTmFfRnlkWGJB?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-01T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Closing gaps in ataxia care through telehealth",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ29fSFRHd3BvcE9QQkR4QnB2a3AxZi1pREhvcjFPd2FQQjVlbDhNYWU3ZWs5M1ZyRWtwMDdFck10UjlqWG5aRG9oT1U5WGJaRXNueEVQcE1iUVlkS2ZsNVpaVWltRnBJczh3LXh4LTdLZFBiTzNpY0lkMTBqdjlLcnlSNGZLR2c?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-10-01T07:00:00.000Z",
       "snippet": ""
     },
     {
-      "title": "AI-enabled triage holds big promise, but needs clinical evidence",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcG5SQTlTT00xeU9XbWppU3BIQVRrWlZuc2NZaEhhZEoxb1Rvd0tsR2NLUWVKNUJWMEIwT2VOeGFud2xhTmR5VmpIUlhGU2ZHdXNCQmpTWTltVjlyR3J3WTNKQkRhd3BiMDFfQnNJTVZZOERGLTN1RzExVkt6RExWbHJ1T0oydXdJdzVaRjBvQ1VwV1BJdW5VOEZRbE9EQQ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-30T16:33:18.000Z",
+      "title": "Oura postpones IPO amid market uncertainty",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHpXQnAzcHN6MUYtNHFWeWhheHR0Q0wzVFh5emVBaTRHQk84a0phQUdwRmxUdHhqaDctSkFMbTlHUmxZZGpkS3dyc21KME9jUld5UUctZ05MMV9Sd3kxc29jclJDUVIyZE41VllqSUdzOVZ2eUpPWlJtSXFhbkhVUGlLUzQ?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-01T07:00:00.000Z",
       "snippet": ""
     },
     {
@@ -913,35 +897,11 @@
       "snippet": ""
     },
     {
-      "title": "Healthcare's climate footprint and the patient experience",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMExwSVBJVGgtdTJ2cVNWSmwybVFsZEJFYmxJREVBZERyWjJEQkoxQ1Z4bjNGOWtiTUdmaGdKNFRmQkdwR09EV3RkNXFCektYb0hWcTF1czhDRzNuaDNxRFRiSGxKZS1YR204N09ZUW9wYXBUV2Y1WXVOVUZ4dlQ2QlNwdmFIXzdLMnR4eTh3V2NtQQ?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-30T13:00:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Rethinking healthcare procurement to lower emissions",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTUxwMERhY0R6WXRWd05GajhPTmxIaWxqN1hvU3RFcEg2XzRCSTA3T0dpNVFlWS1ONFMyQ0pudW1FRUpzQVpsNmFHRkRCckJsdHU3MXQ4SjRLYi1sRDFTTTJ1VG5KODdsSkowTC1iODlodHlOY0w1aWZPRXVNWGNDUklyam8tQXB3eVRra29BSQ?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-09-30T07:00:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Trump launches AI-driven digital front door for the federal government",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0FqMzRIRVBoYnJnNzh0YjNfeWtDRERVeVJkNUNuN2NwMGtSbGJTV3ZPSS1VcUQ3SEZUV0ZQTm5kakhjWHBVTmExdmVyYkZUNUhoekZEZkNFWWNJZWpzd2NpRWd2TGdGQ3NEVmtOaDlpYTNCT0k2SFU5NTlsUzdxM3pDSW1CSVljall2Uk1ONlp2SDZMU2lGeWhHZmo2eXRmSEE?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-29T17:29:19.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Flora Fertility, Clue partner on fertility planning",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdVp3RWlaMHducjlKVkZfVkJGNEZiU2RJcGJwSHlfdFBqUjd0VGxJNmZPMnlvN0Y5SmhWYUYxdGNWSjdsbGNleS1EemlOLTBvUmtCeXpEM1I2OTV0b1V3bUFTRjlsVExteENOWVFLa2ZMMzY4MVhzVEhvV0I2dUZXQUxid3N6bXNLak5F?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-09-29T17:09:05.000Z",
       "snippet": ""
     },
     {
@@ -961,14 +921,6 @@
       "snippet": ""
     },
     {
-      "title": "The hidden cost of broken communication and scheduling",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdGJLbUhuTnd3Q2dTdm9zNVQ1THRtRUU2SGkzcUZjMmFpVHlNMXFWNkVxTlFoSXQ5b0dYM3ZtQnhWSm5ZeUpldGFNek1xMUtRU2ZuckRfemJmQ1FyeFpEUTVURXNaYVE5Vk9QVkktdU96ekFncGRiZlJPcV9kN3FkRDRSemVXTlZRVEdySnpR?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-09-29T13:00:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Clinical AI pilots falter when data loses meaning",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSURUbHdmTUo4OGZSUlh4aWt1MzlHYUF4SFd3czd2N0l0MUczektXY1BkVXpOMUphMHpmNHZRcDNxZWgzdlVQeGhGOFBYUldSRUQ4eGVFSTVmRktlQzlhcTl6NGNZVGpNd2MwdkViU2VUcmJRb1QwSkxGLXFZQmozNHhybUFOTFl2T2dRSjMydno?oc=5",
       "source": "Healthcare IT News",
@@ -982,6 +934,54 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-09-29T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "(Sponsored) Choosing the right-sized AI models to control hospital costs",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXdVYUc0Tm92dTZsRk9sSTlZSUxZeVFxNkR2RldGZ3ZmN2hoVksyUFZHYzUzaEFiMHZTWWFBdHN5T01vOEFKZDNUc1JWU0xtN29FU2duM3JVWFFGRWRJUkN3WU5QVnpibXFmRHlyUkppUXh0OFFlVkhhb3FpcWhKdS00OVBsWGRFZEZOMUV5TEtlclFqSXJ4ZXQtWEpNUF9iRllLaDZHamttbVk?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-29T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "iMedway",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03TzY3RTQ0RU9qQndlLVZtNHN4dGVOUnJhS0RmUFRXTmlaQTlzNTRPRkRERFg5emJmMC1NR251UjVjUENZMWZfVWxHbDlRa25OTl9kbGRiMmFPTnNqRHc?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-29T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Tiny Health raises $33M to expand microbiome testing",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQazhKMmFZcXlkSnRuYjNYd0lrZkdHODNvLUROQUMxTHY3NjJVdkhWbUp3V3Y2NXlaMzdKYUhHM3ByTzUyZWxKVnlLOHNQQU83UjNBZ0o4dGNocVVENnBDb3lVOWdoMlFkdHAyd0FGTzY0bUlIbDRSaUlwbkZlbHdYa3BTOFMzSlI0U18xSA?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-29T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Clinicians are creating 'well-meaning' data leakage",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONThBbXVlMXdWSUs3dXZxU0tZemFuZzJZLUdfS3NkNVRBQ3R3LWYxc2Z1Q3ZhYWp0ZHMza0JLdFFFb2pCUkttbTlrVkduVWswZnlBc1ppbmROd1h1ZUF3WjZzNFJtci1hVWNZd3hqejJhbmhFQkhKZmNad3piNTEyeVRRTnp6QWEtcDViMGtlUQ?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-09-29T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Q&A: Designing AI workflows for meaningful impact",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWklnSWN5VkQ2cGE2YXhvRnl2c2o0N3ZpUUQ4WF9nMUU4WWpxblVzWmRnamRzdVFESDNJaFNiT1RsaFBRLW1zZWJvSWx5TWZTWXNocVZoaGpSTFBjTFYyZlVySkxHMm0zNTFlcWxMT2R5MXR4NF9rY2dnN2lBMWJtLThreVdZNFZz?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-28T18:03:48.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "What it will take for AI to deliver better clinical decisions",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDVSWThHNEVGNnJ0cVQxRlF4TWlZSHlrc1VJS2tUSHA1V3lMekllSjBwbFJoZ0RRZFBmLWJwY0VJNzJralE1VGNleW82SHlFTGhrWlR4M0hiSGhvbV9KNHYtM1F0LVVDeFhENU14Y2RYWHdSWHFvVWIzbzJUN0hnQS04bWgybjV0TVhobTRWMk9WQlhobFRn?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-09-28T16:22:12.000Z",
       "snippet": ""
     }
   ]
