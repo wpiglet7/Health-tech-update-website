@@ -1,0 +1,279 @@
+{
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T02:28:41.165Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 44,
+  "sources": {
+    "MobiHealthNews": 9,
+    "Healthcare IT News": 5,
+    "MedCity News": 30
+  },
+  "summary": "Today's health-tech landscape reflects significant momentum across clinical innovation, AI governance, and structural healthcare reform. On the clinical side, Asahi Kasei's FDA approval of Hovilpri for herpes simplex virus treatment validates its $919 million acquisition strategy, while multiple biotech IPOs and funding rounds—including TRexBio's $116 million raise and Forbion's €2.3 billion in new funds—demonstrate continued investor appetite despite broader VC headwinds. AI capabilities are rapidly expanding into clinical workflows, with Teladoc adding contactless vitals and ambient scribing to virtual visits, though the industry is increasingly grappling with governance questions around deployment and ROI, exemplified by Utah's push for governmental validation of healthcare AI tools.\n\nBeyond innovation, structural pressures dominate the agenda: the FTC sent warning letters to 24 healthcare organizations over price transparency failures, employers continue struggling with opaque PBM pricing, and the Trump administration's ACA fraud crackdown is removing 760,000 people from Marketplace coverage, drawing criticism that enforcement may harm patients rather than bad actors. Healthcare system operations are also evolving, with startups like Vitalize securing $31 million to help hospitals manage labor and capacity challenges, while Amazon continues expanding its healthcare footprint beyond pharmacies into broader commercialization. These concurrent themes underscore a healthcare system simultaneously advancing technologically while facing mounting pressures on affordability, transparency, and equitable access.",
+  "items": [
+    {
+      "title": "Carrot acquires GreenMan Vision to expand into vision simulation",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdy1ZNnZ2Rk1IS2I1Z2VfQWdLcEE2Sl82Rm00OE1YVjZqMndqM2tnZEw4M2NZZjAyV1lCTjlEU0otc1N3T2k4TjQ2ZEFKYzNkYU9hZ21sTHpPZFE3VjN1RmtUNE9GVUxrSmF0Rm52dnVfTTFhQ19hRkxCd01neXhwb1dCSUF0dVlQWUFzVXNGQVhPQUk3T25n?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-12T20:44:04.000Z"
+    },
+    {
+      "title": "Google expands health tracking, partners with Flo Health",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMDQ2OE40bURsQ29jQkxlUEtqSjM0S1RzRGl2Y0xBQ3FWbjE2dTVTQzJmUnFWMlgzOEJpTXhjN3dTUkRaWHhIeFhEVTJYS1NtMk9MekNGVjZDVWF2V0Q4MXBVUFk4VWh3LTJRenhYOTh2b3JWRllWLXBzS1FYaDhONXJydWZTMVV4NTdhSG5kdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-12T19:16:38.000Z"
+    },
+    {
+      "title": "Utah pursues governmental validation of healthcare AI tools",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWc1T2xmeTNXb25IWGcxOWNFTWR4Y2czem9LYlhYTjlyY3NxZlltbVE5R0dmSTFueFdzQkEyOGdsaW5fUlM5SjRiUWJ0S0dheTJMY2Y0Z3ZmYWVGVHphMmQyNE1ybUtSMDN4Smp2VWJGVGhsT2tEZjJ2UzczZS1MUGw4bUtuSVV4VGlsaE5ZQUluS3RKQ3Q1Qml3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-12T16:38:41.000Z"
+    },
+    {
+      "title": "How much of the physical exam can go virtual?",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZVIxRDhNakdpelMzY283b3VkUDl2bEp4UzV1UHlpQjU5eGRJUGFZMERsVkVFVnYwOGhNVV9ObTZRQkdndjZZVXdOak1lODM3T2ZUcU5ydy1ETGdDTGtIcy1DdjdsTWREYmVGUVpaQnRZVDgxV1ZRbm1GdmZueWQtaA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-12T16:19:28.000Z"
+    },
+    {
+      "title": "Asahi Kasei Acquisition Pays Off With FDA Approval for Novel Herpes Drug",
+      "link": "https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/",
+      "source": "MedCity News",
+      "date": "2026-10-12T14:44:00.000Z"
+    },
+    {
+      "title": "Outro Raises $7M To Support Safe Deprescribing",
+      "link": "https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/",
+      "source": "MedCity News",
+      "date": "2026-10-12T14:42:00.000Z"
+    },
+    {
+      "title": "Observing behavioral activity helps detect security concerns",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ0RLUXdZZ3M2YjFTeDNMbU9HM1U1VmRhZm1fbVQtVGxzYTZGUEkzaVdNSFg0QkdadGpfRXBNOUtyOE0zNGlCRDJSWktZTjBsYjVVMVlXWEp0QVAxZHZvLWl3bWZyMldtSE5xeGtmS21kRnRQdTc2RE42UDB1eDJ5YVJJU2tzOXNlb291YlpzRnBmdndjcUtSV21qYmxZZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-12T13:53:36.000Z"
+    },
+    {
+      "title": "Pediatric Innovation Isn’t a Small-Market Problem, It’s an Incentive Problem",
+      "link": "https://medcitynews.com/2026/10/pediatric-innovation-isnt-a-small-market-problem-its-an-incentive-problem/",
+      "source": "MedCity News",
+      "date": "2026-10-12T13:46:00.000Z"
+    },
+    {
+      "title": "Loneliness And Diabetes: Harnessing an Opportunity for Better Outcomes",
+      "link": "https://medcitynews.com/2026/10/loneliness-and-diabetes-harnessing-an-opportunity-for-better-outcomes/",
+      "source": "MedCity News",
+      "date": "2026-10-12T13:27:00.000Z"
+    },
+    {
+      "title": "Unusual access detection can be improved",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWszbTdqUVFjRTZJV0JGLWkyV093MFdtdTFnckZxN2VqakxlUXBabkx3MWowMFpQXzV4M2ZZWnBELTlKdFVMUnllbG14ME1pWlB5NEhZeGllMWl5U19YUDZYMnVaUm9DSkhMLTNSNnNnRmpncUpycXlOOWQ5N3FDUkZpcEllUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-12T13:09:00.000Z"
+    },
+    {
+      "title": "Join Us at INVEST Digital Health for a Conversation on Consumer-Centered Care across the Healthcare Ecosystem",
+      "link": "https://medcitynews.com/2026/10/join-us-at-invest-digital-health-for-a-conversation-on-consumer-centered-care-across-the-healthcare-ecosystem/",
+      "source": "MedCity News",
+      "date": "2026-10-12T13:00:15.000Z"
+    },
+    {
+      "title": "What healthcare AI ROI really looks like",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORjRDb29oRWFCMzA3U2tBMjhidkJGWnEtQ05qR2dBTmFWU19yMkF2c2pCWkFqelpfQ1pnb0JjX0F2M2FRdWZRbGFvT1FKVkVpcEFZcHBMUGRhMjJIZFh4NVdYN0xETjBKamN5cnd0NVJ6MGdLX0xKTTU5UG5GbTVBbTRR?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-12T13:00:00.000Z"
+    },
+    {
+      "title": "Are Hospital Operating Rooms Ready For FDA’s Expectations for Surgical Robots?",
+      "link": "https://medcitynews.com/2026/10/are-hospital-operating-rooms-ready-for-fdas-expectations-for-surgical-robots/",
+      "source": "MedCity News",
+      "date": "2026-10-12T12:00:00.000Z"
+    },
+    {
+      "title": "Hong Kong's first palliative cancer care app cuts hospitalisations",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdlZoTF81WGJtSTIyYllkMVhWbEV1dlN0LTFzajV4dXVnX0FQSGQ0TzNCbDRoLVFRRU5zSXZSeC0tb3IzMUlFRXg5bUtZZ1UxSHY5MENMVkR6eEF4djhkUGZ3SHJpZ18tb24wVFByWmd6cFdyUUJ4OUhheVg3MXNuYmRTTnpKYW8tUnl1XzVzNUNLZDhTbXBhSW1IX2Y4Umw5cW45bGg5Ym90dw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-12T01:06:01.000Z"
+    },
+    {
+      "title": "Irish firm to buy NZ cloud EHR company",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONDl1X05jS2tXR1hyTndSYTdScmszc2xBY2hneDc4T1QyQ1QtY0VmV1dTU2ozd1AxdFdUX29wZVlsNnlDcHlyZ0lMZEhkbE5RSVNQVnRvV3JsM29tQU1YN080U3NvNFJSSGxCVG5BNW5ocnhzLVNSZ01MbFlqbHRUaA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-12T01:02:55.000Z"
+    },
+    {
+      "title": "Korean AI model spots new liver cancer biomarker and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdUNqV3Q3ZTlqMllBWDBxWEpNeVJHNUQ3RWpRRExIa216R0xQZEw1T2R6OFF5WEtqTVZEcHplWlNGUFdRb2hkSlNSSzVGMkV4aTA0NVlvdVNLMmR5bUs3M3ZacmtEbjl2VHlua2JsSXhRQVBiYU82R0dqckhlVU5XNHJVRnU4dkY5Q25zVkpGbTBVSjQ5VkttdkFkLWhBSk9zOVFGRVJSaXI?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-12T00:59:47.000Z"
+    },
+    {
+      "title": "South Korea releases AI-powered care roadmap and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYlUxa3l0Q3NvN1V3bWdKV18ybDkyMUE3dUJUTW54Y25TREJXQTVtSmpxbUd6YXgtbnUzX0FEaVJkeDdqZlZZLTVyc2N0Y3pQelB0UVV0RkEzbWZRSjYyajlBZURwUnc4Q1hxeC1fdU1ORXhvS0pITG5IMGQ5SnNlVGJxT0hrcFh4YXAzekZ1RElsTlRza1lQeHc4WjZHT2t1Qkh0dWJR?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-12T00:57:21.000Z"
+    },
+    {
+      "title": "TRrexBio’s IPO Bags $116M to Bring the Immune System Back Into Balance",
+      "link": "https://medcitynews.com/2026/10/trrexbio-ipo-regulatory-t-cell-treg-autoimmune-disease-immunology-inflammation-trxb-retension-rtsn/",
+      "source": "MedCity News",
+      "date": "2026-10-09T18:26:41.000Z"
+    },
+    {
+      "title": "Astrin, OpenLoop expand breast cancer blood testing",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjI0VVdMSDFjX2ZnYjBrLTdiRkh2bW9qdDZ1cGdCTm1seVoxVndCcWd1UHdrbERsRTFodklZSzRHUXNhenlMeUNvQWtxT0RKMmpvaU1JanRzZGYxaXlSUTE4dGF0N0Rfb3FDZTlTOTlEbktyeENXZlRUQ3NRYzhRRkFqTURBV1p0SGItZ0FNdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-09T17:30:04.000Z"
+    },
+    {
+      "title": "What Life Sciences Commercial Teams Can Learn from Digital Health",
+      "link": "https://medcitynews.com/2026/10/what-life-sciences-commercial-teams-can-learn-from-digital-health/",
+      "source": "MedCity News",
+      "date": "2026-10-09T13:49:00.000Z"
+    },
+    {
+      "title": "Startup Arboretum Sprouts, Bringing a Precision Medicine Approach to Common Diseases",
+      "link": "https://medcitynews.com/2026/10/startup-arboretum-lifesciences-diagnostics-genetic-test-drug-development-common-diseases/",
+      "source": "MedCity News",
+      "date": "2026-10-08T22:01:54.000Z"
+    },
+    {
+      "title": "Vitalize Secures $31M To Help Hospitals Manage Labor, Capacity",
+      "link": "https://medcitynews.com/2026/10/vitalize-secures-31m-to-help-hospitals-manage-labor-capacity/",
+      "source": "MedCity News",
+      "date": "2026-10-08T20:04:08.000Z"
+    },
+    {
+      "title": "AI Can Flag Cognitive Decline Earlier — Health Systems Still Own What Happens Next",
+      "link": "https://medcitynews.com/2026/10/ai-can-flag-cognitive-decline-earlier-health-systems-still-own-what-happens-next/",
+      "source": "MedCity News",
+      "date": "2026-10-08T13:53:00.000Z"
+    },
+    {
+      "title": "Trilliant Health: Misaligned Incentives Are Undermining US Healthcare",
+      "link": "https://medcitynews.com/2026/10/trilliant-health-misaligned-incentives-are-undermining-us-healthcare/",
+      "source": "MedCity News",
+      "date": "2026-10-07T21:50:46.000Z"
+    },
+    {
+      "title": "Teladoc Health Adds Contactless Vitals and Ambient AI Scribe to Virtual Visit Platform",
+      "link": "https://medcitynews.com/2026/10/teladoc-health-adds-contactless-vitals-and-ambient-ai-scribe-to-virtual-visit-platform/",
+      "source": "MedCity News",
+      "date": "2026-10-07T21:13:34.000Z"
+    },
+    {
+      "title": "Caribou Bio’s Journey With Off-the-Shelf Cell Therapy Reaches the End of the Road",
+      "link": "https://medcitynews.com/2026/10/caribou-biosciences-allogeneic-cell-therapy-crispr-cancer-lymphoma-crbu/",
+      "source": "MedCity News",
+      "date": "2026-10-07T18:21:47.000Z"
+    },
+    {
+      "title": "Constant Vigilance is the Watchword for Healthcare AI Governance",
+      "link": "https://medcitynews.com/2026/10/constant-vigilance-is-the-watchword-for-healthcare-ai-governance/",
+      "source": "MedCity News",
+      "date": "2026-10-07T14:17:19.000Z"
+    },
+    {
+      "title": "PBM Transparency Is Still Too Opaque — How Can Employers Rein In Drug Costs?",
+      "link": "https://medcitynews.com/2026/10/pbm-transparency-is-still-too-opaque-how-can-employers-rein-in-drug-costs/",
+      "source": "MedCity News",
+      "date": "2026-10-07T13:41:00.000Z"
+    },
+    {
+      "title": "From Distributor to Disruptor: Amazon’s Healthcare Flex",
+      "link": "https://medcitynews.com/2026/10/from-distributor-to-disruptor-amazons-healthcare-flex/",
+      "source": "MedCity News",
+      "date": "2026-10-07T13:10:00.000Z"
+    },
+    {
+      "title": "Cybersecurity Experts to Hospital Leaders: Think Beyond Traditional Disaster-Recovery Planning",
+      "link": "https://medcitynews.com/2026/10/cybersecurity-experts-to-hospital-leaders-think-beyond-traditional-disaster-recovery-planning/",
+      "source": "MedCity News",
+      "date": "2026-10-06T22:35:23.000Z"
+    },
+    {
+      "title": "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency",
+      "link": "https://medcitynews.com/2026/10/ftc-sends-warning-letters-to-24-healthcare-organizations-over-price-transparency/",
+      "source": "MedCity News",
+      "date": "2026-10-06T22:13:22.000Z"
+    },
+    {
+      "title": "Forbion Bucks VC Fundraising Trends, Reeling In €2.3B for Two New Funds",
+      "link": "https://medcitynews.com/2026/10/forbion-venture-capital-life-sciences-biotech-startups-investing-vc/",
+      "source": "MedCity News",
+      "date": "2026-10-06T20:22:14.000Z"
+    },
+    {
+      "title": "Perimenopause Anxiety: Sometimes It’s a Progesterone Deficiency",
+      "link": "https://medcitynews.com/2026/10/perimenopause-anxiety-sometimes-its-a-progesterone-deficiency/",
+      "source": "MedCity News",
+      "date": "2026-10-06T13:24:00.000Z"
+    },
+    {
+      "title": "MedTech VC 2026: The Real Story vs. The Thesis",
+      "link": "https://medcitynews.com/2026/10/medtech-vc-2026-the-real-story-vs-the-thesis/",
+      "source": "MedCity News",
+      "date": "2026-10-06T13:00:00.000Z"
+    },
+    {
+      "title": "Hidden Risks and Costs of Maternal/Infant Health that Health Plans Miss",
+      "link": "https://medcitynews.com/2026/10/hidden-risks-and-costs-of-maternal-infant-health-that-health-plans-miss/",
+      "source": "MedCity News",
+      "date": "2026-10-06T11:30:00.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBidjFiQjFaZW5aUlRUdXlsd1B1dDVhUEU1cGlnLWV4R1dlSE05VnRnWjhZQWViTDlVbVk2d1dCQ01OUFVfN3VzaTE2UF9RQmlSUjZ0aEtCNTVpZzhDeDE0MnNsQTRvSU5QLUxEZTNKdFBBREhvY09N?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-06T00:23:35.000Z"
+    },
+    {
+      "title": "Investing in Community Health: A New Model for Safety-Net Healthcare Innovation",
+      "link": "https://medcitynews.com/2026/10/investing-in-community-health-a-new-model-for-safety-net-healthcare-innovation/",
+      "source": "MedCity News",
+      "date": "2026-10-05T23:20:24.000Z"
+    },
+    {
+      "title": "Shionogi Adds to Its Rare Disease Strategy With $2B IntraBio Acquisition",
+      "link": "https://medcitynews.com/2026/10/shionogi-adds-to-its-rare-disease-strategy-with-2b-intrabio-acquisition/",
+      "source": "MedCity News",
+      "date": "2026-10-05T21:10:33.000Z"
+    },
+    {
+      "title": "Trump Administration Announces $90 Payments to Help Cover Medicare Part B Premiums",
+      "link": "https://medcitynews.com/2026/10/trump-administration-announces-90-payments-to-help-cover-medicare-part-b-premiums/",
+      "source": "MedCity News",
+      "date": "2026-10-05T19:32:46.000Z"
+    },
+    {
+      "title": "The Biggest Healthcare Fix Might Not Come From a Vendor",
+      "link": "https://medcitynews.com/2026/10/the-biggest-healthcare-fix-might-not-come-from-a-vendor/",
+      "source": "MedCity News",
+      "date": "2026-10-05T13:05:00.000Z"
+    },
+    {
+      "title": "Strengthening Dental Payment Integrity Through Smarter Claim Editing",
+      "link": "https://medcitynews.com/2026/10/strengthening-dental-payment-integrity-through-smarter-claim-editing/",
+      "source": "MedCity News",
+      "date": "2026-10-05T11:50:00.000Z"
+    },
+    {
+      "title": "Immunology Startup ai3Bio Aims to Redefine What It Means to Reset the Immune System",
+      "link": "https://medcitynews.com/2026/10/immune-reset-startup-ai3bio-immunology-inflammation-autoimmune-liver-disease-t-cell-th17-il-17-cgas-sting/",
+      "source": "MedCity News",
+      "date": "2026-10-04T23:43:54.000Z"
+    },
+    {
+      "title": "Trump’s ACA Fraud Crackdown: Experts Urge Going After Bad Actors, Not Patients",
+      "link": "https://medcitynews.com/2026/10/trumps-aca-fraud-crackdown-experts-urge-going-after-bad-actors-not-patients/",
+      "source": "MedCity News",
+      "date": "2026-10-04T23:28:03.000Z"
+    },
+    {
+      "title": "Healthcare's climate footprint and the patient experience",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMExwSVBJVGgtdTJ2cVNWSmwybVFsZEJFYmxJREVBZERyWjJEQkoxQ1Z4bjNGOWtiTUdmaGdKNFRmQkdwR09EV3RkNXFCektYb0hWcTF1czhDRzNuaDNxRFRiSGxKZS1YR204N09ZUW9wYXBUV2Y1WXVOVUZ4dlQ2QlNwdmFIXzdLMnR4eTh3V2NtQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-09-30T13:00:00.000Z"
+    }
+  ]
+}
