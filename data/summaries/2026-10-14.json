@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T00:12:05.142Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 30,
+  "sources": {
+    "Healthcare IT News": 7,
+    "MedCity News": 4,
+    "STAT News": 12,
+    "MobiHealthNews": 7
+  },
+  "summary": "BlackRock's $2.8 billion acquisition of a majority stake in Humana's CenterWell Senior Primary Care clinics signals a major shift in healthcare real estate ownership, moving the platform from private equity to asset management. Meanwhile, innovation continues across diagnostics and drug development: Happy Health won FDA clearance for a cuffless blood pressure wearable ring, Roche invested $100 million in an ALK7-targeting obesity drug from Rona Therapeutics, and WhiteLab Genomics raised $26 million for AI-designed medicines. On the regulatory front, South Korea issued mental health AI safety guidelines while an FDA advisory panel analysis found that nearly 40 percent of patient and consumer representatives had financial ties to pharma-funded advocacy groups, raising questions about conflicts of interest. Smaller developments include Readily's $11 million funding round for healthcare compliance AI and Northwestern Medicine's integration of OpenEvidence into its Epic system. The day also included coverage of AI diagnostic tools, virtual care expansion, and concerns about a Neurocrine Biosciences rare disease drug raising patient safety alarms.",
+  "items": [
+    {
+      "title": "South Korea issues mental health AI safety guidelines",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNzFmdHVoOGRua2hpMndrTUtQbGJoX1dTVjVaTzZOVWxaQVBWMGlJNzJxWkNIQWFWQWhDdDlQTHpDaFh1XzZwMzNPd3R0Tzh4SXR1RnpMUGRSNno3VUg2Snl4MnF2c0w1STRJNjJMbGFCUGZYVkRQVm9VY1JiLWNPbEN4eWREV2FwRi1leFRRVEdyTXRoemR0dGYyQ1U?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-13T23:15:02.000Z"
+    },
+    {
+      "title": "Happy Health’s Cuffless BP Device Wins FDA Clearance",
+      "link": "https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/",
+      "source": "MedCity News",
+      "date": "2026-10-13T22:01:55.000Z"
+    },
+    {
+      "title": "STAT+: BlackRock to buy majority stake in Humana’s CenterWell clinics for $2.8 billion",
+      "link": "https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-13T20:25:40.000Z"
+    },
+    {
+      "title": "​Readily raises $11M for healthcare compliance AI",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ3M4UTIxOHpCNWhYTkNnZnFSLS0xRnQtSlNDYUdNdlFmVXFMRFVmWFZTcmx0S0RCelR5MGc5elJseUJBUG1JVnJkSWJURjNFYnlDcUxDUklNT2Zha0RONzJnc2ZyWGo5SEtYd24zc3ZFcWhYcFRWWU9OWjRldUREa2xOWXhDdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-13T20:16:37.000Z"
+    },
+    {
+      "title": "Roche Puts Up $100M to Pursue Promising But Competitive New Target in Obesity",
+      "link": "https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/",
+      "source": "MedCity News",
+      "date": "2026-10-13T20:13:51.000Z"
+    },
+    {
+      "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69",
+      "link": "https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-13T18:11:36.000Z"
+    },
+    {
+      "title": "STAT+: Many patient, consumer reps on FDA advisory panels have ties to groups funded by pharma, analysis finds",
+      "link": "https://www.statnews.com/pharmalot/2026/10/13/many-patient-and-consumer-reps-on-fda-advisory-committees-ties-to-groups-funded-by-pharma/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-13T18:00:13.000Z"
+    },
+    {
+      "title": "Investor",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdE9IaExiRFR2MzFSR1k0MzBSdVdBMV96dGV4bHlGdlk1bmtYdGhSNF83djdnNVBISXpxdkVpRG9pMGN3bGVDYnlqVXp4bG1iWm53WmFHd1Bvb0FFSEdjWXZvckVCX3pCM2lSWFRUTzRYSmUtcjZnRW1IbG1BVldJb051Ul9NZGVNUV9GeWt4UUVQQ0ZBZUd2MHk3YVl6Rnozb1RKSzF0YjdoX3NrT2d1NkNjU3Q5aVVPS2dIVm9IeUpkWUxTYU52TlJNTFlnSWxaRWhOWDNXaHo?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-13T17:55:29.000Z"
+    },
+    {
+      "title": "Merger aims for expanded safety net access to VBC data and tools",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb3RLUjQ5eVg0WV96UFRkTjRNZzVNSm9yZGJJcHNEV1RuOWRPamZDNHN0Y1lyRjVIQmpFQVpiT3JyaWRKVjZUQ1dUaTlMQUR4aDRXNW9hcDQzeW1nd184Y1VjUlRLUS03b1pVdFYtbWhiZ3lRZlllTzBhd2VsWWV6YVFOZEhZLVVndjZTZ2I1U2ktZTh1VE05blAzTQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-13T17:38:54.000Z"
+    },
+    {
+      "title": "Event: Mark Cuban talks healthcare AI, personalized medicine",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaUthS2p2TXJlZU5meE1JejR5Y01LTGRfWUtYNzNNNWJzRkpNLW1sSmxxMUFxMmphYmNFOG1vR01DMEJlSXRuMDViaW9CbHBvMThEbVViYXBuZWxPSWd1cTJpNGQ4MDdVYXdoYllaZVNZVm8tR1d5UXNYYkc5RGxpaDY2OVRWLTltb3lJdkxEcmVtcEpDSkluRjNR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-13T17:18:39.000Z"
+    },
+    {
+      "title": "Making virtual exams routine: What health systems need to do",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObEZrY3Q0LUNIeVBsTWR3b2lDY1hzOUpKYndtMlBLMm5xNzFXSllHaFYxMVR0RWV6SEdNS3NQclREUmFGcXQ4WWViZ3lITWpRLWplbkVTelRRM0VXLXc0VGozNFJ5OWlwdU1Vam5lSTd1X2F4Z1lkd21CUk9QczJmOGVqNXFLYkVEU0ZlcjhlazYyLVV3ejFteGVn?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-13T16:17:00.000Z"
+    },
+    {
+      "title": "STAT+: Animosity in North Carolina, and MA shooting stars",
+      "link": "https://www.statnews.com/2026/10/13/animosity-in-north-carolina-and-ma-shooting-stars-health-care-inc/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-13T16:07:06.000Z"
+    },
+    {
+      "title": "STAT+: Doctors are giving generously to doctors running for office",
+      "link": "https://www.statnews.com/2026/10/13/health-policy-news-doctor-donations-maha-midterms/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-13T15:43:56.000Z"
+    },
+    {
+      "title": "AI investments must advance patient health",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVncwczU2cVZyMnktVEhqeE11U01Xcll2SWlhTnZlZS1QdXBVVVMxc1NoeDV1NjlSM2U2Q29oQVlkZmE3YllERk9xMkR6a2NhUlNDdlJmcDA2OGFIWG0wX1c1ZnhrZ3lSelJOeGZiU0VKMllFSWZCZHdMOHNJdGY2ZHdFYjczdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-13T14:55:58.000Z"
+    },
+    {
+      "title": "STAT+: FTC demands Martin Shkreli divest his pharma stocks",
+      "link": "https://www.statnews.com/2026/10/13/martin-shkreli-pharma-bro-ftc-contempt-stock-trades/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-13T14:31:08.000Z"
+    },
+    {
+      "title": "Medicare Policy Shouldn’t Be Made in the Shadows",
+      "link": "https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/",
+      "source": "MedCity News",
+      "date": "2026-10-13T14:10:00.000Z"
+    },
+    {
+      "title": "Northwestern Medicine integrates OpenEvidence into Epic",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObklOUEtOQVQwX0lwcnF1Y0pJZThuQ3U4ZW0wZHNNYjJLVXNrc01qT1JMRzYyYVNYc2RGUzNSUnVxMmc5cDBMVkJnNm9tbW42Qm1POE4tdEpjaVRON3BUcWF6aFk3c18xYTI5dGV0S1pFUF9YM19mSjlIaHg2alMySjBubXpOY0toQ18zcDgwTWh0dw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-13T13:45:18.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about concerns over a rare disease drug, pharma payments to docs, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/10/13/neurocrine-rare-disease-drug-concerns-pharma-payments-to-doctors/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-13T13:29:22.000Z"
+    },
+    {
+      "title": "AI investments and which metric matters most",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWUF5WWFDZ01FNW1aRmNaR0RfU1ZicWVlRHJEaHB3QWpwZWl1UVJYQUpOckRnRmZ6LXVsR2Y2ZFUxMklqWFhnM19WS3RzY1Y1ZENKS1dGU29Xa0ZqcDJTck9IaDhCWnhKYUpSMlBUaURzVFlmMmV2dEwxLXZrSU5WT0V5OGtoYXZKY0ZR?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-13T13:27:00.000Z"
+    },
+    {
+      "title": "What Corporate Venture Funds Get Wrong about Strategic Value",
+      "link": "https://medcitynews.com/2026/10/what-corporate-venture-funds-get-wrong-about-strategic-value/",
+      "source": "MedCity News",
+      "date": "2026-10-13T13:21:00.000Z"
+    },
+    {
+      "title": "STAT+: Takeaways from an evaluation of Google’s diagnostic chatbot, AMIE",
+      "link": "https://www.statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-13T13:13:25.000Z"
+    },
+    {
+      "title": "How many ways can the Trump administration clamp down on international researchers?",
+      "link": "https://www.statnews.com/2026/10/13/health-news-trump-admin-clamps-down-on-international-researchers/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-13T11:46:54.000Z"
+    },
+    {
+      "title": "Opinion: Lethal injection will never be the same after Christa Pike’s botched execution",
+      "link": "https://www.statnews.com/2026/10/13/christa-pike-botched-execution-bioethics-end-of-lethal-injection/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-13T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug",
+      "link": "https://www.statnews.com/2026/10/13/neurocrine-biosciences-prader-willi-vykat-xr/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-13T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: STAT+: The epidemic of learned helplessness in physicians",
+      "link": "https://www.statnews.com/2026/10/13/doctors-learned-helplessness-chief-complaint-frances-mei-hardin/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-13T08:30:00.000Z"
+    },
+    {
+      "title": "Jason Calacanis’s LAUNCH",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbGRQbGRfR1M0U2ZvRlIzaVlXdHBnY3VYSU5ZdDVISVN1bEU2cVBDQVBQSXkyRi01RlN2d205a1NVWVR1QzJSOHI1a1VqV1MxOWN1V2lIeXlycEl6MThfVFRtYng0VzRGbmc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-10T07:53:05.000Z"
+    },
+    {
+      "title": "(Sponsored) Pushing AI directly into application stacks to prevent drift and errors",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX2hicTRQNGItOGZ5b1dFajVHamVwbEJQRHdPYVpLU2ctTnJVWGF5VERMWGc5UENkaFNKS0tBSHhfai1EVHkxRm1EMnQyRTVMeHNVekxfNi1GYk5tdVYzWjAyaWhSZTlBc1pOdjRMbEJxY2tIMENfUEVKSmhwS1F6aXF5aGo1V0hnLWt0eFZkWHFZN2owS3FXZzFVd0pxQkVZUUpCU29IUEdaeDNyMmU3emlEal9TSjdv?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-07T20:53:00.000Z"
+    },
+    {
+      "title": "WhiteLab Genomics raises $26M for AI-designed medicines",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNEJIT2s0Z2dwY3E0b3RWNlkza1BwWkZGWEZnVkdETkUwTUU3TnBXWVhWZHRJOEY1dlFJVTVmc0dPcTJYM3BvbTZhX1BEcEsxU2tUa0owRmJHSHRidkIxd3ZRT1V3UWlwS2hBVHdDNmd1MTdjeW5Sall0UHM2S3RmM0MyTC1QRVROUC1QZkhMRQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-06T16:39:06.000Z"
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xVFptZEhIMUZjVWVlZmNFVXNJb3I0UFNzUWFFZUU0ZllzSk1jelBVQ2NRenByUlAzbGJxcmZRVnRHdmE0X1JfcG04OVJTZEV1c2paRVdod2F0bjlZWHZLTQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-06T13:33:36.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mSjRrYzBFY3ZfTVZmc0FXMUNvVDRzOWFJSnI4VXNMbDBhMlFPcGNqSTdYZGVBVFk5RWNXUnV6NUlXZHJLUjV1VHBEd25yUjczZlZ5M3VXMXpWbUlEZjdNcWllTFNSUzBWdVow?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-01T16:52:44.000Z"
+    }
+  ]
+}
