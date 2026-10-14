@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-14T23:47:07.312Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 26,
+  "sources": {
+    "STAT News": 12,
+    "MedCity News": 4,
+    "MobiHealthNews": 6,
+    "Healthcare IT News": 4
+  },
+  "summary": "The health-tech landscape today reflects tension between regulatory disruption and innovation momentum. The FDA faces significant institutional challenges after staff cuts, with former agency leaders warning of lasting damage that will take years to reverse, while the White House's pivot toward industry-led research over university-based funding threatens the basic science pipeline that underpins long-term medical progress. On the drug access front, the Trump administration is delaying a rule that could restrict imported medicines, potentially keeping lower-cost international pharmacy options available to American patients longer.\n\nMeanwhile, capital continues flowing into AI and clinical automation despite concerns about implementation. Suki raised $90 million for AI clinical workflows, Healthleap secured $38 million for hospital-based AI screening, and HHS awarded $1.5 million specifically for agentic AI projects, reflecting growing conviction that autonomous systems can reduce clinician burden. However, hospitals adopting these tools face \"pilot sprawl\" when attempting simultaneous deployments across multiple processes, suggesting the industry still needs better frameworks for scaling AI responsibly.\n\nFinally, emerging applications are expanding into new patient populations and health domains. Whoop is entering Medicare, HealthTap launched a virtual primary care program for DME suppliers, and multiple clinical trials are now testing GLP-1 drugs for substance use disorders beyond their original weight-loss indication, signaling how existing therapies and platforms are finding broader addressable markets.",
+  "items": [
+    {
+      "title": "Former FDA officials blast DOGE as ‘one of the biggest disasters in American history’",
+      "link": "https://www.statnews.com/2026/10/14/former-fda-commissioners-say-recruit-defend-support-agency-workforce/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-14T23:23:20.000Z"
+    },
+    {
+      "title": "As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university",
+      "link": "https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-14T22:13:33.000Z"
+    },
+    {
+      "title": "HealthTap Introduces Virtual Primary Care Program for DME Suppliers",
+      "link": "https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/",
+      "source": "MedCity News",
+      "date": "2026-10-14T22:10:22.000Z"
+    },
+    {
+      "title": "Ultragenyx Rare Disease Voucher Sales Secure $413M for More Potential Pipeline Building",
+      "link": "https://medcitynews.com/2026/10/ultragenyx-rare-pediatric-disease-priority-review-voucher-prv/",
+      "source": "MedCity News",
+      "date": "2026-10-14T21:25:56.000Z"
+    },
+    {
+      "title": "Commure and Compassus join to automate home care referrals",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX2duS29TZnB2YVI1c3FBbXhGQWp4b1JLR1kyTjBHVWU2ZlBMcFFyZ3VwNlFXVlMyQzlpUjc4NDBPemZyWFM2eTM3XzMzRnFEMmlxdWk1THdWank0U2dVYTFqR2NscnJvN1gtYVZ6T1VLTjZ3ZU1sN0h0MFJ2S0pXbzNnOVpIUVY0ZF9WbEFnQ2w2YW95Znc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-14T20:27:27.000Z"
+    },
+    {
+      "title": "STAT+: Trump administration delays new rule that could restrict imported medicines from Canada and overseas",
+      "link": "https://www.statnews.com/pharmalot/2026/10/14/trump-administration-delays-new-rule-that-could-restrict-imported-meds-from-canad-and-overseas/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-14T20:16:59.000Z"
+    },
+    {
+      "title": "HHS awards $1.5M for agentic AI and laboratory interoperability projects",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnp2N3RoZU1VZUhBbWdkZkNpZnFuei14cTFadXZkVm5CX0pfaWVJMk83dlhjSkM5ZnpOdmc4ald1RlhVUmtLRjRtbHZqdkpyWFpreVhBUkZVNjF4WGFYZEFad3NWcnd6d3NtQ095eVFwNTdTRmF1U3BiaUtnVmhacnpnVkxieFNLQTRNYjNlc1IzQkQtdGxlNjBZSzdtMmU3QjlMZlRlVQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-14T20:10:11.000Z"
+    },
+    {
+      "title": "Suki raises $90M for AI clinical workflows",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WY2ZVaDFHUDZuVUNVWldVVHBzSkVjQ1NiMmJiVVJiMUM0TTRqQlFFNnhpelpOT3lMaHJiWkc2NjctckxnYlhwRHJYMkdIenZ5QllwQjQwcDRXZUFVeVo0V2tEeWl1RWY3TmVJWjJNNmhDSjVGR2Zud2NxU1lvZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-14T19:55:55.000Z"
+    },
+    {
+      "title": "How consumer tech company Whoop is building for Medicare patients",
+      "link": "https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-14T18:16:08.000Z"
+    },
+    {
+      "title": "RHTP workforce funding flows to 5 states",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNenlQUEFQdFFwZTU2a2Z1TzBTS1JIb0s3dUxuR0RERzZvMG5HQ0plYWJ1UldoWWRYUTVzM2RkVU1sODhNUEFodXNOa09SSVd4R3F6Z1cwVEhQSjg5a0toSi0zeVFSNlY1S2JVZ255bGtraktPSTZ0WGV6aFRvLUt6Wg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-14T17:29:53.000Z"
+    },
+    {
+      "title": "Healthleap Raises $38M to Expand AI Screening for Overlooked Conditions in Hospitalized Patients",
+      "link": "https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/",
+      "source": "MedCity News",
+      "date": "2026-10-14T16:52:15.000Z"
+    },
+    {
+      "title": "Value-based care technology ambitions outpace confidence in funding",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHZ2N1JDSmxvd0dlMzBVLVhTamprSzZrejlRSXVBWVROVWs4V0tsdnJWWWtsLVdoU3RWQzBXYnhCb3FubnlXZ1g2NGFhMGg3Q0pjcUhRVko4VFg4c1JHU3BTdU5zRnVuX0pZV2pxNlJJa2czWXc3c3JfLWRmSnlLMUVjNVVfck9LcHU0SDEwdEllZ1JLZ3g4VlE2b3V0dWk0dUo3cg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-14T15:54:07.000Z"
+    },
+    {
+      "title": "Event: Wearables must turn health data into better outcomes, panelists say",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLU5GQVNiZldWeHFBVHlNLTQ3WDNWb3pQcFo3RkplOEdJMjN0VzUybXMwcGZiRUtwM1h3UzdWY3U0Rzh0ZVMtcnVmbjBKbmRVdFhvRVpBQ1Z0bmJqVHBGOW01QndFNkNjVXdyZWs1QW1pS1Y5cXZ1WUJxVXhCRjZpODZLMVI4bmF0WlAwNHRBMDhRR04wS2tvbTBDeDRmdFJBdi1uY213?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-14T14:28:22.000Z"
+    },
+    {
+      "title": "STAT+: FDA adcomm members’ ties to industry under scrutiny",
+      "link": "https://www.statnews.com/2026/10/14/biotech-news-fda-adcomm-member-ties-to-industry-under-scrutiny/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-14T14:12:14.000Z"
+    },
+    {
+      "title": "Why Agentic AI Works in Hospitals When You Strip It Down",
+      "link": "https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/",
+      "source": "MedCity News",
+      "date": "2026-10-14T13:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Sanofi settling an EU antitrust probe, ‘pharma bro’ Shkreli, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-settling-european-antitrust-probe-pharma-bro-shkreli/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-14T13:26:39.000Z"
+    },
+    {
+      "title": "STAT+: The startup chasing ‘general biological intelligence’",
+      "link": "https://www.statnews.com/2026/10/14/the-startup-chasing-general-biological-intelligence-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-14T13:17:57.000Z"
+    },
+    {
+      "title": "From systems to data thinking",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mVFhxRUsxLWxnbUVvWmZIQlFWNHo5M3ZaR1E2RldFMmU3WndIYVlUeHlGR0hLM1B4dzM4UmlmNjZLM0w5aW95VUw0SEpKdE05WGk1Ukd1V0wydFM4aHJGX3lUM000Vkg1S1FmTTZQVE8?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-14T13:04:19.000Z"
+    },
+    {
+      "title": "Global collaborative model for hospital AI development",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFlhRWZHVVpuYXBqa3Q5VXpxUktBcnBtYzNIX1A5Ym1hcmN4SDFfdVlyT2RBTEt5cVJBQmdQdHVhMkkzU0NNWUhRUDE4S3VsejN1OE9wVC1fTVNRZXNXY2REZ09mdDNFdkFKanY1ckNuUDFfZVV0V0Nucl9DVHo1dGhuM0ljV19HcEkwYUVSYWVnSFFoSFRJTFdB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-14T13:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Sanofi avoids fine as EU accepts offer to end antitrust probe over disparaging rival vaccine",
+      "link": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-avoids-fine-as-eu-accepts-offer-ends-antitrust-probe-over-disparaging-rival-vaccine/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-14T12:17:35.000Z"
+    },
+    {
+      "title": "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability",
+      "link": "https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-14T11:53:49.000Z"
+    },
+    {
+      "title": "Exclusive: Treso raises $3.75M for financial software for healthcare",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbktoejFTRklCREpKWTAyMTlWTi1SWVJpR3Fpd0hxSC1RU3B6WGpzLTU2QzR6aWJxekU2THRGaFhqdzgtR0xUV2pQZkpfSk1lMEpGVTdsNVF6ck9XYlJSM0RZZGhJMVhmVGpXOXNFMHpvNEtWa1pOTHRKZVNheVJwVnZFRm82b0tMc3lMdzZpYTl3OVZ6UmNhdQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-14T10:00:00.000Z"
+    },
+    {
+      "title": "FDA",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGaU9lcGZNeWMyZkxLLWNiTVRfTmtadnhRX2MyR19CdTRIYkZUWTdKYTdHZENHNDgtelYtSVFMdDRmaE0zcnRUVUg4VG9zZy02aVRGYTMxU1BhWVJBeWxHVGxlb05DZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-14T09:55:45.000Z"
+    },
+    {
+      "title": "STAT+: Lobbyists and trade groups fight to shape how states regulate medical AI",
+      "link": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-14T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: How states can resist the potential Trump vaccine shortages",
+      "link": "https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-14T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: We think a baby’s gut microbiome could be key to lifelong brain health",
+      "link": "https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-14T08:30:00.000Z"
+    }
+  ]
+}
