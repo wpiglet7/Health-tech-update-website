@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-15T23:36:08.219Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 29,
+  "sources": {
+    "MedCity News": 4,
+    "Healthcare IT News": 4,
+    "STAT News": 15,
+    "MobiHealthNews": 6
+  },
+  "summary": "Today's health-tech landscape shows several competing dynamics reshaping the industry. The Trump administration is moving aggressively on multiple fronts: advancing peptide drug production through specialty pharmacies—a priority for Health Secretary RFK Jr.—while simultaneously intensifying health care fraud investigations, with DOJ officials invoking Theranos as a cautionary tale for executives. On the innovation side, AI-driven biotech is attracting substantial capital, with Iambic Therapeutics raising $150 million in its IPO for AI-powered cancer drug development, while Merck and Moderna are advancing their partnership combining Keytruda with personalized mRNA cancer vaccines, with early results already showing patient benefits. Primary care access and home-based interventions are also gaining traction, evidenced by Rosarium Health's partnership with Anthem Medi-Cal for home modifications and increased focus on reimagining primary care around continuous engagement rather than episodic visits. Meanwhile, public health concerns are mounting, with measles cases surging—jeopardizing the U.S.'s disease-free status—and AI tools emerging to forecast outbreak hotspots, while binge-eating disorder among high school students affects roughly 40 percent according to new CDC data. Finally, former FDA commissioners from across administrations are publicly criticizing current HHS leadership, signaling tension within the regulatory establishment over the agency's direction and recent staff departures.",
+  "items": [
+    {
+      "title": "Rosarium Health Forms Home Modification Partnership with Anthem Medi-Cal",
+      "link": "https://medcitynews.com/2026/10/rosarium-health-forms-home-modification-partnership-with-anthem-medi-cal/",
+      "source": "MedCity News",
+      "date": "2026-10-15T22:53:27.000Z"
+    },
+    {
+      "title": "Get real-world insights into the ROI of digital tools",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT1RtVldqNEZrV0l6ZllOcDk1RWxpaUtRV2tIek1RVTY5RFF1YXdwZDFRYktQUlhxdVF6SUx0MGJncWJWMnpHQWEtV2c3MjJLU3J1WFFkLTFqRmJhbGJkczFlVHFteEtQdEFDdUFHelRUbG5UQVBCTWItMWF3UlJwcWkzVUZoODA0Y2pF?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-15T20:56:15.000Z"
+    },
+    {
+      "title": "Trump administration advances plan for peptide drugs favored by RFK Jr.",
+      "link": "https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-15T20:46:09.000Z"
+    },
+    {
+      "title": "Allswell raises $7M to provide medical home for LGBTQ+ youth",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2ZubUVJSzdqeTI3MndVVWVKMExXVmtTR1VaYVd2WnVta3JrTUtiSHdtOC1zVmRFX0lhaUhSSG1JN3R4clBUSm5GWFppTjdKTEpBWmF3SzlJMnNaN0JDTXI4X2pTT3d1bF80UXBVZjd6djJHbU9wbEs5c291Z21WbXBDb1BERFNic3BCMXh5c0w?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-15T20:19:23.000Z"
+    },
+    {
+      "title": "Merck and Moderna have ‘lot of exploring to do’ after initial cancer vaccine success",
+      "link": "https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-15T19:58:35.000Z"
+    },
+    {
+      "title": "AI Biotech Iambic Gets $150M in IPO Cash for ‘Molecular Superintelligence’ Drug R&D",
+      "link": "https://medcitynews.com/2026/10/iambic-ipo-techbio-ai-drug-discovery-cancer-her2-kif18a-cdk2-cdk4-iam/",
+      "source": "MedCity News",
+      "date": "2026-10-15T19:18:43.000Z"
+    },
+    {
+      "title": "The Trump administration is doubling down on health care fraud investigations",
+      "link": "https://www.statnews.com/2026/10/15/healthcare-fraud-new-doj-policy-rewards-self-disclosure/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-15T18:09:18.000Z"
+    },
+    {
+      "title": "Mass. lawmaker Auchincloss favors boosting U.S. biotech over targeting China",
+      "link": "https://www.statnews.com/2026/10/15/auchincloss-us-biotech-vs-china-protectionism/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-15T17:19:50.000Z"
+    },
+    {
+      "title": "Zocdoc acquires Sohar Health for insurance verification",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeWlqb2hGVzN6eEhQbXdOc3ZIeVB3RjU5TVZtWUxtTnFYeVRqalNQWW5yeFZyY0VGNWN2WlVMWjlNa1RrcGdQUXRFbjBlWlRjTk1MOHNmS21zcEM3LUFzVEVqZUxjZEx4am5TSWtMWlBkalpDUmRDWkRobkdWVGRvYmxiU252ZmttZGhkd0w2dy0?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-15T16:49:29.000Z"
+    },
+    {
+      "title": "STAT+: Former FDA commissioners Califf, Gottlieb, Sharpless lay into current HHS leadership",
+      "link": "https://www.statnews.com/2026/10/15/health-policy-news-fda-califf-gottlieb-sharpless-criticize-hhs-leadership/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-15T15:50:58.000Z"
+    },
+    {
+      "title": "STAT+: Verastem’s KRAS inhibitor shows promise in pancreatic cancer",
+      "link": "https://www.statnews.com/2026/10/15/biotech-news-verastem-kras-inhibitor-shows-promise-in-pancreatic-cancer/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-15T15:43:15.000Z"
+    },
+    {
+      "title": "After a melanoma diagnosis, mRNA cancer vaccine delivered a patient hope — and a path forward",
+      "link": "https://www.statnews.com/2026/10/15/melanoma-diagnosis-mrna-cancer-vaccine-stat-summit-boston-2026/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-15T15:25:08.000Z"
+    },
+    {
+      "title": "Seattle Children's network reports more than 10% improvement in preventive care measures",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFJoazV4M2ZQUFVVSmJmZXZ3c2dIZjktMUFCaW1uMkRIdHZzZDBQM1RtdUprLU5Wc1k2RUZ1TnU4bzdEZFVJV1dwbTVrS0VMRDdpaHpOeEZGT1NSQ1V2amU0LThET2QtaDdIT0l4OVlhVTdqdzB1ZHZHODlMTzNFbXZkSG52OFdNV1lLNFUxOW84aThzZmlRV2NEQTVpbDNzMkFnS005Szcyb3M2SnE2Tlg5d0VnMkE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-15T15:02:45.000Z"
+    },
+    {
+      "title": "As measles outbreak surges, AI can forecast hotspots",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS0FlNWtPMWNSUXhIOGhPVFFxLUo5NTZDblJiclRvZzJfLW5GVDZIZFc4OEhucC1DVHBfLUg3TTJ5TzhKUWU3WndVZ1FpUDZIUFBrYl83VWltQnA0Vmg2UUJLSGtxeEkwNElkRGJ3R3JGbnlrYmExZmZPZVZHOHdBbzBIamV2eDZocTFOLWlB?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-15T13:50:25.000Z"
+    },
+    {
+      "title": "Why the Future of Healthcare Depends on Reinventing Primary Care Access",
+      "link": "https://medcitynews.com/2026/10/why-the-future-of-healthcare-depends-on-reinventing-primary-care-access/",
+      "source": "MedCity News",
+      "date": "2026-10-15T13:41:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about former FDA head calling DOGE a ‘disaster,’ an AstraZeneca AI deal, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-15T13:31:56.000Z"
+    },
+    {
+      "title": "Rising measles cases put US status at risk",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORWliRjdDNzVoOUwxXzdDWVBHNUprX2JGSE1CZWlPblJabEY3Z2JodlhsRU1kNy1WZ1hCb2pVaWF0Z3htUFhXU3JUNmVqV0dpQzZCdll2R2VFeUhLT0RRNVV0STRIZVlqNkREdXluazBTX0lFU2RYS1NqUGg4OW5xT1otTFU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-15T13:15:00.000Z"
+    },
+    {
+      "title": "STAT+: ‘AI sandboxes’ are all the rage. Advocates scramble to control their future",
+      "link": "https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-15T13:14:37.000Z"
+    },
+    {
+      "title": "Kenya reports second Ebola case",
+      "link": "https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-15T11:55:17.000Z"
+    },
+    {
+      "title": "The Role of Hospital Stewardship to Improve Outcomes and Manage Costs",
+      "link": "https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/",
+      "source": "MedCity News",
+      "date": "2026-10-15T11:30:00.000Z"
+    },
+    {
+      "title": "STAT+: On Wall Street, there’s trouble stirring for biotech",
+      "link": "https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-15T10:30:00.000Z"
+    },
+    {
+      "title": "Forty percent of high school students report binge eating in new CDC survey",
+      "link": "https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-15T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening",
+      "link": "https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-15T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: My daughter’s death changed how I understood the nursing shortage",
+      "link": "https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-15T08:30:00.000Z"
+    },
+    {
+      "title": "Digital Health Indicator",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkdaSU04QlUwbmZsVDFOeEdLeFphWWVsaUxRT0h2M1c5ZkduSFNFV2JFcm1ydUxNRk9vRHFQZHFHRjgzbk41cHpTdHNyaUU3cmF2RkduQ1FhOGJwa3Rxb3JkT1lqY0t1ZW5FX1F5N2ZoTEpXTTVNSVR5NTI2WTdrMnZPa2lQaTFo?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-15T07:23:52.000Z"
+    },
+    {
+      "title": "Compass Pathways CEO: Psychedelics company will ‘go slow before we go fast’",
+      "link": "https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-15T00:01:24.000Z"
+    },
+    {
+      "title": "Bill Siwicki",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdG0tRUEtVTVvLUJvMS02Q3NKQzBORU40U0lISXVlMndwUHRWYWl3NWZkTXo2LWNIN3FCcmY0UGJQZFZmbWFqRDFZcmtrYVU5RUgzUk5nYmo1dWQ1Yk9NT29BTnVHc0ZpNVBYa0R4LV9ha1Q0MENGVmVENEpCME50NU9IM1U?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-14T17:58:08.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnM5WlFMUmhibE81ODhUMEQtb2ljUDRUaTUtWjd6T0FpY1AwQVlRNjNjMW55ZU8yTnMzSmtGUGZvYl95dWVBZ2xBVXpyZzRTeXg1LXRScFN0RW1ROUpILXl3Tk82ZFAwWENOQXRDRmpxTmFodWc0eHhFT3JyVDRpbFVKUmNHSHhielU3Qlo1YzNRYnJzdVlhLWhldkpPZ09oT2RXeFdCRXFzWXFaMC1JZVZ3?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-13T08:55:54.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOW9fWjNBbGJaeTJoTExmb0Q2RDlhOXZRcVhxejhBaGlFeGdZWnZFMkFJbDFWSlo4SV9HUy1oT1ZmU2RCckhpM1FJbWQ2Q29jLV92MmFzR1JLVWFEbDZCV0RMeWEtd0UyQzd3UmdJWU1HZTlHMGFNR2Fna3pkUDZOVFVTVkFtUDFzMm12aGN0aW5ySjA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-06T00:43:53.000Z"
+    }
+  ]
+}
