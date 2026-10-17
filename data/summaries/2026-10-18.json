@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-17T22:57:39.495Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 36,
+  "sources": {
+    "STAT News": 1,
+    "MobiHealthNews": 5,
+    "MedCity News": 30
+  },
+  "summary": "Today's health-tech news reflects significant activity across drug development, healthcare delivery infrastructure, and regulatory advances. In biotech financing, multiple companies secured substantial funding to advance novel therapies: City Therapeutics raised $200 million for RNA interference drugs targeting tissues beyond the liver, Iambic Therapeutics closed a $150 million IPO for AI-driven cancer drug discovery, and TRexBio brought in $116 million to develop immune-regulating therapeutics. Separately, Roche invested $100 million in an obesity treatment targeting ALK7, joining a competitive field that includes GSK and Arrowhead. On the AI and software side, Epic announced a prescription price comparison tool launching in summer 2027, while Teladoc Health added contactless vitals monitoring and ambient AI scribing to its virtual care platform, and multiple vendors like Healthleap and Vitalize secured funding to automate hospital workflows and improve patient screening. The regulatory landscape saw approvals for Happy Health's cuffless blood pressure monitoring ring and Asahi Kasei's Hovilpri herpes treatment, alongside FDA draft guidance on surgical robotics testing. Broader industry concerns also surfaced, including a Trilliant Health report highlighting how misaligned incentives are driving up costs and workforce shortages, while commentators emphasized the need to redesign primary care access and ensure accountability when AI flags clinical risks.",
+  "items": [
+    {
+      "title": "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded",
+      "link": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-17T02:38:35.000Z"
+    },
+    {
+      "title": "AscendRural",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16aFZua3BiUHU5bWJkZEdwQ3Y1NF9JME04T09LWU1qcklsSlVHY0pSNmMyVnEyNFNJOWdFN0V4Y2hMeFRFZDZnM25mZGxUZDlYRlVTVFY3Qkhwdw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-17T01:22:27.000Z"
+    },
+    {
+      "title": "Why Epic Is Launching a Prescription Price Comparison Tool",
+      "link": "https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/",
+      "source": "MedCity News",
+      "date": "2026-10-16T22:43:52.000Z"
+    },
+    {
+      "title": "City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver",
+      "link": "https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/",
+      "source": "MedCity News",
+      "date": "2026-10-16T17:43:30.000Z"
+    },
+    {
+      "title": "The Impending End of Cross-Subsidization",
+      "link": "https://medcitynews.com/2026/10/the-impending-end-of-cross-subsidization/",
+      "source": "MedCity News",
+      "date": "2026-10-16T13:53:00.000Z"
+    },
+    {
+      "title": "How AI Is Connecting MedTech’s Data Without Compromising Compliance",
+      "link": "https://medcitynews.com/2026/10/how-ai-is-connecting-medtechs-data-without-compromising-compliance/",
+      "source": "MedCity News",
+      "date": "2026-10-16T13:08:00.000Z"
+    },
+    {
+      "title": "Rosarium Health Forms Home Modification Partnership with Anthem Medi-Cal",
+      "link": "https://medcitynews.com/2026/10/rosarium-health-forms-home-modification-partnership-with-anthem-medi-cal/",
+      "source": "MedCity News",
+      "date": "2026-10-15T22:53:27.000Z"
+    },
+    {
+      "title": "AI Biotech Iambic Gets $150M in IPO Cash for ‘Molecular Superintelligence’ Drug R&D",
+      "link": "https://medcitynews.com/2026/10/iambic-ipo-techbio-ai-drug-discovery-cancer-her2-kif18a-cdk2-cdk4-iam/",
+      "source": "MedCity News",
+      "date": "2026-10-15T19:18:43.000Z"
+    },
+    {
+      "title": "Why the Future of Healthcare Depends on Reinventing Primary Care Access",
+      "link": "https://medcitynews.com/2026/10/why-the-future-of-healthcare-depends-on-reinventing-primary-care-access/",
+      "source": "MedCity News",
+      "date": "2026-10-15T13:41:00.000Z"
+    },
+    {
+      "title": "The Role of Hospital Stewardship to Improve Outcomes and Manage Costs",
+      "link": "https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/",
+      "source": "MedCity News",
+      "date": "2026-10-15T11:30:00.000Z"
+    },
+    {
+      "title": "Digital Health Indicator",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkdaSU04QlUwbmZsVDFOeEdLeFphWWVsaUxRT0h2M1c5ZkduSFNFV2JFcm1ydUxNRk9vRHFQZHFHRjgzbk41cHpTdHNyaUU3cmF2RkduQ1FhOGJwa3Rxb3JkT1lqY0t1ZW5FX1F5N2ZoTEpXTTVNSVR5NTI2WTdrMnZPa2lQaTFo?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-15T07:23:52.000Z"
+    },
+    {
+      "title": "HealthTap Introduces Virtual Primary Care Program for DME Suppliers",
+      "link": "https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/",
+      "source": "MedCity News",
+      "date": "2026-10-14T22:10:22.000Z"
+    },
+    {
+      "title": "Ultragenyx Rare Disease Voucher Sales Secure $413M for More Potential Pipeline Building",
+      "link": "https://medcitynews.com/2026/10/ultragenyx-rare-pediatric-disease-priority-review-voucher-prv/",
+      "source": "MedCity News",
+      "date": "2026-10-14T21:25:56.000Z"
+    },
+    {
+      "title": "Healthleap Raises $38M to Expand AI Screening for Overlooked Conditions in Hospitalized Patients",
+      "link": "https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/",
+      "source": "MedCity News",
+      "date": "2026-10-14T16:52:15.000Z"
+    },
+    {
+      "title": "Why Agentic AI Works in Hospitals When You Strip It Down",
+      "link": "https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/",
+      "source": "MedCity News",
+      "date": "2026-10-14T13:30:00.000Z"
+    },
+    {
+      "title": "FDA",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGaU9lcGZNeWMyZkxLLWNiTVRfTmtadnhRX2MyR19CdTRIYkZUWTdKYTdHZENHNDgtelYtSVFMdDRmaE0zcnRUVUg4VG9zZy02aVRGYTMxU1BhWVJBeWxHVGxlb05DZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-14T09:55:45.000Z"
+    },
+    {
+      "title": "Happy Health’s Cuffless BP Device Wins FDA Clearance",
+      "link": "https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/",
+      "source": "MedCity News",
+      "date": "2026-10-13T22:01:55.000Z"
+    },
+    {
+      "title": "Roche Puts Up $100M to Pursue Promising But Competitive New Target in Obesity",
+      "link": "https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/",
+      "source": "MedCity News",
+      "date": "2026-10-13T20:13:51.000Z"
+    },
+    {
+      "title": "Medicare Policy Shouldn’t Be Made in the Shadows",
+      "link": "https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/",
+      "source": "MedCity News",
+      "date": "2026-10-13T14:10:00.000Z"
+    },
+    {
+      "title": "What Corporate Venture Funds Get Wrong about Strategic Value",
+      "link": "https://medcitynews.com/2026/10/what-corporate-venture-funds-get-wrong-about-strategic-value/",
+      "source": "MedCity News",
+      "date": "2026-10-13T13:21:00.000Z"
+    },
+    {
+      "title": "Asahi Kasei Acquisition Pays Off With FDA Approval for Novel Herpes Drug",
+      "link": "https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/",
+      "source": "MedCity News",
+      "date": "2026-10-12T14:44:00.000Z"
+    },
+    {
+      "title": "Outro Raises $7M To Support Safe Deprescribing",
+      "link": "https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/",
+      "source": "MedCity News",
+      "date": "2026-10-12T14:42:00.000Z"
+    },
+    {
+      "title": "Pediatric Innovation Isn’t a Small-Market Problem, It’s an Incentive Problem",
+      "link": "https://medcitynews.com/2026/10/pediatric-innovation-isnt-a-small-market-problem-its-an-incentive-problem/",
+      "source": "MedCity News",
+      "date": "2026-10-12T13:46:00.000Z"
+    },
+    {
+      "title": "Loneliness And Diabetes: Harnessing an Opportunity for Better Outcomes",
+      "link": "https://medcitynews.com/2026/10/loneliness-and-diabetes-harnessing-an-opportunity-for-better-outcomes/",
+      "source": "MedCity News",
+      "date": "2026-10-12T13:27:00.000Z"
+    },
+    {
+      "title": "Join Us at INVEST Digital Health for a Conversation on Consumer-Centered Care across the Healthcare Ecosystem",
+      "link": "https://medcitynews.com/2026/10/join-us-at-invest-digital-health-for-a-conversation-on-consumer-centered-care-across-the-healthcare-ecosystem/",
+      "source": "MedCity News",
+      "date": "2026-10-12T13:00:15.000Z"
+    },
+    {
+      "title": "Are Hospital Operating Rooms Ready For FDA’s Expectations for Surgical Robots?",
+      "link": "https://medcitynews.com/2026/10/are-hospital-operating-rooms-ready-for-fdas-expectations-for-surgical-robots/",
+      "source": "MedCity News",
+      "date": "2026-10-12T12:00:00.000Z"
+    },
+    {
+      "title": "TRrexBio’s IPO Bags $116M to Bring the Immune System Back Into Balance",
+      "link": "https://medcitynews.com/2026/10/trrexbio-ipo-regulatory-t-cell-treg-autoimmune-disease-immunology-inflammation-trxb-retension-rtsn/",
+      "source": "MedCity News",
+      "date": "2026-10-09T18:26:41.000Z"
+    },
+    {
+      "title": "Payerset brings AI to healthcare pricing analysis",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0ozb0JlOG1QMVlTU214aGF4WjBNdThCU2lnM2dmTWpGd2pLbVpEb1MyRTRHd3RPY3VrWkFDWWNfY3pNRjJvWUlMdkJId3RlejNaalRxWFF4SUpPb0U2NVpFVEhjSDNzRzgwYVQyT3F4cW5Kb0s1YjZPT2FENzFBRGw4YWRMRUJqSEE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-09T16:57:03.000Z"
+    },
+    {
+      "title": "What Life Sciences Commercial Teams Can Learn from Digital Health",
+      "link": "https://medcitynews.com/2026/10/what-life-sciences-commercial-teams-can-learn-from-digital-health/",
+      "source": "MedCity News",
+      "date": "2026-10-09T13:49:00.000Z"
+    },
+    {
+      "title": "Startup Arboretum Sprouts, Bringing a Precision Medicine Approach to Common Diseases",
+      "link": "https://medcitynews.com/2026/10/startup-arboretum-lifesciences-diagnostics-genetic-test-drug-development-common-diseases/",
+      "source": "MedCity News",
+      "date": "2026-10-08T22:01:54.000Z"
+    },
+    {
+      "title": "Vitalize Secures $31M To Help Hospitals Manage Labor, Capacity",
+      "link": "https://medcitynews.com/2026/10/vitalize-secures-31m-to-help-hospitals-manage-labor-capacity/",
+      "source": "MedCity News",
+      "date": "2026-10-08T20:04:08.000Z"
+    },
+    {
+      "title": "AI Can Flag Cognitive Decline Earlier — Health Systems Still Own What Happens Next",
+      "link": "https://medcitynews.com/2026/10/ai-can-flag-cognitive-decline-earlier-health-systems-still-own-what-happens-next/",
+      "source": "MedCity News",
+      "date": "2026-10-08T13:53:00.000Z"
+    },
+    {
+      "title": "Trilliant Health: Misaligned Incentives Are Undermining US Healthcare",
+      "link": "https://medcitynews.com/2026/10/trilliant-health-misaligned-incentives-are-undermining-us-healthcare/",
+      "source": "MedCity News",
+      "date": "2026-10-07T21:50:46.000Z"
+    },
+    {
+      "title": "Teladoc Health Adds Contactless Vitals and Ambient AI Scribe to Virtual Visit Platform",
+      "link": "https://medcitynews.com/2026/10/teladoc-health-adds-contactless-vitals-and-ambient-ai-scribe-to-virtual-visit-platform/",
+      "source": "MedCity News",
+      "date": "2026-10-07T21:13:34.000Z"
+    },
+    {
+      "title": "Vitalize raises $31M to tackle hospital staffing",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYnJXOTltQXBwUHBKbkhtY3loNERHZDU1dHJkV1JpYzE2NlF5aTF2UHhBTEc2bUJDbGRZQ2dvYXpWeXJrU0VqaWNHQk5SYkdWTk5FaWRXcUNoU1RKM3RrdnJHaTlXcGMxRmlNT2hUcFluNGpLWDhhZ09adW9SdHF6eTY2a3RJc1E?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-07T19:54:37.000Z"
+    },
+    {
+      "title": "Caribou Bio’s Journey With Off-the-Shelf Cell Therapy Reaches the End of the Road",
+      "link": "https://medcitynews.com/2026/10/caribou-biosciences-allogeneic-cell-therapy-crispr-cancer-lymphoma-crbu/",
+      "source": "MedCity News",
+      "date": "2026-10-07T18:21:47.000Z"
+    }
+  ]
+}
