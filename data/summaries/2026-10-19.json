@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-18T22:53:34.014Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 16,
+  "sources": {
+    "MedCity News": 5,
+    "Healthcare IT News": 5,
+    "MobiHealthNews": 6
+  },
+  "summary": "# Health-Tech Daily Digest — October 19, 2026\n\nSignificant funding activity continues across specialty therapeutics and behavioral health today. OMass Technologies secured $310 million to advance a drug candidate for congenital adrenal hyperplasia, positioning itself as a potential competitor to Neurocrine Biosciences' current market-leading therapy and Vertex Pharmaceuticals' pipeline candidate. Separately, Allswell raised $7 million in seed funding to expand its LGBTQ+ behavioral health platform, backed by impact-focused investors including Rethink Impact and Magnify Ventures.\n\nThe sector also grappled with systemic healthcare delivery challenges. A major focus emerged on antibiotic access—highlighting that existing antibiotics face market entry and distribution barriers rather than a pipeline shortage, a more solvable problem than commonly assumed. On the clinical side, commentary underscored that exercise remains prescribed as general advice rather than as structured treatment with proper assessment, dosing, and follow-up, limiting its effectiveness in care.\n\nOn the infrastructure front, UPMC Enterprises invested in VeloSource to expand its AI-enabled clinician staffing platform, pointing to ongoing healthcare system interest in artificial intelligence solutions for workforce management. Meanwhile, fragmented state regulations around AI development threaten to slow patient access to new health technologies, signaling emerging policy friction in the digital health space.",
+  "items": [
+    {
+      "title": "Startup OMass Secures $310M to Advance Drug for Rare Endocrine Disorder",
+      "link": "https://medcitynews.com/2026/10/startup-omass-rare-disease-endocrine-hormone-melanocortin-2-mc2-cah/",
+      "source": "MedCity News",
+      "date": "2026-10-18T15:42:57.000Z"
+    },
+    {
+      "title": "Allswell Raises $7M to Grow LGBTQ+ Behavioral Health Platform",
+      "link": "https://medcitynews.com/2026/10/allswell-raises-7m-to-grow-lgbtq-behavioral-health-platform/",
+      "source": "MedCity News",
+      "date": "2026-10-18T14:13:00.000Z"
+    },
+    {
+      "title": "The Antibiotics Exist —The System Cannot Deliver Them",
+      "link": "https://medcitynews.com/2026/10/the-antibiotics-exist-the-system-cannot-deliver-them/",
+      "source": "MedCity News",
+      "date": "2026-10-18T13:40:00.000Z"
+    },
+    {
+      "title": "Exercise is Prescribed Like Advice When It Should Be Delivered Like Treatment",
+      "link": "https://medcitynews.com/2026/10/exercise-is-prescribed-like-advice-when-it-should-be-delivered-like-treatment/",
+      "source": "MedCity News",
+      "date": "2026-10-18T13:11:00.000Z"
+    },
+    {
+      "title": "UPMC Enterprises Invests in VeloSource to Expand AI-Enabled Clinician Staffing Platform",
+      "link": "https://medcitynews.com/2026/10/upmc-enterprises-invests-in-velosource-to-expand-ai-enabled-clinician-staffing-platform/",
+      "source": "MedCity News",
+      "date": "2026-10-18T12:30:00.000Z"
+    },
+    {
+      "title": "Digital Health",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ0M2Nm0xUlFXQkI4SzhoNFdnckdHOTlvUXdBMm0yOUxMblBzMXpQdVNpbXpoWWxMQWI1R3pkQko0Vk9SdXlZbFZUeWtSUkh4U1pWTkpwVVZkTDh0d0xyZ0dyaVk2RzZwQk51SzZaZEhFTXRydHpZMW9YcXlTajdFVzFvUGJkYlB5Y2tybjJWRzU5U1U?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-18T03:29:16.000Z"
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0UUxmcFkzYzhUaU5QckVpVTc0d2lLYUtyR2RuSjFtaWFuaWphTjN4UjNLd09tQndPc0RobldqMkhTWUJiMUI0d3VIdG1CaFBTaHlQUWVlZFVKZ0Jzel93ZQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-17T22:22:42.000Z"
+    },
+    {
+      "title": "digital health funding",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xM2JaNC1KUzNlSHpQM1FuYWd2U1BUeGdadXJlUHg2Rnp1OTBCdDlNMmEyemhFOHpIRTBuWEFoRS1hU0dJWGtQWXdPM0l3TmhfbHQ3dEMwVjJySVZmbkw3Z1E2Rm9IdUZueDRja1BBUl9lSk9KTFQyRDFyTm4zZjQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-17T21:41:32.000Z"
+    },
+    {
+      "title": "City of Arcadia",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LeUtzeXYydWE2NVl0SUJ4N3pSbXB1Ty1LTzQwU1pCN3ZOTURDNGdwT253NGJuRXNzZWJTbC05YXFiam4zZzA1NGxCM2pITlNSRzJHRGdrYW5WdTQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-16T21:26:04.000Z"
+    },
+    {
+      "title": "Advanced Research Projects Agency for Health",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ29fS0RTYzJJY0RRb0F6NHltdUVxSHRTOWQ0dEpvZDN0aVVPRDVvTm9ibjBmdnZkTTh2SzhKWlZzSVFPMG1PWFJEY1E4V0VKLS1TbUhXV1NTMk14Uk1CV2c3Z002QjBXMkZrMU14OUZBb01SNFY3X1pjeUphazhwcg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-16T21:23:55.000Z"
+    },
+    {
+      "title": "Privacy & Security",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81d2Nxc1RUbkcwM3FndEZvekNoRDZqSzBGSDZ5TUFiWl85SkFJNkJ5amZlTTVlanJXaWpPR1RULTdqWVB1WHY2SFFxX01lblh6U3RVbGFtM0pHYTl3Q3Znc3RPalMyMm1UWWV1Q1o0ZXhQV08xQXpvdFFqdw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-16T03:17:30.000Z"
+    },
+    {
+      "title": "FDA",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nMjVEWmNGamNnZVdoQWh4aTktWmJkck9nZmNtSDVDUzV5eGRCOWcwS3VsQTJLMDhuc3U1UkQ1U0cwQVdOd3RKZWJxUzRIX2JRNF9WSlBndTVDb1BtVEdfdHZrdzdLQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-15T11:35:20.000Z"
+    },
+    {
+      "title": "Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ290RG5QektrTld5ZFNXTk5Wcng1MExwZlRicURiQkJkcy1NU2NaeXA4ZXNNcWZFbFJFT2ZCZzlSXzFGWmFYYmpESFo1aGI5STlxWFBWSFZqZzNIQ2lZTVdGeG1XWkFRS0tNZ3JickExUWFQRGExbnp0NFliNTdrVWwteDlxd2VZdUE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-14T16:00:31.000Z"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemRBTkpYZ0hoYlBVVE1DQ1htRmpJbmVFZVpIY3RKTVNQRFdTbUtIVS1LZDNJSTQwTnRZaV9pdk9lX2JZZUpIVkVRQnh4eERnYTA0M0prU3VTUG11cmxjY09TVXY3dUpldnZzSGZiQ3ZFNzFzaE5uQXp4Z1BmdC1MZ2lqTTlicXlzNlRZ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-14T15:05:53.000Z"
+    },
+    {
+      "title": "Jason Calacanis’s LAUNCH",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbGRQbGRfR1M0U2ZvRlIzaVlXdHBnY3VYSU5ZdDVISVN1bEU2cVBDQVBQSXkyRi01RlN2d205a1NVWVR1QzJSOHI1a1VqV1MxOWN1V2lIeXlycEl6MThfVFRtYng0VzRGbmc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-10T07:53:05.000Z"
+    },
+    {
+      "title": "Fragmented state AI rules could slow patient access",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0Q5LUxaWms1Tm0yU09Sbk1qaVdJd2wzN19JaVZRamwyb2Nvb3lDa0FUdjZnMDJtV2JuVkRRYmlUbEpPOFhwRHhwZWlzdVZOejV5aTdwUUItS1dzT09VdmdmUWdsUEwxQjhCajcwMkFESjUwa21tNzBZb1dhSWVmQTJFSVZfaXVKeUNyRGZSaElhS1k?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-08T14:57:44.000Z"
+    }
+  ]
+}
