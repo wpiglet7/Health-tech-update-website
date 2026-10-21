@@ -1,0 +1,334 @@
+{
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-21T23:56:12.821Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 53,
+  "sources": {
+    "MedCity News": 30,
+    "STAT News": 12,
+    "MobiHealthNews": 6,
+    "Healthcare IT News": 5
+  },
+  "summary": "# Daily Health-Tech Digest — October 22, 2026\n\nRegulatory momentum continues around artificial intelligence and drug approvals, with the FDA and industry moving to establish clearer oversight frameworks. The AMA is pushing for risk-based GenAI regulation to ensure accountability as these tools take on clinical functions, while an FDA official suggested AI systems may need evaluation similar to physician competency. Meanwhile, GSK secured two significant wins: FDA approval for Hibsago, a novel hepatitis B drug using antisense oligonucleotide technology to target viral replication, and accelerated approval for Jemperli in advanced rectal cancer with specific genetic markers.\n\nHealthcare system economics and interoperability remain focal concerns. Epic is expanding system connectivity while launching a prescription price comparison tool for 2027, and Oracle-AstraZeneca are collaborating on smarter clinical trials. Several observers highlight structural challenges beyond technology: the gap between diagnosis and operational execution in AI implementation, sustainability issues with cross-subsidization in health systems, and delivery failures for existing antibiotics due to market rather than innovation constraints.\n\nThe investment landscape shows continued biotech momentum, with multiple funding rounds and IPOs spanning rare disease drugs, RNAi therapeutics, AI-driven molecular discovery, and behavioral health platforms. Notably, startups are targeting specific gaps like ostomy device alternatives, rare endocrine disorders, and clinician staffing optimization. CMS enforcement activity expanded into adult day care fraud investigation in New York, while Medicare innovation continues with Judi Health's new employer-sponsored Part D plan.",
+  "items": [
+    {
+      "title": "Judi Health Launches Medicare Part D Plan for Employers",
+      "link": "https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/",
+      "source": "MedCity News",
+      "date": "2026-10-21T22:18:29.000Z"
+    },
+    {
+      "title": "STAT+: CMS extends fraud crackdown to New York’s adult day care program",
+      "link": "https://www.statnews.com/2026/10/21/cms-medicaid-fraud-nyc-adult-daycare-operators/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-21T21:38:41.000Z"
+    },
+    {
+      "title": "STAT+: Another diabetes association leader is out while review continues",
+      "link": "https://www.statnews.com/2026/10/21/american-diabetes-association-leadership-change-controversy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-21T19:59:48.000Z"
+    },
+    {
+      "title": "Opella, Microsoft partner on AI platform for health content review",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0FUazdMazNkQTZuS1J5YjJrZE9wM3ViQlEtanVzN2dsaXBKQ1lfYjRsdmEzaFpTUVM0LXNWVWh0aXZpWnVKenZHWjRvaktSaFhQd0JMX2ZDQ1dINGI5NUhwSkRLQmVULUZVbzJKa1FKV2xac3lUZi1qVTZ5VWE2XzQ1azNfUUUteHJqY2thSEFMSkVXN0xJM0h3?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-21T19:51:51.000Z"
+    },
+    {
+      "title": "GSK Wins FDA Nod for Novel Hepatitis B Drug Offering a Potential Functional Cure",
+      "link": "https://medcitynews.com/2026/10/gsk-chronic-hepatitis-b-fda-approval-bepirovirsen-hibsago-functional-cure-ionis-aso-ions/",
+      "source": "MedCity News",
+      "date": "2026-10-21T18:38:32.000Z"
+    },
+    {
+      "title": "Epic enables EHRs to communicate with other apps",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOekFWRGVUNlBEbzNnZDNRS3FKX1B0RnFwRzI3cWdxNnNrRTF2ek5SYWp0cHBqNFY2NEpFWVlnWm0tV29JVTVqRXhHaDVtbTI5T3ZKbVB2Vm51WTJPVXUzeElBR2thUjUteTZ3SXRFdGlweUVoaTV1ZHdDVGdfMmQ5XzRfRkU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-21T18:17:42.000Z"
+    },
+    {
+      "title": "STAT+: What’s the deal with Isomorphic Labs?",
+      "link": "https://www.statnews.com/2026/10/21/whats-the-deal-with-isomorphic-labs-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-21T17:49:31.000Z"
+    },
+    {
+      "title": "AMA Calls for Risk-Based GenAI Oversight to Protect Patients and Support Responsible Innovation",
+      "link": "https://medcitynews.com/2026/10/ama-calls-for-risk-based-genai-oversight-to-protect-patients-and-support-responsible-innovation/",
+      "source": "MedCity News",
+      "date": "2026-10-21T17:25:01.000Z"
+    },
+    {
+      "title": "Rural hospital independence depends on making technology count",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemZpQjBzWnlLZjBqMWt4MlJIS29lQkhGLWZ5MHk0S1FWc19EUGJBRE1KanplOEtSbE9yc1B2UUlVVEF2cGFuUml4YkVfaGdkU0M4RnVZZk5pWHl6N2Q4NEpTTUVjbk1DRVp2czU0SnVDemtRQ0kyOXJkd0psQXN0QUJhZ0RuaXVsZGUwWk5uZk4xVy1YQkJhbS1ZbkJpZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-21T15:31:54.000Z"
+    },
+    {
+      "title": "STAT+: GSK picks up hep B drug approval",
+      "link": "https://www.statnews.com/2026/10/21/biotech-news-gsk-picks-up-hep-b-drug-approval/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-21T14:24:45.000Z"
+    },
+    {
+      "title": "IHE seeks to develop interoperability's future leaders",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMzRDcUZnRFBxVnlyLTNlczJLSXJkMkNTOVZWQlVRSDNkQUNjNHFNa0FmVnRYSHFQQ3dUai1oc2Zvc253MFItMVJHcjhJbFF5UlpjZWdvWjUzMllaYURBZ2RfZ2piS2tKZXNmNkFZcFJPMFhYQjI0OVRLV1hUUjRKY2ZLc2Jvc2lQQ3ZrNHlzdlE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-21T14:02:09.000Z"
+    },
+    {
+      "title": "Oracle and AstraZeneca to collaborate on 'smarter' clinical trials",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3FySmtKaWhNellkQUNiMDgtSV9RM2N0MTJWRnpyR0VMYmJrOXgyR1lvN0RpeUxnb2tFWEtNcmJ4MGh0amh6S3Q0VnhKSks3MEhPNUg2RmxoSmtJYi0zd0lQUDN6M0tKa1J0MnU4NDNfTmNhbHcxUzJUWFFURWtlM0Jzbk9qeWY3OWtSek83Z3RxeHpiTUItS3FIaWo?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-21T13:40:29.000Z"
+    },
+    {
+      "title": "Your Product Works — So Why Does It Still Fail in the Real World?",
+      "link": "https://medcitynews.com/2026/10/your-product-works-so-why-does-it-still-fail-in-the-real-world/",
+      "source": "MedCity News",
+      "date": "2026-10-21T13:34:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Mark Cuban eyeing rare disease drugs, a ketamine gold rush, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/10/21/mark-cuban-eyes-rare-disease-drugs-ketamine-gold-rush/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-21T13:26:27.000Z"
+    },
+    {
+      "title": "At IHE Connectathon, building regulatory readiness for EU rules",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeDlpWHdLYS1CWHc1Z2ZyaUloSXQyYlRxQ24xX19KbloxamtrTHNCS3NmenhiWVRnSHlSRmVhMzVyY04xRXdkcDdoMnZwUDRaRlBEZ2hNbGlTLU5vUFprRUJicHo1M1pKNnNseDU3eGxZREVSTkR4cTRNMmppd3czakFHeVd2a2JfdlZCUGs2ZTFsdTRJd1BHVHdB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-21T13:20:00.000Z"
+    },
+    {
+      "title": "STAT+: Roivant says closely watched immune drug succeeded in new eye disease",
+      "link": "https://www.statnews.com/2026/10/21/roivant-immune-drug-lisraya-noninfectious-uveitis-trial-results/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-21T12:05:54.000Z"
+    },
+    {
+      "title": "Phantom Neuro implants first humans with its muscle-machine interface",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc0NJQm9majZFbUF5c2lhSkhmWmNkTHlXZWtMNmxuS1ZFQ24taXhKQnR5WUtWYkNyam9KV0pMRjdNWGRTUUdnM1FYR2Z4cnEyX2JOZWZZRVMxZW5NNHUzY0oyT1RBS2JhWjIwNXBXVDNXaUhOckVnWnFEZ19CNHRPZVBIY2xHLUJWWi03QTliZE1ZdVk3bTlnSDJLR2o1dFZjNlE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-21T12:00:00.000Z"
+    },
+    {
+      "title": "Nigeria identifies travel-related Ebola case",
+      "link": "https://www.statnews.com/2026/10/21/health-news-nigeria-travel-related-ebola-case-outbreak/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-21T11:54:47.000Z"
+    },
+    {
+      "title": "NVIDIA unveils partnerships to expand healthcare AI, protein design tools",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUl9ybHI2RHF3RktLUm5MdTktNzBlTFFFV0dwcWdfR2gxdUM1Sl9Fd3VtNlVVVEtfMkxSa3BKSXN4V1VwdFMzNXpaZ1pHWkptX0VQM2hKVk82T1VSWktsVTdlTk54eElSamRqUnd2SlZWOGtQalhEZXlhcUtnYWNwcmMyYUZFbWV3RmlldDNacjBzWG1kcXBRN0ZSYzZWTHJuN2phZDFseG8?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-21T11:30:00.000Z"
+    },
+    {
+      "title": "A counterintuitive way to build trust in measles vaccines and public health",
+      "link": "https://www.statnews.com/2026/10/21/measles-vaccination-uptake-experts-suggest-messaging-change/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-21T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Mark Cuban wants to crack open the market for rare disease treatments",
+      "link": "https://www.statnews.com/2026/10/21/mark-cuban-cost-plus-drugs-rare-disease-medicines/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-21T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Replication is necessary even if scientists do everything right",
+      "link": "https://www.statnews.com/2026/10/21/nih-replication-process-type-1-error-bhattacharya/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-21T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: How knocking on doors can help beat measles — again",
+      "link": "https://www.statnews.com/2026/10/21/measles-public-health-door-to-door-initiatives/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-21T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: A German biotech has big ambitions in cancer. Now it needs to get a medicine approved",
+      "link": "https://www.statnews.com/2026/10/21/immatics-cancer-cell-therapy-targets-prame-protein/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-21T08:30:00.000Z"
+    },
+    {
+      "title": "510(k) for ECG AI, Chinese smart ring and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMHJfSU85dnZPM0NUU2h4RWZLZW9mMjZvQjR0dUZMQWNEdXNtVGZtSDA2T29YVk9DU2Uya1NtSzJ2TG1aUi1qTnJSN3FNamx6VG5RM0FGZWM0aTZ4N21zVWw3bjVXdlYtU25oSHFlbzYtamw2R2xvcFR6Q0sxeW9YbFB0Qi1aOVNSYlB1cnMzdHo?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-21T00:05:42.000Z"
+    },
+    {
+      "title": "Funding for cancer, GP AI and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUWthNUpFTmNScDhValFiOHpVa29YUEFIOWxrNy1kRHZySlVJeFhEYlFqSnJEbXdoOWcwYlB2YTBSNGZlRXNPZS1HbHdWSFVQai1OaEZyMXROVlVRdEFOM1JWWEp4Q0JWYU9hNmdxSU8tTjAwdDZIeGdaY0Y0dk5XNUVB?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-21T00:05:39.000Z"
+    },
+    {
+      "title": "FDA Official Believes GenAI-enabled Tools Will Need to Be Assessed Like a Physician",
+      "link": "https://medcitynews.com/2026/10/fda-official-believes-genai-enabled-tools-will-need-to-be-assessed-like-a-physician/",
+      "source": "MedCity News",
+      "date": "2026-10-20T22:23:38.000Z"
+    },
+    {
+      "title": "Readily Secures $11M for Compliance Intelligence Platform",
+      "link": "https://medcitynews.com/2026/10/readily-secures-11m-for-compliance-intelligence-platform/",
+      "source": "MedCity News",
+      "date": "2026-10-20T21:00:26.000Z"
+    },
+    {
+      "title": "How one study explains healthcare AI’s ROI",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV1AyY19COE5IY1VCWloydnBwTTNPNUltdWFkNWo3dm1fUUpHYTRyUmQwNmU2WGw5dFVPSlNWaDE5dWZ5ZGVwbERwei01dE4wWjZadUYtWHdlWFI3UzJSc1RvMVkycHZ0aTdDS1RmUTd5bEQtUjUwY09PZ0E5bHl4LTRjRDhkZmVVeGJr?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-20T20:58:21.000Z"
+    },
+    {
+      "title": "GSK Immunotherapy Gets Accelerated FDA Approval for Treating Rectal Cancer",
+      "link": "https://medcitynews.com/2026/10/gsk-rectal-cancer-immunotherapy-jemperli-dostarlimab-pd-1-msi-h-dmmr/",
+      "source": "MedCity News",
+      "date": "2026-10-20T19:21:12.000Z"
+    },
+    {
+      "title": "A Radical Proposal to Preserve Cell and Gene Therapy Innovation",
+      "link": "https://medcitynews.com/2026/10/a-radical-proposal-to-preserve-cell-and-gene-therapy-innovation/",
+      "source": "MedCity News",
+      "date": "2026-10-20T13:09:00.000Z"
+    },
+    {
+      "title": "Report: Health System M&A Activity Remains Steady in Third Quarter",
+      "link": "https://medcitynews.com/2026/10/health-system-ma-activity-remains-steady-in-q3-2026-vizient-report-shows/",
+      "source": "MedCity News",
+      "date": "2026-10-20T12:13:31.000Z"
+    },
+    {
+      "title": "AdvaMed’s 4 Policy Priorities, According to Its CEO",
+      "link": "https://medcitynews.com/2026/10/advameds-4-policy-priorities-according-to-its-ceo/",
+      "source": "MedCity News",
+      "date": "2026-10-19T23:20:05.000Z"
+    },
+    {
+      "title": "Merck KGaA’s $1.1B Silence Therapeutics Buyout Brings RNA Drug for Rare Blood Cancer",
+      "link": "https://medcitynews.com/2026/10/merck-kgaa-silence-therapeutics-acquisition-polycythemia-vera-divesiran-sirna-rna-interference-sln/",
+      "source": "MedCity News",
+      "date": "2026-10-19T20:27:34.000Z"
+    },
+    {
+      "title": "With $5M, Phantom GI Plans to Develop Minimally Invasive Alternative Ostomy Surgery Device",
+      "link": "https://medcitynews.com/2026/10/with-5m-phantom-gi-plans-to-develop-minimally-invasive-alternative-ostomy-surgery-device/",
+      "source": "MedCity News",
+      "date": "2026-10-19T18:32:28.000Z"
+    },
+    {
+      "title": "Diagnosis Is Beside the Point",
+      "link": "https://medcitynews.com/2026/10/diagnosis-is-beside-the-point/",
+      "source": "MedCity News",
+      "date": "2026-10-19T13:02:00.000Z"
+    },
+    {
+      "title": "Startup OMass Secures $310M to Advance Drug for Rare Endocrine Disorder",
+      "link": "https://medcitynews.com/2026/10/startup-omass-rare-disease-endocrine-hormone-melanocortin-2-mc2-cah/",
+      "source": "MedCity News",
+      "date": "2026-10-18T15:42:57.000Z"
+    },
+    {
+      "title": "Allswell Raises $7M to Grow LGBTQ+ Behavioral Health Platform",
+      "link": "https://medcitynews.com/2026/10/allswell-raises-7m-to-grow-lgbtq-behavioral-health-platform/",
+      "source": "MedCity News",
+      "date": "2026-10-18T14:13:00.000Z"
+    },
+    {
+      "title": "The Antibiotics Exist —The System Cannot Deliver Them",
+      "link": "https://medcitynews.com/2026/10/the-antibiotics-exist-the-system-cannot-deliver-them/",
+      "source": "MedCity News",
+      "date": "2026-10-18T13:40:00.000Z"
+    },
+    {
+      "title": "Exercise is Prescribed Like Advice When It Should Be Delivered Like Treatment",
+      "link": "https://medcitynews.com/2026/10/exercise-is-prescribed-like-advice-when-it-should-be-delivered-like-treatment/",
+      "source": "MedCity News",
+      "date": "2026-10-18T13:11:00.000Z"
+    },
+    {
+      "title": "UPMC Enterprises Invests in VeloSource to Expand AI-Enabled Clinician Staffing Platform",
+      "link": "https://medcitynews.com/2026/10/upmc-enterprises-invests-in-velosource-to-expand-ai-enabled-clinician-staffing-platform/",
+      "source": "MedCity News",
+      "date": "2026-10-18T12:30:00.000Z"
+    },
+    {
+      "title": "Why Epic Is Launching a Prescription Price Comparison Tool",
+      "link": "https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/",
+      "source": "MedCity News",
+      "date": "2026-10-16T22:43:52.000Z"
+    },
+    {
+      "title": "City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver",
+      "link": "https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/",
+      "source": "MedCity News",
+      "date": "2026-10-16T17:43:30.000Z"
+    },
+    {
+      "title": "The Impending End of Cross-Subsidization",
+      "link": "https://medcitynews.com/2026/10/the-impending-end-of-cross-subsidization/",
+      "source": "MedCity News",
+      "date": "2026-10-16T13:53:00.000Z"
+    },
+    {
+      "title": "How AI Is Connecting MedTech’s Data Without Compromising Compliance",
+      "link": "https://medcitynews.com/2026/10/how-ai-is-connecting-medtechs-data-without-compromising-compliance/",
+      "source": "MedCity News",
+      "date": "2026-10-16T13:08:00.000Z"
+    },
+    {
+      "title": "Rosarium Health Forms Home Modification Partnership with Anthem Medi-Cal",
+      "link": "https://medcitynews.com/2026/10/rosarium-health-forms-home-modification-partnership-with-anthem-medi-cal/",
+      "source": "MedCity News",
+      "date": "2026-10-15T22:53:27.000Z"
+    },
+    {
+      "title": "AI Biotech Iambic Gets $150M in IPO Cash for ‘Molecular Superintelligence’ Drug R&D",
+      "link": "https://medcitynews.com/2026/10/iambic-ipo-techbio-ai-drug-discovery-cancer-her2-kif18a-cdk2-cdk4-iam/",
+      "source": "MedCity News",
+      "date": "2026-10-15T19:18:43.000Z"
+    },
+    {
+      "title": "Why the Future of Healthcare Depends on Reinventing Primary Care Access",
+      "link": "https://medcitynews.com/2026/10/why-the-future-of-healthcare-depends-on-reinventing-primary-care-access/",
+      "source": "MedCity News",
+      "date": "2026-10-15T13:41:00.000Z"
+    },
+    {
+      "title": "The Role of Hospital Stewardship to Improve Outcomes and Manage Costs",
+      "link": "https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/",
+      "source": "MedCity News",
+      "date": "2026-10-15T11:30:00.000Z"
+    },
+    {
+      "title": "HealthTap Introduces Virtual Primary Care Program for DME Suppliers",
+      "link": "https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/",
+      "source": "MedCity News",
+      "date": "2026-10-14T22:10:22.000Z"
+    },
+    {
+      "title": "Ultragenyx Rare Disease Voucher Sales Secure $413M for More Potential Pipeline Building",
+      "link": "https://medcitynews.com/2026/10/ultragenyx-rare-pediatric-disease-priority-review-voucher-prv/",
+      "source": "MedCity News",
+      "date": "2026-10-14T21:25:56.000Z"
+    },
+    {
+      "title": "Healthleap Raises $38M to Expand AI Screening for Overlooked Conditions in Hospitalized Patients",
+      "link": "https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/",
+      "source": "MedCity News",
+      "date": "2026-10-14T16:52:15.000Z"
+    },
+    {
+      "title": "Why Agentic AI Works in Hospitals When You Strip It Down",
+      "link": "https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/",
+      "source": "MedCity News",
+      "date": "2026-10-14T13:30:00.000Z"
+    }
+  ]
+}
