@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-24T23:00:37.229Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 9,
+  "sources": {
+    "STAT News": 3,
+    "Healthcare IT News": 4,
+    "MobiHealthNews": 1,
+    "MedCity News": 1
+  },
+  "summary": "Today's health-tech news reflects ongoing momentum in oncology innovation, AI implementation, and care delivery expansion. Moderna and Merck presented significant developments at the European Society for Medical Oncology meeting in Madrid, though details remain limited pending full publication. On the digital health front, Google outlined its vision for \"AI with purpose\" in healthcare, while Epic introduced a new Prescription Marketplace price transparency tool and UCHealth shared insights on managing AI deployments and measuring their return on investment. In rehabilitation and social determinants of health, Carda Health partnered with the American College of Lifestyle Medicine to expand virtual rehab capabilities, and Rosarium Health formed a collaboration with Anthem Medi-Cal to provide home safety modifications for eligible members. Opinion pieces highlighted ongoing challenges in diagnostic accuracy for conditions like multiple sclerosis and reflected on lessons from the Theranos controversy regarding testing economics and business models.",
+  "items": [
+    {
+      "title": "STAT+: The ESMO presentation everyone’s been waiting for",
+      "link": "https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-24T17:00:59.000Z"
+    },
+    {
+      "title": "Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology",
+      "link": "https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-24T11:00:00.000Z"
+    },
+    {
+      "title": "Opinion: STAT readers on Elizabeth Holmes, cancer screening, and more",
+      "link": "https://www.statnews.com/2026/10/24/you-can-see-everything-stat-letters-to-editor/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-24T11:00:00.000Z"
+    },
+    {
+      "title": "Google healthcare leader offers a vision of 'AI with purpose'",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdzNDc2ZNak9LSWZaVTgwb05Cak5TWTU2T2w3d29XR2hKaG1relJTVGhYTnlDeE1JYWdTQXNDdXJ6ZHg0bmo1QmlqSms1eC1lVDFvMkpUUThoaGItSF9MVHI2aW5BT0lXV2lkV2IwZ2pmVGM0Q29TZk1FQkJGTUtTT2dxSTJySFY0Q205d20wYXM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-23T22:08:46.000Z"
+    },
+    {
+      "title": "Carda Health, American College of Lifestyle Medicine partner for virtual rehab",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZfUlpYbnlkV05KSFNpR19jczVlRDdzYTFVQWpaaWFIdG1FdnhEMmo5eFZrZ0dTWWF2WWFmQXk2TUFKWFdCT2dya085a3c0bExrRlpMYmFEMHJjWnl6amw1V0F2eFV4WXQ0d3hySEVIM1dLQWc0Z2p0UEhGdWYzaEVGRDZUVnlyTzBqbklKR2xHNVBad3I2d2dkQVNxWU5Mb1dnVEFjeWhvUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-19T19:42:36.000Z"
+    },
+    {
+      "title": "Epic launches new Prescription Marketplace price transparency tool",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUnQ3c3IxM1ZVOFFmT0hNcV9Rd0tKd2RyNy1IMU82S25PZ3hseVA0cHRSUF84c0pQTFJ0ajVVeEVTOVB0ZkZ2aDRXclBMTW9aR3MzdnBrc3FiUEVseEdEcnFBZmdsUXRHcWFsMHBYRm5EckxPMWNRY3MzU1JxZHJUcnJSbEtQWGZCTjkzYjJ2eUVVWWhvcGFoN05OamJFTWRRMXdadzRBcw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-16T13:00:00.000Z"
+    },
+    {
+      "title": "How UCHealth navigates change management, tracks ROI for its AI deployments",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX2wtY2toZUNXWW5BY0tNTnJGS1BlU3doTjl6T1A3U0E3bmwzS2VPazVCZ3ZqT1A5SkR4Q29VSzhaQkRuTWh6SVhBZnlVeDZNN21WNTJtdHI2cDlOdGxTYmRmWXJ0X1Z1eDZjakNsN1BhOTgtYnlyWXNFTnhPa3BCeFVYaEFUelhjSnpzbGJ0NmdSV1k1ck5BdG9EWF85cXh2MWlmUGwyd3hFOHFB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-16T12:00:00.000Z"
+    },
+    {
+      "title": "Privacy & Security",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81d2Nxc1RUbkcwM3FndEZvekNoRDZqSzBGSDZ5TUFiWl85SkFJNkJ5amZlTTVlanJXaWpPR1RULTdqWVB1WHY2SFFxX01lblh6U3RVbGFtM0pHYTl3Q3Znc3RPalMyMm1UWWV1Q1o0ZXhQV08xQXpvdFFqdw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-16T03:17:30.000Z"
+    },
+    {
+      "title": "Rosarium Health Forms Home Modification Partnership with Anthem Medi-Cal",
+      "link": "https://medcitynews.com/2026/10/rosarium-health-forms-home-modification-partnership-with-anthem-medi-cal/",
+      "source": "MedCity News",
+      "date": "2026-10-15T22:53:27.000Z"
+    }
+  ]
+}

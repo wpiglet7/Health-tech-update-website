@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T23:46:49.439Z",
+  "generatedAt": "2026-10-24T23:00:34.209Z",
   "sources": [
     {
       "id": "stat",
@@ -25,20 +25,44 @@
   "count": 120,
   "items": [
     {
+      "title": "STAT+: The ESMO presentation everyone’s been waiting for",
+      "link": "https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-10-24T17:00:59.000Z",
+      "snippet": "Moderna and Merck's 'presidential' presentation, and other news from Day 2 of the European Society for Medical Oncology meeting in Madrid."
+    },
+    {
+      "title": "Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology",
+      "link": "https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-10-24T11:00:00.000Z",
+      "snippet": "“The goal is not simply to diagnose MS faster. It is to get the diagnosis right,” writes Bruce Bebo."
+    },
+    {
+      "title": "Opinion: STAT readers on Elizabeth Holmes, cancer screening, and more",
+      "link": "https://www.statnews.com/2026/10/24/you-can-see-everything-stat-letters-to-editor/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-10-24T11:00:00.000Z",
+      "snippet": "“Even if Theranos had a functioning testing machine, the economic model on which is was based would result in failure,” writes a STAT reader."
+    },
+    {
+      "title": "Google healthcare leader offers a vision of 'AI with purpose'",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdzNDc2ZNak9LSWZaVTgwb05Cak5TWTU2T2w3d29XR2hKaG1relJTVGhYTnlDeE1JYWdTQXNDdXJ6ZHg0bmo1QmlqSms1eC1lVDFvMkpUUThoaGItSF9MVHI2aW5BT0lXV2lkV2IwZ2pmVGM0Q29TZk1FQkJGTUtTT2dxSTJySFY0Q205d20wYXM?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-23T22:08:46.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Where Are the Biggest Opportunities in Women’s Cardiovascular Health?",
       "link": "https://medcitynews.com/2026/10/where-are-the-biggest-opportunities-in-womens-cardiovascular-health/",
       "source": "MedCity News",
       "sourceId": "medcity",
       "date": "2026-10-23T20:33:44.000Z",
       "snippet": "MedTech Conference panelists cited inflammation research, listening to women, clinical trial representation and investment as priorities for women’s cardiovascular health. The post Where Are the Biggest Opportunities in Women’s Cardiovascul…"
-    },
-    {
-      "title": "HIMSSCast: What should be required to validate health AI models?",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVFvWGRBNFhfaTNLVl9laUgzVHVqRWJ0WU5sc2ZBakJzbVRVZXRoQUJIMVYwYTlOb3lnTFRtXzRBOTN1QzFvWjF6NTBSR2RLY1JwNmxDQ2RRR1lDclhuSFFGbExpcThoZ1lZNjVObmFoOUpXX3pZakN4Y0g3UGtUOVByUDRseGdaN0x1N1VfVEcweGZXdmtzTmROR2d1Y2FaS3c?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-23T20:15:16.000Z",
-      "snippet": ""
     },
     {
       "title": "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early",
@@ -49,7 +73,7 @@
       "snippet": "In data released at ESMO, the Moderna-Merck personalized mRNA cancer vaccine reduced recurrence-free survival and the time until distant metastasis occurred."
     },
     {
-      "title": "Healthcare AI’s value depends on adoption, outcomes and costs",
+      "title": "Healthcare AI's value depends on adoption, outcomes and costs",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN1A3YXJ4ZjBPVU03TWlPTjAzNlBsbFFzaGFhRU9HS0t6QmFVZ3kyRFFEcDN0U3drTGZTY1FWX2J5aFg2OUxKa3B6ZnE1WXlwNlU0R3NIZjc5SHQxSnpPdHRQWmRtbFpxOWFGUTlvUC02dldoa0U3VktIQTAzODlDRnJBd1ZMeUYtV3JfZGRSR0o4czlGelRN?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
@@ -89,19 +113,11 @@
       "snippet": "Most new cancer medicines approved by European regulators over a recent four-year period do not offer high clinical benefit, a new analysis finds."
     },
     {
-      "title": "Event: HIMSS AI Forum attendees on healthcare AI, part 2",
+      "title": "Event: HIMSS AI Forum attendees on healthcare AI, Part 2",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3dVY2JPbjVESGlnT0hITGRoUDdNUlR4bnFHbC1ESU5RSEVnWHlBZ3k3M25MbGZHT2s4RTV0RFQ0TmFtdTY2R0FzT1RESjhSbHNZRnphMmYzNWh4eDJueVRMRk5JczZqWGwyaDBmQi1mVllWNVMtR05DMVBWeDJwT0MwRWUzQS1ZQ3J2YVRtQU8?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-10-23T18:46:29.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Q&A: NVIDIA on AI and breast cancer",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdURPUzI5cmVLZ3VpQy1MdDFySVF5UTVKVnZrbVFfejlXSk50blIwTWZfVGhGQVZib0h2N2FBRUdZRG9PTEVERUo1WVd3S3N2SEZQZkRrU2hXN083Qm4xcFRQZWxic09hUkZKTGRFdUhXQ1pY?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-23T17:58:51.000Z",
       "snippet": ""
     },
     {
@@ -233,6 +249,22 @@
       "snippet": ""
     },
     {
+      "title": "HIMSSCast: What should be required to validate health AI models?",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVFvWGRBNFhfaTNLVl9laUgzVHVqRWJ0WU5sc2ZBakJzbVRVZXRoQUJIMVYwYTlOb3lnTFRtXzRBOTN1QzFvWjF6NTBSR2RLY1JwNmxDQ2RRR1lDclhuSFFGbExpcThoZ1lZNjVObmFoOUpXX3pZakN4Y0g3UGtUOVByUDRseGdaN0x1N1VfVEcweGZXdmtzTmROR2d1Y2FaS3c?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-23T12:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Q&A: NVIDIA on AI and breast cancer",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdURPUzI5cmVLZ3VpQy1MdDFySVF5UTVKVnZrbVFfejlXSk50blIwTWZfVGhGQVZib0h2N2FBRUdZRG9PTEVERUo1WVd3S3N2SEZQZkRrU2hXN083Qm4xcFRQZWxic09hUkZKTGRFdUhXQ1pY?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-23T12:00:00.000Z",
+      "snippet": ""
+    },
+    {
       "title": "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer",
       "link": "https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss",
       "source": "STAT News",
@@ -263,30 +295,6 @@
       "sourceId": "stat",
       "date": "2026-10-23T08:30:00.000Z",
       "snippet": "The humbling truth is that forces outside medical care and public health policies must be playing the biggest role in a dramatic drop in opioid overdose deaths, three health experts…"
-    },
-    {
-      "title": "STAT reporters react to the new Elizabeth Holmes documentary",
-      "link": "https://www.statnews.com/2026/10/23/explain-appeal-elizabeth-holmes-doc-status-report/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-10-23T08:30:00.000Z",
-      "snippet": "It seems everyone has a hot take on the new Elizabeth Holmes documentary, \"You Can See Everything.\" STAT reporters went to see the film — here's their review."
-    },
-    {
-      "title": "How a targeted drug kept one patient alive 15 years — but failed to save her friends",
-      "link": "https://www.statnews.com/2026/10/23/lung-cancer-patient-ros1-mutation-on-crizotinib/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-10-23T08:30:00.000Z",
-      "snippet": "A lung cancer patient speaks out about her cutting-edge treatment: “Research is big on tracking survival stats, but quality of life for survivors — not so much.”"
-    },
-    {
-      "title": "One family’s story of a life-extending medicine for pancreatic cancer",
-      "link": "https://www.statnews.com/2026/10/23/patient-story-pancreatic-cancer-drug-daraxonrasib-rasonque/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-10-23T08:30:00.000Z",
-      "snippet": "Bobby Senaha was among the first patients to use daraxonrasib, a new life-extending drug for pancreatic cancer. His wife shares what those extra months meant to his family."
     },
     {
       "title": "Medicare Advantage may need a reset",
@@ -561,14 +569,6 @@
       "snippet": "Rick Abramson, a radiologist by training and the director of FDA’s Digital Health Center of Excellence said, “We ended up putting out this idea that maybe these devices are starting to behave a little bit more like me as a physician than a…"
     },
     {
-      "title": "Driving Growth Through C-SNPs: What It Takes to Execute Successfully",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMTk0Y0JnRGVUSERSTHNQU2lBMXo1VFF3V3dwQ3VyblJXUjBYTEFQZUFjTzRJYTRGcGtWRUxNaXE1dXRrZTNtQjgxQ2Y0MTlmMWg3QVdiSG9XdGNJZEpRN2JCWkxjaWlYRGE1ek5GaElrbFNqSm5rLVhpS1Ezc0p6RDBuZU00VVQxb1hHaE1wbXBhUWZWMXpLb1ROOFg1S3pScDhjQ0Myc005dw?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-20T21:28:47.000Z",
-      "snippet": ""
-    },
-    {
       "title": "The New Patient Mindset",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EX05WSjh6eFQ2NGJmREdWc2JGTDRKckIyUFJVbDhzUk4tWFlGTUFRUlU0RS1Rd0pCaVpNSjUybjZ5MUNCWU9menJDMjFCZk1oV29saTBiX19Lc2JxYXU2YjRDR3cyMGhRQWtzbVJB?oc=5",
       "source": "Healthcare IT News",
@@ -617,14 +617,6 @@
       "snippet": "The GSK cancer immunotherapy Jemperli is now approved for treating advanced cases of rectal cancer harboring a particular genetic signature. It’s a label expansion for Jemperli, which was initially approved as a treatment for endometrial ca…"
     },
     {
-      "title": "Telemedicine helps reduce admissions, cut costs for cancer patients, study finds",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGZQcGg1THNPampWWVR2a2tuXzA3MXRZVFBmMUd3MkVRRlQtcWh1bkdYMmV6UzFsNTZROHEwaVEwcGY2MjhzamJLVjZfcHNXaFRkdTZWaDBTbGRIbUg2Vjc0QS1iS1BaZHNzdUpZYUhXdTlrY0M4UHdFdHFicXhzSjFmYk5ncHN4WVFDUldkb0d1eTB5MlMxcmE2eWJhMEdfd1ZFQlhQVm5TNnFsWjNGVVJR?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-20T17:02:08.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Doximity integrates UpToDate into AI clinical support tool",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ1NSdi1ka2trb2gxeWVRMUJLZ3JUN3pzQlNhSmdZam1kRE1sT0tMWmkwY29yOEo0QVdzSS1XaHdfVTZVX0ozM0tDUmpvbUVhVURpNk5WOHV1b0NoeWVzVXNOczlNSWxIU2ZZaGp6M3J6bExQZVg5R2NnNDlCMmxqZ0ZLbWdXLXdqdFFMVFNDYmViVWM?oc=5",
       "source": "MobiHealthNews",
@@ -633,27 +625,11 @@
       "snippet": ""
     },
     {
-      "title": "VA launches real-time external scheduling",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFItaDFLX2lnZUFmTWtITk52RmNHZUJ3Nld5TjNCY0xLbGlsZFY5SFNjbzlaMHcxM2xqVDJNUXJKV2Rra0NHNWxpaTJZTDlWV3l5clgyQ3hPVGJRcDNuWExrMEp4QTF2RjR1amk2UkdjZTRlVGgyb19SMDlNb1U5SnRxMnAtdw?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-20T14:53:05.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Medicare Advantage plans face star rating woes",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDFsMF84bHdTU3ZORnBMRjh5TUJoUjVRRFp0UlFOcDNMZk8zWnMxY0JuX2NvQkozRG9JZ3BqWGZwM2RjLXB2M2Y4aWR3WEJURTRPb2JQOFNZZXJmM0IwbGttN2JyakxMTEdURmhna1N2VHlsLTItTG1WS28zZ2pvRGFlcEJuQUh0NkdR?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-10-20T14:07:28.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "The hidden cost of channel sprawl on healthcare’s frontline",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0tBdUhkeGR6MmMzYy1GWUw5SHJNbDBUX3ItVnM5SExsWTdGVkRhVGU2ank1NHhkMlA0bVE5d0dYQXd0QTNHc05INVR0MDUwcHhqN1pUUldfTWVnM2xGbTI4STYzYnJZTzIyMms1N0p6ajF3TVFQQkxHNFJZdGRiTTBOQ09lNGJyVmJoV2p1WQ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-20T13:43:34.000Z",
       "snippet": ""
     },
     {
@@ -734,6 +710,14 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-10-19T20:23:31.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Carda Health, American College of Lifestyle Medicine partner for virtual rehab",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZfUlpYbnlkV05KSFNpR19jczVlRDdzYTFVQWpaaWFIdG1FdnhEMmo5eFZrZ0dTWWF2WWFmQXk2TUFKWFdCT2dya085a3c0bExrRlpMYmFEMHJjWnl6amw1V0F2eFV4WXQ0d3hySEVIM1dLQWc0Z2p0UEhGdWYzaEVGRDZUVnlyTzBqbklKR2xHNVBad3I2d2dkQVNxWU5Mb1dnVEFjeWhvUQ?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-19T19:42:36.000Z",
       "snippet": ""
     },
     {
@@ -905,14 +889,6 @@
       "snippet": ""
     },
     {
-      "title": "Millie and El Camino launch joint maternity clinic and more digital health news",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTV81ckNXMVlTbW44b3JpZXF3eVN6LWZySFVWRlNpYldHNjM5VVF5U0dxYnRpcll4VzhCYkp4ZVlXLXNYUVJXT2dDLS1FN0VtVDU4QVZWa2dCODBmN2xnZGQ2X2ZIRlVURHFic0d6VzRhVnZheklLOXRlbUVYaF9ydFg1anBxcTBoOVU1R293NVdrS29qdjlrRHQtalFBR2NLc3k2TFpsMzdLQXI3YU5LSXJzX1FZZw?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-16T20:23:12.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Chinese government-affiliated cyber threat actors target edge devices",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOVp5RTNRLWZ6WWdod0xQem9QSW93Z2d0bmY5Ri1oVnZHdThndkhtWEJKT09SMW5XdVF3RU1zRUx1STE5VUpDamtXX0hwM2sweTRKZk90SUoxcW85b1VEbG5PT1M4TjhLRXJnS2Q3TnpmeUJ1VkdxTVc1eUczMlpKQlBwNXJpd1ByejIySzhxUXdXU18tbHFvNkZnTFR5UjFvTnVQaDZXRVZoUUk?oc=5",
       "source": "Healthcare IT News",
@@ -953,14 +929,6 @@
       "snippet": ""
     },
     {
-      "title": "Focus investment on AI governance",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44dlpRbExrdUt3WnFqWnlGdGQxdmYwdDlJQVNseUYzWXBtTmNtOEQzVWhuOHhvZXYwWFdMZTdobUpWbW1yMllrR3JOLU1JblVDU21iTmRDcjFmOXlFMi04ZURISFFaQ2hZSjRvdDQ3Mkt3ZlVuM0E1SVBNMWc?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-16T14:18:10.000Z",
-      "snippet": ""
-    },
-    {
       "title": "The Impending End of Cross-Subsidization",
       "link": "https://medcitynews.com/2026/10/the-impending-end-of-cross-subsidization/",
       "source": "MedCity News",
@@ -983,6 +951,38 @@
       "sourceId": "medcity",
       "date": "2026-10-16T13:08:00.000Z",
       "snippet": "The connected, agent-ready enterprise is the model that wins, where compliance and intelligence operate together. The post How AI Is Connecting MedTech’s Data Without Compromising Compliance appeared first on MedCity News."
+    },
+    {
+      "title": "Epic launches new Prescription Marketplace price transparency tool",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUnQ3c3IxM1ZVOFFmT0hNcV9Rd0tKd2RyNy1IMU82S25PZ3hseVA0cHRSUF84c0pQTFJ0ajVVeEVTOVB0ZkZ2aDRXclBMTW9aR3MzdnBrc3FiUEVseEdEcnFBZmdsUXRHcWFsMHBYRm5EckxPMWNRY3MzU1JxZHJUcnJSbEtQWGZCTjkzYjJ2eUVVWWhvcGFoN05OamJFTWRRMXdadzRBcw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-16T13:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "How UCHealth navigates change management, tracks ROI for its AI deployments",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX2wtY2toZUNXWW5BY0tNTnJGS1BlU3doTjl6T1A3U0E3bmwzS2VPazVCZ3ZqT1A5SkR4Q29VSzhaQkRuTWh6SVhBZnlVeDZNN21WNTJtdHI2cDlOdGxTYmRmWXJ0X1Z1eDZjakNsN1BhOTgtYnlyWXNFTnhPa3BCeFVYaEFUelhjSnpzbGJ0NmdSV1k1ck5BdG9EWF85cXh2MWlmUGwyd3hFOHFB?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-16T12:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Privacy & Security",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81d2Nxc1RUbkcwM3FndEZvekNoRDZqSzBGSDZ5TUFiWl85SkFJNkJ5amZlTTVlanJXaWpPR1RULTdqWVB1WHY2SFFxX01lblh6U3RVbGFtM0pHYTl3Q3Znc3RPalMyMm1UWWV1Q1o0ZXhQV08xQXpvdFFqdw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-16T03:17:30.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Rosarium Health Forms Home Modification Partnership with Anthem Medi-Cal",
+      "link": "https://medcitynews.com/2026/10/rosarium-health-forms-home-modification-partnership-with-anthem-medi-cal/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-10-15T22:53:27.000Z",
+      "snippet": "Rosarium Health partnered with Anthem Medi-Cal to provide home safety modifications for eligible members. The post Rosarium Health Forms Home Modification Partnership with Anthem Medi-Cal appeared first on MedCity News."
     }
   ]
 }
