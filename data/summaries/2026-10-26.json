@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-25T23:06:11.081Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 11,
+  "sources": {
+    "STAT News": 2,
+    "MedCity News": 4,
+    "Healthcare IT News": 3,
+    "MobiHealthNews": 2
+  },
+  "summary": "The oncology sector is experiencing significant momentum across multiple fronts, with AstraZeneca showcasing its cancer pipeline at Europe's major conference while a newly public biotech company launches products based on Nobel Prize-winning protein-degradation science. Beyond drug development, cancer care delivery is being optimized through telemedicine applications that demonstrably reduce patient admissions and lower costs. Meanwhile, operational challenges are emerging across healthcare IT infrastructure: patient matching errors persist despite congressional efforts to address them, EHR privacy settings are inadvertently exposing physicians' health information to colleagues, and healthcare organizations are grappling with communication channel proliferation that burdens frontline staff. Investment priorities are also shifting, with experts emphasizing the need for stronger AI governance frameworks as health-tech companies expand their capabilities. These developments underscore a healthcare ecosystem simultaneously advancing therapeutics and delivery models while struggling with critical gaps in data governance and operational efficiency.",
+  "items": [
+    {
+      "title": "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase",
+      "link": "https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-25T16:58:45.000Z"
+    },
+    {
+      "title": "Lycia Lands a $317M IPO for Inflammation Drugs Based on Nobel Prize-Winning Science",
+      "link": "https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/",
+      "source": "MedCity News",
+      "date": "2026-10-25T16:13:53.000Z"
+    },
+    {
+      "title": "Congress’s Patient Matching Fix Won’t Work — Here’s What Would",
+      "link": "https://medcitynews.com/2026/10/congresss-patient-matching-fix-wont-work-heres-what-would/",
+      "source": "MedCity News",
+      "date": "2026-10-25T13:34:00.000Z"
+    },
+    {
+      "title": "Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR",
+      "link": "https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/",
+      "source": "MedCity News",
+      "date": "2026-10-25T13:21:00.000Z"
+    },
+    {
+      "title": "Fractyl’s Weight Maintenance Device Meets Clinical Goal, but Shares Nosedive, Layoffs Follow",
+      "link": "https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/",
+      "source": "MedCity News",
+      "date": "2026-10-25T12:30:00.000Z"
+    },
+    {
+      "title": "STAT+: After a cancer vaccine’s first success, the race is on to expand the impact",
+      "link": "https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-25T08:31:01.000Z"
+    },
+    {
+      "title": "Telemedicine helps reduce admissions, cut costs for cancer patients, study finds",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGZQcGg1THNPampWWVR2a2tuXzA3MXRZVFBmMUd3MkVRRlQtcWh1bkdYMmV6UzFsNTZROHEwaVEwcGY2MjhzamJLVjZfcHNXaFRkdTZWaDBTbGRIbUg2Vjc0QS1iS1BaZHNzdUpZYUhXdTlrY0M4UHdFdHFicXhzSjFmYk5ncHN4WVFDUldkb0d1eTB5MlMxcmE2eWJhMEdfd1ZFQlhQVm5TNnFsWjNGVVJR?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-20T17:02:08.000Z"
+    },
+    {
+      "title": "VA launches real-time external scheduling",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFItaDFLX2lnZUFmTWtITk52RmNHZUJ3Nld5TjNCY0xLbGlsZFY5SFNjbzlaMHcxM2xqVDJNUXJKV2Rra0NHNWxpaTJZTDlWV3l5clgyQ3hPVGJRcDNuWExrMEp4QTF2RjR1amk2UkdjZTRlVGgyb19SMDlNb1U5SnRxMnAtdw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-20T14:53:05.000Z"
+    },
+    {
+      "title": "The hidden cost of channel sprawl on healthcare’s frontline",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0tBdUhkeGR6MmMzYy1GWUw5SHJNbDBUX3ItVnM5SExsWTdGVkRhVGU2ank1NHhkMlA0bVE5d0dYQXd0QTNHc05INVR0MDUwcHhqN1pUUldfTWVnM2xGbTI4STYzYnJZTzIyMms1N0p6ajF3TVFQQkxHNFJZdGRiTTBOQ09lNGJyVmJoV2p1WQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-20T13:43:34.000Z"
+    },
+    {
+      "title": "Focus investment on AI governance",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44dlpRbExrdUt3WnFqWnlGdGQxdmYwdDlJQVNseUYzWXBtTmNtOEQzVWhuOHhvZXYwWFdMZTdobUpWbW1yMllrR3JOLU1JblVDU21iTmRDcjFmOXlFMi04ZURISFFaQ2hZSjRvdDQ3Mkt3ZlVuM0E1SVBNMWc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-16T07:00:00.000Z"
+    },
+    {
+      "title": "Millie and El Camino launch joint maternity clinic and more digital health news",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTV81ckNXMVlTbW44b3JpZXF3eVN6LWZySFVWRlNpYldHNjM5VVF5U0dxYnRpcll4VzhCYkp4ZVlXLXNYUVJXT2dDLS1FN0VtVDU4QVZWa2dCODBmN2xnZGQ2X2ZIRlVURHFic0d6VzRhVnZheklLOXRlbUVYaF9ydFg1anBxcTBoOVU1R293NVdrS29qdjlrRHQtalFBR2NLc3k2TFpsMzdLQXI3YU5LSXJzX1FZZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-16T07:00:00.000Z"
+    }
+  ]
+}

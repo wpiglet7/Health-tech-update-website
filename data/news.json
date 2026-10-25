@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T23:00:34.209Z",
+  "generatedAt": "2026-10-25T23:06:07.681Z",
   "sources": [
     {
       "id": "stat",
@@ -24,6 +24,54 @@
   ],
   "count": 120,
   "items": [
+    {
+      "title": "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase",
+      "link": "https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-10-25T16:58:45.000Z",
+      "snippet": "AstraZeneca has seen major momentum in oncology in recent years. It got a big showcase at Europe's top cancer conference."
+    },
+    {
+      "title": "Lycia Lands a $317M IPO for Inflammation Drugs Based on Nobel Prize-Winning Science",
+      "link": "https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-10-25T16:13:53.000Z",
+      "snippet": "Lycia Therapeutics’ protein-degrading drugs are based on the research of Carolyn Bertozzi, a Stanford chemistry professor and Nobel laureate. Lycia’s lead drug candidate is in development for food allergy, where it could compete against the…"
+    },
+    {
+      "title": "Congress’s Patient Matching Fix Won’t Work — Here’s What Would",
+      "link": "https://medcitynews.com/2026/10/congresss-patient-matching-fix-wont-work-heres-what-would/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-10-25T13:34:00.000Z",
+      "snippet": "The MATCH IT Act aims to reduce patient matching errors. But a model used by vital records systems could provide a better solution. The post Congress’s Patient Matching Fix Won’t Work — Here’s What Would appeared first on MedCity News."
+    },
+    {
+      "title": "Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR",
+      "link": "https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-10-25T13:21:00.000Z",
+      "snippet": "In most organizations the default access model was built for patient care, not for protecting colleagues. A nurse on another unit, a resident who rotated with them, a department administrator: any of them may technically be able to open the…"
+    },
+    {
+      "title": "Fractyl’s Weight Maintenance Device Meets Clinical Goal, but Shares Nosedive, Layoffs Follow",
+      "link": "https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-10-25T12:30:00.000Z",
+      "snippet": "Fractyl Health reported positive six-month trial results from an investigation of its Revita procedure last week, but shares of Fractyl stock dropped steeply on October 16 immediately following the announcement. Despite the positive finding…"
+    },
+    {
+      "title": "STAT+: After a cancer vaccine’s first success, the race is on to expand the impact",
+      "link": "https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-10-25T08:31:01.000Z",
+      "snippet": "After 100 years, there's finally an effective cancer vaccine. Now comes the push to get them to work in more tumor types."
+    },
     {
       "title": "STAT+: The ESMO presentation everyone’s been waiting for",
       "link": "https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss",
@@ -281,22 +329,6 @@
       "snippet": "What state officials scrambling to implement Medicaid work requirements shared behind closed doors at the National Association of Medicaid Directors conference."
     },
     {
-      "title": "Opinion: New Medicare policies will keep important pain relief from some patients",
-      "link": "https://www.statnews.com/2026/10/23/severe-pain-policy-medicare-coverage-macs-nerve-block/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-10-23T08:30:00.000Z",
-      "snippet": "For some people, simply putting on pants can be excruciatingly painful. New policy will put pain relief out of reach for many, doctor writes."
-    },
-    {
-      "title": "Opinion: Overdose deaths have plunged. We need to know why",
-      "link": "https://www.statnews.com/2026/10/23/opioid-deaths-fallen-naloxone-treatment-supply-shock-public-health/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-10-23T08:30:00.000Z",
-      "snippet": "The humbling truth is that forces outside medical care and public health policies must be playing the biggest role in a dramatic drop in opioid overdose deaths, three health experts…"
-    },
-    {
       "title": "Medicare Advantage may need a reset",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBETkpGU2hSOGFzSXI5dmZlYzZaZDctMjR3MmFGbDM3ZlZMZDNqQmFEYkVzT01NeFFBMDhiUmUyZi0tNFdpVExwbEtzekh3b19rTjl0ZF9rdVBaQ1JjaXlBUzYtaWxMWkJzZDVWb2h3aW9Hcy1iT0N4VVh3?oc=5",
       "source": "MobiHealthNews",
@@ -441,14 +473,6 @@
       "snippet": ""
     },
     {
-      "title": "Seoul St. Mary's automates cancer drug registration",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUGJKVFhraXdZRWN4N05XX0pLaG44U2xfMXpjTlBNc2Y4UVVXaW1BWG5BUG1xeUZXSGJySkllUXI2b3dNSjZ5bnJQV1JwV3ZLRTF1YjkxMG1YeXc5N2o0Sktfb0p1blRUWU9mc0swbUpnQkROUU1iUWpTay1TOEpOOFAybHdCM2JTNFJlOGJxZ0FPWnY1SnBr?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-22T03:49:30.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Judi Health Launches Medicare Part D Plan for Employers",
       "link": "https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/",
       "source": "MedCity News",
@@ -487,14 +511,6 @@
       "sourceId": "medcity",
       "date": "2026-10-21T17:25:01.000Z",
       "snippet": "As generative AI moves toward performing increasingly consequential clinical functions, the American Medical Association (AMA) is urging the U.S. Food and Drug Administration to address a foundational question: Who is responsible for ensuri…"
-    },
-    {
-      "title": "Rural hospital independence depends on making technology count",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemZpQjBzWnlLZjBqMWt4MlJIS29lQkhGLWZ5MHk0S1FWc19EUGJBRE1KanplOEtSbE9yc1B2UUlVVEF2cGFuUml4YkVfaGdkU0M4RnVZZk5pWHl6N2Q4NEpTTUVjbk1DRVp2czU0SnVDemtRQ0kyOXJkd0psQXN0QUJhZ0RuaXVsZGUwWk5uZk4xVy1YQkJhbS1ZbkJpZw?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-21T15:31:54.000Z",
-      "snippet": ""
     },
     {
       "title": "IHE seeks to develop interoperability's future leaders",
@@ -617,6 +633,14 @@
       "snippet": "The GSK cancer immunotherapy Jemperli is now approved for treating advanced cases of rectal cancer harboring a particular genetic signature. It’s a label expansion for Jemperli, which was initially approved as a treatment for endometrial ca…"
     },
     {
+      "title": "Telemedicine helps reduce admissions, cut costs for cancer patients, study finds",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGZQcGg1THNPampWWVR2a2tuXzA3MXRZVFBmMUd3MkVRRlQtcWh1bkdYMmV6UzFsNTZROHEwaVEwcGY2MjhzamJLVjZfcHNXaFRkdTZWaDBTbGRIbUg2Vjc0QS1iS1BaZHNzdUpZYUhXdTlrY0M4UHdFdHFicXhzSjFmYk5ncHN4WVFDUldkb0d1eTB5MlMxcmE2eWJhMEdfd1ZFQlhQVm5TNnFsWjNGVVJR?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-20T17:02:08.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Doximity integrates UpToDate into AI clinical support tool",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ1NSdi1ka2trb2gxeWVRMUJLZ3JUN3pzQlNhSmdZam1kRE1sT0tMWmkwY29yOEo0QVdzSS1XaHdfVTZVX0ozM0tDUmpvbUVhVURpNk5WOHV1b0NoeWVzVXNOczlNSWxIU2ZZaGp6M3J6bExQZVg5R2NnNDlCMmxqZ0ZLbWdXLXdqdFFMVFNDYmViVWM?oc=5",
       "source": "MobiHealthNews",
@@ -625,11 +649,27 @@
       "snippet": ""
     },
     {
+      "title": "VA launches real-time external scheduling",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFItaDFLX2lnZUFmTWtITk52RmNHZUJ3Nld5TjNCY0xLbGlsZFY5SFNjbzlaMHcxM2xqVDJNUXJKV2Rra0NHNWxpaTJZTDlWV3l5clgyQ3hPVGJRcDNuWExrMEp4QTF2RjR1amk2UkdjZTRlVGgyb19SMDlNb1U5SnRxMnAtdw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-20T14:53:05.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Medicare Advantage plans face star rating woes",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDFsMF84bHdTU3ZORnBMRjh5TUJoUjVRRFp0UlFOcDNMZk8zWnMxY0JuX2NvQkozRG9JZ3BqWGZwM2RjLXB2M2Y4aWR3WEJURTRPb2JQOFNZZXJmM0IwbGttN2JyakxMTEdURmhna1N2VHlsLTItTG1WS28zZ2pvRGFlcEJuQUh0NkdR?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-10-20T14:07:28.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "The hidden cost of channel sprawl on healthcare’s frontline",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0tBdUhkeGR6MmMzYy1GWUw5SHJNbDBUX3ItVnM5SExsWTdGVkRhVGU2ank1NHhkMlA0bVE5d0dYQXd0QTNHc05INVR0MDUwcHhqN1pUUldfTWVnM2xGbTI4STYzYnJZTzIyMms1N0p6ajF3TVFQQkxHNFJZdGRiTTBOQ09lNGJyVmJoV2p1WQ?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-20T13:43:34.000Z",
       "snippet": ""
     },
     {
@@ -841,14 +881,6 @@
       "snippet": "UPMC Enterprises is making a strategic investment in VeloSource with plans to further develop its AI-enabled staffing management platform. The post UPMC Enterprises Invests in VeloSource to Expand AI-Enabled Clinician Staffing Platform appe…"
     },
     {
-      "title": "digital health funding",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xM2JaNC1KUzNlSHpQM1FuYWd2U1BUeGdadXJlUHg2Rnp1OTBCdDlNMmEyemhFOHpIRTBuWEFoRS1hU0dJWGtQWXdPM0l3TmhfbHQ3dEMwVjJySVZmbkw3Z1E2Rm9IdUZueDRja1BBUl9lSk9KTFQyRDFyTm4zZjQ?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-17T21:41:32.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Finance",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUVVOZzdpb3JRclR3c1ppS29nVjRWYTdBUVhQQy1UbTNvRklKYTRnSkI5Wmo5Q3NDMTR6Z2tJdzZycWtRamxISno2RjJESWthQ3V3Wm9udE9LNTd3LW1NSHp6Q0xvWGlHaTMzdTNyVUpLdFlPVmV1OFB3QnZweWsxNkQ1NEt4MkgyM0E?oc=5",
       "source": "Healthcare IT News",
@@ -863,14 +895,6 @@
       "sourceId": "medcity",
       "date": "2026-10-16T22:43:52.000Z",
       "snippet": "Epic will launch a tool in summer 2027 to help patients compare prescription cash prices and insurance costs across pharmacies. The post Why Epic Is Launching a Prescription Price Comparison Tool appeared first on MedCity News."
-    },
-    {
-      "title": "City of Arcadia",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LeUtzeXYydWE2NVl0SUJ4N3pSbXB1Ty1LTzQwU1pCN3ZOTURDNGdwT253NGJuRXNzZWJTbC05YXFiam4zZzA1NGxCM2pITlNSRzJHRGdrYW5WdTQ?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-16T21:26:04.000Z",
-      "snippet": ""
     },
     {
       "title": "Advanced Research Projects Agency for Health",
@@ -897,14 +921,6 @@
       "snippet": ""
     },
     {
-      "title": "Houston Methodist tackles ambient AI in surgery",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlp0SlBxZHVGa1V2ZVZ1Z0hNQ0twTGZYSzF1TmljT0sxd2xPTkhMNk1PRUZCZHpmX3BWSjctMDNreVFfRjNjX3BRVklneTBGd2RvNWhjNEZDMUpHbFpzNzhEZ25PdWpnQ2NzRnBObjBsaTczemJSYnp3TUFaUG05bUJCR3kyUFU?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-16T19:49:36.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Event: AI's role in rural healthcare transformation",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaXRYMUFCWmNHOERTUURKcE1tWE9HMmtTYlZxcmxQNVBkM3JVb2tuclVqcEpBZ2tUeWN4UlRZY1Z4c2JRcU9Ecy0xaldQckZYeGdWSXRpSjkxcl9FRWptRm1rbUVMcHk5SlBnVDdubFpJTnFzeVY1dW5PSDBHQjZrVXEzeFh6MnhzT3c?oc=5",
       "source": "MobiHealthNews",
@@ -913,44 +929,12 @@
       "snippet": ""
     },
     {
-      "title": "City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver",
-      "link": "https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-10-16T17:43:30.000Z",
-      "snippet": "City Therapeutics’ lead RNA interference therapy could become an alternative to blockbuster-selling anticoagulants. The company’s technology for designing RNAi drugs and delivering them to tissues throughout the body has already led to part…"
-    },
-    {
       "title": "Medical data crunch poses challenges to ambient AI and clinical agents",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2c4bm0wcFg4eVNxTUhIYXZocG95a1N6M09OeVZxdGxQbG9FbjRnRWtHYWxVMVpuakhYZDJHQmRsUDc1blowUi0tcDdQdi1zeVJIMk44bkdhTGRTa01PY3J5M1QyNXN3cXFTZ3dnRG1VS3d6UWhkZ1RJd3ZCc0VsSlJsaTd0eHZCbUt1WU11THBEN3FJQ3NqcDNRQzBKUERqc1Y2X3JCank?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-10-16T16:54:22.000Z",
       "snippet": ""
-    },
-    {
-      "title": "The Impending End of Cross-Subsidization",
-      "link": "https://medcitynews.com/2026/10/the-impending-end-of-cross-subsidization/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-10-16T13:53:00.000Z",
-      "snippet": "There is no single solution to the cross-subsidization problem. But here are some strategic actions that can make a health system’s economics more sustainable. The post The Impending End of Cross-Subsidization appeared first on MedCity News…"
-    },
-    {
-      "title": "Look past AI point solutions, a hospital CIO says",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVhIMEViTFlPTjhPcW93eDZEZ0JMZmdDSXAtZWhNM2lOa3NqNmJXdDdLb3F1a3dBZzlkdGZ4a3ZnZ0RfeFFCQzBzU3pzbklpU3NNSFhPX0RtaFc0Z2JCdWl5NnVGZU9JTU1HMDVyNzZ6cEpLekFhM1VVWFlKZkczd0tqOEFkWU9NNEJFY29zWFdIeHhz?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-16T13:17:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "How AI Is Connecting MedTech’s Data Without Compromising Compliance",
-      "link": "https://medcitynews.com/2026/10/how-ai-is-connecting-medtechs-data-without-compromising-compliance/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-10-16T13:08:00.000Z",
-      "snippet": "The connected, agent-ready enterprise is the model that wins, where compliance and intelligence operate together. The post How AI Is Connecting MedTech’s Data Without Compromising Compliance appeared first on MedCity News."
     },
     {
       "title": "Epic launches new Prescription Marketplace price transparency tool",
@@ -969,20 +953,36 @@
       "snippet": ""
     },
     {
-      "title": "Privacy & Security",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81d2Nxc1RUbkcwM3FndEZvekNoRDZqSzBGSDZ5TUFiWl85SkFJNkJ5amZlTTVlanJXaWpPR1RULTdqWVB1WHY2SFFxX01lblh6U3RVbGFtM0pHYTl3Q3Znc3RPalMyMm1UWWV1Q1o0ZXhQV08xQXpvdFFqdw?oc=5",
+      "title": "Look past AI point solutions, a hospital CIO says",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVhIMEViTFlPTjhPcW93eDZEZ0JMZmdDSXAtZWhNM2lOa3NqNmJXdDdLb3F1a3dBZzlkdGZ4a3ZnZ0RfeFFCQzBzU3pzbklpU3NNSFhPX0RtaFc0Z2JCdWl5NnVGZU9JTU1HMDVyNzZ6cEpLekFhM1VVWFlKZkczd0tqOEFkWU9NNEJFY29zWFdIeHhz?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
-      "date": "2026-10-16T03:17:30.000Z",
+      "date": "2026-10-16T07:00:00.000Z",
       "snippet": ""
     },
     {
-      "title": "Rosarium Health Forms Home Modification Partnership with Anthem Medi-Cal",
-      "link": "https://medcitynews.com/2026/10/rosarium-health-forms-home-modification-partnership-with-anthem-medi-cal/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-10-15T22:53:27.000Z",
-      "snippet": "Rosarium Health partnered with Anthem Medi-Cal to provide home safety modifications for eligible members. The post Rosarium Health Forms Home Modification Partnership with Anthem Medi-Cal appeared first on MedCity News."
+      "title": "Focus investment on AI governance",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44dlpRbExrdUt3WnFqWnlGdGQxdmYwdDlJQVNseUYzWXBtTmNtOEQzVWhuOHhvZXYwWFdMZTdobUpWbW1yMllrR3JOLU1JblVDU21iTmRDcjFmOXlFMi04ZURISFFaQ2hZSjRvdDQ3Mkt3ZlVuM0E1SVBNMWc?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-16T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Houston Methodist tackles ambient AI in surgery",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlp0SlBxZHVGa1V2ZVZ1Z0hNQ0twTGZYSzF1TmljT0sxd2xPTkhMNk1PRUZCZHpmX3BWSjctMDNreVFfRjNjX3BRVklneTBGd2RvNWhjNEZDMUpHbFpzNzhEZ25PdWpnQ2NzRnBObjBsaTczemJSYnp3TUFaUG05bUJCR3kyUFU?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-16T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Millie and El Camino launch joint maternity clinic and more digital health news",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTV81ckNXMVlTbW44b3JpZXF3eVN6LWZySFVWRlNpYldHNjM5VVF5U0dxYnRpcll4VzhCYkp4ZVlXLXNYUVJXT2dDLS1FN0VtVDU4QVZWa2dCODBmN2xnZGQ2X2ZIRlVURHFic0d6VzRhVnZheklLOXRlbUVYaF9ydFg1anBxcTBoOVU1R293NVdrS29qdjlrRHQtalFBR2NLc3k2TFpsMzdLQXI3YU5LSXJzX1FZZw?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-16T07:00:00.000Z",
+      "snippet": ""
     }
   ]
 }
