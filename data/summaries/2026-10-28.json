@@ -1,0 +1,328 @@
+{
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T00:19:54.825Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 52,
+  "sources": {
+    "MedCity News": 30,
+    "STAT News": 10,
+    "MobiHealthNews": 5,
+    "Healthcare IT News": 7
+  },
+  "summary": "Today's health-tech landscape is shaped by several critical developments. The FDA and regulators are moving quickly on emerging therapies—approving GSK's novel hepatitis B drug and accelerating personalized gene therapy pathways—while also grappling with oversight of generative AI tools that increasingly perform clinical functions. The sector is consolidating strategically, with Willow expanding maternal health via two acquisitions, Alcon investing $550 million in neurotech cell therapy, and Gilead paying $1.3 billion for an oral peptide to rival J&J's immunology drug. Meanwhile, operational pressures are mounting across healthcare: automation startups like ClarityCare are raising capital to meet new federal prior authorization deadlines, remote monitoring programs are expanding for chronic diseases, and rural hospitals continue lagging in AI adoption despite clear clinical benefits. Safety concerns persist in emerging categories—Artiva is shutting down after deaths in an autoimmune cell therapy trial, signaling that translating cancer therapy approaches to autoimmune disease remains risky. Broader policy questions are also surfacing, from state attorneys general challenging pharmaceutical data demands under 340B programs to the AMA calling for risk-based GenAI oversight and concerns about Medicare's approach to modernizing maternity care.",
+  "items": [
+    {
+      "title": "Willow Acquires 2 Women’s Health Companies",
+      "link": "https://medcitynews.com/2026/10/willow-acquires-2-womens-health-companies/",
+      "source": "MedCity News",
+      "date": "2026-10-27T22:01:15.000Z"
+    },
+    {
+      "title": "Patients Deaths and Data Shortfall Spell the End for Cell Therapy Biotech Artiva",
+      "link": "https://medcitynews.com/2026/10/artiva-cell-therapy-natural-killer-nk-allogeneic-allonk-fludarabine-autoimmune-diseaseartv/",
+      "source": "MedCity News",
+      "date": "2026-10-27T21:07:02.000Z"
+    },
+    {
+      "title": "STAT+: Missouri AG warns Lilly to stop requiring data from hospitals seeking 340B drug discounts",
+      "link": "https://www.statnews.com/pharmalot/2026/10/27/missouri-ag-warns-lilly-340b-drug-pricing-data/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-27T18:45:34.000Z"
+    },
+    {
+      "title": "ClarityCare Raises $16.5M to Speed Up Prior Authorizations",
+      "link": "https://medcitynews.com/2026/10/claritycare-raises-16-5m-to-speed-up-prior-authorizations/",
+      "source": "MedCity News",
+      "date": "2026-10-27T18:33:16.000Z"
+    },
+    {
+      "title": "STAT+: After two deaths in autoimmune cell therapy trial, Artiva is shutting down",
+      "link": "https://www.statnews.com/2026/10/27/autoimmune-cell-therapy-trial-artiva-therapeutics-shutting-down/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-27T18:05:13.000Z"
+    },
+    {
+      "title": "Vera Health has secured $28.5M for clinical AI search platform",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGY5bDNqdGh3cHg3RTA5djBWMW5ydm1URFJOVDQxX0hoZFJQZVdrU3RlWmVVVFE5YmdNSF9aTW96cHJNZGFHMFlhT1JjYzhkRUo3TGtGSjNOTnJ0SndUNVJGVDFZVk5GZjZjd2k5VG5MWkktenhKUkE2cWdUcmt6VGM2Rk1zQU1odG5WeVQyckVLNjdhZ2o4?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-27T17:36:46.000Z"
+    },
+    {
+      "title": "At MD Anderson, 1 in 4 ambulatory visits is now virtual",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnlVT19VUjFxODg5ZmphcTJfYlNBcVR1UVgtdG8yNDhsLU9BSXhoYUNwNDhiOXVPZmpRdDQtTjRfbmVHYU4wdS1xU0hrQWZSUHpKOU1NSzlXMklUZ3AtQklacktNZXAxR3UyOXZWWDJqcjBQRWQ5cEp3bThMV0Mza21TRGZ6em5Sb1lz?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-27T16:22:41.000Z"
+    },
+    {
+      "title": "STAT+: FDA offers new details on quicker approval pathway for personalized gene therapies",
+      "link": "https://www.statnews.com/2026/10/27/fda-personalized-gene-therapy-guidance-individualized-feature-space/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-27T16:17:33.000Z"
+    },
+    {
+      "title": "STAT+: RFK Jr. goes for broke in Iowa",
+      "link": "https://www.statnews.com/2026/10/27/rfk-jr-campaigns-zach-lahn-iowa-coins-binsa-china-biotech-rules/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-27T15:45:21.000Z"
+    },
+    {
+      "title": "ONC finalizes HTI-5 health IT deregulation rule",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1BwQmF2ellGcXRZWnJhQnhkdzNucUFmNGtYbTZnQTB5N0hSaWIwVm1NMWVidGM4dkNPN1ZHVHNPZGJSbHcxTnJabTMyWVZGMWxsSS1rc1lhT0Qwd0tmOEs2YWNMSU9KRVBVWEJLRHlxSlhnbFNvaHd2TGt1SXJzeTA1Q1hhYm9aRUUwclFB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-27T15:02:47.000Z"
+    },
+    {
+      "title": "Q&A: Google on using AI to detect healthcare bias, accelerate discovery",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSnZVQUFBZlJXcVhjam1yNHlpdnhoYmZjNHNKeGNVd2o2Qk1WUjN6N1JXRHdpVDJMRVFVTzBNNFVWdzdxV0Q4QTRONUtFOFJYZjlyOEEzeHl2ODVfalZTTUJ5VzdBWDZ5STBKNmZyVzFFNEp1Z3pLbmJsMW1IWDVUYUN6eEZoejV2Z0VvZkgxcjltVXM1ZDV1eFBsdHBIMUE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-27T14:37:27.000Z"
+    },
+    {
+      "title": "Beth Israel Lahey Health launches new hub for AI research and validation",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmdRekF4T3g4MVljM1ZuOEpfRE1pc3k1eUlVbTdRMXdNNEtfVVJOSFUzTUFVRGtQLUlkVndHaUh4aXhoMGFMT2VOTEtWY3Joa3FTUlBNQnVrcjJISnNNN0xWci1qdkdXMy1WQnBBZ3B4MzVmeDctV2hMYWZfNUU5dXBYYjJlX3N4WEpHcGcwTThtQ21vQWFpWFZPSWE1ZTg0ZkxlVzAwaVRtQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-27T14:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Nonprofit resurrects shelved gene therapy after startup shuts down",
+      "link": "https://www.statnews.com/2026/10/27/biotech-news-nonprofit-resurrects-shelved-gene-therapy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-27T14:28:10.000Z"
+    },
+    {
+      "title": "Simple setup lowers providers' AI adoption barriers",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3V6VlVJc05tVzY4WkxtcmRUN1dldnU0Ui1JeU5mVDFEcGxUU1ZkRWhUdGlsUjVOTWNLVm1GQWZ3cHZFV0NBNnpYWlhHZ1VoenVKbnZyMlQwX1NyeVV2a3F0SVFjeU4wVkI5TXpoMV9OaTZaNzBzWXN0RllMNFNTWWFEWDZoNlpxck4wd1FCQ0g?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-27T14:05:22.000Z"
+    },
+    {
+      "title": "A Market, Not a Mandate, Is the Fastest Way to Bring AI Into Hospitals",
+      "link": "https://medcitynews.com/2026/10/a-market-not-a-mandate-is-the-fastest-way-to-bring-ai-into-hospitals/",
+      "source": "MedCity News",
+      "date": "2026-10-27T13:38:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a Novo setback in court, a House probe into big PBMs, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/10/27/novo-setback-in-court-house-probe-into-big-pbms/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-27T13:25:50.000Z"
+    },
+    {
+      "title": "Zapping patient wait times with AI receptionists",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0R5NTRYUlBSUXBCbVp5cGZWRTBubEZ6a3JoZV9nOWpGdWFGWkd3RWZVd1NuNFZtWUNXMFZpY3dFRWxGRUdXZTdCVjVjcWtlWmtNNFJzNF9MYk1qWEsxTkhRUkQ1cE5sYkR1TFhIR1Y3Yk83NGhZaVFYUEhRdFRKVjVlREV0ckhpY2c?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-27T13:18:00.000Z"
+    },
+    {
+      "title": "A possible treatment for brain-eating amoebas, found in the sea",
+      "link": "https://www.statnews.com/2026/10/27/health-news-possible-treatment-for-brain-eating-amoebas-found-in-sea/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-27T12:22:28.000Z"
+    },
+    {
+      "title": "SGH AI cuts brain bleed reporting time",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDdyOEx2REFCLXNBbDdGMEhTWFl3cURFYWVBdGo5M2RPOEM3c1pCd2VmUmVMWkRVWDVkTWRxdDByYTY4aWZOQlZLb1JBU0cyUWNnNHVXRm5LeUpueXRtN0c5TWxUcWc1RTNCZUx4N0t6Y2lXMFJ6eko0UlM0dWpELWtEQkpZN1d4?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-27T11:06:50.000Z"
+    },
+    {
+      "title": "AI boosts rural docs' antibiotic prescribing",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcURZd3hENEV4eUZKejJEcEhxRDlqYUlVM3EyMWNTVnJfRjdzUEVpZ0VxMy1Rdm1IX0J5RkZPemFib0FtOU9PZHVkSEdEUVhLTEp2c1VUSnhlSk13UGFYRWRNdkpONENtd3FqVWt1UEN4eDVxOFpOQkM3WmdtdGdkeW9pblA5ajVoc2pv?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-27T11:05:19.000Z"
+    },
+    {
+      "title": "Opinion: Emergency pediatric care is now in permanent crisis mode",
+      "link": "https://www.statnews.com/2026/10/27/pediatric-emergency-care-rural-hospital-closures/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-27T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Cancer vaccines are finally here. How do we get them to patients?",
+      "link": "https://www.statnews.com/2026/10/27/cancer-vaccines-intismeran-autogene-esmo-results-delivery-access/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-27T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Pennsylvania Dutch country, tired of waiting for biopharma, builds drug company of its own",
+      "link": "https://www.statnews.com/2026/10/27/gene-therapy-cow-rare-disease-amish-mennonite-patients-waiting/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-27T08:30:00.000Z"
+    },
+    {
+      "title": "How Experts Are Reacting to Trump’s Women’s Health Executive Order",
+      "link": "https://medcitynews.com/2026/10/how-experts-are-reacting-to-trumps-womens-health-executive-order/",
+      "source": "MedCity News",
+      "date": "2026-10-26T22:51:49.000Z"
+    },
+    {
+      "title": "Obesity Biotech Corxel Is Going Public in a Merger as Oral GLP-1 Heads to Phase 3",
+      "link": "https://medcitynews.com/2026/10/corxel-obesity-oral-glp-1-amanat-spac-merger-weight-loss-aman/",
+      "source": "MedCity News",
+      "date": "2026-10-26T19:53:52.000Z"
+    },
+    {
+      "title": "Sutter Health Expands Remote Monitoring Program to Patients with Heart Failure",
+      "link": "https://medcitynews.com/2026/10/sutter-health-expands-remote-monitoring-program-to-patients-with-heart-failure/",
+      "source": "MedCity News",
+      "date": "2026-10-26T17:48:02.000Z"
+    },
+    {
+      "title": "In a Maternity Care Crisis, CMS Undermines Efforts To Modernize Care",
+      "link": "https://medcitynews.com/2026/10/in-a-maternity-care-crisis-cms-undermines-efforts-to-modernize-care/",
+      "source": "MedCity News",
+      "date": "2026-10-26T13:22:00.000Z"
+    },
+    {
+      "title": "FDA Alignment Is a Starting Point, Not a Rare Disease Strategy for the European Market",
+      "link": "https://medcitynews.com/2026/10/fda-alignment-is-a-starting-point-not-a-rare-disease-strategy-for-the-european-market/",
+      "source": "MedCity News",
+      "date": "2026-10-26T11:30:00.000Z"
+    },
+    {
+      "title": "CareValidate Launches Expanded HRT Offering",
+      "link": "https://medcitynews.com/2026/10/carevalidate-launches-expanded-hrt-offering/",
+      "source": "MedCity News",
+      "date": "2026-10-25T23:22:54.000Z"
+    },
+    {
+      "title": "Lycia Lands a $317M IPO for Inflammation Drugs Based on Nobel Prize-Winning Science",
+      "link": "https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/",
+      "source": "MedCity News",
+      "date": "2026-10-25T16:13:53.000Z"
+    },
+    {
+      "title": "Congress’s Patient Matching Fix Won’t Work — Here’s What Would",
+      "link": "https://medcitynews.com/2026/10/congresss-patient-matching-fix-wont-work-heres-what-would/",
+      "source": "MedCity News",
+      "date": "2026-10-25T13:34:00.000Z"
+    },
+    {
+      "title": "Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR",
+      "link": "https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/",
+      "source": "MedCity News",
+      "date": "2026-10-25T13:21:00.000Z"
+    },
+    {
+      "title": "Fractyl’s Weight Maintenance Device Meets Clinical Goal, but Shares Nosedive, Layoffs Follow",
+      "link": "https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/",
+      "source": "MedCity News",
+      "date": "2026-10-25T12:30:00.000Z"
+    },
+    {
+      "title": "Where Are the Biggest Opportunities in Women’s Cardiovascular Health?",
+      "link": "https://medcitynews.com/2026/10/where-are-the-biggest-opportunities-in-womens-cardiovascular-health/",
+      "source": "MedCity News",
+      "date": "2026-10-23T20:33:44.000Z"
+    },
+    {
+      "title": "Gilead to Pay $1.3B for Oral Peptide That Could Rival J&J’s New Immunology Pill",
+      "link": "https://medcitynews.com/2026/10/gilead-sciences-oral-peptide-il-23-inhibitor-pepstar-immunology-inflammation-ibd-gild/",
+      "source": "MedCity News",
+      "date": "2026-10-23T17:46:10.000Z"
+    },
+    {
+      "title": "Why an Independent NP Practice Requires an Undergraduate Business Foundation",
+      "link": "https://medcitynews.com/2026/10/why-an-independent-np-practice-requires-an-undergraduate-business-foundation/",
+      "source": "MedCity News",
+      "date": "2026-10-23T13:54:00.000Z"
+    },
+    {
+      "title": "Amazon, Google and Other Major Employers Back CMS Prior Auth Effort",
+      "link": "https://medcitynews.com/2026/10/amazon-google-and-other-major-employers-back-cms-prior-auth-effort/",
+      "source": "MedCity News",
+      "date": "2026-10-22T21:52:36.000Z"
+    },
+    {
+      "title": "Alcon Expands Its Cell Therapy Ambitions With $550M Neurotech Pharma Acquisition",
+      "link": "https://medcitynews.com/2026/10/alcon-expands-its-cell-therapy-ambitions-with-550m-neurotech-pharma-acquisition/",
+      "source": "MedCity News",
+      "date": "2026-10-22T17:54:22.000Z"
+    },
+    {
+      "title": "Why SDoH Programs Fall Short — and What It Takes to Make Them Work",
+      "link": "https://medcitynews.com/2026/10/why-sdoh-programs-fall-short-and-what-it-takes-to-make-them-work/",
+      "source": "MedCity News",
+      "date": "2026-10-22T13:21:00.000Z"
+    },
+    {
+      "title": "INVEST Digital Health Celebrates Healthcare Innovation in Texas",
+      "link": "https://medcitynews.com/2026/10/invest-digital-health-celebrates-healthcare-innovation-in-texas/",
+      "source": "MedCity News",
+      "date": "2026-10-22T11:30:00.000Z"
+    },
+    {
+      "title": "Judi Health Launches Medicare Part D Plan for Employers",
+      "link": "https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/",
+      "source": "MedCity News",
+      "date": "2026-10-21T22:18:29.000Z"
+    },
+    {
+      "title": "GSK Wins FDA Nod for Novel Hepatitis B Drug Offering a Potential Functional Cure",
+      "link": "https://medcitynews.com/2026/10/gsk-chronic-hepatitis-b-fda-approval-bepirovirsen-hibsago-functional-cure-ionis-aso-ions/",
+      "source": "MedCity News",
+      "date": "2026-10-21T18:38:32.000Z"
+    },
+    {
+      "title": "AMA Calls for Risk-Based GenAI Oversight to Protect Patients and Support Responsible Innovation",
+      "link": "https://medcitynews.com/2026/10/ama-calls-for-risk-based-genai-oversight-to-protect-patients-and-support-responsible-innovation/",
+      "source": "MedCity News",
+      "date": "2026-10-21T17:25:01.000Z"
+    },
+    {
+      "title": "Your Product Works — So Why Does It Still Fail in the Real World?",
+      "link": "https://medcitynews.com/2026/10/your-product-works-so-why-does-it-still-fail-in-the-real-world/",
+      "source": "MedCity News",
+      "date": "2026-10-21T13:34:00.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQSjMtWXZtanpiM1N6eS0xODZ6N05zbVJKX0x4dWEtV244Q2wwdU1ydGF4MWowSHkzVDlUUlktYUNCT3ZIWmhscExKZ2NiVzFCOHNVUFBzanRZbGdONW1uODhuTGNWODBtM3FIYWZXcVFvSk14SEtWdmZUY1pnM255cnNxWVlQaE1URW90ZWd1TzdpZVNGRHUwQW9pTy04VDRHZzU4MjdDd2xmU0ZSUUctamxsV1lRRXZEZ2hGS0RGZXNfWnZBb0I2aWtHQm9QT1l1aVdUeDZxWmhXanNoTGc5UlJzRnM0bHBBQTE5blpzTWNfck1EMU5EU1dOcm9ZNHY4OElyeTFKdFZZcXdHOVNUM0ZwUFFJeVlYaTA2ZG1WV3h3RS1wNC0yM1BSeno?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-21T01:12:02.000Z"
+    },
+    {
+      "title": "FDA Official Believes GenAI-enabled Tools Will Need to Be Assessed Like a Physician",
+      "link": "https://medcitynews.com/2026/10/fda-official-believes-genai-enabled-tools-will-need-to-be-assessed-like-a-physician/",
+      "source": "MedCity News",
+      "date": "2026-10-20T22:23:38.000Z"
+    },
+    {
+      "title": "Readily Secures $11M for Compliance Intelligence Platform",
+      "link": "https://medcitynews.com/2026/10/readily-secures-11m-for-compliance-intelligence-platform/",
+      "source": "MedCity News",
+      "date": "2026-10-20T21:00:26.000Z"
+    },
+    {
+      "title": "How one study explains healthcare AI’s ROI",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV1AyY19COE5IY1VCWloydnBwTTNPNUltdWFkNWo3dm1fUUpHYTRyUmQwNmU2WGw5dFVPSlNWaDE5dWZ5ZGVwbERwei01dE4wWjZadUYtWHdlWFI3UzJSc1RvMVkycHZ0aTdDS1RmUTd5bEQtUjUwY09PZ0E5bHl4LTRjRDhkZmVVeGJr?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-20T20:58:21.000Z"
+    },
+    {
+      "title": "Unlock the value of your unstructured data",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0F2T3JFamw0RjVjbWVBR1ZZYmg0YTF0b1Vxd2dMMzJCdS0yaFpjSXoxN05IZTBNOXg4UFdKSmsxU0VtWl9KUGp1OURKTWl0NHNramNGUWZVamRQYkpySUdqa0kzeFJJLXRWWlhWa3hyOERiUlVWRU5fYWY0TDM4S1kwaw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-20T20:38:23.000Z"
+    },
+    {
+      "title": "GSK Immunotherapy Gets Accelerated FDA Approval for Treating Rectal Cancer",
+      "link": "https://medcitynews.com/2026/10/gsk-rectal-cancer-immunotherapy-jemperli-dostarlimab-pd-1-msi-h-dmmr/",
+      "source": "MedCity News",
+      "date": "2026-10-20T19:21:12.000Z"
+    },
+    {
+      "title": "A Radical Proposal to Preserve Cell and Gene Therapy Innovation",
+      "link": "https://medcitynews.com/2026/10/a-radical-proposal-to-preserve-cell-and-gene-therapy-innovation/",
+      "source": "MedCity News",
+      "date": "2026-10-20T13:09:00.000Z"
+    },
+    {
+      "title": "Report: Health System M&A Activity Remains Steady in Third Quarter",
+      "link": "https://medcitynews.com/2026/10/health-system-ma-activity-remains-steady-in-q3-2026-vizient-report-shows/",
+      "source": "MedCity News",
+      "date": "2026-10-20T12:13:31.000Z"
+    }
+  ]
+}
