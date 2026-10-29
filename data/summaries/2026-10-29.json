@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T00:40:20.167Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 29,
+  "sources": {
+    "MedCity News": 5,
+    "STAT News": 12,
+    "MobiHealthNews": 8,
+    "Healthcare IT News": 4
+  },
+  "summary": "Policy and regulatory challenges dominate today's health-tech agenda, with investigations into insurers' ACA coverage terminations and scrutiny of the Trump administration's drug-related initiatives taking center stage. The Government Accountability Office has been asked to review whether the TrumpRx platform actually delivers claimed drug savings, while the HHS is moving to allow compounding of unapproved peptides despite limited evidence supporting many wellness compounds. In pharmaceutical news, Eli Lilly's retatrutide significantly outperformed Novo Nordisk's Ozempic in head-to-head diabetes trials on both blood sugar reduction and weight loss, positioning it as a major growth driver. On the technology front, a STAT investigation reveals that Epic's dominant market position is actively stifling health-tech innovation through selective data access restrictions, raising questions about whether Epic's practices unfairly disadvantage competitor AI and software developers. Several AI companies are also facing legal and ethical pressure, including OpenAI being sued over dangerous medication advice from ChatGPT, underscoring ongoing concerns about responsible AI deployment in healthcare. Meanwhile, health systems continue adapting to operational pressures, from managing Epic transitions to implementing retention strategies as Medicaid work requirements intensify.",
+  "items": [
+    {
+      "title": "Senators Investigate Insurers’ Role in Removing Thousands from ACA Coverage",
+      "link": "https://medcitynews.com/2026/10/senators-investigate-insurers-role-in-removing-thousands-from-aca-coverage/",
+      "source": "MedCity News",
+      "date": "2026-10-28T23:26:43.000Z"
+    },
+    {
+      "title": "STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings",
+      "link": "https://www.statnews.com/pharmalot/2026/10/28/lawmaker-wants-gao-probe-trumprx-drug-pricing/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-28T20:51:12.000Z"
+    },
+    {
+      "title": "OpenEvidence partners with American Society of Addiction Medicine",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaGNSSDZxcEZzQVg0a2ZtX2Z2VF9xaXRWYzlBTkpvZ0phZ2YzWjdLOUU5VW5DX25PZ1d6bDgyc0lVT2cwYllXMXRnXzYwb0dJVHZPNFVrUHJrYjkycUVVanR5emhRalNHeUp0SXRBQjJDYXdQTFBhN2l0S2JmOVh3d0E3aHc2bWhseGdvWmVRVzZIMDA1bTduSg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-28T20:30:37.000Z"
+    },
+    {
+      "title": "Avante raises $30M to expand AI benefits platform",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlBLLVliVFhFOGtlRjhEQTFKQTBZazlHRXVvbXhNY3NYdEo4Rk5LMWtpcHo3ZnJHdlo0a3FsTWV3T2puRnlUa1JwMWFiUXF6TzVMYi1VV2VhYjRJekZDdm1jbGxQNXI3TkRfcnBwWmdVZDFGMkZOYzFqT1lzdnR0Y1dQR0dKSmV1?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-28T20:07:34.000Z"
+    },
+    {
+      "title": "From Automation to Autonomy: How eClinicalWorks Agentic AI Enables Intelligent Workflows",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmxrR2tveHAweTJZWmZkb1FuSEUzY2hqc1JBWXk4R25aZkhUZWdSRFkzcXlWWVp5MjRpazZncDZfWjNEUGdidjVfM0dxRE5UY0xxcVRfUzhrNGxWZFlJaDMxYnBHc2xNX3hwZWJMSmNJUWVxRzhKQUkyaTBMWl9qOFhkWXV3amRuLU5GbUFzNDFudDVVUWRBVVNLTURNbDVqZlFXcldQUlRBa2I4U09NXzAwaTZOR2lf?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-28T20:05:00.000Z"
+    },
+    {
+      "title": "Equiti acquires Lexi to expand AI medical interpretation services",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGJnM1N6M0cxMHg4ZnJsQ3U3cVA5RUx3cGhSWWp3QlI4MzJteTJxVHA0WE5MUk44Y1c4SmFQZVJSU3JXekprdmRvVlJRWXpCVGRUa3E3clNXdXVrbndKaG41VF9feFNyVW9QOG1vQmxmSHJkUVNsYWR4TmxaOG5QWmdjSmdZeUhNU3piYzQ0LU1LM1R0clVjdVQyNHRsV1k?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-28T18:07:27.000Z"
+    },
+    {
+      "title": "Eli Lilly’s ‘Triple-G’ Drug Tops Ozempic in Head-to-Head Type 2 Diabetes Trial",
+      "link": "https://medcitynews.com/2026/10/eli-lilly-retatrutide-type-2-diabetes-glp-1-gip-glucagon-metabolic-ozempic-lly/",
+      "source": "MedCity News",
+      "date": "2026-10-28T18:06:45.000Z"
+    },
+    {
+      "title": "STAT+: HHS moves to allow compounding of some unapproved peptides",
+      "link": "https://www.statnews.com/2026/10/28/hhs-enforcement-discretion-policy-allows-peptide-compounding/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-28T16:35:03.000Z"
+    },
+    {
+      "title": "CISA announces new strategic vision for cyber defense",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdTRtbTg3c0xMVG9OalMwT0ZBeHJoR2wtdU40UFhwQUl2N29ObFZRd0FwRDY3ajdnZGMwN3R2Z2tDbmZzS3ZzQUJlbTlla2h6d1d5Q0lwaWhQdEFYSVkySzFIMnhzcHFlanZkdzZvWEp4Sl9iMGdGakhleFhtNU9MUmhFazRrVWVxX05jbDdmWlY?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-28T16:23:42.000Z"
+    },
+    {
+      "title": "How Inspira Health managed the people behind its switch to Epic",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOU1lSGNTRGFVQ0xlSFI5cFUxRGFjTnVqa3o1MG1lRXBveXlWbXlRczBLV1dzb2xYVlVNYjN2MTlXcF9SRDZJNjBDd2wwenNyVUk3VVphN0lNQkU4OTdNUWdsb3FpWG54azJHbzJHbThCOHIwUkxySm4zZUw4cVUxRHhWWnJsU0h4bTFWd3dKdDZXUXlKWWJLaTl3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-28T15:57:05.000Z"
+    },
+    {
+      "title": "Ahead of Midterms, HFMA Calls for Cross-Sector Action on Healthcare Affordability",
+      "link": "https://medcitynews.com/2026/10/ahead-of-midterms-hfma-calls-for-cross-sector-action-on-healthcare-affordability/",
+      "source": "MedCity News",
+      "date": "2026-10-28T15:53:51.000Z"
+    },
+    {
+      "title": "Senate candidate El-Sayed wants to ‘grill’ RFK Jr., calls him the ‘most incompetent HHS secretary ever’",
+      "link": "https://www.statnews.com/2026/10/28/abdul-el-sayed-profile-midterm-policy-issues-health-care/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-28T15:14:49.000Z"
+    },
+    {
+      "title": "STAT+: Why every health care AI company must face Epic",
+      "link": "https://www.statnews.com/2026/10/28/health-care-ai-innovation-challenge-epic-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-28T14:52:17.000Z"
+    },
+    {
+      "title": "OpenAI sued over allegedly dangerous ChatGPT medication advice",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVRhTU5DN0hrSXdSVEsyRmhTZE9mTmxmZTFMaWg3WGRranlyRXZIeVhWaXZySm51UVV6LU1kMzhDZGZUNHNBX1lkbldWcllNS1dTLXpmZFJUNkhQa1c3VTlDRUV5Q2hQUEh2MWIwTF9Ld25mSGtwakpGQzEtcGhaMUhfQXJodExFRDdtUmJGLVE0emtZWUROc1h2SFViaEU?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-28T14:40:00.000Z"
+    },
+    {
+      "title": "Benchmarks for meaningful AI adoption",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeUg3R05jbzl4SUtUTEFZOTlwbFRPdWpFN0U2VmRSOUx2cTZFdUdzMnBYTF9SVy1BaEI1SFRLbXV6TVlheWp0WVF6ck42RTZLMk9ERXVNQUxOOEtvRzNrY1g0aURqWmFsR3BBTlNLZGQ4aURGWHptSUZGWXFqWloycg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-28T14:20:24.000Z"
+    },
+    {
+      "title": "Work Requirements Put New Pressure On Medicaid Member Retention",
+      "link": "https://medcitynews.com/2026/10/work-requirements-put-new-pressure-on-medicaid-member-retention/",
+      "source": "MedCity News",
+      "date": "2026-10-28T13:53:00.000Z"
+    },
+    {
+      "title": "Evaluating AI in clinical settings",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZU1JeWpVUk12eXJrMXU0REFid0stcUwwdGhmNW5QZWRVUS1aS2FQX1ZydFYzdmtuNV9ta2s3WUd6ZGNDb2k3MGp4QzBXR0VnSVJCOTlVazhvUUc0cmkxSnlYX2FWQlhLUEpPbGpBS0pJNjZtX1N4OWNqd0d1b3dfRQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-28T13:49:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about 340B battles, new results for a Lilly weight loss drug, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/10/28/battles-over-340b-lilly-reports-weight-loss-drug-results/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-28T13:44:59.000Z"
+    },
+    {
+      "title": "STAT+: Lilly’s triple-G drug beats Ozempic in head-to-head study",
+      "link": "https://www.statnews.com/2026/10/28/biotech-news-lillys-triple-g-drug-beats-ozempic-in-head-to-head-study/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-28T13:42:44.000Z"
+    },
+    {
+      "title": "How Can Hospitals and Pharmacists Collaborate  on Effective Stewardship Programs for Opioids and Antibiotics?",
+      "link": "https://medcitynews.com/2026/10/how-can-hospitals-and-pharmacists-collaborate-on-effective-stewardship-programs-for-opioids-and-antibiotics/",
+      "source": "MedCity News",
+      "date": "2026-10-28T13:42:00.000Z"
+    },
+    {
+      "title": "What has actually caused the decline in drug overdose deaths?",
+      "link": "https://www.statnews.com/2026/10/28/health-news-why-are-overdose-deaths-declining/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-28T12:01:13.000Z"
+    },
+    {
+      "title": "STAT+: Lilly says ‘triple-G’ drug beat Novo’s Ozempic in diabetes study",
+      "link": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-28T10:45:00.000Z"
+    },
+    {
+      "title": "Opinion: How pediatricians like me are helping families stay calm and informed about measles",
+      "link": "https://www.statnews.com/2026/10/28/measles-parents-panic-pennsylvania-vaccines-education/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-28T08:30:00.000Z"
+    },
+    {
+      "title": "Have you been impacted by Epic’s actions?",
+      "link": "https://www.statnews.com/2026/10/28/epic-systems-electronic-health-records-reader-callout/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-28T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Freezing my eggs showed me just how anti-feminist the fertility industry can be",
+      "link": "https://www.statnews.com/2026/10/28/fertility-industry-private-equity-egg-freezing-ethics-costs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-28T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: As Epic’s dominance grows, its iron grip is choking innovation in health technology",
+      "link": "https://www.statnews.com/2026/10/28/epic-systems-ehr-dominance-health-tech-antitrust-scrutiny/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-28T08:30:00.000Z"
+    },
+    {
+      "title": "Genie Health to scale agentic AI in Singapore clinics",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPel9NMk1uamJ5bjVJQ0VBaVNFT1JNS19hV1FEaHUyUTlyMk1pZnV3cDJNWjlTeWZkclktZVp2RTdad0ZtWllNRVZ3Wl8tMkpVOUw1cjZUQm1fZGdoRFVkb2xPWnVEMmhWdmhpWGU2c1FIMGVMLUQwakd0M2hCdTdDNElDNjdJVzFGRHI4WXdXLWNYQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-28T05:09:30.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lYTF1WFVYQnBISVR3UDFocGZfLTdtMmhIVHNTWFNVaU9tMWxTLU9fOExZbmFpQkNGX0l2SWdpQ2x6TzNvRGpCdXVRN0hKaXROdFZwVkVDcWlCbXBtZ0R4cDNDMkNtd2JmZngtcDhtLTlQZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-22T14:13:48.000Z"
+    },
+    {
+      "title": "RingConn",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1veFBNbF9feHlDQnk4cFJWMHBVSjlVU0RhZlJST0tvTHdEdW1Dc0luaXR1WVdCVW5FRVVmMU5jcV9NVWN1U3gzX0xqbUNMZlE3LUNjSi1n?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-21T00:58:14.000Z"
+    }
+  ]
+}
