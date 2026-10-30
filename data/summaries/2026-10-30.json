@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T00:41:19.367Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 26,
+  "sources": {
+    "MedCity News": 4,
+    "MobiHealthNews": 4,
+    "Healthcare IT News": 4,
+    "STAT News": 14
+  },
+  "summary": "Today's health-tech landscape reflects three major currents reshaping the industry. Regulatory changes are accelerating transparency and market access: the Trump administration is mandating pharmacy benefit managers disclose previously secret payment data, greenlit six peptide products despite FDA scientist concerns, and temporarily relaxed compounding pharmacy rules—moves that signal a deregulatory approach to drug pricing and development. AI adoption is expanding rapidly across healthcare settings, from 90 percent staff literacy at Singapore's Changi General Hospital to implementations in pediatric medicine and autonomous financial platforms, though institutional challenges persist, including a Johns Hopkins data breach linked to shadow AI use and ongoing questions about whether AI serves as partner, competitor, or crutch for biomedical research. Finally, policy debates are intensifying around Medicaid work requirements, with a federal judge blocking a narrowed \"frailty\" definition, while voters increasingly demand radical solutions to healthcare affordability as costs continue rising, creating political pressure ahead of the midterm elections.",
+  "items": [
+    {
+      "title": "What’s Driving the Rise of Consumer Diagnostics?",
+      "link": "https://medcitynews.com/2026/10/whats-driving-the-rise-of-consumer-diagnostics/",
+      "source": "MedCity News",
+      "date": "2026-10-29T22:06:28.000Z"
+    },
+    {
+      "title": "90% of Changi General Hospital staff are AI literate",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDhTdklsTUo1TEhXNmY4cFQ0WDFVMjBYTDM3eWVKRkg3STRCalJxTURCaHFEUmNabThzQ2FlS2dQVHN1eU1XaEFvbWptRTVyVFdwWExaUUQwejl0RlRBSjdxczZaLWVvU3hDckc2RHV6M2o2VnFHejcxNTlMWFBfajg4UmxyVUJCdkU4S3dGeXFDcU1F?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-29T20:54:23.000Z"
+    },
+    {
+      "title": "Transforming into an AI learning health system",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFJlX2I3UGJtOW91c1M1Njd0UEZPMkpIZHlEcWszX0M2aUt3bTk4bktSRURqRDZKV1VzU0lCYlI4NFByOHdLUlVDMFZ4OUtwdm9MMHhtZDREMmxSNHFMUHkxeDVXVWR4QV9jS1V5MmNia2VqTTdZemVaa2czZmNuajVfRFM5d1R5NHc?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-29T20:13:00.000Z"
+    },
+    {
+      "title": "BioMarin Expands Again in Enzyme Replacement, Paying $70M for Long-Acting Fabry Drug",
+      "link": "https://medcitynews.com/2026/10/biomarin-fabry-subcutaneous-enzyme-replacement-hanmi-gc-biopharma-gb3-bmrn/",
+      "source": "MedCity News",
+      "date": "2026-10-29T19:39:36.000Z"
+    },
+    {
+      "title": "Midstream Health raises $20M for autonomous AI financial platform",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUVvLThaM3ZyeEk1cHNna3lPMHF3UVhrM3VMcS1VcVowY0NGNHJiQktsUWpobGdGSlI1TnQ0X3FFNW5XazFPbVhYOE9YSnNhbVAwRFRPcTVtanZKTGp2M3ViU1o1c3FjckFSdFUyVC1OUDE4R25OWWx2bFV0MUp6MmlMNFVGOVc0ajR3b1R4ZGMycGNqOGlBMFZnRmc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-29T19:22:05.000Z"
+    },
+    {
+      "title": "STAT+: Federal judge rejects new Medicaid ‘frailty’ definition for work requirements",
+      "link": "https://www.statnews.com/2026/10/29/medicaid-work-requirements-judge-blocks-new-limits-medical-frailty/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-29T18:57:37.000Z"
+    },
+    {
+      "title": "HIT-5 offers drawbacks and transitions – here's what stakeholders think",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdFQ4M3VmVkZKcUhvbTRzdFVpRlF5SDFCQlkxSk9EdnZJY0haanNZcXlaSDVCSjJOSzFyOHZkVnhJc0tFY3VxUHRfNF9xVlJiZEJSS3FsWThNWEprTUljb0tlM1dWdnZHWEVIMnJmSmkyWXgwR1FLUlF3X1RsdUZlZmpuakhFT2tFejZFaXlBQnN3ZWw3djBjZVVHT1dKeXFvalk2czNfNm5xUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-29T18:51:32.000Z"
+    },
+    {
+      "title": "STAT+: New federal rule will require prescription drug middlemen to share secret payments data",
+      "link": "https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-29T16:44:05.000Z"
+    },
+    {
+      "title": "STAT+: The EPIC investigation, and a Teladoc surprise",
+      "link": "https://www.statnews.com/2026/10/29/epic-investigation-teladoc-surprise-ai-payment-model-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-29T16:15:20.000Z"
+    },
+    {
+      "title": "Anthropic files for IPO, plans Nasdaq listing under ANT",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVWZCc3Y1LXQ1ZFlscUEtTDRBR3ZTTmUza3VTcmtHSzQ3NmFWM0ROUTNRWVpMZzd4TlJIZEJGbXpQY3ZKR1ZGQVg3S1RXaVdaQkJNLUduZWxXbGNwdmkyamQ4M2hIMHhSMXBKVWZ2ZkNKZHV0dzZUdXRmMjFjOXFrdTlIbEEtejk2M2NmY1RjMA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-29T15:49:31.000Z"
+    },
+    {
+      "title": "At Johns Hopkins, shadow AI use linked to data breach",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQi1YbExJVzRSWVhLU1VNNHdVbFYzVGk3aWlMaWlZNGZOalJQbWZIdkU5ZVBFTUsyWXdpRFVJc3RxTFh3bERQU3JlcWd3Qi02ejJzSE1sU3Q3ZGExa1hTMWxkTHpxaUdveXVkcWkyNlF2OGxoTmcwT2lMeEd1YzRMSzJqSGtLT3J0WHhnbg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-29T15:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Kennedy’s closing arguments for the 2026 midterms: Fraud, vaccines, and MAHA",
+      "link": "https://www.statnews.com/2026/10/29/rfk-jr-midterm-health-care-policy-maha-fraud-vaccines/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-29T14:45:48.000Z"
+    },
+    {
+      "title": "STAT+: El-Sayed claps back at RFK Jr., and FDA’s ‘enforcement discretion’ on peptides",
+      "link": "https://www.statnews.com/2026/10/29/el-sayed-claps-back-at-rfk-jr-fda-peptide-policy-dc-diagnosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-29T14:18:27.000Z"
+    },
+    {
+      "title": "Virtual nursing gives nurses more time with patients",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUt1UHB6dVVnaW9VRXhGUjdWN1ZIdExwSTFWN2ZtUXZKT0pFNlpXM3ZXS0EwNGFPUTZGMGllQ1dGVlFIWlhfQWI1dXhTR0x5SkN6YnJwaUN2SDNQT1laOUZQNzRnN3pSRnRYR0hPN2FiRlRnX1VLblVZMklacFR4bUZWQzB1ZkxXRUJyQg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-29T14:17:04.000Z"
+    },
+    {
+      "title": "STAT+: HHS green lights six peptides, despite concerns from FDA scientists",
+      "link": "https://www.statnews.com/2026/10/29/biotech-news-hhs-green-lights-six-peptides-for-now/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-29T13:43:44.000Z"
+    },
+    {
+      "title": "Martin Kulldorff critiques scientific gatekeepers at NIH lecture",
+      "link": "https://www.statnews.com/2026/10/29/health-news-martin-kulldorff-critiques-scientific-gatekeepers-at-nih-lecture/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-29T13:38:36.000Z"
+    },
+    {
+      "title": "AI tools finding favor in pediatric medicine",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWhMVWE5Smw2YWZCb0k5Uzc1dVNfTVlEbDJFTEhOaUg5OHFtZjdTbHNrcEZnUmsyRk50T2FFQWhTOEhpbVJFVzhqbW9BdGFrbmlNQnFwemlMNmNoNXF3dG1LMlJrbjN4aVdFM2I1MHRkOXJsRk5aRzdEMzJVb3VrcXJiczBLM0E?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-29T13:38:00.000Z"
+    },
+    {
+      "title": "Beyond a Score: Putting The Patient Experience at the Heart of OCD Innovation",
+      "link": "https://medcitynews.com/2026/10/beyond-a-score-putting-the-patient-experience-at-the-heart-of-ocd-innovation/",
+      "source": "MedCity News",
+      "date": "2026-10-29T13:36:00.000Z"
+    },
+    {
+      "title": "STAT+: Vertex kidney disease drug scrutinized for infection risk",
+      "link": "https://www.statnews.com/2026/10/29/biotech-news-vertex-kidney-disease-drug-scrutinized-for-infection-risk/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-29T13:25:01.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a new policy for compounding peptides, a PBM disclosure rule, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/10/29/peptides-policy-released-by-hhs-pbm-disclosure-requirements/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-29T12:52:11.000Z"
+    },
+    {
+      "title": "3 Ways ProgenyHealth Can Transform Maternity and Infant Health, Claims Management",
+      "link": "https://medcitynews.com/2026/10/3-ways-progenyhealth-can-transform-maternity-and-infant-health-claims-management/",
+      "source": "MedCity News",
+      "date": "2026-10-29T11:30:00.000Z"
+    },
+    {
+      "title": "STAT+: New atlas of colorectal tumors sheds light on why cancers in young people are more dangerous",
+      "link": "https://www.statnews.com/2026/10/29/early-onset-colorectal-cancer-dana-farber-study-qa-kimmie-ng/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-29T10:00:00.000Z"
+    },
+    {
+      "title": "Opinion: STAT+: Is AI more a partner, competitor, or crutch for biomedical scientists?",
+      "link": "https://www.statnews.com/2026/10/29/ai-science-biology-dependence-ethics-research/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-29T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Biopharma industry at odds over impact of Treasury’s new China rule",
+      "link": "https://www.statnews.com/2026/10/29/biotech-licensing-deals-treasury-rules-stir-debate/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-29T08:30:00.000Z"
+    },
+    {
+      "title": "Politicians have failed to tackle health care affordability. It’s now voters’ rallying cry",
+      "link": "https://www.statnews.com/2026/10/29/health-care-costs-midterms-issue-out-of-pocket-series-part-6/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-29T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Health care needs buyers willing to say no",
+      "link": "https://www.statnews.com/2026/10/29/health-care-premiums-open-enrollment-employer-costs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-29T08:30:00.000Z"
+    }
+  ]
+}
