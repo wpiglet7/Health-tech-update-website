@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T00:33:56.173Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 26,
+  "sources": {
+    "MobiHealthNews": 6,
+    "Healthcare IT News": 6,
+    "MedCity News": 4,
+    "STAT News": 10
+  },
+  "summary": "Health data interoperability continues to advance as a priority focus, with multiple outlets covering strengthened technical standards and global partnerships driving nationwide health data sharing capabilities. On the regulatory front, the Department of Labor finalized transparency rules for pharmacy benefit managers that earned backing from employers and pharmacy advocates, while CMS is signaling meaningful interest in palliative care coverage though a formal benefit remains uncertain. Several financing developments are reshaping healthcare markets: Bambusa Therapeutics raised $169 million through its IPO to advance bispecific antibody therapies, Kivo Health secured $10 million for virtual COPD care, and deductible-free health plans are gaining traction among employers. The technology landscape is evolving with ZocDoc partnering with Instinct for AI-powered appointment booking and regulators scrambling to coordinate federal and state oversight as more states test AI in clinical settings. Additionally, AstraZeneca announced a $1.5 billion annual cost-cutting initiative to redirect savings toward R&D, while industry movements continue among pharmaceutical and biotech leaders.",
+  "items": [
+    {
+      "title": "Stronger partnerships will grow global interoperability",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTTZnckdzN1VTRlpzWUNPZW5BU0lPS0pqU1lGcnF1eEUzNzNYTFBKdnZNbHJNQzZVWElLbWlNUmQxVmpfN2RkcVZoZEdIU2NLLVRnS3YySDYtVGNoVnRZM2lkZFo4VXdQa3pXRm1wY1ZVVElER0RjZ1RiTEZmWHJsaWotS3ROdlYwNW9wakZoNWhfaE1ZMU40?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-30T21:44:28.000Z"
+    },
+    {
+      "title": "Technical standards underpin nationwide health data sharing",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX2tSZWR6WkZVRzQ3Z0NBc25EZ3hCanNIazA0LVZDM2tCVENMYXlVM3J3RGZ2cFY4UUN5Q3hUdVhRVWpKbDlrN1FEejl3QmREZ2FMbU5tdm5CNk5wWFljMVVBcWNlb3YycldNMkdodEZxcHZNNkZVaU1oOU9yQ1NKWFdpdm01Z1FIdTFPZm9TczAwcE5yM3NEWGtsRDVZR2M?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-30T21:12:00.000Z"
+    },
+    {
+      "title": "Employer, Pharmacy Advocates Applaud DOL Final Rule on PBMs",
+      "link": "https://medcitynews.com/2026/10/employer-pharmacy-advocates-applaud-dol-final-rule-on-pbms/",
+      "source": "MedCity News",
+      "date": "2026-10-30T19:40:23.000Z"
+    },
+    {
+      "title": "Kivo Health raises $10M for virtual COPD care",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVW9DT3Y4T1ZlWEtNbHJKdXRQRENGMk1kMGZGUzUzbmNuWW1Wa3hsaTNMR19FQWhxYURPSWItTnJCVHh0VE1WVjYtaV94NnBnWGdqeFZtczJDWWpYdnhtdlhsMHlVXzRuR0hfcG9GRmdnaDh4dkZUY3dVclJNY0tyd1pB?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-30T18:12:05.000Z"
+    },
+    {
+      "title": "Bambusa IPO Brings In $169M to Break Immunology’s ‘Therapeutic Ceiling’",
+      "link": "https://medcitynews.com/2026/10/bambusa-ipo-immunology-inflammation-bispecific-antibody-atopic-dermatitis-bbtx-aspen-neuroscience-cell-therapy-parkinsons-aspe/",
+      "source": "MedCity News",
+      "date": "2026-10-30T17:13:26.000Z"
+    },
+    {
+      "title": "Zocdoc partners with Instinct for AI appointment booking",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVcybFNPNU44OGQ3WXZZMzZaNHE0cUczTmFjaUREUUhaUWJ1RHp1SGJTN3RKLVEwaXdEY1daMENxREt4VG5pVTBPckxiWFBCLWg3aHZPRjV4bE1iYnN0MlkwQjJwVWlvaGQ1SkFIVXlWMkktUC1ZMjhUYl9ma1k2RklUVi15a05tQWZN?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-30T15:20:14.000Z"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "link": "https://www.statnews.com/pharmalot/2026/10/30/up-and-down-the-ladder-jobs-pharma-biotech-lilly/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-30T14:45:50.000Z"
+    },
+    {
+      "title": "VA completes new EHR deployments in Ohio and Alaska",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ0VPVG42OGhTeXZ5V25qX1M3NW9NWlZJaHNsd0hzNG9jMHF4WkNINEYwYk1feklUUzREN3l6MkdWdjh0eUg4cGt5QnBCajNuOUVGeEZtQUl2R3VSTkZkcUlEbjNsOUxPZjlpQ2ozTnRJLXdWZzlOODVqTEhaR1Bra0Q4ZmVyM0NzMjB2YUl5RQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-30T14:34:42.000Z"
+    },
+    {
+      "title": "HIMSSCast: Breaking down the details of the HTI-5 final rule",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0UzSjBHQ1VkcjAxTmg3ZGFFdlBMZlBUTnJaamZUY1FORTdpYU9wdWJOZ1B6NHZiQWxNRmdXX3ctcDJyZWJxb2U4U1Qxc0dBYWpkeHhLcnk4MXRSaENmYUdDTi1WVjNsaVhXSDg5WDBNUmZ2VGJmS0RfV3ROcmdMUDh5VWtkVFB1VEd1ZV9UVFptMHM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-30T14:15:10.000Z"
+    },
+    {
+      "title": "Predictable prices encourage better care choices",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU1JsOWN3WVNrblJvbWNvMVQ3UDhUb3RLTS0yR01VN2VhZHItbFY0Z1JVZEVidTBMZ185bks5RHhuU3RRcklHSzN5ckxsUWRmTkZEMGtrZjZEZmF0TmZQckZxZExlbm5vdlZDMjlYajQwMU1SZG1qeS1IaHBKWVBYWkM0ZkVsdmJQWGRwaDNR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-30T14:13:38.000Z"
+    },
+    {
+      "title": "How Election Day can affect your heart",
+      "link": "https://www.statnews.com/2026/10/30/election-stress-heart-attack-risk/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-30T14:07:14.000Z"
+    },
+    {
+      "title": "It’s A TRAP! Employer Concerns for Tuition Reimbursement and Other Employee Repayment Agreements",
+      "link": "https://medcitynews.com/2026/10/its-a-trap-employer-concerns-for-tuition-reimbursement-and-other-employee-repayment-agreements/",
+      "source": "MedCity News",
+      "date": "2026-10-30T13:56:00.000Z"
+    },
+    {
+      "title": "A Meaningful Signal on Palliative Care – But Not Yet a Benefit",
+      "link": "https://medcitynews.com/2026/10/a-meaningful-signal-on-palliative-care-but-not-yet-a-benefit/",
+      "source": "MedCity News",
+      "date": "2026-10-30T13:53:00.000Z"
+    },
+    {
+      "title": "Assessing Merck and Moderna’s mRNA cancer vaccine",
+      "link": "https://www.statnews.com/2026/10/30/readout-loud-podcast-oncology-cancer-vaccine-moderna-merck-amgen-roche/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-30T13:33:55.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about AstraZeneca cost-cutting, Sun Pharma facility problems, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/10/30/astrazeneca-cost-cutting-sun-pharma-facility-problems/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-30T13:22:49.000Z"
+    },
+    {
+      "title": "Deductible-free health plans gain ground among employers",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQkU4S2djeWY3ZGdoaFZ1WXVIaWlaaTVjNi1XTmY3aEU3LXR3UENOVTU0MENwUUwzS1VxRTljS3cwUE9VQnlOSW9SUkw3SEJnVEZ5SjR0VFg2bGN3R1FYcFBobnA5d3V2dHNnNWtGU1FXYnp6TklKSF9TbW9GVGlDN1pPaXNZcmt6VmV0V2lXeGZCYUlHMU13Y1RIZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-30T13:13:00.000Z"
+    },
+    {
+      "title": "The persisting paradox of men’s health",
+      "link": "https://www.statnews.com/2026/10/30/health-news-the-paradox-of-men-health/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-30T13:12:49.000Z"
+    },
+    {
+      "title": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA",
+      "link": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-30T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in clinical settings",
+      "link": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-30T08:30:00.000Z"
+    },
+    {
+      "title": "The health care issues STAT reporters are watching in the midterms",
+      "link": "https://www.statnews.com/2026/10/30/health-care-policy-midterm-elections-status-report-alex-hogan/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-30T08:30:00.000Z"
+    },
+    {
+      "title": "Opinion: How Congress can fix expert advisory committees",
+      "link": "https://www.statnews.com/2026/10/30/scientific-expert-advisory-committees-fda-hhs-congress/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-30T08:30:00.000Z"
+    },
+    {
+      "title": "STAT+: How a simple UTI turns into a $1,756 bill",
+      "link": "https://www.statnews.com/2026/10/30/hybrid-er-urgent-care-clinics-hidden-billing-complaints-intuitive-health/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-30T08:30:00.000Z"
+    },
+    {
+      "title": "AI spots stroke genetic risks and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ2dSa1laTnlyUnVjNDZUaE0xb0dmTUpLTkxQclEzQ0tmRU5JSV9qTkZqejNVUVctbHB5V2JBN04wQ2VhTklNbm9sQU93WktxWjdiNS1FdHUtT29raFJHUjloOEN2Q0k4Vjc4d1BzUjRPaEkwTkJQblVkdExiN2RHbUh4VHRpVkM0U09UaGRB?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-30T02:41:28.000Z"
+    },
+    {
+      "title": "Victoria unveils digital health roadmap and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV3ZScUg3ajdUREZsY3hWUEt1N1FWb3dDdHNBSWc5cUpTUWRVblpfMjduZ2lRTFZXWkRoQVVsZnRWMFIxNDdueUxyRGEwNkFYRmdjdWJqX2RqX203dFFXTktxcjRDZnFNRVk3UTI2eGtYYTd1VmFzbU9ZN0hVeW94RVJadVBvSWJIbmp3R3ktZXc3c2dRSExocjE3RGJJdw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-30T02:27:06.000Z"
+    },
+    {
+      "title": "VR mental health experience in Singapore and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTXhlckhFNFkzclRsb0xSVDkzOG8tLWN4b0hzV3hoa09pSGxaUFM0RE5RX0NGbTN2TXptQlhrWklLUTdyWWdoa3dNYzdFMjVpUHdFSHhrSXNlXzcyWFhjV2JEMWxMS2NrWnFhWkp1TGxMbmVCQloxTG1BRnUyM1U2b1B3cTVsdlVnbzNiX1hmNUhTdlJ6ZEpEYzQwdTQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-30T02:27:00.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMF8wTW04WXMyMGZOSUZ4emc4RmVaU0ZuVVE2VGpPVTFZSE80dUpGTWtRUGVGaFl3ZDNPa0lxQXRJU1pjM0VQakFRVnJhdHhrU1dNNVRGOTBfc0J3YlFzci1udFZkOU5Sd2w3NThjQUxJVndyUjg4VlNqbUd1Tlc0RU1MZnRoZFdDY3BZQjR5ZjNOWExFcG5ucmd3aE9xNUtCUVkxQzRnQjh6V0dfU3NUb0F4bU5SeDNGMVVJX0ZRamVqU3JvVVJ6dHY2bUU5UFVuT21uOFJXRE04ZHEwMUdtTGZyNkh6eE9Z?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-29T22:25:22.000Z"
+    }
+  ]
+}
