@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-10-31T23:58:38.986Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 9,
+  "sources": {
+    "STAT News": 1,
+    "Healthcare IT News": 7,
+    "MobiHealthNews": 1
+  },
+  "summary": "With the midterm elections just days away, health-tech executives should prepare for significant regulatory shifts, as policymakers and industry experts are flagging major implications for American health care policy depending on the outcome. On the market front, Medicare Advantage plans have now enrolled more than half of all Medicare beneficiaries, signaling a continued shift toward private managed care. Technology interoperability remains a critical focus, with the FDA formally recognizing standalone software's role in drug therapy optimization while Epic is expanding EHR communication capabilities with third-party applications, and healthcare organizations across geographies—from Seoul to rural American hospitals—are racing to implement AI-driven automation and data standardization to improve operational efficiency and regulatory compliance. The FDA's software recognition and ongoing interoperability initiatives at events like the EU's IHE Connectathon suggest momentum toward more connected health systems, though success will depend heavily on whether organizations can master foundational data governance alongside their technology investments.",
+  "items": [
+    {
+      "title": "STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in",
+      "link": "https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-10-31T11:00:00.000Z"
+    },
+    {
+      "title": "More than half of Medicare beneficiaries are enrolled in Advantage plans",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXFUdWFNUEc1OXJZekphQUd0NnFCM01McE1kYU95UVVLZUtsb0RyNGdVZmNtdTNwVlZaajJlR21MLXlYM1BpcDlfMXRIRXFBa2VJZUpCWWdHeFVDMnhwRklmc1RxUGRuNWFpSDJxOTRZYTR0dndRUjBWdkVZNkJ0ekd0c2g5UkptVGdSMHpyQ1RYSFduMWhNZEN1ODJXRnF6c2c?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-22T13:00:00.000Z"
+    },
+    {
+      "title": "FDA recognizes standalone software's role in improving drug therapy",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNElCSzQ3VEFBWmlPTkczT0I1N1h2LVRGeUxHUFZnNkhKeUFrOFVsaGZOa2NOZzlLRElRR2NsUTRtZkxmdkl5Y3pOcTNleWJnN2RKd1Z6cmFob3QwQmxHV2poSEJVVTJEbnJiMFNhdjRDcGkyXzB1ZG1SUGZzSUN1MFd3TTFqdEQ4Mk1fZ2Q1bFh6bGY1dHJ2b0hHaWZYUE43OGx3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-22T11:57:53.000Z"
+    },
+    {
+      "title": "Asia's healthcare AI future starts with getting data right",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ3RrT2pwNi1FVHdBa3RWQ0xSQml5M2tMVHdPWElOWk5QbUdVTElmb2pBRmNsSnA3RHVkMVM5VV9STGRsMFM3MDdudXUxajNyaEFNZjBfSG04RWp3M25DbnJ6a1pyVmpqemM0UTU5Qi1KUmFRd1VzSnowTWZCSFZZenpvZElYMlBfeGZDZUNpWXFzUXhiTGg5dFNlbw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-22T04:57:38.000Z"
+    },
+    {
+      "title": "Seoul St. Mary's automates cancer drug registration",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUGJKVFhraXdZRWN4N05XX0pLaG44U2xfMXpjTlBNc2Y4UVVXaW1BWG5BUG1xeUZXSGJySkllUXI2b3dNSjZ5bnJQV1JwV3ZLRTF1YjkxMG1YeXc5N2o0Sktfb0p1blRUWU9mc0swbUpnQkROUU1iUWpTay1TOEpOOFAybHdCM2JTNFJlOGJxZ0FPWnY1SnBr?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-22T03:49:30.000Z"
+    },
+    {
+      "title": "Opella, Microsoft partner on AI platform for health content review",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0FUazdMazNkQTZuS1J5YjJrZE9wM3ViQlEtanVzN2dsaXBKQ1lfYjRsdmEzaFpTUVM0LXNWVWh0aXZpWnVKenZHWjRvaktSaFhQd0JMX2ZDQ1dINGI5NUhwSkRLQmVULUZVbzJKa1FKV2xac3lUZi1qVTZ5VWE2XzQ1azNfUUUteHJqY2thSEFMSkVXN0xJM0h3?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-21T19:51:51.000Z"
+    },
+    {
+      "title": "Epic enables EHRs to communicate with other apps",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOekFWRGVUNlBEbzNnZDNRS3FKX1B0RnFwRzI3cWdxNnNrRTF2ek5SYWp0cHBqNFY2NEpFWVlnWm0tV29JVTVqRXhHaDVtbTI5T3ZKbVB2Vm51WTJPVXUzeElBR2thUjUteTZ3SXRFdGlweUVoaTV1ZHdDVGdfMmQ5XzRfRkU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-21T18:17:42.000Z"
+    },
+    {
+      "title": "Rural hospital independence depends on making technology count",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemZpQjBzWnlLZjBqMWt4MlJIS29lQkhGLWZ5MHk0S1FWc19EUGJBRE1KanplOEtSbE9yc1B2UUlVVEF2cGFuUml4YkVfaGdkU0M4RnVZZk5pWHl6N2Q4NEpTTUVjbk1DRVp2czU0SnVDemtRQ0kyOXJkd0psQXN0QUJhZ0RuaXVsZGUwWk5uZk4xVy1YQkJhbS1ZbkJpZw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-21T15:31:54.000Z"
+    },
+    {
+      "title": "At IHE Connectathon, building regulatory readiness for EU rules",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeDlpWHdLYS1CWHc1Z2ZyaUloSXQyYlRxQ24xX19KbloxamtrTHNCS3NmenhiWVRnSHlSRmVhMzVyY04xRXdkcDdoMnZwUDRaRlBEZ2hNbGlTLU5vUFprRUJicHo1M1pKNnNseDU3eGxZREVSTkR4cTRNMmppd3czakFHeVd2a2JfdlZCUGs2ZTFsdTRJd1BHVHdB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-21T13:20:00.000Z"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T00:33:52.625Z",
+  "generatedAt": "2026-10-31T23:58:36.016Z",
   "sources": [
     {
       "id": "stat",
@@ -25,11 +25,19 @@
   "count": 120,
   "items": [
     {
+      "title": "STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in",
+      "link": "https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-10-31T11:00:00.000Z",
+      "snippet": "No matter what happens on Election Day, the midterms will have sweeping implications for American health care. More than two dozen experts on what could come next."
+    },
+    {
       "title": "Stronger partnerships will grow global interoperability",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTTZnckdzN1VTRlpzWUNPZW5BU0lPS0pqU1lGcnF1eEUzNzNYTFBKdnZNbHJNQzZVWElLbWlNUmQxVmpfN2RkcVZoZEdIU2NLLVRnS3YySDYtVGNoVnRZM2lkZFo4VXdQa3pXRm1wY1ZVVElER0RjZ1RiTEZmWHJsaWotS3ROdlYwNW9wakZoNWhfaE1ZMU40?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
-      "date": "2026-10-30T21:44:28.000Z",
+      "date": "2026-10-30T22:13:03.000Z",
       "snippet": ""
     },
     {
@@ -401,14 +409,6 @@
       "snippet": "[Sponsored] Pregnancy and NICU admissions are among the most complex areas in healthcare. A new report from ProgenyHealth highlights how the company can work with Medicaid and commercial health plans to uncover insights and hidden risks cri…"
     },
     {
-      "title": "STAT+: New atlas of colorectal tumors sheds light on why cancers in young people are more dangerous",
-      "link": "https://www.statnews.com/2026/10/29/early-onset-colorectal-cancer-dana-farber-study-qa-kimmie-ng/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-10-29T10:00:00.000Z",
-      "snippet": "A new atlas of colorectal tumors sheds light on why cancers in young people are more dangerous."
-    },
-    {
       "title": "Senators Investigate Insurers’ Role in Removing Thousands from ACA Coverage",
       "link": "https://medcitynews.com/2026/10/senators-investigate-insurers-role-in-removing-thousands-from-aca-coverage/",
       "source": "MedCity News",
@@ -617,22 +617,6 @@
       "snippet": ""
     },
     {
-      "title": "SGH AI cuts brain bleed reporting time",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDdyOEx2REFCLXNBbDdGMEhTWFl3cURFYWVBdGo5M2RPOEM3c1pCd2VmUmVMWkRVWDVkTWRxdDByYTY4aWZOQlZLb1JBU0cyUWNnNHVXRm5LeUpueXRtN0c5TWxUcWc1RTNCZUx4N0t6Y2lXMFJ6eko0UlM0dWpELWtEQkpZN1d4?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-27T11:06:50.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "AI boosts rural docs' antibiotic prescribing",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcURZd3hENEV4eUZKejJEcEhxRDlqYUlVM3EyMWNTVnJfRjdzUEVpZ0VxMy1Rdm1IX0J5RkZPemFib0FtOU9PZHVkSEdEUVhLTEp2c1VUSnhlSk13UGFYRWRNdkpONENtd3FqVWt1UEN4eDVxOFpOQkM3WmdtdGdkeW9pblA5ajVoc2pv?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-27T11:05:19.000Z",
-      "snippet": ""
-    },
-    {
       "title": "How Experts Are Reacting to Trump’s Women’s Health Executive Order",
       "link": "https://medcitynews.com/2026/10/how-experts-are-reacting-to-trumps-womens-health-executive-order/",
       "source": "MedCity News",
@@ -721,51 +705,11 @@
       "snippet": "[Sponsored] For US biotech companies developing rare disease therapies, decisions about clinical evidence, patient populations and regulatory advice can have consequences in Europe long before a marketing application is submitted. The post…"
     },
     {
-      "title": "WHO, Korea sign first healthcare AI declaration",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYWs2WFZNTFlKaGVyNEd5RkVhTFNkM3VHOGE2NGQySmlic2NZNUJNeHBpT1NyQmNiT1BhX3BwSldydGpWOFZVNmRtT3l2RkM1cTRYUkhGOUdseU56LUNiYkZzYlZxU2FBQU5fQmVwZVFIR090d1U4OXllZE54RmFPNVFyczQ3X05janMtS0lCWmh3cDg?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-26T11:04:44.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "AI remote monitoring, colonoscopy in Korea, Malaysia and more briefs",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXVQaDRTUVlEOWVPX1hvaHpKT19pbEVmaFNYWEZIWjBYclFQbjdERl9vVzdQb2U2OTAtWWNtWWx4emhYNnZSeE5NYTlWYnNyUmptZm1wX2luZzRXeDl0dWxCNzFrSkhrRHcwdXpqWEtXRGQzMmpoN09TSVZLY0hlZWliUzdfWW1CeGxadC1jTUdsX1dfTzlIQVc5VDhKUFFBT3RjOTJPQ1lSQQ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-26T07:49:13.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Korean AI for Alzheimer's diagnosis, artery analysis bag 510(k) and more briefs",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHY0RWxka1EyYkJQOTR6M3d1UlBVX0VVeGg3S3duZmdZZ2ZSMGFHMkR6UnN1TTh1Zm16RHh3MTAtQXA5ZWl4dXl0NmI5RXMzZV9lX1g0OWdyMUg0MWVzNkd3NVc4YUNlRzRTLTN1WlBSUTdHdzFmR1E5M0h5Q1VFYjRkdl80WFBWV0FSX2Y3c2Z1OEFvWDFLZEZjejZqbWlGZ0xsNFItRVg2VWtGcXNDYVl3?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-10-26T07:47:40.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "NZ funds digital community mental health projects and more briefs",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmhuNTNPWFdEMG5Fc0pSSW9zei1PcTA2X3lkenQxTzlEVkJhSHBmcHh0eC14MWs4dm55dnhiMEJua043SUtXWDRKNWQzOURVbTZSSzhabVJIckJJZWxnRDNTcDlwQ28zVGtKM1BSUkY4ZTUzM21Wd0VIYlVKZk9hX1N5aHI1djF0dkRiRXhlbVRjOXB2NXdCNjdkMml0UGlDUEZLQ0hFbmliU1U?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-26T07:40:07.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "NSW digitises ambulance-to-hospital patient handovers",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdGpjREtQU3BTNGpmYkNQcm1OZTBJSy1kZ3dUY0ZVTndvVktlTkJxc2VQckhpQWkyR1AzYnJjREtJMGxKZE54YzBja29CLXkyOWFzUDdwNVN1cVlIT2Y4VXRzb2IzN0FlN2tRMERtUWZIOV9ST2hKcW9yX1hQT29UOWp0WmlXOVdVVVk0MEJFWnFMZ0FFNmJF?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-26T00:10:35.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Te Whatu Ora seeks digital tool to redirect ED patients",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEhUU3NGWmE1Z2lxVVRVU0ZBTm1oVG1Hd2U0NE5ra0U0bU9Ec3JLNnROS0xhX2xWeko4bG1IazYyWG85dHF0TkFjNW9rTmpmcmxyMXN6dW5TdWFhUm5hbmZuaEdpQXEwNlQ3ZUFIVTlqR2dQcVNOZnc5N0F3N1hiUktoV21jazU2ZFdKSVZlM3o5R0JkczBGcFpB?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-25T23:51:15.000Z",
       "snippet": ""
     },
     {
@@ -857,14 +801,6 @@
       "snippet": "Gilead Sciences is getting global rights to an experimental PepStar Therapeutics oral peptide designed to inhibit the IL-23 receptor to treat inflammatory bowel disease. It could compete against Johnson & Johnson’s Icotyde, an oral peptide…"
     },
     {
-      "title": "AI is impacting all corners of healthcare, not least the clinical workforce",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcURzWTdXamM2U0JSbnlSLUhydWhCZUU0WUlzMjlSM3lybmZmakE2RWZMQkFiTHJYVnE2YVFnOUJtSHd5aWxKYUthQ2RyWFdkTW1ydTJvSTJSUWdtZndzSTZIeVlkNGRvM3d0M1BUcHVkbXhGelljNFdJcWl6WDYyUVctY2p5VWxfNjlCTS1KS3N6d1c3cjRnNmMyMmpsNzVJc2FtMQ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-23T15:57:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "After EHR consolidation, the real test is how care changes",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzhOMXdLR3R1QjNJdlB3aXpqRFdNb2UxdzZUTkIzWkx0emRDLXZUVFktZU5WV09xWlo1a0IyYXRjMi05d0JTM2lhSGJhamFPYlBqMUNXdG9MTGhFSmhydXBZOWtvbTV4RHFSZXFGeUdZdy1JMFZDak1PQ1VQZFd0Y01IejhSOUhzd25FYXh0RE5Ldw?oc=5",
       "source": "Healthcare IT News",
@@ -921,19 +857,11 @@
       "snippet": ""
     },
     {
-      "title": "Medicare Advantage may need a reset",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBETkpGU2hSOGFzSXI5dmZlYzZaZDctMjR3MmFGbDM3ZlZMZDNqQmFEYkVzT01NeFFBMDhiUmUyZi0tNFdpVExwbEtzekh3b19rTjl0ZF9rdVBaQ1JjaXlBUzYtaWxMWkJzZDVWb2h3aW9Hcy1iT0N4VVh3?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-22T23:52:36.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Event: Balancing healthcare AI innovation and cybersecurity",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVQydEJvaVVKTlI0dWpwa1lKal9iRDJHUXVmeEtXQ0o1MDI1WmJqTzlFWDNiUlhSdURBd2Y1R1Zjb3ZqOTFyM01CdEo4WG5LOWJmQkFHMnVCVEt2Nmd2bmVPdTc2d2R6a2VNSjBiLW84ckxFQ2hLQUczWWs3ZmotaDRCRXFjM3FaRnFRNGRHS2ZtWXpRNmxoWllR?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-22T23:25:02.000Z",
+      "title": "AI is impacting all corners of healthcare, not least the clinical workforce",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcURzWTdXamM2U0JSbnlSLUhydWhCZUU0WUlzMjlSM3lybmZmakE2RWZMQkFiTHJYVnE2YVFnOUJtSHd5aWxKYUthQ2RyWFdkTW1ydTJvSTJSUWdtZndzSTZIeVlkNGRvM3d0M1BUcHVkbXhGelljNFdJcWl6WDYyUVctY2p5VWxfNjlCTS1KS3N6d1c3cjRnNmMyMmpsNzVJc2FtMQ?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-23T07:00:00.000Z",
       "snippet": ""
     },
     {
@@ -942,14 +870,6 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-10-22T22:12:31.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "HIMSS AI Forum 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JR1BBRDhpSGRhbExuNDMxYXdmNUt2WnpzRHAtSTMzbnRMRDc4QU0xR2dreWEyWXhkdHFhcnJyRFNqWTlsd0dOd0lmbTVyWjVwWkUyM2N3NmhGRk01RHdYdUxxQ2I?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-22T19:56:03.000Z",
       "snippet": ""
     },
     {
@@ -982,6 +902,86 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-10-22T15:20:29.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "More than half of Medicare beneficiaries are enrolled in Advantage plans",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXFUdWFNUEc1OXJZekphQUd0NnFCM01McE1kYU95UVVLZUtsb0RyNGdVZmNtdTNwVlZaajJlR21MLXlYM1BpcDlfMXRIRXFBa2VJZUpCWWdHeFVDMnhwRklmc1RxUGRuNWFpSDJxOTRZYTR0dndRUjBWdkVZNkJ0ekd0c2g5UkptVGdSMHpyQ1RYSFduMWhNZEN1ODJXRnF6c2c?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-22T13:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "FDA recognizes standalone software's role in improving drug therapy",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNElCSzQ3VEFBWmlPTkczT0I1N1h2LVRGeUxHUFZnNkhKeUFrOFVsaGZOa2NOZzlLRElRR2NsUTRtZkxmdkl5Y3pOcTNleWJnN2RKd1Z6cmFob3QwQmxHV2poSEJVVTJEbnJiMFNhdjRDcGkyXzB1ZG1SUGZzSUN1MFd3TTFqdEQ4Mk1fZ2Q1bFh6bGY1dHJ2b0hHaWZYUE43OGx3?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-22T11:57:53.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Medicare Advantage may need a reset",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBETkpGU2hSOGFzSXI5dmZlYzZaZDctMjR3MmFGbDM3ZlZMZDNqQmFEYkVzT01NeFFBMDhiUmUyZi0tNFdpVExwbEtzekh3b19rTjl0ZF9rdVBaQ1JjaXlBUzYtaWxMWkJzZDVWb2h3aW9Hcy1iT0N4VVh3?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-22T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Event: Balancing healthcare AI innovation and cybersecurity",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVQydEJvaVVKTlI0dWpwa1lKal9iRDJHUXVmeEtXQ0o1MDI1WmJqTzlFWDNiUlhSdURBd2Y1R1Zjb3ZqOTFyM01CdEo4WG5LOWJmQkFHMnVCVEt2Nmd2bmVPdTc2d2R6a2VNSjBiLW84ckxFQ2hLQUczWWs3ZmotaDRCRXFjM3FaRnFRNGRHS2ZtWXpRNmxoWllR?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-22T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Asia's healthcare AI future starts with getting data right",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ3RrT2pwNi1FVHdBa3RWQ0xSQml5M2tMVHdPWElOWk5QbUdVTElmb2pBRmNsSnA3RHVkMVM5VV9STGRsMFM3MDdudXUxajNyaEFNZjBfSG04RWp3M25DbnJ6a1pyVmpqemM0UTU5Qi1KUmFRd1VzSnowTWZCSFZZenpvZElYMlBfeGZDZUNpWXFzUXhiTGg5dFNlbw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-22T04:57:38.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Seoul St. Mary's automates cancer drug registration",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUGJKVFhraXdZRWN4N05XX0pLaG44U2xfMXpjTlBNc2Y4UVVXaW1BWG5BUG1xeUZXSGJySkllUXI2b3dNSjZ5bnJQV1JwV3ZLRTF1YjkxMG1YeXc5N2o0Sktfb0p1blRUWU9mc0swbUpnQkROUU1iUWpTay1TOEpOOFAybHdCM2JTNFJlOGJxZ0FPWnY1SnBr?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-22T03:49:30.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Opella, Microsoft partner on AI platform for health content review",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0FUazdMazNkQTZuS1J5YjJrZE9wM3ViQlEtanVzN2dsaXBKQ1lfYjRsdmEzaFpTUVM0LXNWVWh0aXZpWnVKenZHWjRvaktSaFhQd0JMX2ZDQ1dINGI5NUhwSkRLQmVULUZVbzJKa1FKV2xac3lUZi1qVTZ5VWE2XzQ1azNfUUUteHJqY2thSEFMSkVXN0xJM0h3?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-21T19:51:51.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Epic enables EHRs to communicate with other apps",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOekFWRGVUNlBEbzNnZDNRS3FKX1B0RnFwRzI3cWdxNnNrRTF2ek5SYWp0cHBqNFY2NEpFWVlnWm0tV29JVTVqRXhHaDVtbTI5T3ZKbVB2Vm51WTJPVXUzeElBR2thUjUteTZ3SXRFdGlweUVoaTV1ZHdDVGdfMmQ5XzRfRkU?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-21T18:17:42.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Rural hospital independence depends on making technology count",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemZpQjBzWnlLZjBqMWt4MlJIS29lQkhGLWZ5MHk0S1FWc19EUGJBRE1KanplOEtSbE9yc1B2UUlVVEF2cGFuUml4YkVfaGdkU0M4RnVZZk5pWHl6N2Q4NEpTTUVjbk1DRVp2czU0SnVDemtRQ0kyOXJkd0psQXN0QUJhZ0RuaXVsZGUwWk5uZk4xVy1YQkJhbS1ZbkJpZw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-21T15:31:54.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "At IHE Connectathon, building regulatory readiness for EU rules",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeDlpWHdLYS1CWHc1Z2ZyaUloSXQyYlRxQ24xX19KbloxamtrTHNCS3NmenhiWVRnSHlSRmVhMzVyY04xRXdkcDdoMnZwUDRaRlBEZ2hNbGlTLU5vUFprRUJicHo1M1pKNnNseDU3eGxZREVSTkR4cTRNMmppd3czakFHeVd2a2JfdlZCUGs2ZTFsdTRJd1BHVHdB?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-21T13:20:00.000Z",
       "snippet": ""
     }
   ]
