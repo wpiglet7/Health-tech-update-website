@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T00:25:47.136Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 9,
+  "sources": {
+    "MedCity News": 5,
+    "MobiHealthNews": 2,
+    "Healthcare IT News": 2
+  },
+  "summary": "The health-tech investment landscape remains robust, with significant capital flowing into medical device innovation and healthcare operations. Medical Microinstruments raised $125 million for its robotic microsurgery platform and Alzheimer's research, while rare disease biotech Setara launched with $90 million to develop treatments for Charcot-Marie-Tooth disease and overactive bladder, and Midstream Health secured $20 million to help health systems improve financial stability. On the technology front, AI-driven health tools are facing increased regulatory scrutiny, with Australia's TGA signaling that popular AI scribes may require medical device classification, while major tech players are expanding healthcare capabilities through new partnerships—Oracle and AstraZeneca are collaborating on clinical trial optimization, and NVIDIA is launching healthcare AI and protein design initiatives. In surgical innovation, Phantom Neuro has begun human implants of its muscle-machine interface technology, marking another milestone in neurotechnology development.",
+  "items": [
+    {
+      "title": "Midstream Health Snags $20M to Provide Health Systems More Financial Stability",
+      "link": "https://medcitynews.com/2026/11/midstream-health-snags-20m-to-provide-health-systems-more-financial-stability/",
+      "source": "MedCity News",
+      "date": "2026-11-01T23:19:35.000Z"
+    },
+    {
+      "title": "Rare Disease Biotech Setara Starts Out With $90M and a Lead Drug in the Clinic",
+      "link": "https://medcitynews.com/2026/11/setara-biosciences-startup-jazz-actio-charcot-marie-tooth-cmt2c-overactive-bladder-trvp4-ion-channel/",
+      "source": "MedCity News",
+      "date": "2026-11-01T15:59:16.000Z"
+    },
+    {
+      "title": "MMI Raises $125M to Expand Robotic Microsurgery and Explore New Treatments",
+      "link": "https://medcitynews.com/2026/11/mmi-raises-125m-to-expand-robotic-microsurgery-and-explore-new-treatments/",
+      "source": "MedCity News",
+      "date": "2026-11-01T15:41:00.000Z"
+    },
+    {
+      "title": "What the Midterms Mean for Healthcare and the Investors Betting on It",
+      "link": "https://medcitynews.com/2026/11/what-the-midterms-mean-for-healthcare-and-the-investors-betting-on-it/",
+      "source": "MedCity News",
+      "date": "2026-11-01T14:36:00.000Z"
+    },
+    {
+      "title": "Prestige Is a Business Model",
+      "link": "https://medcitynews.com/2026/11/prestige-is-a-business-model/",
+      "source": "MedCity News",
+      "date": "2026-11-01T14:34:00.000Z"
+    },
+    {
+      "title": "Phantom Neuro implants first humans with its muscle-machine interface",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc0NJQm9majZFbUF5c2lhSkhmWmNkTHlXZWtMNmxuS1ZFQ24taXhKQnR5WUtWYkNyam9KV0pMRjdNWGRTUUdnM1FYR2Z4cnEyX2JOZWZZRVMxZW5NNHUzY0oyT1RBS2JhWjIwNXBXVDNXaUhOckVnWnFEZ19CNHRPZVBIY2xHLUJWWi03QTliZE1ZdVk3bTlnSDJLR2o1dFZjNlE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-21T12:00:00.000Z"
+    },
+    {
+      "title": "8 popular AI scribes may need medical device regulation: TGA",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGs1bnZMRjJYNFlWZGpZYUQ1Q1JaLXBmYzF2SWltWUNGNXRjekM0R0FjbDB1b0x4bGNRcGltN3RWLS1zVERYeF8zUnoxUk1HcUQwcENheDhZTzUwMDF3bVpORHNJV0xNNmtONVpNU1FnX3VpWWp5b1ZnZjNGWk1maFRMY1JaNkE3dElSU2JZSGZYaTJUMks0WFdER1JQWHNzM1cw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-21T07:00:00.000Z"
+    },
+    {
+      "title": "Oracle and AstraZeneca to collaborate on 'smarter' clinical trials",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3FySmtKaWhNellkQUNiMDgtSV9RM2N0MTJWRnpyR0VMYmJrOXgyR1lvN0RpeUxnb2tFWEtNcmJ4MGh0amh6S3Q0VnhKSks3MEhPNUg2RmxoSmtJYi0zd0lQUDN6M0tKa1J0MnU4NDNfTmNhbHcxUzJUWFFURWtlM0Jzbk9qeWY3OWtSek83Z3RxeHpiTUItS3FIaWo?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-21T07:00:00.000Z"
+    },
+    {
+      "title": "NVIDIA unveils partnerships to expand healthcare AI, protein design tools",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUl9ybHI2RHF3RktLUm5MdTktNzBlTFFFV0dwcWdfR2gxdUM1Sl9Fd3VtNlVVVEtfMkxSa3BKSXN4V1VwdFMzNXpaZ1pHWkptX0VQM2hKVk82T1VSWktsVTdlTk54eElSamRqUnd2SlZWOGtQalhEZXlhcUtnYWNwcmMyYUZFbWV3RmlldDNacjBzWG1kcXBRN0ZSYzZWTHJuN2phZDFseG8?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-21T07:00:00.000Z"
+    }
+  ]
+}

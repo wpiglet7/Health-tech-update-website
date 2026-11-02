@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T23:58:36.016Z",
+  "generatedAt": "2026-11-02T00:25:44.115Z",
   "sources": [
     {
       "id": "stat",
@@ -25,7 +25,47 @@
   "count": 120,
   "items": [
     {
-      "title": "STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in",
+      "title": "Midstream Health Snags $20M to Provide Health Systems More Financial Stability",
+      "link": "https://medcitynews.com/2026/11/midstream-health-snags-20m-to-provide-health-systems-more-financial-stability/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-11-01T23:19:35.000Z",
+      "snippet": "Midstream’s Series A round was led by Valtruis, and included participation from Andreessen Horowitz (a16z), Foundry and CommonSpirit Ventures. The post Midstream Health Snags $20M to Provide Health Systems More Financial Stability appeared…"
+    },
+    {
+      "title": "Rare Disease Biotech Setara Starts Out With $90M and a Lead Drug in the Clinic",
+      "link": "https://medcitynews.com/2026/11/setara-biosciences-startup-jazz-actio-charcot-marie-tooth-cmt2c-overactive-bladder-trvp4-ion-channel/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-11-01T15:59:16.000Z",
+      "snippet": "Setara Biosciences’ lead program is a potential treatment for the rare neuromuscular disorder Charcot-Marie-Tooth disease type 2C and the prevalent condition overactive bladder. This small molecule came from Actio Biosciences, which was rec…"
+    },
+    {
+      "title": "MMI Raises $125M to Expand Robotic Microsurgery and Explore New Treatments",
+      "link": "https://medcitynews.com/2026/11/mmi-raises-125m-to-expand-robotic-microsurgery-and-explore-new-treatments/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-11-01T15:41:00.000Z",
+      "snippet": "Medical Microinstruments (MMI) has raised $125 million in Series D financing to expand the reach of its Symani Surgical System and investigate new applications for microsurgery, including an experimental approach to treat Alzheimer’s diseas…"
+    },
+    {
+      "title": "What the Midterms Mean for Healthcare and the Investors Betting on It",
+      "link": "https://medcitynews.com/2026/11/what-the-midterms-mean-for-healthcare-and-the-investors-betting-on-it/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-11-01T14:36:00.000Z",
+      "snippet": "One question on everyone’s mind is what the impact of the midterm elections will be on the US healthcare system in the near and long term – here are 3 possible outcomes The post What the Midterms Mean for Healthcare and the Investors Bettin…"
+    },
+    {
+      "title": "Prestige Is a Business Model",
+      "link": "https://medcitynews.com/2026/11/prestige-is-a-business-model/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-11-01T14:34:00.000Z",
+      "snippet": "An employer that treats board disclosure, community benefit reporting, and contracting terms as three separate conversations is missing that they are the same conversation. The post Prestige Is a Business Model appeared first on MedCity New…"
+    },
+    {
+      "title": "STAT+: The 4 biggest ways the midterms could change health policy, according to policymakers, lobbyists, and experts",
       "link": "https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss",
       "source": "STAT News",
       "sourceId": "stat",
@@ -214,14 +254,6 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-10-30T02:41:28.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Victoria unveils digital health roadmap and more briefs",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV3ZScUg3ajdUREZsY3hWUEt1N1FWb3dDdHNBSWc5cUpTUWRVblpfMjduZ2lRTFZXWkRoQVVsZnRWMFIxNDdueUxyRGEwNkFYRmdjdWJqX2RqX203dFFXTktxcjRDZnFNRVk3UTI2eGtYYTd1VmFzbU9ZN0hVeW94RVJadVBvSWJIbmp3R3ktZXc3c2dRSExocjE3RGJJdw?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-30T02:27:06.000Z",
       "snippet": ""
     },
     {
@@ -425,14 +457,6 @@
       "snippet": ""
     },
     {
-      "title": "Avante raises $30M to expand AI benefits platform",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlBLLVliVFhFOGtlRjhEQTFKQTBZazlHRXVvbXhNY3NYdEo4Rk5LMWtpcHo3ZnJHdlo0a3FsTWV3T2puRnlUa1JwMWFiUXF6TzVMYi1VV2VhYjRJekZDdm1jbGxQNXI3TkRfcnBwWmdVZDFGMkZOYzFqT1lzdnR0Y1dQR0dKSmV1?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-28T20:07:34.000Z",
-      "snippet": ""
-    },
-    {
       "title": "From Automation to Autonomy: How eClinicalWorks Agentic AI Enables Intelligent Workflows",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmxrR2tveHAweTJZWmZkb1FuSEUzY2hqc1JBWXk4R25aZkhUZWdSRFkzcXlWWVp5MjRpazZncDZfWjNEUGdidjVfM0dxRE5UY0xxcVRfUzhrNGxWZFlJaDMxYnBHc2xNX3hwZWJMSmNJUWVxRzhKQUkyaTBMWl9qOFhkWXV3amRuLU5GbUFzNDFudDVVUWRBVVNLTURNbDVqZlFXcldQUlRBa2I4U09NXzAwaTZOR2lf?oc=5",
       "source": "Healthcare IT News",
@@ -519,14 +543,6 @@
       "sourceId": "medcity",
       "date": "2026-10-28T13:42:00.000Z",
       "snippet": "[Sponsored] A webinar sponsored by Inovalon explored how hospitals and pharmacies can work together to generate the best outcomes for patients while improving patient safety. The post How Can Hospitals and Pharmacists Collaborate on Effecti…"
-    },
-    {
-      "title": "Genie Health to scale agentic AI in Singapore clinics",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPel9NMk1uamJ5bjVJQ0VBaVNFT1JNS19hV1FEaHUyUTlyMk1pZnV3cDJNWjlTeWZkclktZVp2RTdad0ZtWllNRVZ3Wl8tMkpVOUw1cjZUQm1fZGdoRFVkb2xPWnVEMmhWdmhpWGU2c1FIMGVMLUQwakd0M2hCdTdDNElDNjdJVzFGRHI4WXdXLWNYQQ?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-28T05:09:30.000Z",
-      "snippet": ""
     },
     {
       "title": "Willow Acquires 2 Women’s Health Companies",
@@ -665,14 +681,6 @@
       "snippet": "Sutter Health, a nonprofit healthcare system based in Sacramento, California, is expanding its digital chronic disease management program, Sutter Sync, to include patients with heart failure. The expansion adds a remote monitoring technolog…"
     },
     {
-      "title": "Walmart expands healthcare marketplace with General Medicine",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeWhvWUV1WVZ2RzZWRENvbzVPM2piZzJpMWwtd2FKeWpzTkVaS0pQakc5WGJDa3Nxdzhzei1RNHJ1bEdpSGFibFRZMjdPUTlzNlJ5UUdFcDloSC1yTmJRRHFEZ3prb01iTHlLQVRlVWZzdWhoWU1XbTB1eVlHOVcxbVNUYWoyWm1nSXpVdFBFZEc1UldQUXc?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-26T16:03:05.000Z",
-      "snippet": ""
-    },
-    {
       "title": "What's next for AI in cancer care",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QZjBYdDhndFR5MEt2MUl4cFBfN3V4YjVFTnk0UEJHNEw0bExHendKYWlBdW9EUjg3WFFSaldGaGtuY2V3RjJDVTJXVnM4d1l1dWxCNGRaUE1CaUNjOGl4OS1VQTRsS1NlYUttZ2VPYw?oc=5",
       "source": "MobiHealthNews",
@@ -737,36 +745,12 @@
       "snippet": "The MATCH IT Act aims to reduce patient matching errors. But a model used by vital records systems could provide a better solution. The post Congress’s Patient Matching Fix Won’t Work — Here’s What Would appeared first on MedCity News."
     },
     {
-      "title": "Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR",
-      "link": "https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-10-25T13:21:00.000Z",
-      "snippet": "In most organizations the default access model was built for patient care, not for protecting colleagues. A nurse on another unit, a resident who rotated with them, a department administrator: any of them may technically be able to open the…"
-    },
-    {
-      "title": "Fractyl’s Weight Maintenance Device Meets Clinical Goal, but Shares Nosedive, Layoffs Follow",
-      "link": "https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-10-25T12:30:00.000Z",
-      "snippet": "Fractyl Health reported positive six-month trial results from an investigation of its Revita procedure last week, but shares of Fractyl stock dropped steeply on October 16 immediately following the announcement. Despite the positive finding…"
-    },
-    {
       "title": "Google healthcare leader offers a vision of 'AI with purpose'",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdzNDc2ZNak9LSWZaVTgwb05Cak5TWTU2T2w3d29XR2hKaG1relJTVGhYTnlDeE1JYWdTQXNDdXJ6ZHg0bmo1QmlqSms1eC1lVDFvMkpUUThoaGItSF9MVHI2aW5BT0lXV2lkV2IwZ2pmVGM0Q29TZk1FQkJGTUtTT2dxSTJySFY0Q205d20wYXM?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-10-23T22:08:46.000Z",
       "snippet": ""
-    },
-    {
-      "title": "Where Are the Biggest Opportunities in Women’s Cardiovascular Health?",
-      "link": "https://medcitynews.com/2026/10/where-are-the-biggest-opportunities-in-womens-cardiovascular-health/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-10-23T20:33:44.000Z",
-      "snippet": "MedTech Conference panelists cited inflammation research, listening to women, clinical trial representation and investment as priorities for women’s cardiovascular health. The post Where Are the Biggest Opportunities in Women’s Cardiovascul…"
     },
     {
       "title": "Healthcare AI's value depends on adoption, outcomes and costs",
@@ -793,14 +777,6 @@
       "snippet": ""
     },
     {
-      "title": "Gilead to Pay $1.3B for Oral Peptide That Could Rival J&J’s New Immunology Pill",
-      "link": "https://medcitynews.com/2026/10/gilead-sciences-oral-peptide-il-23-inhibitor-pepstar-immunology-inflammation-ibd-gild/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-10-23T17:46:10.000Z",
-      "snippet": "Gilead Sciences is getting global rights to an experimental PepStar Therapeutics oral peptide designed to inhibit the IL-23 receptor to treat inflammatory bowel disease. It could compete against Johnson & Johnson’s Icotyde, an oral peptide…"
-    },
-    {
       "title": "After EHR consolidation, the real test is how care changes",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzhOMXdLR3R1QjNJdlB3aXpqRFdNb2UxdzZUTkIzWkx0emRDLXZUVFktZU5WV09xWlo1a0IyYXRjMi05d0JTM2lhSGJhamFPYlBqMUNXdG9MTGhFSmhydXBZOWtvbTV4RHFSZXFGeUdZdy1JMFZDak1PQ1VQZFd0Y01IejhSOUhzd25FYXh0RE5Ldw?oc=5",
       "source": "Healthcare IT News",
@@ -815,14 +791,6 @@
       "sourceId": "hitn",
       "date": "2026-10-23T13:54:51.000Z",
       "snippet": ""
-    },
-    {
-      "title": "Why an Independent NP Practice Requires an Undergraduate Business Foundation",
-      "link": "https://medcitynews.com/2026/10/why-an-independent-np-practice-requires-an-undergraduate-business-foundation/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-10-23T13:54:00.000Z",
-      "snippet": "Ultimately, while clinical training teaches nurses how to care for patients within a system, business education empowers them to design, protect, and scale the system. The post Why an Independent NP Practice Requires an Undergraduate Busine…"
     },
     {
       "title": "Entertainment is patients' 'digital welcome mat'",
@@ -982,6 +950,38 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-10-21T13:20:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Phantom Neuro implants first humans with its muscle-machine interface",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc0NJQm9majZFbUF5c2lhSkhmWmNkTHlXZWtMNmxuS1ZFQ24taXhKQnR5WUtWYkNyam9KV0pMRjdNWGRTUUdnM1FYR2Z4cnEyX2JOZWZZRVMxZW5NNHUzY0oyT1RBS2JhWjIwNXBXVDNXaUhOckVnWnFEZ19CNHRPZVBIY2xHLUJWWi03QTliZE1ZdVk3bTlnSDJLR2o1dFZjNlE?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-21T12:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "8 popular AI scribes may need medical device regulation: TGA",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGs1bnZMRjJYNFlWZGpZYUQ1Q1JaLXBmYzF2SWltWUNGNXRjekM0R0FjbDB1b0x4bGNRcGltN3RWLS1zVERYeF8zUnoxUk1HcUQwcENheDhZTzUwMDF3bVpORHNJV0xNNmtONVpNU1FnX3VpWWp5b1ZnZjNGWk1maFRMY1JaNkE3dElSU2JZSGZYaTJUMks0WFdER1JQWHNzM1cw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-21T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Oracle and AstraZeneca to collaborate on 'smarter' clinical trials",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3FySmtKaWhNellkQUNiMDgtSV9RM2N0MTJWRnpyR0VMYmJrOXgyR1lvN0RpeUxnb2tFWEtNcmJ4MGh0amh6S3Q0VnhKSks3MEhPNUg2RmxoSmtJYi0zd0lQUDN6M0tKa1J0MnU4NDNfTmNhbHcxUzJUWFFURWtlM0Jzbk9qeWY3OWtSek83Z3RxeHpiTUItS3FIaWo?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-21T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA unveils partnerships to expand healthcare AI, protein design tools",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUl9ybHI2RHF3RktLUm5MdTktNzBlTFFFV0dwcWdfR2gxdUM1Sl9Fd3VtNlVVVEtfMkxSa3BKSXN4V1VwdFMzNXpaZ1pHWkptX0VQM2hKVk82T1VSWktsVTdlTk54eElSamRqUnd2SlZWOGtQalhEZXlhcUtnYWNwcmMyYUZFbWV3RmlldDNacjBzWG1kcXBRN0ZSYzZWTHJuN2phZDFseG8?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-21T07:00:00.000Z",
       "snippet": ""
     }
   ]
