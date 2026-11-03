@@ -1,0 +1,208 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T02:49:10.607Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 32,
+  "sources": {
+    "MobiHealthNews": 4,
+    "MedCity News": 8,
+    "Healthcare IT News": 9,
+    "STAT News": 11
+  },
+  "summary": "Health-tech investment and AI implementation dominated today's coverage, with multiple stories highlighting the push to scale artificial intelligence across clinical settings—from agentic EMR systems for physical therapy to Medicare's prior authorization experiments, though concerns persist about whether AI is being deployed responsibly enough, particularly in mental health care. Major funding activity continued with StimCardio raising $30 million for atrial fibrillation therapy and several notable October funding announcements, while health system consolidation remained active with Integris Health joining Risant Health to accelerate value-based care. Policy development is accelerating with proposed Senate bills addressing health AI regulation and reimbursement, though questions mount about implementation details like remote patient monitoring oversight and the adequacy of current frameworks. On the clinical front, the FDA approved a generic HIV prevention shot to expand access in lower-income countries and granted expedited approval to Inovio's DNA-based immunotherapy for a rare tumor, while a Washington state death marked the first U.S. bird flu fatality in a year. Healthcare system pressures continued to surface, with uncompensated care expected to rise following Medicaid disenrollments and nurses at Brigham and Women's announcing an open-ended strike, underscoring ongoing workforce and financial tensions in the sector.",
+  "items": [
+    {
+      "title": "Intention is what scales AI",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wcWpQbkR3TlhDMndCOFBzXzRvYmdwYnEyanFuWWtORjVNZW85R1VlTDdaU0hKbTNUOVdyTS1wWXZNeElFdF90OW9MSm1hN05JZks1YVNkOUhCNGJUbEhlLS1rdHMzZno1eFV0UE9EUXpFU2JE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-02T22:34:32.000Z"
+    },
+    {
+      "title": "4 Notable Health Tech Funding Announcements in October",
+      "link": "https://medcitynews.com/2026/11/4-notable-health-tech-funding-announcements-in-october-2/",
+      "source": "MedCity News",
+      "date": "2026-11-02T22:31:07.000Z"
+    },
+    {
+      "title": "Scaling AI through a culture of learning",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS3prNEVoR1llMFU0aVFiUU9KeElDSmdWMXZRR1ZjaGpUQ0ZyMTRmRGJTWElvS1A4cnotXzV1V01xUGRPZE1yZVJ3WkRJWHExd095WUdWTWljT1hSay1DRFo3TUwyMDRfaXJONDNsQnRIbUF1ekdnc0twbjJodDREZU45ZHVrdw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-02T21:31:00.000Z"
+    },
+    {
+      "title": "Q&A: Physitrack launches agentic AI EMR for physical therapy practices",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGVXUkZpQzBKbkpFcVBZZFVWa0Ztc0lJQTZEajRwdTZ2bDNEcmZiSUhjc2RoTHZkcFM2d2pXMmZZcGFaMjQ1d1RIYlZHWVFXYks1aXR3VWNMUWVDNVo4Qkh3bmtxSkFVY0FvLTJvaklsQ3BIMnR2QzNmbVFIYmUzcndGLXQyanpNM1pOZjRfSTR0YjhEUUlmTEJnZm9HTmpsbFE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-02T21:31:00.000Z"
+    },
+    {
+      "title": "MedCity FemFwd: The Gaps in Endometriosis Care",
+      "link": "https://medcitynews.com/2026/11/medcity-femfwd-the-gaps-in-endometriosis-care/",
+      "source": "MedCity News",
+      "date": "2026-11-02T21:15:31.000Z"
+    },
+    {
+      "title": "Inovio’s DNA-Based Immunotherapy Lands Speedy FDA Nod for Rare Type of Tumor",
+      "link": "https://medcitynews.com/2026/11/inovio-voceryq-fda-approval-dna-immunotherapy-human-papillomavirus-papilloma-hpv-rrp-ino/",
+      "source": "MedCity News",
+      "date": "2026-11-02T20:45:15.000Z"
+    },
+    {
+      "title": "Washington state resident dies from bird flu following exposure to infected cattle",
+      "link": "https://www.statnews.com/2026/11/02/bird-flu-washington-state-resident-dies-infected-cattle-exposure/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-02T20:44:40.000Z"
+    },
+    {
+      "title": "7 Potential Problems with Medicare’s AI Prior Authorization Experiment",
+      "link": "https://medcitynews.com/2026/11/7-potential-problems-with-medicares-ai-prior-authorization-experiment/",
+      "source": "MedCity News",
+      "date": "2026-11-02T20:39:45.000Z"
+    },
+    {
+      "title": "StimCardio raises $30M for wearable atrial fibrillation therapy",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORy0tTzZMa19LTkFBdldfOHZvNlhsdjFBU3pOSm5wWUh2TFN0b05hUklkWUNEUUtuM013NUc2dDNCQ2FMc2JkaVhpamo0eFVwc2ExVF8xc2VZX1EzNFJfRUJHVHdqV0VPeUJQelgxSXBHUXQwdVdaT0l3elFKRjRlNzRiRXhPU2hyNDBxNGRLbmEwNTFJR3owb0VB?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-02T18:36:43.000Z"
+    },
+    {
+      "title": "How San Ysidro Health connected 6 EHRs into one Epic platform",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2V0ZUkwUmM0VjZMS094U3RxWkxQU003YzVoMENBQzdqekVXeFRPOXR1blRUcEdNTlZiSmJNbUkxMTUxa0docXBZNjhsTXM5dXZnR2tHUDM0aDZLQTUtUlNFM0I5SktEc1Vwc2lzS2NPemcyOU9OMktCQUxTclFxcVUxenRSeWt3UldlNWhvOTloU2xCbU5NT1l3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-02T17:50:38.000Z"
+    },
+    {
+      "title": "Brigham and Women's nurses announce open-ended strike",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWFDbUpVVl80YzdyeVNJSUhWSUhZVlpPRXQxV2Y0VEZvb284UHFWYjRWMUNyT3E3N0V5cVJ1OGptY0xqUmdlZjV2S21FM0xTZ2U4RzBmdVNQQnlWWHhoVmI1SU1Ya1pLMDlzTFBjUlpCaF8zOHlHMzZKSFlUOGlZaDJibVVwNWxGbXNrU3FqZHZLUE5Q?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-02T17:33:48.000Z"
+    },
+    {
+      "title": "Proactive engagement can improve hospital collections",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFJ4TS1ISW1ZNENIVzBqNUdnOUpPMDFlMDEyVTU0TmdYMEFpcElHcWQxcmxYYkZWdm1CUDVFMk9tb1NDemZjRm1tWW9TNC1EQUJmeUFNdm1RbmRnakRGYWZ5SzVjUHBfTUIzUGZReFVrTHFseHZvZlQ5SUhkZHNkRmpMdGNqcUJXWVFSclR5eEdQZHgx?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-02T17:16:15.000Z"
+    },
+    {
+      "title": "STAT+: The health care affordability midterms, and billing urgent care as ER",
+      "link": "https://www.statnews.com/2026/11/02/health-care-affordability-midterms-hybrid-er-urgent-care-clinics-health-care-inc/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-02T17:05:28.000Z"
+    },
+    {
+      "title": "STAT+: Psilocybin’s lasting benefits prove elusive in mice",
+      "link": "https://www.statnews.com/2026/11/02/biotech-news-psilocybin-lasting-benefits-prove-elusive-in-mice/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-02T16:47:33.000Z"
+    },
+    {
+      "title": "Integris Health to Join Risant Health as Health System Dealmaking Stays Active",
+      "link": "https://medcitynews.com/2026/11/integris-health-to-join-risant-health-as-health-system-dealmaking-stays-active/",
+      "source": "MedCity News",
+      "date": "2026-11-02T16:42:46.000Z"
+    },
+    {
+      "title": "STAT+: FDA OKs generic HIV prevention shot, widening access for lower-income countries",
+      "link": "https://www.statnews.com/pharmalot/2026/11/02/lenacapavir-generic-version-approved-fda-hiv-prevention-dr-reddys/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-02T16:13:46.000Z"
+    },
+    {
+      "title": "Proposed Senate bill offers ideas for regs and reimbursement of health AI",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeDdLWm9RYWRqUzAwSy1CUlR6b0NCeHluWVRXc29SVWxOaWI0TERnTVVtWWdGNDF2ZWxJbWVKSHoxbHlfVWlpYUd2cVp0TnhYNmNTOEZnRnIyNks3VHVRbDRtaDlXNXRMZkE2Z3BxeUQtNDM2NHlDZ1pmdG0tZThKYnRybjBjbEZCclZkc094QlZ6dDA4MG9DTmJhQTZlOHpRbFNpXy1nYw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-02T15:30:00.000Z"
+    },
+    {
+      "title": "CMS Is Regulating the Wrong Thing — Here’s How to Fix Remote Patient Monitoring Without Losing the Care",
+      "link": "https://medcitynews.com/2026/11/cms-is-regulating-the-wrong-thing-heres-how-to-fix-remote-patient-monitoring-without-losing-the-care/",
+      "source": "MedCity News",
+      "date": "2026-11-02T14:54:00.000Z"
+    },
+    {
+      "title": "Uncompensated care will increase with Medicaid disenrollments",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3E4NUlmSl8wMnJPR0ZBcmVISjRhTmI5RFJ0NjlFWm03ZzF2Q2s2eXR5ZW8zNDUwQkhhVXZVTzRnMWVGOGY3UTkzNVliNU9nY3ZobERHVE9zRVFCZWh0MUdWbXVncDItZDRPWktCQVlYdlVSd2QwcWt2SEhwd3dPOVVCa0VnUXphaS1RbTlYdUcyS1JhQ3Bfdk8zaw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-02T14:27:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about payments to Russian middlemen, a possible Dupixent rival, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/11/02/drugmaker-payments-to-russian-middlemen-possible-dupixent-rival/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-02T14:22:08.000Z"
+    },
+    {
+      "title": "How Innovation in BTK Inhibitor Development Is Improving Treatment Outcomes",
+      "link": "https://medcitynews.com/2026/11/how-innovation-in-btk-inhibitor-development-is-improving-treatment-outcomes/",
+      "source": "MedCity News",
+      "date": "2026-11-02T14:15:32.000Z"
+    },
+    {
+      "title": "Mental Health Care Was Never Built for Everyone — AI Won’t Fix That",
+      "link": "https://medcitynews.com/2026/11/mental-health-care-was-never-built-for-everyone-ai-wont-fix-that/",
+      "source": "MedCity News",
+      "date": "2026-11-02T14:07:00.000Z"
+    },
+    {
+      "title": "A STAT reporter on covering MRT as an experimental fertility treatment",
+      "link": "https://www.statnews.com/2026/11/02/health-news-stat-reporter-qa-on-mit-as-experimental-fertility-treatment/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-02T13:08:42.000Z"
+    },
+    {
+      "title": "Are you pursuing MRT as a treatment for infertility? Tell us about your experience",
+      "link": "https://www.statnews.com/2026/11/02/mrt-fertility-treatment-advanced-maternal-age-three-parent-ivf-reader-callout/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-02T09:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Coming readout of Kymera eczema trial is a high-stakes moment in a bid to rival Dupixent",
+      "link": "https://www.statnews.com/2026/11/02/kymera-therapeutics-trial-results-eczema-dupixent-rival/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-02T09:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Cancer patients are often pressured to end a pregnancy early. They shouldn’t be",
+      "link": "https://www.statnews.com/2026/11/02/pregnant-cancer-patients-abortion-early-labor-research/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-02T09:30:00.000Z"
+    },
+    {
+      "title": "Opinion: The economics of the U.S. health care system are broken",
+      "link": "https://www.statnews.com/2026/11/02/american-health-care-costs-broken-economics-solutions/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-02T09:30:00.000Z"
+    },
+    {
+      "title": "Women travel thousands of miles for a reproductive moonshot. Scientists say they’ve been misled",
+      "link": "https://www.statnews.com/2026/11/02/three-parent-ivf-fertility-tourism-investigation-mrt-therapy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-02T09:30:00.000Z"
+    },
+    {
+      "title": "Victoria unveils digital health roadmap and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV3ZScUg3ajdUREZsY3hWUEt1N1FWb3dDdHNBSWc5cUpTUWRVblpfMjduZ2lRTFZXWkRoQVVsZnRWMFIxNDdueUxyRGEwNkFYRmdjdWJqX2RqX203dFFXTktxcjRDZnFNRVk3UTI2eGtYYTd1VmFzbU9ZN0hVeW94RVJadVBvSWJIbmp3R3ktZXc3c2dRSExocjE3RGJJdw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-30T02:27:06.000Z"
+    },
+    {
+      "title": "NZ funds digital community mental health projects and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmhuNTNPWFdEMG5Fc0pSSW9zei1PcTA2X3lkenQxTzlEVkJhSHBmcHh0eC14MWs4dm55dnhiMEJua043SUtXWDRKNWQzOURVbTZSSzhabVJIckJJZWxnRDNTcDlwQ28zVGtKM1BSUkY4ZTUzM21Wd0VIYlVKZk9hX1N5aHI1djF0dkRiRXhlbVRjOXB2NXdCNjdkMml0UGlDUEZLQ0hFbmliU1U?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-26T07:40:07.000Z"
+    },
+    {
+      "title": "NSW digitises ambulance-to-hospital patient handovers",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdGpjREtQU3BTNGpmYkNQcm1OZTBJSy1kZ3dUY0ZVTndvVktlTkJxc2VQckhpQWkyR1AzYnJjREtJMGxKZE54YzBja29CLXkyOWFzUDdwNVN1cVlIT2Y4VXRzb2IzN0FlN2tRMERtUWZIOV9ST2hKcW9yX1hQT29UOWp0WmlXOVdVVVk0MEJFWnFMZ0FFNmJF?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-26T00:10:35.000Z"
+    },
+    {
+      "title": "Te Whatu Ora seeks digital tool to redirect ED patients",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEhUU3NGWmE1Z2lxVVRVU0ZBTm1oVG1Hd2U0NE5ra0U0bU9Ec3JLNnROS0xhX2xWeko4bG1IazYyWG85dHF0TkFjNW9rTmpmcmxyMXN6dW5TdWFhUm5hbmZuaEdpQXEwNlQ3ZUFIVTlqR2dQcVNOZnc5N0F3N1hiUktoV21jazU2ZFdKSVZlM3o5R0JkczBGcFpB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-25T23:51:15.000Z"
+    }
+  ]
+}
