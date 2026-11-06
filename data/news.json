@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T01:22:49.619Z",
+  "generatedAt": "2026-11-06T01:25:43.341Z",
   "sources": [
     {
       "id": "stat",
@@ -25,20 +25,316 @@
   "count": 120,
   "items": [
     {
-      "title": "CVS Health Bids Goodbye to Vertical Integration But Not Conflict of Interest",
-      "link": "https://medcitynews.com/2026/11/cvs-health-bids-goodbye-to-vertical-integration-but-not-conflict-of-interest/",
+      "title": "How Can Payers Fit Into the Consumer Health Era?",
+      "link": "https://medcitynews.com/2026/11/how-can-payers-fit-into-the-consumer-health-era/",
       "source": "MedCity News",
       "sourceId": "medcity",
-      "date": "2026-11-04T23:54:27.000Z",
-      "snippet": "CVS Health plans to split into two companies by 2028, but experts say the move may not resolve conflicts of interest between its insurance and PBM businesses. The post CVS Health Bids Goodbye to Vertical Integration But Not Conflict of Inte…"
+      "date": "2026-11-06T00:41:38.000Z",
+      "snippet": "During a panel at MedCity INVEST Digital Health, healthcare experts discussed the role of payers in the new consumer-driven healthcare era. The post How Can Payers Fit Into the Consumer Health Era? appeared first on MedCity News."
+    },
+    {
+      "title": "Do We Have a Choice But to Ensure the Success of VBC? Part 1",
+      "link": "https://medcitynews.com/2026/11/do-we-have-a-choice-but-to-ensure-the-success-of-vbc-part-1/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-11-06T00:23:50.000Z",
+      "snippet": "In part 1, we delve into how physicians are looking at value-based care. It involves a visit to a local The post Do We Have a Choice But to Ensure the Success of VBC? Part 1 appeared first on MedCity News."
+    },
+    {
+      "title": "Why the Wealth of Data From Wearables Are Important for Consumers and Clinicians",
+      "link": "https://medcitynews.com/2026/11/why-the-wealth-of-data-from-wearables-are-important-for-consumers-and-clinicians/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-11-05T23:00:36.000Z",
+      "snippet": "Growing use of wearable technologies and the data they produce was discussed by a panel at the MedCity News INVEST Digital Health Conference in Dallas. The post Why the Wealth of Data From Wearables Are Important for Consumers and Clinician…"
+    },
+    {
+      "title": "Preparing for AI-enabled care in Southeast Asia",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3Ftb0g3WmF6dk0tbkY0Wm5EZTJqeENoajlWRHlxcEJJc0dRMVRqem93dkVOdEs1bEo1UzB3ZS1WaDdjRHdNZlp2SmtORWxkVTB4bzQ2eVBVM3B5Q0J6SWpiS2xsRzR2REFwaVZ4MUV1STdXWEgtOFFMaDBhVUR2U05rMlBCRWVWd0E?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-11-05T22:34:08.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "The AI future of Thomson Medical Group",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcVV0b2w3b1F3WjNWcVRzLXkyZFByMk83MkMtWVpSRW9pSnI4RDV1b2gydUk1RnpGdGtTUjI4UENiN3hoQjFZX1dyOHpHaWhWMGlrdlNLZ3BqS1FCVlJ4NnktM0g1aUoyNzJtaWRLcVZfMnNLSnQ3SFhOVzlRdV9qSA?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-11-05T22:01:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Securing AI in healthcare: Governing AI tools and non-human identities",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEdMTTVWOWxHbGlmZUp0MUZhUk1HTDl5VDQ1blNKMTZKaC1QRzZIYWFCa2trblN6eGtaVjhYdkFMRE9MaXVWQ0JxU3A2OWE1Z3JDcEt2ZE9jS1VidVJ5YXBiT0dEVjVJZE54WHBPclFidnBBX3VHMEV2eHFLQjFxa3RlQ3dZNUVtR1BZeGV5MUtrZERGQl90QWo3c0xISE0xQll3aTl5RTNXUkxf?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-11-05T21:53:25.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Optimizing IT infrastructure for DICOM and AI-enabled precision imaging",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdW1HRnFwbjFfQ0F0UzlEV1IyOXlzUVRoUTR0NWs3RXlKaTNfUjI5YU1oZUhrVEUtRXI3VVdDZ05KYU5YVFBKYmVVMHZRMF9RT0ljWlNXaTZSbUU5WUl1QWc5MDRiTks3MFc3ZE1ORVo2SUNsX28xN0h3U0YzejlFd09xQWRRWW9GNjQ2WmdCYVA3alVDZDRMT01rcldMek8yVV9uZ3cwRWx2dmxJbGc?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-11-05T21:53:24.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "STAT+: Pharma’s trade group spent heavily on search ads to sway public opinion",
+      "link": "https://www.statnews.com/pharmalot/2026/11/05/phrma-blamed-pbms-high-drug-prices-search-ads/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T21:36:52.000Z",
+      "snippet": "PhRMA spent an estimated $59 million on search advertising over a recent seven-year period to influence how Americans view prescription drug costs."
+    },
+    {
+      "title": "A Clinical Leader's Guide to Defining & Executing a Smart Room Strategy",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ3NZYWRCMWVPTFo4TzJKc2JBb3oxUVU1Z3pSRkNOb05ZWGxua2E4RmRKTDkxSEVPMFB2VGRMS1R2WjBlcnNBN1FYZUFNSlVKbjczTkhzeTJRclE0REZXeHdwNEg1NXlNZEFyVjZvWVRoalUtSjlUdjBJRnM1bzlpS3c1TEczRzJTV2s4TU5uM2JmSGF1SG93MGNCRlptS2hLT0p5bF93?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-11-05T21:33:03.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Ballot measures affirm divisions over abortion and transgender issues",
+      "link": "https://www.statnews.com/2026/11/05/state-health-ballot-measures-abortion-marijuana-transgender-issues/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T20:49:33.000Z",
+      "snippet": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care."
+    },
+    {
+      "title": "Child dies of measles in Wisconsin’s first such death since 1990",
+      "link": "https://www.statnews.com/2026/11/05/child-dies-measles-wisconsin-first-death-since-1990/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T20:31:24.000Z",
+      "snippet": "An infant in southwestern Wisconsin has died after contracting measles, the state’s first death from the disease in 36 years."
+    },
+    {
+      "title": "Vitroscope raises $7M to expand live-tissue platform",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZFBSN2k3MWZMTW5NcUF4SUkyd0QzM2N4Y1RacE43RW1GMVlDekFJYUFrTlBwZ01kR2g1OFBSSEphOC0tT0QyQkY0ZGFmS3N1VXcxbTJ5Yi02ZEdzWmNLb2dXR1ZadmZSWi1sUlpTeHFaMDRIb05lcFRMTnBPaGZXMmFkVURtcHl5X2JIRw?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-11-05T18:59:11.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy",
+      "link": "https://www.statnews.com/pharmalot/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T18:53:34.000Z",
+      "snippet": "Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, Zolgensma."
+    },
+    {
+      "title": "Ellipsis Health acquires Kouper Health",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpZWcxLXFMMVQ4T2NkRHVtcGNoMUdESEwtVjhMMFhaOWpFeGQ2Qk4yb1J3UEZCdFVXNXQwYXJneW91STJ4b19HSzNrRTRMSmlGeWVWTWVzc2VBWUQ5VGdNek9IcTQyUEFLcTRnbXhjZjA1Tk0zVGJLZXh2TFFGREk?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-11-05T18:30:14.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "STAT+: Stunning $6M defamation verdict reverberates at MIT campus, global scientific community",
+      "link": "https://www.statnews.com/2026/11/05/david-sabatini-defamation-verdict-reverberates-mit-scientific-community/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T18:19:08.000Z",
+      "snippet": "The explosive court battle between a former star scientist at the Massachusetts Institute of Technology and a younger colleague continues to roil the campus community."
+    },
+    {
+      "title": "STAT+: Two No Surprises Act arbitrators lose government contracts to decide payment disputes",
+      "link": "https://www.statnews.com/2026/11/05/no-surprises-act-arbitrators-idr-ipro-network-medical-review-lose-contracts/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T18:09:39.000Z",
+      "snippet": "The Trump administration is cutting off two groups tasked with arbitrating disputes over surprise medical bills, citing a failure “to meet minimum performance standards.”"
+    },
+    {
+      "title": "Opinion: MAHA 1.0 is dead. MAHA 2.0 is born",
+      "link": "https://www.statnews.com/2026/11/05/end-of-maha-2026-midterms-losses-democrats-aoc-cory-booker/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T18:00:23.000Z",
+      "snippet": "MAHA 1.0 is dead. MAHA 2.0 is born, write “Why Should I Trust You?” hosts Brinda Adhikari and Tom W. Johnson"
+    },
+    {
+      "title": "Before buying more AI tools, hospitals should examine their tech stacks",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRHIwQVQyTVUxc0FGOVZUOTl6WDFoYWR0eGZhOEtwd21iS1VHU3ItTE90NEVLX2QwbkgtUDU2azUzQV95TnhPb1NEMHJRSjkyWFN5b1dBaURyQTV1SUtPWHh1Y000NTJIY2tyRlBRTjdQMUowa0owUFNLcXhMLXk3LUFPVGNTMEZsX3FnRUo4UGdyeVBEaE9DY2E2c1lSaTNRNWJr?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-11-05T17:36:30.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "STAT+: A possible comeback for a failed sickle cell gene therapy",
+      "link": "https://www.statnews.com/2026/11/05/biotech-news-a-possible-comeback-for-failed-sickle-cell-gene-therapy/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T16:22:53.000Z",
+      "snippet": "Three years ago, a trial for a sickle cell gene-editing therapy a decade in the making ended abruptly after the first patient suffered a serious adverse event. Now, the therapy…"
+    },
+    {
+      "title": "Mayo Clinic Platform unveils new CDS tech to guide providers' decisions",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUEhsN0xVRzNZbDRscmwyMDRTX2NVamFUekpJYzIxTDNKMzJuRnluUXMyVVFoUEFnWmdsbFBpLXhWRm1oZlRfSVZJeXhlQXRSblFSbXNFVnVtVWxxaFlLU3RZUzR5OVZUeUxEaDdfaU1uY2NuLUF3eE04OEd0WVk4M2d2aXZwWk5GQ2lDVWRWWHNBeVFUeUZxc0tjZHFJcTk1TFozREdBNjM?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-11-05T15:45:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "STAT+: Winners, losers, and MAHA",
+      "link": "https://www.statnews.com/2026/11/05/midterm-election-health-care-takeaways-maha-rfk-medicare-for-all/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T15:41:24.000Z",
+      "snippet": "Democratic doctors won big, MAHA faces an uncertain future, and what the election could mean for Medicare for All."
+    },
+    {
+      "title": "Clinical data can support ongoing quality improvement",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWpfdWllbXMwcWE1bWlLYW55S0oweXhkeHVySmNjdktzOG0yVlBmbzF1Y010MGtqNFN5SmlBS205VnJ2OE1IcUxOdUFweU9rUnJGLTViZ2o1NEhSUWg4aGVDRnlFUDF4cjZ6YUNCVGVBUGxWdWliRllueFYxOVp3VEtxaE9iTmR0ZG5PSjNaSHB1eThG?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-11-05T15:41:09.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "AI Didn’t Reduce Clinician Burden — It Just Moved It",
+      "link": "https://medcitynews.com/2026/11/ai-didnt-reduce-clinician-burden-it-just-moved-it/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-11-05T14:51:00.000Z",
+      "snippet": "Documentation tools have value. They solve a visible pain point well. But solving a visible pain point is not the same as solving the right one. The post AI Didn’t Reduce Clinician Burden — It Just Moved It appeared first on MedCity News."
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about India’s new manufacturing rules, clinical trials in China, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/11/05/india-new-manufacturing-rules-china-clinical-trials/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T14:49:16.000Z",
+      "snippet": "India proposed rules requiring regulators to immediately suspend manufacturing licenses for drugs that fail quality standards in government testing"
+    },
+    {
+      "title": "AI efficiency depends on connected workflows",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUdPT2ptY1ItcDJ3Q3BxY2Zzb0Q1Ync3QWFKMW53azBZdDFNaW5pdGp6MGdDLVdlOEY1WGdudkx6eS04VDdtcUJBYnVyTEU1UG5LS0NxNVBqaWo0SEY4MWh6MjhTajdWZnJ1aUpLOE1SdmZHVU1zSkJPNDhmY1VGSU1tdWY3S0k?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-11-05T14:29:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "The Dangerous Illusion of the “Two-Week AI Expert”: A Call to Action Against Superficial Medical Education",
+      "link": "https://medcitynews.com/2026/11/the-dangerous-illusion-of-the-two-week-ai-expert-a-call-to-action-against-superficial-medical-education/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-11-05T14:27:00.000Z",
+      "snippet": "If we choose the quick fix, let us be honest about the consequences: when an unexamined algorithm leads to a fatal diagnostic error, the blame will not lie with the black box. It will lie with us, because we were too reckless to teach the f…"
+    },
+    {
+      "title": "The AI-Native Clinician Is Already Here. Medical Education and Health Systems Need to Catch Up.",
+      "link": "https://medcitynews.com/2026/11/the-ai-native-clinician-is-already-here-medical-education-and-health-systems-need-to-catch-up/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-11-05T14:10:00.000Z",
+      "snippet": "[Sponsored] Medical students, residents, and fellows are not waiting for formal guidance on artificial intelligence before putting it to use. The post The AI-Native Clinician Is Already Here. Medical Education and Health Systems Need to Cat…"
+    },
+    {
+      "title": "When Medicaid’s Data Can’t Verify Eligibility, Members Shouldn’t Lose Coverage",
+      "link": "https://medcitynews.com/2026/11/when-medicaids-data-cant-verify-eligibility-members-shouldnt-lose-coverage/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-11-05T14:03:00.000Z",
+      "snippet": "When verification fails and an eligible member loses coverage, treatment can be interrupted, medications can go unfilled and manageable conditions can become medical emergencies. The post When Medicaid’s Data Can’t Verify Eligibility, Membe…"
+    },
+    {
+      "title": "STAT+: Beyond statins, one drug lowered heart attack risk by 20%",
+      "link": "https://www.statnews.com/2026/11/05/repatha-vs-zetia-cholesterol-study-heart-attack-risk/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T14:00:00.000Z",
+      "snippet": "A new study could help doctors figure out what medicine to prescribe for cholesterol when statins don't cut it: It's “answering a really challenging clinical question.\""
+    },
+    {
+      "title": "STAT+: Medicare delays controversial remote patient monitoring rule to 2029",
+      "link": "https://www.statnews.com/2026/11/05/health-tech-news-medicare-delays-controversial-rpm-rule-update/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T13:04:15.000Z",
+      "snippet": "Despite widespread opposition, Medicare will finalize a controversial proposal that will prevent providers, such as hospitals, from using third parties to deliver remote patient monitoring services."
+    },
+    {
+      "title": "Single-payer health care system proponents were thrown a big bone this election",
+      "link": "https://www.statnews.com/2026/11/05/morning-rounds-single-payer-health-care-system-after-midterms/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T12:58:19.000Z",
+      "snippet": "Sen. Bernie Sanders is likely to lead the Senate’s health committee next year, which could grant him a chance to fundamentally alter how the FDA interacts with the companies it…"
+    },
+    {
+      "title": "STAT+: Revolution Medicines’ pancreatic cancer drug has stunning commercial debut",
+      "link": "https://www.statnews.com/2026/11/05/rasonque-revolution-medicines-pancreatic-cancer-commercial-launch/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T12:33:01.000Z",
+      "snippet": "Rasonque, Revolution Medicines' new pancreatic cancer drug, is off to one of the best oncology drug launches in history."
+    },
+    {
+      "title": "STAT+: A closer look at ProMis Neurosciences and its Alzheimer’s drug",
+      "link": "https://www.statnews.com/2026/11/05/promis-neurosciences-alzheimers-disease-acumen-vertex-kidney-drug/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T11:30:00.000Z",
+      "snippet": "Shares of ProMis Neurosciences, developer of a treatment for Alzheimer’s disease, sold off sharply last week. A closer look at the reason why — and whether it holds up."
+    },
+    {
+      "title": "STAT+: What the midterms could mean for the future of health AI",
+      "link": "https://www.statnews.com/2026/11/05/midterms-shape-future-ai-in-health-care-fda/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T09:30:00.000Z",
+      "snippet": "The midterms highlighted the negative sentiment around AI across the U.S. How will those attitudes trickle down to legislating AI use in health care?"
+    },
+    {
+      "title": "STAT+: As more doctors consult chatbots, health systems can block them — or buy in",
+      "link": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T09:30:00.000Z",
+      "snippet": "As hundreds of thousands of doctors consult AI chatbots to make care decisions, health systems see new risks to patients' health data."
+    },
+    {
+      "title": "STAT+: In China, a flood of controversial clinical trials slows to a trickle",
+      "link": "https://www.statnews.com/2026/11/05/china-biotech-restrictions-impact-rare-disease-investigator-initiated-trial/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T09:30:00.000Z",
+      "snippet": "Following patient deaths, China restricts investigator-initiated biotech trials, leaving rare disease families and US investors facing an uncertain future."
+    },
+    {
+      "title": "Opinion: I’m a neurosurgeon. I’ve learned pain and suffering are very different things",
+      "link": "https://www.statnews.com/2026/11/05/neurosurgeon-difference-between-pain-suffering-assisted-dying/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-05T09:30:00.000Z",
+      "snippet": "“The cruelest response to suffering is to attempt to explain it away,” writes neurosurgeon Stephen Doran."
     },
     {
       "title": "'Super AI partner' for patients?",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PeTl1QUd4RjdHUUdialZwVmJTUEtlV2h2YWJ4Q0dqOER1WlZhaWsxeFloTVZUdEl6emJSWUY0c19EdnVBU0xJSWo0TjVVUEtBczhuNHkxRWgzVU9jbmtpQXRQODIzbnZzWU5pUzBGWkxKS1BNMXc?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
-      "date": "2026-11-04T22:04:14.000Z",
+      "date": "2026-11-05T03:18:58.000Z",
       "snippet": ""
+    },
+    {
+      "title": "CVS Health Bids Goodbye to Vertical Integration But Not Conflict of Interest",
+      "link": "https://medcitynews.com/2026/11/cvs-health-bids-goodbye-to-vertical-integration-but-not-conflict-of-interest/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-11-04T23:54:27.000Z",
+      "snippet": "CVS Health plans to split into two companies by 2028, but experts say the move may not resolve conflicts of interest between its insurance and PBM businesses. The post CVS Health Bids Goodbye to Vertical Integration But Not Conflict of Inte…"
     },
     {
       "title": "Researchers Receive $4M NIH Grant to Build AI Model To Prevent  Kidney Injury",
@@ -81,14 +377,6 @@
       "snippet": ""
     },
     {
-      "title": "STAT+: Mass. marijuana consumers, workers high on victory after repeal of recreational weed sales fails in a rout",
-      "link": "https://www.statnews.com/2026/11/04/massachusetts-marijuana-question-8-results-recreational-cannabis/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-04T19:40:32.000Z",
-      "snippet": "Massachusetts voters decisively shot down a ballot initiative that would have dismantled the state’s recreational cannabis industry."
-    },
-    {
       "title": "Servier Stumbles in Muscle Disease as Drug From $1.5B Deal Fails Pivotal Test",
       "link": "https://medcitynews.com/2026/11/servier-becker-muscular-dystrophy-sevasemten-myosin-inhibitor-rare-disease/",
       "source": "MedCity News",
@@ -97,23 +385,7 @@
       "snippet": "Servier’s sevasemten came from the acquisition of the muscular dystrophy assets of Edgewise Therapeutics. While the small molecule had met the goal of a Phase 2 test in Becker muscular dystrophy, Servier said new results in a pivotal cohort…"
     },
     {
-      "title": "STAT+: Democratic doctors and scientists ride the blue wave",
-      "link": "https://www.statnews.com/2026/11/04/midterms-democrat-winners-doctors-scientists-medical-professionals/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-04T18:46:45.000Z",
-      "snippet": "The clinicians and researchers who will take office are ready to tackle the U.S. health care system."
-    },
-    {
-      "title": "STAT+: Where does MAHA go from here? 3 possible futures",
-      "link": "https://www.statnews.com/2026/11/04/maha-movement-future-after-midterm-losses/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-04T17:09:44.000Z",
-      "snippet": "Republican losses leave Robert F. Kennedy Jr.’s MAHA movement with three possible futures."
-    },
-    {
-      "title": "ARCare triples nurse capacity by combining RPM and chronic care management",
+      "title": "Arcare triples nurse capacity by combining RPM and chronic care management",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkhEbEQ3eFBHOEdVcWtnWGhjLTBJWW4wckM1Zi1DSXc4bGx4amlkS2hRSnBfUXp4dEJreVMzSWRVcHRaVVJHeHh3U01POURhaUxud0tNdXVQamJfcGVDYUwtSzlpRzJFX01JLVZLZk1xMWZRQVFMY1ZYTjQ3UUd0dy1YRHp3OWNScDBLNUdNMXN5RXFhV01fbGtoa2RuT2VjT1lQbVRyRVdiaVQxYlE?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
@@ -129,14 +401,6 @@
       "snippet": ""
     },
     {
-      "title": "STAT+: CVS Health to split, reversing years of deal-making to combine pharmacies and insurance",
-      "link": "https://www.statnews.com/2026/11/04/cvs-splits-pharmacy-from-insurance/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-04T16:30:06.000Z",
-      "snippet": "CVS Health’s decision to split comes amid federal and state scrutiny over vertical integration."
-    },
-    {
       "title": "NAVAPD asks Congress to pause VA EHR rollout",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbGdYVUdxS3hMYm1HVV8xaU52OTVpRWk4WE1OVkloX01lenl2N0JRSjBxa0ZQb0N4X3djeXpremxIVnZOc2ZIVkhkWEJveV9fM0NfbmRWS3pTR0tHLU5CYndZRS13aVEzRUQ1QjYyRV9oRGFlQnNIbURXeXJSRU9fd3o2X19Pdw?oc=5",
       "source": "Healthcare IT News",
@@ -145,36 +409,12 @@
       "snippet": ""
     },
     {
-      "title": "STAT+: A looming deadline to fund the government will shape Congress’ unusual lame duck session",
-      "link": "https://www.statnews.com/2026/11/04/lame-duck-session-congress-health-policy-aca-subsidies-medicaid-funding/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-04T15:55:54.000Z",
-      "snippet": "Before Democrats take control, Congress must fund expiring health care programs and confirm HHS nominees."
-    },
-    {
-      "title": "STAT+: Five midterm winners and losers: MAHA mowed down, Dem docs scrub in, ‘Medicare for All’ returns",
-      "link": "https://www.statnews.com/2026/11/04/midterm-health-policy-winners-losers-medicare-for-all-rfk-jr/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-04T15:15:21.000Z",
-      "snippet": "Democratic doctors were among the winners in the midterm elections, while the MAHA movement and President Trump's health agenda were losers."
-    },
-    {
       "title": "When Patients Become Consumers: The New Care Stack Collides With Legacy Healthcare",
       "link": "https://medcitynews.com/2026/11/when-patients-become-consumers-the-new-care-stack-collides-with-legacy-healthcare/",
       "source": "MedCity News",
       "sourceId": "medcity",
       "date": "2026-11-04T14:48:00.000Z",
       "snippet": "To succeed, our healthcare system must fully embrace consumer-focused product design to address demands of scale, access, and daily usability that the market is revealing. The post When Patients Become Consumers: The New Care Stack Collides…"
-    },
-    {
-      "title": "STAT+: Ultragenyx cuts staff after another study fails",
-      "link": "https://www.statnews.com/2026/11/04/biotech-news-ultragenyx-cuts-staff-after-another-study-fails/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-04T14:46:46.000Z",
-      "snippet": "Ultragenyx announced that it's laying off about 20% of its staff as it ends development of two rare disease drugs."
     },
     {
       "title": "Bringing clinical consultations to care deserts",
@@ -193,60 +433,12 @@
       "snippet": "For all the pink ribbons we see, women with breast cancer are abandoning one of the most effective treatments they have because of symptoms no one in their care team is clearly responsible for. The post Breast Cancer Survivorship Is a Menop…"
     },
     {
-      "title": "STAT+: Pharmalittle: We’re reading about CVS plans to split up, FDA inspections in India and China and more",
-      "link": "https://www.statnews.com/pharmalot/2026/11/04/cvs-plans-to-split-up-fda-inspections-in-india-and-china/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-04T14:20:46.000Z",
-      "snippet": "The Trump administration will survey key components of pharmaceutical production in order to identify domestic supply chain vulnerabilities."
-    },
-    {
-      "title": "STAT+: Sens. Wyden and Sanders, backers of ‘Medicare for All,’ set to take charge of key committees",
-      "link": "https://www.statnews.com/2026/11/04/democratic-wins-medicare-for-all-momentum/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-04T13:38:17.000Z",
-      "snippet": "The Democratic flip of the Senate is expected to put two Democrats who support Medicare for All in charge of key committees."
-    },
-    {
-      "title": "STAT+: The biotech startups skipping AI for drug discovery",
-      "link": "https://www.statnews.com/2026/11/04/the-biotech-startups-skipping-ai-for-drug-discovery-ai-prognosis/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-04T13:01:33.000Z",
-      "snippet": "In this edition of AI Prognosis: These biotech startups don't think drug discovery is where AI can make the biggest difference."
-    },
-    {
-      "title": "STAT+: Former Madrigal Pharmaceuticals executive alleges coverup of safety issues tied to its drug",
-      "link": "https://www.statnews.com/2026/11/04/former-madrigal-pharmaceuticals-executive-rezdiffra-lawsuit/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-04T12:30:43.000Z",
-      "snippet": "A top former executive at Madrigal Pharmaceuticals has filed a lawsuit in federal court alleging a coverup of drug safety issues."
-    },
-    {
-      "title": "Top health takeaways from the midterm elections",
-      "link": "https://www.statnews.com/2026/11/04/health-news-midterm-elections-2026-democrats-control-congress/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-04T12:15:08.000Z",
-      "snippet": "Democrats gained control of both chambers of Congress, and doctors and scientists won key seats. Here are the top health takeaways from the midterms."
-    },
-    {
-      "title": "Opinion: I moved to Europe for free health care. I miss my patient portal",
-      "link": "https://www.statnews.com/2026/11/04/moving-to-europe-free-health-care-differences/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-04T09:30:00.000Z",
-      "snippet": "“To be honest, in Malta, I pay for medical care all the time. I just pay differently,” writes Mariska Breland."
-    },
-    {
-      "title": "STAT+: Democrats win power to push back on Trump’s health care moves",
-      "link": "https://www.statnews.com/2026/11/03/midterm-elections-what-democratic-control-senate-means-healthcare/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-04T04:38:26.000Z",
-      "snippet": "Democrats win Senate control, and with it the power to push back on Trump’s health care moves."
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSjJGdlJINVg2VFNZWHlONTBDQzN1N2tsVTVjOFhtWE1zN3RvbUxvOWZXNXJlZk1VSk5EWnNMV0JMYTRNR244RXVuWFpWV0tDa1JDdlBwYWlKcHFXeVp5VzB0YzNCTXUzakpRT2xDWnFTWlowN2tLSGw4cnhnTWJuTjI4czE?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-11-04T00:33:08.000Z",
+      "snippet": ""
     },
     {
       "title": "The FTC Is Flexing Its Muscle in Healthcare",
@@ -281,35 +473,19 @@
       "snippet": ""
     },
     {
-      "title": "STAT+: Servier’s $1.55 billion muscular dystrophy drug fails first major test",
-      "link": "https://www.statnews.com/2026/11/03/becker-muscular-dystrophy-servier-edgewise-sevasemten-fail/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-03T20:53:20.000Z",
-      "snippet": "Servier reports a surprise setback for a drug being tested for a form of muscular dystrophy that lacks treatment."
-    },
-    {
-      "title": "STAT+: Amid Mass General Brigham layoffs, CEO pens vague letter, stirring staff anxiety",
-      "link": "https://www.statnews.com/2026/11/03/mass-general-brigham-layoffs-ceo-letter-staff-anxiety/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-03T20:33:22.000Z",
-      "snippet": "A cryptic email sent to Mass General Brigham employees by the health system's CEO is stirring staff anxiety less than two weeks after a round of layoffs."
-    },
-    {
-      "title": "employer benefits",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tYmVFMXFCeEt3REd4UW1VNkVXblcyNGhnN2lvYWhXaTVfNXJZbklfMTdRX0dodm9QMGN2SVlBQ1ZQWVM1ZE16dTFCWHktLUZROXA3NnN0U1I3MzRoUkpIVk9B?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-11-03T19:59:21.000Z",
-      "snippet": ""
-    },
-    {
       "title": "nPhase raises $30M for clinical data platform",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQODBadldOajhxZm4xZU9kUUpRSWxEUVZNWTBNZ0xGMG12RkFQSDN4X1g2RnU2SUFUX2tLU3R1cDJsWFJWb2pVb0NhZTRSQ0VTTnM3ZkIyNEkteFJ0WlVuM1Rod1puNmptcmxqdFRKdmhhYzNoUHNNWWY3TnYtVWJDSldn?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-11-03T19:14:26.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeFo3ODBOOFdkdXNMaWl1elhpRkxaM0lubzdqcEJkVVNKSlNlVkxSRnEwbXlsaXFNdkVILTZ3NlNLdHBDaTRrTlJtQUNVMVJFWXFETDd5LVZMeGhfRzVfRmlUQ21rMGZocmFQS2NCVDJEeXN5T3hlbDBmZ0NiQmZGQ25OUlZiOEZoejhOclpGV2VFcTNzeUNveEZRUmdZd21iVkJQNGRQbnU3Q0RLMjlFMGZjeWs5cXYyQ09GQk5Ta1RUNzVzNW5tVkpQSTdGR0Fna3c?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-11-03T18:58:21.000Z",
       "snippet": ""
     },
     {
@@ -337,36 +513,12 @@
       "snippet": ""
     },
     {
-      "title": "STAT+: Who will get the first psychedelic approved?",
-      "link": "https://www.statnews.com/2026/11/03/biotech-news-who-will-get-the-first-psychedelic-approved/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-03T15:36:21.000Z",
-      "snippet": "The biotech Compass Pathways has been seen as one of the frontrunners in the race to get the first psychedelic drug approved. But it could be a tight race, with a non-profit…"
-    },
-    {
-      "title": "STAT+: What do the midterms mean for health care?",
-      "link": "https://www.statnews.com/2026/11/03/midterm-election-health-care-issues-dc-diagnosis-newsletter/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-03T15:29:07.000Z",
-      "snippet": "STAT unpacks what the midterms mean for health policy, MAHA, and health insurance."
-    },
-    {
       "title": "Staff education is essential for AI adoption",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SV3RvRHBxWGxfc0NEZXlucTY3LWZBYzVlZnBKM1hYS2UzR3NnNUU0Znl1TXNxVlZoTGFpNk5HUlRZSVlEQ1lQZjNJUzU0eUJ6YjJLMmFOekZQSWFiZ3piTzBlUVlwZ0xJM1BIa0pRVXpIbTZiZ2wyczNZcUtpUEk?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-11-03T15:24:45.000Z",
       "snippet": ""
-    },
-    {
-      "title": "STAT+: FDA, CMS look to collaborate with states on health AI",
-      "link": "https://www.statnews.com/2026/11/03/fda-cms-collaborate-with-states-on-ai-heath-tech/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-03T14:51:12.000Z",
-      "snippet": "In this edition of STAT Health Tech: Federal officials look to work with states on regulating AI, protecting doctors from AI liability, and more."
     },
     {
       "title": "Healthcare’s Trust Crisis Is an Experience Crisis",
@@ -593,14 +745,6 @@
       "snippet": ""
     },
     {
-      "title": "Technical standards underpin nationwide health data sharing",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX2tSZWR6WkZVRzQ3Z0NBc25EZ3hCanNIazA0LVZDM2tCVENMYXlVM3J3RGZ2cFY4UUN5Q3hUdVhRVWpKbDlrN1FEejl3QmREZ2FMbU5tdm5CNk5wWFljMVVBcWNlb3YycldNMkdodEZxcHZNNkZVaU1oOU9yQ1NKWFdpdm01Z1FIdTFPZm9TczAwcE5yM3NEWGtsRDVZR2M?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-30T21:12:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Employer, Pharmacy Advocates Applaud DOL Final Rule on PBMs",
       "link": "https://medcitynews.com/2026/10/employer-pharmacy-advocates-applaud-dol-final-rule-on-pbms/",
       "source": "MedCity News",
@@ -615,14 +759,6 @@
       "sourceId": "mobi",
       "date": "2026-10-30T18:12:05.000Z",
       "snippet": ""
-    },
-    {
-      "title": "Bambusa IPO Brings In $169M to Break Immunology’s ‘Therapeutic Ceiling’",
-      "link": "https://medcitynews.com/2026/10/bambusa-ipo-immunology-inflammation-bispecific-antibody-atopic-dermatitis-bbtx-aspen-neuroscience-cell-therapy-parkinsons-aspe/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-10-30T17:13:26.000Z",
-      "snippet": "Bambusa Therapeutics’ IPO cash will support its pipeline of bispecific antibodies designed to offer advantages over currently available monoclonal antibodies. Aspen Neuroscience also debuted on the Nasdaq as it prepares for a pivotal test o…"
     },
     {
       "title": "Zocdoc partners with Instinct for AI appointment booking",
@@ -657,22 +793,6 @@
       "snippet": ""
     },
     {
-      "title": "It’s A TRAP! Employer Concerns for Tuition Reimbursement and Other Employee Repayment Agreements",
-      "link": "https://medcitynews.com/2026/10/its-a-trap-employer-concerns-for-tuition-reimbursement-and-other-employee-repayment-agreements/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-10-30T13:56:00.000Z",
-      "snippet": "For life science employers who offer these benefits should pay particular attention to new state laws and regulations to ensure continued compliance. The post It’s A TRAP! Employer Concerns for Tuition Reimbursement and Other Employee Repay…"
-    },
-    {
-      "title": "A Meaningful Signal on Palliative Care – But Not Yet a Benefit",
-      "link": "https://medcitynews.com/2026/10/a-meaningful-signal-on-palliative-care-but-not-yet-a-benefit/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-10-30T13:53:00.000Z",
-      "snippet": "CMS asked the right questions – the ones that will determine whether any future benefit actually reaches these patients. The post A Meaningful Signal on Palliative Care – But Not Yet a Benefit appeared first on MedCity News."
-    },
-    {
       "title": "Deductible-free health plans gain ground among employers",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQkU4S2djeWY3ZGdoaFZ1WXVIaWlaaTVjNi1XTmY3aEU3LXR3UENOVTU0MENwUUwzS1VxRTljS3cwUE9VQnlOSW9SUkw3SEJnVEZ5SjR0VFg2bGN3R1FYcFBobnA5d3V2dHNnNWtGU1FXYnp6TklKSF9TbW9GVGlDN1pPaXNZcmt6VmV0V2lXeGZCYUlHMU13Y1RIZw?oc=5",
       "source": "Healthcare IT News",
@@ -705,22 +825,6 @@
       "snippet": ""
     },
     {
-      "title": "Provider",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMF8wTW04WXMyMGZOSUZ4emc4RmVaU0ZuVVE2VGpPVTFZSE80dUpGTWtRUGVGaFl3ZDNPa0lxQXRJU1pjM0VQakFRVnJhdHhrU1dNNVRGOTBfc0J3YlFzci1udFZkOU5Sd2w3NThjQUxJVndyUjg4VlNqbUd1Tlc0RU1MZnRoZFdDY3BZQjR5ZjNOWExFcG5ucmd3aE9xNUtCUVkxQzRnQjh6V0dfU3NUb0F4bU5SeDNGMVVJX0ZRamVqU3JvVVJ6dHY2bUU5UFVuT21uOFJXRE04ZHEwMUdtTGZyNkh6eE9Z?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-29T22:25:22.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "What’s Driving the Rise of Consumer Diagnostics?",
-      "link": "https://medcitynews.com/2026/10/whats-driving-the-rise-of-consumer-diagnostics/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-10-29T22:06:28.000Z",
-      "snippet": "At MedCity INVEST Digital Health, experts from Jona, Labcorp and Evvy discussed the drivers of consumer diagnostics. The post What’s Driving the Rise of Consumer Diagnostics? appeared first on MedCity News."
-    },
-    {
       "title": "90% of Changi General Hospital staff are AI literate",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDhTdklsTUo1TEhXNmY4cFQ0WDFVMjBYTDM3eWVKRkg3STRCalJxTURCaHFEUmNabThzQ2FlS2dQVHN1eU1XaEFvbWptRTVyVFdwWExaUUQwejl0RlRBSjdxczZaLWVvU3hDckc2RHV6M2o2VnFHejcxNTlMWFBfajg4UmxyVUJCdkU4S3dGeXFDcU1F?oc=5",
       "source": "MobiHealthNews",
@@ -729,27 +833,11 @@
       "snippet": ""
     },
     {
-      "title": "BioMarin Expands Again in Enzyme Replacement, Paying $70M for Long-Acting Fabry Drug",
-      "link": "https://medcitynews.com/2026/10/biomarin-fabry-subcutaneous-enzyme-replacement-hanmi-gc-biopharma-gb3-bmrn/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-10-29T19:39:36.000Z",
-      "snippet": "BioMarin gains rights to a Fabry disease enzyme replacement therapy with potential dosing advantages over products from Sanofi and Chiesi Group. BioMarin’s new clinical-stage asset could reach patients ineligible for the Fabry drug that cam…"
-    },
-    {
-      "title": "Midstream Health raises $20M for autonomous AI financial platform",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUVvLThaM3ZyeEk1cHNna3lPMHF3UVhrM3VMcS1VcVowY0NGNHJiQktsUWpobGdGSlI1TnQ0X3FFNW5XazFPbVhYOE9YSnNhbVAwRFRPcTVtanZKTGp2M3ViU1o1c3FjckFSdFUyVC1OUDE4R25OWWx2bFV0MUp6MmlMNFVGOVc0ajR3b1R4ZGMycGNqOGlBMFZnRmc?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-29T19:22:05.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Anthropic files for IPO, plans Nasdaq listing under ANT",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVWZCc3Y1LXQ1ZFlscUEtTDRBR3ZTTmUza3VTcmtHSzQ3NmFWM0ROUTNRWVpMZzd4TlJIZEJGbXpQY3ZKR1ZGQVg3S1RXaVdaQkJNLUduZWxXbGNwdmkyamQ4M2hIMHhSMXBKVWZ2ZkNKZHV0dzZUdXRmMjFjOXFrdTlIbEEtejk2M2NmY1RjMA?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-29T15:49:31.000Z",
+      "title": "HTI-5 offers drawbacks and transitions – here's what stakeholders think",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdFQ4M3VmVkZKcUhvbTRzdFVpRlF5SDFCQlkxSk9EdnZJY0haanNZcXlaSDVCSjJOSzFyOHZkVnhJc0tFY3VxUHRfNF9xVlJiZEJSS3FsWThNWEprTUljb0tlM1dWdnZHWEVIMnJmSmkyWXgwR1FLUlF3X1RsdUZlZmpuakhFT2tFejZFaXlBQnN3ZWw3djBjZVVHT1dKeXFvalk2czNfNm5xUQ?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-29T18:51:32.000Z",
       "snippet": ""
     },
     {
@@ -766,38 +854,6 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-10-29T13:38:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Beyond a Score: Putting The Patient Experience at the Heart of OCD Innovation",
-      "link": "https://medcitynews.com/2026/10/beyond-a-score-putting-the-patient-experience-at-the-heart-of-ocd-innovation/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-10-29T13:36:00.000Z",
-      "snippet": "Scientific progress only really matters if it changes what life looks like for those living with OCD. That’s because for someone who has spent years losing hours to their obsessions and compulsions, meaningful progress should mean a signifi…"
-    },
-    {
-      "title": "3 Ways ProgenyHealth Can Transform Maternity and Infant Health, Claims Management",
-      "link": "https://medcitynews.com/2026/10/3-ways-progenyhealth-can-transform-maternity-and-infant-health-claims-management/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-10-29T11:30:00.000Z",
-      "snippet": "[Sponsored] Pregnancy and NICU admissions are among the most complex areas in healthcare. A new report from ProgenyHealth highlights how the company can work with Medicaid and commercial health plans to uncover insights and hidden risks cri…"
-    },
-    {
-      "title": "OpenEvidence partners with American Society of Addiction Medicine",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaGNSSDZxcEZzQVg0a2ZtX2Z2VF9xaXRWYzlBTkpvZ0phZ2YzWjdLOUU5VW5DX25PZ1d6bDgyc0lVT2cwYllXMXRnXzYwb0dJVHZPNFVrUHJrYjkycUVVanR5emhRalNHeUp0SXRBQjJDYXdQTFBhN2l0S2JmOVh3d0E3aHc2bWhseGdvWmVRVzZIMDA1bTduSg?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-28T20:30:37.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "From Automation to Autonomy: How eClinicalWorks Agentic AI Enables Intelligent Workflows",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmxrR2tveHAweTJZWmZkb1FuSEUzY2hqc1JBWXk4R25aZkhUZWdSRFkzcXlWWVp5MjRpazZncDZfWjNEUGdidjVfM0dxRE5UY0xxcVRfUzhrNGxWZFlJaDMxYnBHc2xNX3hwZWJMSmNJUWVxRzhKQUkyaTBMWl9qOFhkWXV3amRuLU5GbUFzNDFudDVVUWRBVVNLTURNbDVqZlFXcldQUlRBa2I4U09NXzAwaTZOR2lf?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-28T20:05:00.000Z",
       "snippet": ""
     },
     {
@@ -825,43 +881,11 @@
       "snippet": ""
     },
     {
-      "title": "Vera Health has secured $28.5M for clinical AI search platform",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGY5bDNqdGh3cHg3RTA5djBWMW5ydm1URFJOVDQxX0hoZFJQZVdrU3RlWmVVVFE5YmdNSF9aTW96cHJNZGFHMFlhT1JjYzhkRUo3TGtGSjNOTnJ0SndUNVJGVDFZVk5GZjZjd2k5VG5MWkktenhKUkE2cWdUcmt6VGM2Rk1zQU1odG5WeVQyckVLNjdhZ2o4?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-27T17:36:46.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "ONC finalizes HTI-5 health IT deregulation rule",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1BwQmF2ellGcXRZWnJhQnhkdzNucUFmNGtYbTZnQTB5N0hSaWIwVm1NMWVidGM4dkNPN1ZHVHNPZGJSbHcxTnJabTMyWVZGMWxsSS1rc1lhT0Qwd0tmOEs2YWNMSU9KRVBVWEJLRHlxSlhnbFNvaHd2TGt1SXJzeTA1Q1hhYm9aRUUwclFB?oc=5",
+      "title": "From Automation to Autonomy: How eClinicalWorks Agentic AI Enables Intelligent Workflows",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmxrR2tveHAweTJZWmZkb1FuSEUzY2hqc1JBWXk4R25aZkhUZWdSRFkzcXlWWVp5MjRpazZncDZfWjNEUGdidjVfM0dxRE5UY0xxcVRfUzhrNGxWZFlJaDMxYnBHc2xNX3hwZWJMSmNJUWVxRzhKQUkyaTBMWl9qOFhkWXV3amRuLU5GbUFzNDFudDVVUWRBVVNLTURNbDVqZlFXcldQUlRBa2I4U09NXzAwaTZOR2lf?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
-      "date": "2026-10-27T15:02:47.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Q&A: Google on using AI to detect healthcare bias, accelerate discovery",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSnZVQUFBZlJXcVhjam1yNHlpdnhoYmZjNHNKeGNVd2o2Qk1WUjN6N1JXRHdpVDJMRVFVTzBNNFVWdzdxV0Q4QTRONUtFOFJYZjlyOEEzeHl2ODVfalZTTUJ5VzdBWDZ5STBKNmZyVzFFNEp1Z3pLbmJsMW1IWDVUYUN6eEZoejV2Z0VvZkgxcjltVXM1ZDV1eFBsdHBIMUE?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-27T14:37:27.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Simple setup lowers providers' AI adoption barriers",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3V6VlVJc05tVzY4WkxtcmRUN1dldnU0Ui1JeU5mVDFEcGxUU1ZkRWhUdGlsUjVOTWNLVm1GQWZ3cHZFV0NBNnpYWlhHZ1VoenVKbnZyMlQwX1NyeVV2a3F0SVFjeU4wVkI5TXpoMV9OaTZaNzBzWXN0RllMNFNTWWFEWDZoNlpxck4wd1FCQ0g?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-27T14:05:22.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Zapping patient wait times with AI receptionists",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0R5NTRYUlBSUXBCbVp5cGZWRTBubEZ6a3JoZV9nOWpGdWFGWkd3RWZVd1NuNFZtWUNXMFZpY3dFRWxGRUdXZTdCVjVjcWtlWmtNNFJzNF9MYk1qWEsxTkhRUkQ1cE5sYkR1TFhIR1Y3Yk83NGhZaVFYUEhRdFRKVjVlREV0ckhpY2c?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-27T13:18:00.000Z",
+      "date": "2026-10-28T07:00:00.000Z",
       "snippet": ""
     },
     {
@@ -886,14 +910,6 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-10-23T18:46:29.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "After EHR consolidation, the real test is how care changes",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzhOMXdLR3R1QjNJdlB3aXpqRFdNb2UxdzZUTkIzWkx0emRDLXZUVFktZU5WV09xWlo1a0IyYXRjMi05d0JTM2lhSGJhamFPYlBqMUNXdG9MTGhFSmhydXBZOWtvbTV4RHFSZXFGeUdZdy1JMFZDak1PQ1VQZFd0Y01IejhSOUhzd25FYXh0RE5Ldw?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-23T15:20:56.000Z",
       "snippet": ""
     },
     {
@@ -929,6 +945,14 @@
       "snippet": ""
     },
     {
+      "title": "Google healthcare leader offers a vision of 'AI with purpose'",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdzNDc2ZNak9LSWZaVTgwb05Cak5TWTU2T2w3d29XR2hKaG1relJTVGhYTnlDeE1JYWdTQXNDdXJ6ZHg0bmo1QmlqSms1eC1lVDFvMkpUUThoaGItSF9MVHI2aW5BT0lXV2lkV2IwZ2pmVGM0Q29TZk1FQkJGTUtTT2dxSTJySFY0Q205d20wYXM?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-23T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
       "title": "AI is impacting all corners of healthcare, not least the clinical workforce",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcURzWTdXamM2U0JSbnlSLUhydWhCZUU0WUlzMjlSM3lybmZmakE2RWZMQkFiTHJYVnE2YVFnOUJtSHd5aWxKYUthQ2RyWFdkTW1ydTJvSTJSUWdtZndzSTZIeVlkNGRvM3d0M1BUcHVkbXhGelljNFdJcWl6WDYyUVctY2p5VWxfNjlCTS1KS3N6d1c3cjRnNmMyMmpsNzVJc2FtMQ?oc=5",
       "source": "Healthcare IT News",
@@ -937,8 +961,8 @@
       "snippet": ""
     },
     {
-      "title": "Google healthcare leader offers a vision of 'AI with purpose'",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdzNDc2ZNak9LSWZaVTgwb05Cak5TWTU2T2w3d29XR2hKaG1relJTVGhYTnlDeE1JYWdTQXNDdXJ6ZHg0bmo1QmlqSms1eC1lVDFvMkpUUThoaGItSF9MVHI2aW5BT0lXV2lkV2IwZ2pmVGM0Q29TZk1FQkJGTUtTT2dxSTJySFY0Q205d20wYXM?oc=5",
+      "title": "After EHR consolidation, the real test is how care changes",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzhOMXdLR3R1QjNJdlB3aXpqRFdNb2UxdzZUTkIzWkx0emRDLXZUVFktZU5WV09xWlo1a0IyYXRjMi05d0JTM2lhSGJhamFPYlBqMUNXdG9MTGhFSmhydXBZOWtvbTV4RHFSZXFGeUdZdy1JMFZDak1PQ1VQZFd0Y01IejhSOUhzd25FYXh0RE5Ldw?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-10-23T07:00:00.000Z",
@@ -958,30 +982,6 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-10-23T07:00:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Q&A: NVIDIA on AI and breast cancer",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdURPUzI5cmVLZ3VpQy1MdDFySVF5UTVKVnZrbVFfejlXSk50blIwTWZfVGhGQVZib0h2N2FBRUdZRG9PTEVERUo1WVd3S3N2SEZQZkRrU2hXN083Qm4xcFRQZWxic09hUkZKTGRFdUhXQ1pY?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-23T07:00:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "As AI transforms patient experience, clinicians see changes too",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaXZfang5ZURUMnIyTmpaT0FWMFZlakVxVmJZMHVVREZQakxpNVkxcHhxOWFVV3hNX3dONXB3U0pLOUdtQldOcUNzN29kTFpJZ2M0am4wMHJoOTh0YnJQSW5rdGx4UXI1QllRTXROTTVwcE1USFctMDJRT1ZEcEF3cXBuNk03NjdqamlOaFNfbktvcFZhek9NZlY2STJJNkU?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-22T22:12:31.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Time to invest in the 'human stack' to foster trust in health AI",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUG92QkV2Sm5XRXhBMDJJV2RYQVc1dVhoaWc5S2NuNlF0TkFJdEd0cjFVUDYwS0I1ZXZpd2FHdExkWllUWURlNjJkV0Q5WUNLZnZPWEd6YzZISU1CaUdTX3hzNkRvUF9URi1lUzBKVFc0OEZzZjlzUkM2cnlzT05UWW1UVEhEdllzTk85QQ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-22T18:10:16.000Z",
       "snippet": ""
     }
   ]
