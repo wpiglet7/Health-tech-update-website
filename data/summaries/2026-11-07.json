@@ -1,0 +1,250 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T00:44:38.704Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 39,
+  "sources": {
+    "MedCity News": 6,
+    "STAT News": 14,
+    "MobiHealthNews": 11,
+    "Healthcare IT News": 8
+  },
+  "summary": "The health-tech landscape today reflects significant pressures from multiple directions. Regulatory and political turbulence continues to dominate, with states suing the Trump administration over Medicaid work requirements while a MAHA leader publicly resigned in frustration over what he characterized as industry capture of health policy—creating uncertainty around major coverage and reimbursement changes. On the clinical front, gene therapy safety concerns have emerged after Novartis disclosed seven new tumor cases in children treated with Zolgensma, prompting broader scrutiny of AAV-based therapies despite continued advancement in other areas like J&J's accelerated approval for a bispecific cancer drug. Provider operations face mounting pressures from rising claim denials and increasingly complex payer requirements, while AI adoption in healthcare remains hindered by post-deployment challenges around model drift and inadequate data—issues that could limit returns on significant investments in AI pilots. Several smaller financings and operational updates suggest ongoing activity in wearables and clinical AI tools, though broader questions loom about measurement and sustainability of AI implementations across health systems.",
+  "items": [
+    {
+      "title": "Bispecific J&J Drug Wins Speedy FDA Approval for Treating Head & Neck Cancer",
+      "link": "https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/",
+      "source": "MedCity News",
+      "date": "2026-11-06T22:35:32.000Z"
+    },
+    {
+      "title": "STAT+: States sue Trump administration again to delay Medicaid work requirements",
+      "link": "https://www.statnews.com/2026/11/06/states-sue-trump-delay-medicaid-work-requirements/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-06T22:05:39.000Z"
+    },
+    {
+      "title": "STAT+: MAHA leader Calley Means castigates White House officials as bending to industry",
+      "link": "https://www.statnews.com/2026/11/06/calley-means-joe-rogan-trump-maha-agenda-derailed-by-corporate-influence/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-06T21:55:21.000Z"
+    },
+    {
+      "title": "Two incoming lawmakers plan to defend health equity from Trump administration cuts",
+      "link": "https://www.statnews.com/2026/11/06/abdul-el-sayed-jasmine-clark-defend-health-equity-from-cuts/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-06T21:46:55.000Z"
+    },
+    {
+      "title": "Heidi Health announces 18% reduction of global workforce",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczNRQlFJUVBYTV9PM2RnMEhTcXpqYUF2NnhKUVJ5T3NpYjlYY2dRdjJydkVSQUJXVnJ6amZHaWJpMW1fZndqSHpmd05CLW9oTGFMb0ZYOHV0dUowYUVpb2JGcklVbjBTY2hVc1M0a3ladXg0endaTnBXNThlNjV0OUlTLVZINFJ6S0xQV1pMSi1FQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-06T21:41:24.000Z"
+    },
+    {
+      "title": "Q&A: Inside Google’s AI for Healthcare Professionals Certificate",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFRCX3NpdGlwenROZ2JfTXlBS09TZEE4V3d5b0oxMWw2TnA1SEtVMDhsbmI5Z2wxbmJ2blYwNDhxYjd1RXduS3pRSFlNQ2lWdmdjWXI3QVY0QUd4YjNZSzA2U3ZpTGFoTHhmdXJWVjdxQTh2ejY4Uk10bTlMVDRLeVYwakRDLUpfMzE1YVk0bThpUEtyTFgxXw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-06T20:40:37.000Z"
+    },
+    {
+      "title": "Google DeepMind adds drug discovery tools to Antigravity",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVQ5dnhmRzhWblMydDBIaERwZF9NaFprV2JWdW0xdEgydXZNbndkRlVwcDEtbTlfZ3Rnbld2N0FIeVVoYTU2b01wUWpmemxvQlhXTDVDTlI3VkYxaTdfVlNpNnlyOFFKVUtreUsyamZrUXRLWXkwQnR2VUViQ3JFa1BOVzdjZWpQTzFucVh1RnRBN00?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-06T19:47:44.000Z"
+    },
+    {
+      "title": "Experian Health Survey: Providers Struggle Amid Increasing Claim Denials",
+      "link": "https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/",
+      "source": "MedCity News",
+      "date": "2026-11-06T19:19:29.000Z"
+    },
+    {
+      "title": "STAT+: Democrats’ midterm landslide spells relief for hospitals",
+      "link": "https://www.statnews.com/2026/11/06/why-democrats-midterm-landslide-helps-hospital-industry/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-06T17:46:16.000Z"
+    },
+    {
+      "title": "Democrats’ midterm victory, and a questionable fertility procedure",
+      "link": "https://www.statnews.com/2026/11/06/readout-loud-podcast-midterm-elections-fertility-ivf-mrt-therapy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-06T17:02:18.000Z"
+    },
+    {
+      "title": "How CIOs can turn stalled AI pilots into measurable gains",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUGxUN3hfRzBNa2ZtbEg2eXM2Q29ma3htU19iQ3ZkZXg4NEwzbVlkSGlCaWsxcWdkUFo0Z01BMVYya19xd25DanhVWmlHY3NORG5KMFRPTjZCRnBXRDgxTlJtSFZxdHEtT0xEanhDcDhCZm1vUTdMdnBKTlg3bF9fSHNwUnZha1E1M0hEQ1o4LUZrTlpf?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-06T16:48:15.000Z"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "link": "https://www.statnews.com/pharmalot/2026/11/06/pharma-biotech-jobs-ladder-pfizer-amgen-astrazeneca-novonordisk/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-06T16:43:49.000Z"
+    },
+    {
+      "title": "Trump administration delays awards slated to improve rural America's health",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZDlBZ3pDWXpPdHNxclhISzhHajh5N0Uxbk0yNHEwX21sS3Y1c2dQZHJZWG5IUmxLa05HdzJEM3U1WkNGUjBuejVIOGxtQXhNeS1vNnBMUFZfU0ZPSG9NNGxxZ0NQVEJQcUY3cnNUOGgzWGNzT2g2b285ZGFWZWpPUFFsaXoySXBpSHJwRm9BNTBCSGJReFAyNjZfUUJGQ2xYZzRyd2lhT1dITEozaFE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-06T16:30:00.000Z"
+    },
+    {
+      "title": "STAT+: New tumor cases show common gene therapy tool can come with risk",
+      "link": "https://www.statnews.com/2026/11/06/novartis-zolgensma-gene-therapy-tumor-risk/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-06T16:14:40.000Z"
+    },
+    {
+      "title": "University of Technology Sydney",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UYU9nYnMtVlM5d2hmbkpTVnBxa0tQNWlxY3M0Q3NBRFB2b0dyY3lMa2pFNVp5UjBiYjdqNGp5enFpazQ2Q25Ya3A0cndXWFlpdjA4T1N6cEJJMUZrOHZUUzAwcFN3SDVwcjhZVHhrYlU?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-06T15:58:47.000Z"
+    },
+    {
+      "title": "STAT+: Amgen’s Repatha linked to fewer heart attacks",
+      "link": "https://www.statnews.com/2026/11/06/biotech-news-amgen-repatha-linked-to-fewer-heart-attacks/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-06T15:14:53.000Z"
+    },
+    {
+      "title": "Quantum computing may still be a decade away",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWVVSMmI0VmVtSHRlS0x4ZG1haGNVbUV1U1pQZks4b2VBM0szMlR6cnVQbXByakQxdVAxY2lMeHUtNnFxUF9EVk83cjN3S1FJSWRjcXBhUzJyR2phWjV5b0FYMWRHdGN3VW03SUJnU2VvNk82QWpuRE44dHJhcjlyUkR0akdrUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-06T15:02:59.000Z"
+    },
+    {
+      "title": "New evidence for ancient cannabis use",
+      "link": "https://www.statnews.com/2026/11/06/health-news-new-evidence-for-ancient-cannabis-use/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-06T14:59:42.000Z"
+    },
+    {
+      "title": "The Big Challenge for AI in Healthcare Comes After Approval",
+      "link": "https://medcitynews.com/2026/11/the-big-challenge-for-ai-in-healthcare-comes-after-approval/",
+      "source": "MedCity News",
+      "date": "2026-11-06T14:43:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a Novartis gene therapy, faster U.K. drug reviews, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/11/06/novartis-gene-therapy-tumors-found-faster-uk-drug-reviews/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-06T14:41:03.000Z"
+    },
+    {
+      "title": "Why Physician Leadership Is More Important Than Ever",
+      "link": "https://medcitynews.com/2026/11/why-physician-leadership-is-more-important-than-ever/",
+      "source": "MedCity News",
+      "date": "2026-11-06T14:30:00.000Z"
+    },
+    {
+      "title": "Want quality care optimization? Integrate predictive and generative AI",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXdUZThSZzBlLXRVREhiZTNuczhCeTdVcXpoSENSbl9QRjhoM3lnM0N0Q0RFbUpxOEhxZUVNdWlLZXdLZTBrTk9NRmVJT192RDNJNUQ2SmNHU1UzNFlZZEdEYkxvb0tuTWNhdGpkTVo4RU5hNGUwMTI1UTl0TGdiZUFPVEZEX2dFZGN5VUlwdWFkbFNmcG5YYVpBQlV5SzRVRGNZbGs0b25hQlNq?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-06T14:15:00.000Z"
+    },
+    {
+      "title": "Myths of Customer Discovery",
+      "link": "https://medcitynews.com/2026/11/myths-of-customer-discovery/",
+      "source": "MedCity News",
+      "date": "2026-11-06T14:08:00.000Z"
+    },
+    {
+      "title": "Midstream Health",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53VmF3UHVia0t2Y3F3Tm5YbGdDNEwxMlMxVkQ0RkxteVQ4RG55SFc1QnVoRmFJVms1d01malVucndvSktLaWt1Z0stUnl2cnJtSGh3WDFsUUE0WlF1SXdoeQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-06T13:58:41.000Z"
+    },
+    {
+      "title": "Debunked Episode 31: CVS Health Restructure, AI ROI Report Findings, FTC Warning Letters",
+      "link": "https://medcitynews.com/2026/11/debunked-episode-31-cvs-health-restructure-ai-roi-report-findings-ftc-warning-letters/",
+      "source": "MedCity News",
+      "date": "2026-11-06T12:30:00.000Z"
+    },
+    {
+      "title": "STAT+: After Medicare punts RPM overhaul to 2029, advocates see window to fight back",
+      "link": "https://www.statnews.com/2026/11/06/new-medicare-overhaul-of-remote-patient-monitoring-hospital-pushback/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-06T09:30:00.000Z"
+    },
+    {
+      "title": "Opinion: AI depends on medical records that don’t always tell the full truth about women",
+      "link": "https://www.statnews.com/2026/11/06/women-medical-records-artificial-intelligence-diagnosis-mental-health-pain/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-06T09:30:00.000Z"
+    },
+    {
+      "title": "Most people haven’t heard of kratom. What is it, and who’s using it?",
+      "link": "https://www.statnews.com/2026/11/06/what-is-kratom-addiction-risks-explained-7-oh/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-06T09:30:00.000Z"
+    },
+    {
+      "title": "Opinion: STAT+: What it’s like to live with cognitively unimpaired Alzheimer’s disease",
+      "link": "https://www.statnews.com/2026/11/06/pre-clinical-alzheimers-disease-biomarkers-tests-mental-health/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-06T09:30:00.000Z"
+    },
+    {
+      "title": "South Korea proposes 7-day telemedicine prescriptions",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZF8tNEFGNHFNc2oxS3ZBYmtxc3dMN3N1ZVpqdDJxenEyQV9lTDVFU1BDXzhVdUtKZFh6NlBucUNiN1hiN0lXYzV1eHQzX3VGS3FhLXRyY3hoREhsX09iLUVnSEdhUHVtTGszcWp4emVvZGo4S2pMVEJ5NklHMklsclNiN0JReEI3V2tMUGdYa2pFbEdlaWpyN3VPbEI?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-06T08:22:49.000Z"
+    },
+    {
+      "title": "Te Whatu Ora explores AI for surgery prep, radiology referral",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSTRDY3RBckNsdzNPZmc5dUFVU1A0eEozLUVHVDdiQmx1MUpaSGlyV3ZoS2JDbkFxWFk4RE1rREVyOG5idjBLc09ueHd5Y2hwV2ptZkoxY2U0WVRSMFR0WVExRy1WVnUxT0VDaS1ORFdSclFNUEhBbkh3WlpGcDZveTFfODdrbTdYOWJhX2RreFBxcThidWJhMzRDLUs5NGs?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-06T08:15:42.000Z"
+    },
+    {
+      "title": "StimCardio garners $30M for wearable atrial fibrillation therapy",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNczdWVDQ3aXVGZGlEUVF1UW52X0FlU1hoRWxvemVGbXdMaFVweEtKekUtWTFxcExVWGVrcW4ybXdmSFNMY2ZQUlNnZWZGblpJcVU5eHFXN1NVc250N3p3cjNqeEZCdEM5R1gtT0NEZkZKNVl4SVdsZk9EdjdwVU4xRF9rUXFlUTY3LU5NV1NVZzhGX05FQVc3aEc2TQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-02T18:36:43.000Z"
+    },
+    {
+      "title": "How San Ysidro Health connected 6 EHRs into 1 Epic platform",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa09tSDZpRDdIOGNSM0s2dDc5VzlyWDh2UzVRRXEzMlprUzhSeFFHSFV4ZWItTEQxUklTaFFadC1HbDNMUTRQRFRXcTVRWkJkY0JMQVZiVGM4dWhyUUVCV1B2XzkyTEtUU3VYRzBtQ2FxUlhqTFNmUUhIVEJob29wWU1ZeHp1Q0FianV2aXNZMG1PZHc0WUlN?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-02T17:50:38.000Z"
+    },
+    {
+      "title": "Genie Health to scale agentic AI in Singapore clinics",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPel9NMk1uamJ5bjVJQ0VBaVNFT1JNS19hV1FEaHUyUTlyMk1pZnV3cDJNWjlTeWZkclktZVp2RTdad0ZtWllNRVZ3Wl8tMkpVOUw1cjZUQm1fZGdoRFVkb2xPWnVEMmhWdmhpWGU2c1FIMGVMLUQwakd0M2hCdTdDNElDNjdJVzFGRHI4WXdXLWNYQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-28T07:00:00.000Z"
+    },
+    {
+      "title": "Vera Health has secured $28.5M for clinical AI search platform",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGY5bDNqdGh3cHg3RTA5djBWMW5ydm1URFJOVDQxX0hoZFJQZVdrU3RlWmVVVFE5YmdNSF9aTW96cHJNZGFHMFlhT1JjYzhkRUo3TGtGSjNOTnJ0SndUNVJGVDFZVk5GZjZjd2k5VG5MWkktenhKUkE2cWdUcmt6VGM2Rk1zQU1odG5WeVQyckVLNjdhZ2o4?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-27T17:36:46.000Z"
+    },
+    {
+      "title": "ONC finalizes HTI-5 health IT deregulation rule",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1BwQmF2ellGcXRZWnJhQnhkdzNucUFmNGtYbTZnQTB5N0hSaWIwVm1NMWVidGM4dkNPN1ZHVHNPZGJSbHcxTnJabTMyWVZGMWxsSS1rc1lhT0Qwd0tmOEs2YWNMSU9KRVBVWEJLRHlxSlhnbFNvaHd2TGt1SXJzeTA1Q1hhYm9aRUUwclFB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-27T15:02:47.000Z"
+    },
+    {
+      "title": "Q&A: Google on using AI to detect healthcare bias, accelerate discovery",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSnZVQUFBZlJXcVhjam1yNHlpdnhoYmZjNHNKeGNVd2o2Qk1WUjN6N1JXRHdpVDJMRVFVTzBNNFVWdzdxV0Q4QTRONUtFOFJYZjlyOEEzeHl2ODVfalZTTUJ5VzdBWDZ5STBKNmZyVzFFNEp1Z3pLbmJsMW1IWDVUYUN6eEZoejV2Z0VvZkgxcjltVXM1ZDV1eFBsdHBIMUE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-27T14:37:27.000Z"
+    },
+    {
+      "title": "Simple setup lowers providers' AI adoption barriers",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3V6VlVJc05tVzY4WkxtcmRUN1dldnU0Ui1JeU5mVDFEcGxUU1ZkRWhUdGlsUjVOTWNLVm1GQWZ3cHZFV0NBNnpYWlhHZ1VoenVKbnZyMlQwX1NyeVV2a3F0SVFjeU4wVkI5TXpoMV9OaTZaNzBzWXN0RllMNFNTWWFEWDZoNlpxck4wd1FCQ0g?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-27T14:05:22.000Z"
+    },
+    {
+      "title": "Zapping patient wait times with AI receptionists",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0R5NTRYUlBSUXBCbVp5cGZWRTBubEZ6a3JoZV9nOWpGdWFGWkd3RWZVd1NuNFZtWUNXMFZpY3dFRWxGRUdXZTdCVjVjcWtlWmtNNFJzNF9MYk1qWEsxTkhRUkQ1cE5sYkR1TFhIR1Y3Yk83NGhZaVFYUEhRdFRKVjVlREV0ckhpY2c?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-27T13:18:00.000Z"
+    }
+  ]
+}
