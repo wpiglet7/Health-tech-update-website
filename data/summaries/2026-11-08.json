@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T00:17:23.133Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 12,
+  "sources": {
+    "STAT News": 4,
+    "Healthcare IT News": 5,
+    "MobiHealthNews": 3
+  },
+  "summary": "The health-tech sector is seeing significant movement across drug development, healthcare infrastructure, and artificial intelligence deployment. On the pharmaceutical front, a failed Novartis cardiovascular drug that lowered inflammatory markers without reducing heart attack or stroke risk is prompting reassessment of anti-inflammatory strategies, while industry groups are mounting legal challenges against Medicare's drug pricing pilot that ties prices to international comparisons. Meanwhile, health systems are accelerating digital transformation efforts, with the VA completing new EHR deployments in Ohio and Alaska, MD Anderson reporting that one in four ambulatory visits is now virtual, and multiple institutions launching AI initiatives including SGH's technology that cuts brain bleed reporting time and Beth Israel Lahey Health's new AI research hub. On the venture side, AI-focused healthtech companies are attracting investment, with Anthropic filing for a Nasdaq IPO and Avante raising $30 million for its AI benefits platform, reflecting continued investor interest in AI's clinical applications even as the industry grapples with frameworks for meaningful adoption and validation.",
+  "items": [
+    {
+      "title": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
+      "link": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-07T21:39:02.000Z"
+    },
+    {
+      "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
+      "link": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-07T16:57:13.000Z"
+    },
+    {
+      "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+      "link": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-07T14:50:00.000Z"
+    },
+    {
+      "title": "STAT+: Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories",
+      "link": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-07T14:35:00.000Z"
+    },
+    {
+      "title": "VA completes new EHR deployments in Ohio and Alaska",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ0VPVG42OGhTeXZ5V25qX1M3NW9NWlZJaHNsd0hzNG9jMHF4WkNINEYwYk1feklUUzREN3l6MkdWdjh0eUg4cGt5QnBCajNuOUVGeEZtQUl2R3VSTkZkcUlEbjNsOUxPZjlpQ2ozTnRJLXdWZzlOODVqTEhaR1Bra0Q4ZmVyM0NzMjB2YUl5RQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-30T07:00:00.000Z"
+    },
+    {
+      "title": "Anthropic files for IPO, plans Nasdaq listing under ANT",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVWZCc3Y1LXQ1ZFlscUEtTDRBR3ZTTmUza3VTcmtHSzQ3NmFWM0ROUTNRWVpMZzd4TlJIZEJGbXpQY3ZKR1ZGQVg3S1RXaVdaQkJNLUduZWxXbGNwdmkyamQ4M2hIMHhSMXBKVWZ2ZkNKZHV0dzZUdXRmMjFjOXFrdTlIbEEtejk2M2NmY1RjMA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-29T07:00:00.000Z"
+    },
+    {
+      "title": "Avante raises $30M to expand AI benefits platform",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlBLLVliVFhFOGtlRjhEQTFKQTBZazlHRXVvbXhNY3NYdEo4Rk5LMWtpcHo3ZnJHdlo0a3FsTWV3T2puRnlUa1JwMWFiUXF6TzVMYi1VV2VhYjRJekZDdm1jbGxQNXI3TkRfcnBwWmdVZDFGMkZOYzFqT1lzdnR0Y1dQR0dKSmV1?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-28T20:07:34.000Z"
+    },
+    {
+      "title": "Evaluating AI in clinical settings",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZU1JeWpVUk12eXJrMXU0REFid0stcUwwdGhmNW5QZWRVUS1aS2FQX1ZydFYzdmtuNV9ta2s3WUd6ZGNDb2k3MGp4QzBXR0VnSVJCOTlVazhvUUc0cmkxSnlYX2FWQlhLUEpPbGpBS0pJNjZtX1N4OWNqd0d1b3dfRQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-28T07:00:00.000Z"
+    },
+    {
+      "title": "Benchmarks for meaningful AI adoption",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeUg3R05jbzl4SUtUTEFZOTlwbFRPdWpFN0U2VmRSOUx2cTZFdUdzMnBYTF9SVy1BaEI1SFRLbXV6TVlheWp0WVF6ck42RTZLMk9ERXVNQUxOOEtvRzNrY1g0aURqWmFsR3BBTlNLZGQ4aURGWHptSUZGWXFqWloycg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-28T07:00:00.000Z"
+    },
+    {
+      "title": "At MD Anderson, 1 in 4 ambulatory visits is now virtual",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnlVT19VUjFxODg5ZmphcTJfYlNBcVR1UVgtdG8yNDhsLU9BSXhoYUNwNDhiOXVPZmpRdDQtTjRfbmVHYU4wdS1xU0hrQWZSUHpKOU1NSzlXMklUZ3AtQklacktNZXAxR3UyOXZWWDJqcjBQRWQ5cEp3bThMV0Mza21TRGZ6em5Sb1lz?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-27T16:22:41.000Z"
+    },
+    {
+      "title": "SGH AI cuts brain bleed reporting time",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDdyOEx2REFCLXNBbDdGMEhTWFl3cURFYWVBdGo5M2RPOEM3c1pCd2VmUmVMWkRVWDVkTWRxdDByYTY4aWZOQlZLb1JBU0cyUWNnNHVXRm5LeUpueXRtN0c5TWxUcWc1RTNCZUx4N0t6Y2lXMFJ6eko0UlM0dWpELWtEQkpZN1d4?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-27T07:00:00.000Z"
+    },
+    {
+      "title": "Beth Israel Lahey Health launches new hub for AI research and validation",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmdRekF4T3g4MVljM1ZuOEpfRE1pc3k1eUlVbTdRMXdNNEtfVVJOSFUzTUFVRGtQLUlkVndHaUh4aXhoMGFMT2VOTEtWY3Joa3FTUlBNQnVrcjJISnNNN0xWci1qdkdXMy1WQnBBZ3B4MzVmeDctV2hMYWZfNUU5dXBYYjJlX3N4WEpHcGcwTThtQ21vQWFpWFZPSWE1ZTg0ZkxlVzAwaVRtQQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-27T07:00:00.000Z"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T00:44:34.801Z",
+  "generatedAt": "2026-11-08T00:17:20.177Z",
   "sources": [
     {
       "id": "stat",
@@ -24,6 +24,38 @@
   ],
   "count": 120,
   "items": [
+    {
+      "title": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
+      "link": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-07T21:39:02.000Z",
+      "snippet": "High blood pressure is known as the silent killer. Researchers are finding new ways to fight back."
+    },
+    {
+      "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
+      "link": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-07T16:57:13.000Z",
+      "snippet": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited."
+    },
+    {
+      "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+      "link": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-07T14:50:00.000Z",
+      "snippet": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke."
+    },
+    {
+      "title": "STAT+: Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories",
+      "link": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-07T14:35:00.000Z",
+      "snippet": "“These results, the fact that they're negative, does not invalidate that inflammation plays a very important role in cardiovascular disease.\""
+    },
     {
       "title": "Bispecific J&J Drug Wins Speedy FDA Approval for Treating Head & Neck Cancer",
       "link": "https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/",
@@ -65,7 +97,7 @@
       "snippet": ""
     },
     {
-      "title": "Q&A: Inside Google’s AI for Healthcare Professionals Certificate",
+      "title": "Q&A: Inside Google's AI for Healthcare Professionals Certificate",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFRCX3NpdGlwenROZ2JfTXlBS09TZEE4V3d5b0oxMWw2TnA1SEtVMDhsbmI5Z2wxbmJ2blYwNDhxYjd1RXduS3pRSFlNQ2lWdmdjWXI3QVY0QUd4YjNZSzA2U3ZpTGFoTHhmdXJWVjdxQTh2ejY4Uk10bTlMVDRLeVYwakRDLUpfMzE1YVk0bThpUEtyTFgxXw?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
@@ -209,14 +241,6 @@
       "snippet": "Customer discovery is a well accepted idea in any innovation process. At the core of it, it means talking to potential customers about an invention. In reality, it is a more evolved process, and often less understood than it first appears.…"
     },
     {
-      "title": "Midstream Health",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53VmF3UHVia0t2Y3F3Tm5YbGdDNEwxMlMxVkQ0RkxteVQ4RG55SFc1QnVoRmFJVms1d01malVucndvSktLaWt1Z0stUnl2cnJtSGh3WDFsUUE0WlF1SXdoeQ?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-11-06T13:58:41.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Debunked Episode 31: CVS Health Restructure, AI ROI Report Findings, FTC Warning Letters",
       "link": "https://medcitynews.com/2026/11/debunked-episode-31-cvs-health-restructure-ai-roi-report-findings-ftc-warning-letters/",
       "source": "MedCity News",
@@ -353,14 +377,6 @@
       "snippet": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care."
     },
     {
-      "title": "Child dies of measles in Wisconsin’s first such death since 1990",
-      "link": "https://www.statnews.com/2026/11/05/child-dies-measles-wisconsin-first-death-since-1990/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-05T20:31:24.000Z",
-      "snippet": "An infant in southwestern Wisconsin has died after contracting measles, the state’s first death from the disease in 36 years."
-    },
-    {
       "title": "Vitroscope raises $7M to expand live-tissue platform",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZFBSN2k3MWZMTW5NcUF4SUkyd0QzM2N4Y1RacE43RW1GMVlDekFJYUFrTlBwZ01kR2g1OFBSSEphOC0tT0QyQkY0ZGFmS3N1VXcxbTJ5Yi02ZEdzWmNLb2dXR1ZadmZSWi1sUlpTeHFaMDRIb05lcFRMTnBPaGZXMmFkVURtcHl5X2JIRw?oc=5",
       "source": "MobiHealthNews",
@@ -369,36 +385,12 @@
       "snippet": ""
     },
     {
-      "title": "STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy",
-      "link": "https://www.statnews.com/pharmalot/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-05T18:53:34.000Z",
-      "snippet": "Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, Zolgensma."
-    },
-    {
       "title": "Ellipsis Health acquires Kouper Health",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpZWcxLXFMMVQ4T2NkRHVtcGNoMUdESEwtVjhMMFhaOWpFeGQ2Qk4yb1J3UEZCdFVXNXQwYXJneW91STJ4b19HSzNrRTRMSmlGeWVWTWVzc2VBWUQ5VGdNek9IcTQyUEFLcTRnbXhjZjA1Tk0zVGJLZXh2TFFGREk?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-11-05T18:30:14.000Z",
       "snippet": ""
-    },
-    {
-      "title": "STAT+: Stunning $6M defamation verdict reverberates at MIT campus, global scientific community",
-      "link": "https://www.statnews.com/2026/11/05/david-sabatini-defamation-verdict-reverberates-mit-scientific-community/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-05T18:19:08.000Z",
-      "snippet": "The explosive court battle between a former star scientist at the Massachusetts Institute of Technology and a younger colleague continues to roil the campus community."
-    },
-    {
-      "title": "STAT+: Two No Surprises Act arbitrators lose government contracts to decide payment disputes",
-      "link": "https://www.statnews.com/2026/11/05/no-surprises-act-arbitrators-idr-ipro-network-medical-review-lose-contracts/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-05T18:09:39.000Z",
-      "snippet": "The Trump administration is cutting off two groups tasked with arbitrating disputes over surprise medical bills, citing a failure “to meet minimum performance standards.”"
     },
     {
       "title": "Before buying more AI tools, hospitals should examine their tech stacks",
@@ -617,14 +609,6 @@
       "snippet": ""
     },
     {
-      "title": "News",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeFo3ODBOOFdkdXNMaWl1elhpRkxaM0lubzdqcEJkVVNKSlNlVkxSRnEwbXlsaXFNdkVILTZ3NlNLdHBDaTRrTlJtQUNVMVJFWXFETDd5LVZMeGhfRzVfRmlUQ21rMGZocmFQS2NCVDJEeXN5T3hlbDBmZ0NiQmZGQ25OUlZiOEZoejhOclpGV2VFcTNzeUNveEZRUmdZd21iVkJQNGRQbnU3Q0RLMjlFMGZjeWs5cXYyQ09GQk5Ta1RUNzVzNW5tVkpQSTdGR0Fna3c?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-11-03T18:58:21.000Z",
-      "snippet": ""
-    },
-    {
       "title": "WHOOP to sell its fitness wearable at Ulta Beauty",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjlVTHVERXZJd2JMdFd1eGJ6Mzc0Nk40REZkUE5Da2tXQ0p2bl8wM3doazREb3hES25EMlFYTlVGdkZFOS1DTDhDeVF0YXh5OGNNWjd6TnZOdUtvcTUzck5iU0FHUGdGTnFhNk1Dak9jRlFEMld3LTJTMWdOWDZsMDMzRHk0QQ?oc=5",
       "source": "MobiHealthNews",
@@ -679,22 +663,6 @@
       "sourceId": "medcity",
       "date": "2026-11-03T14:00:00.000Z",
       "snippet": "The U.S. Department of Health and Human Services (HHS) is rolling back several health IT certification requirements that could reduce certification costs for technology developers. But they may leave hospitals and health systems holding mor…"
-    },
-    {
-      "title": "App supports nurses in dementia risk reduction model",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaDNXQkliaTR2Q1piUWVJcWdkWHZMODVJVE9uLTZkUjdDRGZuYjBITkxBb1BNcGJLdFNBSlprd1JGTzR2UjhuR1hLbXJ5SnA3R0U3UnFJRGRpR0hpeV9nWnNaVlI5WHBueDZEdE5Nb1FDYkdOQ0pLV0lkbHFvYUwweC1XMnNoazRjV3BVVFU4ZGpHQUk?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-11-03T09:23:40.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Tracking Indigenous children's ear health journey",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2hFelZoTUFGMFEzMUVNdlJkMlFVUEh5MkpkYzNEOXVRajhtMjVsaDZLdHZwM2ZSWW16ejZvd2JuUmFPdGxSN1hVdXdKdkZjcG9jdVN5QTluMWlZM0pUdFFHMDNxUjI3UGs0a3h4NDMtNEJtellNdHlBaXNpU1lSU0RfRmJKUjlULUtSVkg4WGlXZw?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-11-03T03:37:28.000Z",
-      "snippet": ""
     },
     {
       "title": "Intention is what scales AI",
@@ -777,28 +745,12 @@
       "snippet": ""
     },
     {
-      "title": "Proactive engagement can improve hospital collections",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFJ4TS1ISW1ZNENIVzBqNUdnOUpPMDFlMDEyVTU0TmdYMEFpcElHcWQxcmxYYkZWdm1CUDVFMk9tb1NDemZjRm1tWW9TNC1EQUJmeUFNdm1RbmRnakRGYWZ5SzVjUHBfTUIzUGZReFVrTHFseHZvZlQ5SUhkZHNkRmpMdGNqcUJXWVFSclR5eEdQZHgx?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-11-02T17:16:15.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Integris Health to Join Risant Health as Health System Dealmaking Stays Active",
       "link": "https://medcitynews.com/2026/11/integris-health-to-join-risant-health-as-health-system-dealmaking-stays-active/",
       "source": "MedCity News",
       "sourceId": "medcity",
       "date": "2026-11-02T16:42:46.000Z",
       "snippet": "As health system dealmaking stays steady in 2026, Integris Health is joining Risant Health to accelerate value-based care. The partnership represents an integration of Risant Health’s capabilities into Integris’ existing system, rather than…"
-    },
-    {
-      "title": "Proposed Senate bill offers ideas for regs and reimbursement of health AI",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeDdLWm9RYWRqUzAwSy1CUlR6b0NCeHluWVRXc29SVWxOaWI0TERnTVVtWWdGNDF2ZWxJbWVKSHoxbHlfVWlpYUd2cVp0TnhYNmNTOEZnRnIyNks3VHVRbDRtaDlXNXRMZkE2Z3BxeUQtNDM2NHlDZ1pmdG0tZThKYnRybjBjbEZCclZkc094QlZ6dDA4MG9DTmJhQTZlOHpRbFNpXy1nYw?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-11-02T15:30:00.000Z",
-      "snippet": ""
     },
     {
       "title": "CMS Is Regulating the Wrong Thing — Here’s How to Fix Remote Patient Monitoring Without Losing the Care",
@@ -873,6 +825,14 @@
       "snippet": ""
     },
     {
+      "title": "VA completes new EHR deployments in Ohio and Alaska",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ0VPVG42OGhTeXZ5V25qX1M3NW9NWlZJaHNsd0hzNG9jMHF4WkNINEYwYk1feklUUzREN3l6MkdWdjh0eUg4cGt5QnBCajNuOUVGeEZtQUl2R3VSTkZkcUlEbjNsOUxPZjlpQ2ozTnRJLXdWZzlOODVqTEhaR1Bra0Q4ZmVyM0NzMjB2YUl5RQ?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-30T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
       "title": "AI spots stroke genetic risks and more briefs",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ2dSa1laTnlyUnVjNDZUaE0xb0dmTUpLTkxQclEzQ0tmRU5JSV9qTkZqejNVUVctbHB5V2JBN04wQ2VhTklNbm9sQU93WktxWjdiNS1FdHUtT29raFJHUjloOEN2Q0k4Vjc4d1BzUjRPaEkwTkJQblVkdExiN2RHbUh4VHRpVkM0U09UaGRB?oc=5",
       "source": "MobiHealthNews",
@@ -889,22 +849,6 @@
       "snippet": ""
     },
     {
-      "title": "90% of Changi General Hospital staff are AI literate",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDhTdklsTUo1TEhXNmY4cFQ0WDFVMjBYTDM3eWVKRkg3STRCalJxTURCaHFEUmNabThzQ2FlS2dQVHN1eU1XaEFvbWptRTVyVFdwWExaUUQwejl0RlRBSjdxczZaLWVvU3hDckc2RHV6M2o2VnFHejcxNTlMWFBfajg4UmxyVUJCdkU4S3dGeXFDcU1F?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-29T20:54:23.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "AI tools finding favor in pediatric medicine",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWhMVWE5Smw2YWZCb0k5Uzc1dVNfTVlEbDJFTEhOaUg5OHFtZjdTbHNrcEZnUmsyRk50T2FFQWhTOEhpbVJFVzhqbW9BdGFrbmlNQnFwemlMNmNoNXF3dG1LMlJrbjN4aVdFM2I1MHRkOXJsRk5aRzdEMzJVb3VrcXJiczBLM0E?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-10-29T13:38:00.000Z",
-      "snippet": ""
-    },
-    {
       "title": "At Johns Hopkins, shadow AI use linked to data breach",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQi1YbExJVzRSWVhLU1VNNHdVbFYzVGk3aWlMaWlZNGZOalJQbWZIdkU5ZVBFTUsyWXdpRFVJc3RxTFh3bERQU3JlcWd3Qi02ejJzSE1sU3Q3ZGExa1hTMWxkTHpxaUdveXVkcWkyNlF2OGxoTmcwT2lMeEd1YzRMSzJqSGtLT3J0WHhnbg?oc=5",
       "source": "Healthcare IT News",
@@ -913,16 +857,40 @@
       "snippet": ""
     },
     {
-      "title": "Equiti acquires Lexi to expand AI medical interpretation services",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGJnM1N6M0cxMHg4ZnJsQ3U3cVA5RUx3cGhSWWp3QlI4MzJteTJxVHA0WE5MUk44Y1c4SmFQZVJSU3JXekprdmRvVlJRWXpCVGRUa3E3clNXdXVrbndKaG41VF9feFNyVW9QOG1vQmxmSHJkUVNsYWR4TmxaOG5QWmdjSmdZeUhNU3piYzQ0LU1LM1R0clVjdVQyNHRsV1k?oc=5",
+      "title": "90% of Changi General Hospital staff are AI literate",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDhTdklsTUo1TEhXNmY4cFQ0WDFVMjBYTDM3eWVKRkg3STRCalJxTURCaHFEUmNabThzQ2FlS2dQVHN1eU1XaEFvbWptRTVyVFdwWExaUUQwejl0RlRBSjdxczZaLWVvU3hDckc2RHV6M2o2VnFHejcxNTlMWFBfajg4UmxyVUJCdkU4S3dGeXFDcU1F?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
-      "date": "2026-10-28T18:07:27.000Z",
+      "date": "2026-10-29T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Anthropic files for IPO, plans Nasdaq listing under ANT",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVWZCc3Y1LXQ1ZFlscUEtTDRBR3ZTTmUza3VTcmtHSzQ3NmFWM0ROUTNRWVpMZzd4TlJIZEJGbXpQY3ZKR1ZGQVg3S1RXaVdaQkJNLUduZWxXbGNwdmkyamQ4M2hIMHhSMXBKVWZ2ZkNKZHV0dzZUdXRmMjFjOXFrdTlIbEEtejk2M2NmY1RjMA?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-29T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Avante raises $30M to expand AI benefits platform",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlBLLVliVFhFOGtlRjhEQTFKQTBZazlHRXVvbXhNY3NYdEo4Rk5LMWtpcHo3ZnJHdlo0a3FsTWV3T2puRnlUa1JwMWFiUXF6TzVMYi1VV2VhYjRJekZDdm1jbGxQNXI3TkRfcnBwWmdVZDFGMkZOYzFqT1lzdnR0Y1dQR0dKSmV1?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-28T20:07:34.000Z",
       "snippet": ""
     },
     {
       "title": "From Automation to Autonomy: How eClinicalWorks Agentic AI Enables Intelligent Workflows",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmxrR2tveHAweTJZWmZkb1FuSEUzY2hqc1JBWXk4R25aZkhUZWdSRFkzcXlWWVp5MjRpazZncDZfWjNEUGdidjVfM0dxRE5UY0xxcVRfUzhrNGxWZFlJaDMxYnBHc2xNX3hwZWJMSmNJUWVxRzhKQUkyaTBMWl9qOFhkWXV3amRuLU5GbUFzNDFudDVVUWRBVVNLTURNbDVqZlFXcldQUlRBa2I4U09NXzAwaTZOR2lf?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-28T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Evaluating AI in clinical settings",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZU1JeWpVUk12eXJrMXU0REFid0stcUwwdGhmNW5QZWRVUS1aS2FQX1ZydFYzdmtuNV9ta2s3WUd6ZGNDb2k3MGp4QzBXR0VnSVJCOTlVazhvUUc0cmkxSnlYX2FWQlhLUEpPbGpBS0pJNjZtX1N4OWNqd0d1b3dfRQ?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-10-28T07:00:00.000Z",
@@ -937,6 +905,22 @@
       "snippet": ""
     },
     {
+      "title": "Equiti acquires Lexi to expand AI medical interpretation services",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGJnM1N6M0cxMHg4ZnJsQ3U3cVA5RUx3cGhSWWp3QlI4MzJteTJxVHA0WE5MUk44Y1c4SmFQZVJSU3JXekprdmRvVlJRWXpCVGRUa3E3clNXdXVrbndKaG41VF9feFNyVW9QOG1vQmxmSHJkUVNsYWR4TmxaOG5QWmdjSmdZeUhNU3piYzQ0LU1LM1R0clVjdVQyNHRsV1k?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-28T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Benchmarks for meaningful AI adoption",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeUg3R05jbzl4SUtUTEFZOTlwbFRPdWpFN0U2VmRSOUx2cTZFdUdzMnBYTF9SVy1BaEI1SFRLbXV6TVlheWp0WVF6ck42RTZLMk9ERXVNQUxOOEtvRzNrY1g0aURqWmFsR3BBTlNLZGQ4aURGWHptSUZGWXFqWloycg?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-28T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Genie Health to scale agentic AI in Singapore clinics",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPel9NMk1uamJ5bjVJQ0VBaVNFT1JNS19hV1FEaHUyUTlyMk1pZnV3cDJNWjlTeWZkclktZVp2RTdad0ZtWllNRVZ3Wl8tMkpVOUw1cjZUQm1fZGdoRFVkb2xPWnVEMmhWdmhpWGU2c1FIMGVMLUQwakd0M2hCdTdDNElDNjdJVzFGRHI4WXdXLWNYQQ?oc=5",
       "source": "MobiHealthNews",
@@ -945,27 +929,11 @@
       "snippet": ""
     },
     {
-      "title": "Vera Health has secured $28.5M for clinical AI search platform",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGY5bDNqdGh3cHg3RTA5djBWMW5ydm1URFJOVDQxX0hoZFJQZVdrU3RlWmVVVFE5YmdNSF9aTW96cHJNZGFHMFlhT1JjYzhkRUo3TGtGSjNOTnJ0SndUNVJGVDFZVk5GZjZjd2k5VG5MWkktenhKUkE2cWdUcmt6VGM2Rk1zQU1odG5WeVQyckVLNjdhZ2o4?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-27T17:36:46.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "ONC finalizes HTI-5 health IT deregulation rule",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1BwQmF2ellGcXRZWnJhQnhkdzNucUFmNGtYbTZnQTB5N0hSaWIwVm1NMWVidGM4dkNPN1ZHVHNPZGJSbHcxTnJabTMyWVZGMWxsSS1rc1lhT0Qwd0tmOEs2YWNMSU9KRVBVWEJLRHlxSlhnbFNvaHd2TGt1SXJzeTA1Q1hhYm9aRUUwclFB?oc=5",
+      "title": "At MD Anderson, 1 in 4 ambulatory visits is now virtual",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnlVT19VUjFxODg5ZmphcTJfYlNBcVR1UVgtdG8yNDhsLU9BSXhoYUNwNDhiOXVPZmpRdDQtTjRfbmVHYU4wdS1xU0hrQWZSUHpKOU1NSzlXMklUZ3AtQklacktNZXAxR3UyOXZWWDJqcjBQRWQ5cEp3bThMV0Mza21TRGZ6em5Sb1lz?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
-      "date": "2026-10-27T15:02:47.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Q&A: Google on using AI to detect healthcare bias, accelerate discovery",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSnZVQUFBZlJXcVhjam1yNHlpdnhoYmZjNHNKeGNVd2o2Qk1WUjN6N1JXRHdpVDJMRVFVTzBNNFVWdzdxV0Q4QTRONUtFOFJYZjlyOEEzeHl2ODVfalZTTUJ5VzdBWDZ5STBKNmZyVzFFNEp1Z3pLbmJsMW1IWDVUYUN6eEZoejV2Z0VvZkgxcjltVXM1ZDV1eFBsdHBIMUE?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-10-27T14:37:27.000Z",
+      "date": "2026-10-27T16:22:41.000Z",
       "snippet": ""
     },
     {
@@ -981,7 +949,39 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0R5NTRYUlBSUXBCbVp5cGZWRTBubEZ6a3JoZV9nOWpGdWFGWkd3RWZVd1NuNFZtWUNXMFZpY3dFRWxGRUdXZTdCVjVjcWtlWmtNNFJzNF9MYk1qWEsxTkhRUkQ1cE5sYkR1TFhIR1Y3Yk83NGhZaVFYUEhRdFRKVjVlREV0ckhpY2c?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
-      "date": "2026-10-27T13:18:00.000Z",
+      "date": "2026-10-27T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "SGH AI cuts brain bleed reporting time",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDdyOEx2REFCLXNBbDdGMEhTWFl3cURFYWVBdGo5M2RPOEM3c1pCd2VmUmVMWkRVWDVkTWRxdDByYTY4aWZOQlZLb1JBU0cyUWNnNHVXRm5LeUpueXRtN0c5TWxUcWc1RTNCZUx4N0t6Y2lXMFJ6eko0UlM0dWpELWtEQkpZN1d4?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-27T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Beth Israel Lahey Health launches new hub for AI research and validation",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmdRekF4T3g4MVljM1ZuOEpfRE1pc3k1eUlVbTdRMXdNNEtfVVJOSFUzTUFVRGtQLUlkVndHaUh4aXhoMGFMT2VOTEtWY3Joa3FTUlBNQnVrcjJISnNNN0xWci1qdkdXMy1WQnBBZ3B4MzVmeDctV2hMYWZfNUU5dXBYYjJlX3N4WEpHcGcwTThtQ21vQWFpWFZPSWE1ZTg0ZkxlVzAwaVRtQQ?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-10-27T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Q&A: Google on using AI to detect healthcare bias, accelerate discovery",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSnZVQUFBZlJXcVhjam1yNHlpdnhoYmZjNHNKeGNVd2o2Qk1WUjN6N1JXRHdpVDJMRVFVTzBNNFVWdzdxV0Q4QTRONUtFOFJYZjlyOEEzeHl2ODVfalZTTUJ5VzdBWDZ5STBKNmZyVzFFNEp1Z3pLbmJsMW1IWDVUYUN6eEZoejV2Z0VvZkgxcjltVXM1ZDV1eFBsdHBIMUE?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-27T07:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Vera Health has secured $28.5M for clinical AI search platform",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGY5bDNqdGh3cHg3RTA5djBWMW5ydm1URFJOVDQxX0hoZFJQZVdrU3RlWmVVVFE5YmdNSF9aTW96cHJNZGFHMFlhT1JjYzhkRUo3TGtGSjNOTnJ0SndUNVJGVDFZVk5GZjZjd2k5VG5MWkktenhKUkE2cWdUcmt6VGM2Rk1zQU1odG5WeVQyckVLNjdhZ2o4?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-10-27T07:00:00.000Z",
       "snippet": ""
     }
   ]
