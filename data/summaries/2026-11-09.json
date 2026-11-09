@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T00:39:33.146Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 10,
+  "sources": {
+    "STAT News": 2,
+    "MedCity News": 1,
+    "MobiHealthNews": 3,
+    "Healthcare IT News": 4
+  },
+  "summary": "Today's health-tech headlines reveal a technology sector at an inflection point, with meaningful questions emerging about artificial intelligence's actual impact on healthcare outcomes. Multiple stories highlight both AI's promise and limitations: while AI tools are gaining traction in pediatric medicine and rural antibiotic prescribing, recent failures in drug discovery and cardiac arrest response research underscore the risk of overhyping technology before evidence supports it. Beyond AI, the digest shows healthcare organizations managing practical challenges—from Epic EHR implementations requiring thoughtful change management to the importance of proactive patient engagement in hospital finances and the need for robust cybersecurity strategies. A broader theme connecting these stories is that healthcare innovation requires balancing technological capability with human judgment, proper implementation strategy, and realistic expectations about what new tools can actually achieve.",
+  "items": [
+    {
+      "title": "Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders",
+      "link": "https://www.statnews.com/2026/11/08/sudden-cardiac-arrest-survival-cpr-defibrillation-training/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-08T22:15:00.000Z"
+    },
+    {
+      "title": "Missing the Point: Isolation Alone Will Not Build AI Safety",
+      "link": "https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/",
+      "source": "MedCity News",
+      "date": "2026-11-08T14:17:00.000Z"
+    },
+    {
+      "title": "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype",
+      "link": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-08T09:30:00.000Z"
+    },
+    {
+      "title": "Proactive engagement can improve hospital collections",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFJ4TS1ISW1ZNENIVzBqNUdnOUpPMDFlMDEyVTU0TmdYMEFpcElHcWQxcmxYYkZWdm1CUDVFMk9tb1NDemZjRm1tWW9TNC1EQUJmeUFNdm1RbmRnakRGYWZ5SzVjUHBfTUIzUGZReFVrTHFseHZvZlQ5SUhkZHNkRmpMdGNqcUJXWVFSclR5eEdQZHgx?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-02T17:16:15.000Z"
+    },
+    {
+      "title": "AI tools finding favor in pediatric medicine",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWhMVWE5Smw2YWZCb0k5Uzc1dVNfTVlEbDJFTEhOaUg5OHFtZjdTbHNrcEZnUmsyRk50T2FFQWhTOEhpbVJFVzhqbW9BdGFrbmlNQnFwemlMNmNoNXF3dG1LMlJrbjN4aVdFM2I1MHRkOXJsRk5aRzdEMzJVb3VrcXJiczBLM0E?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-29T07:00:00.000Z"
+    },
+    {
+      "title": "OpenEvidence partners with American Society of Addiction Medicine",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaGNSSDZxcEZzQVg0a2ZtX2Z2VF9xaXRWYzlBTkpvZ0phZ2YzWjdLOUU5VW5DX25PZ1d6bDgyc0lVT2cwYllXMXRnXzYwb0dJVHZPNFVrUHJrYjkycUVVanR5emhRalNHeUp0SXRBQjJDYXdQTFBhN2l0S2JmOVh3d0E3aHc2bWhseGdvWmVRVzZIMDA1bTduSg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-28T20:30:37.000Z"
+    },
+    {
+      "title": "CISA announces new strategic vision for cyber defense",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdTRtbTg3c0xMVG9OalMwT0ZBeHJoR2wtdU40UFhwQUl2N29ObFZRd0FwRDY3ajdnZGMwN3R2Z2tDbmZzS3ZzQUJlbTlla2h6d1d5Q0lwaWhQdEFYSVkySzFIMnhzcHFlanZkdzZvWEp4Sl9iMGdGakhleFhtNU9MUmhFazRrVWVxX05jbDdmWlY?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-28T16:23:42.000Z"
+    },
+    {
+      "title": "How Inspira Health managed the people behind its switch to Epic",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOU1lSGNTRGFVQ0xlSFI5cFUxRGFjTnVqa3o1MG1lRXBveXlWbXlRczBLV1dzb2xYVlVNYjN2MTlXcF9SRDZJNjBDd2wwenNyVUk3VVphN0lNQkU4OTdNUWdsb3FpWG54azJHbzJHbThCOHIwUkxySm4zZUw4cVUxRHhWWnJsU0h4bTFWd3dKdDZXUXlKWWJLaTl3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-28T07:00:00.000Z"
+    },
+    {
+      "title": "AI boosts rural docs' antibiotic prescribing",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcURZd3hENEV4eUZKejJEcEhxRDlqYUlVM3EyMWNTVnJfRjdzUEVpZ0VxMy1Rdm1IX0J5RkZPemFib0FtOU9PZHVkSEdEUVhLTEp2c1VUSnhlSk13UGFYRWRNdkpONENtd3FqVWt1UEN4eDVxOFpOQkM3WmdtdGdkeW9pblA5ajVoc2pv?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-10-27T07:00:00.000Z"
+    },
+    {
+      "title": "Virtual care innovation needs more than great ideas",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUxwTTlxSklPNm5wSDg4V0U3WXdmY2xEUFVQTWxDdkZvLXhlZGROODdhN2szajNJZFVvVDN0azhJSjcyWnA1cXVjU21GQUNXX3J4cl91cDM5dXd2aVhJYXBkbW1oNDM4Y0RhemN2OWVlNHkxU21Ha2lNVjM3cjNtVC1pWVJaOElxZHItdUxqeUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-10-26T19:30:00.000Z"
+    }
+  ]
+}
