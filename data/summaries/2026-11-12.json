@@ -1,0 +1,202 @@
+{
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T02:09:34.623Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 31,
+  "sources": {
+    "MedCity News": 5,
+    "MobiHealthNews": 6,
+    "STAT News": 12,
+    "Healthcare IT News": 8
+  },
+  "summary": "# Daily Health-Tech Digest — November 12, 2026\n\nThe regulatory and competitive landscape is shifting rapidly across multiple fronts. The FDA's approval of Merck KGaA's Pimjetmi for rare tumors continues the company's focused acquisition strategy, while Maven Clinic's expansion into 475 health plans signals growing mainstream adoption of virtual care infrastructure. More significantly, Democrats' midterm victories could reshape healthcare policy around affordability and access, and incoming congressional chairs are already investigating most-favored-nation drug pricing agreements—prompting some drugmakers to reconsider international launch strategies to protect U.S. revenues.\n\nOn the AI front, two parallel narratives are emerging: innovation is accelerating with new tools like Google Cloud's Gemini for healthcare and MDCalc's CrossCover verification system, but the field is also grappling with trust and safety concerns. The All of Us study's identification of thousands of new drug-response genetic variants underscores precision medicine's potential, while proposals to revamp obesity diagnosis could flip millions of patients' diagnoses and treatment paths. Public health concerns are mounting as well, with the U.S. at risk of losing its measles elimination status and ethics questions surfacing around conflicts of interest on preventive care panels.",
+  "items": [
+    {
+      "title": "Drug Approval Marks Another Win for Merck KGaA’s Rare Tumor Strategy",
+      "link": "https://medcitynews.com/2026/11/merck-kgaa-emd-serono-pimicotinib-pimjetmi-fda-approval-tgct-rare-tumor/",
+      "source": "MedCity News",
+      "date": "2026-11-11T23:19:06.000Z"
+    },
+    {
+      "title": "Instilling trust in AI",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwNk1QVlZMbENLcENJUWljbGFQQThqQWJ3UmhQLXdNYm5VeHYyaGN6eWREaFR1cGlhSktEdTRsdEhybS16WGZwemtzcGM4dkthd05UUVlxVFluX242RTJQdnpEblNIRF9CU0NEZ1dn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-11T23:07:47.000Z"
+    },
+    {
+      "title": "Maven Clinic’s Virtual Care Clinic Goes In Network with 475 Plans",
+      "link": "https://medcitynews.com/2026/11/maven-clinics-virtual-care-clinic-goes-in-network-with-475-plans/",
+      "source": "MedCity News",
+      "date": "2026-11-11T21:41:19.000Z"
+    },
+    {
+      "title": "All of Us study finds thousands of new genetic variants affecting drug responses",
+      "link": "https://www.statnews.com/2026/11/11/all-of-us-study-finds-gene-variants-drug-responses/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-11T21:37:27.000Z"
+    },
+    {
+      "title": "90% AI use target at Tainan Municipal Hospital",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTlgwbWt4NWNwWjJHVGZtMTlRSzZ4b0R2SXRnUUJtUGhpeVFfSVNieVk1XzM1YlZnYXNSN1VhczJScTlvOEtUNGtiU05QSzV6cXpFT2Z4cXc3VGlwTnJCMGJOdzZkUlFWLUczeHZ1NkxXU0Q5NFVoVkRXeV95TkJXX1QzZFZ2Y1prSXlZUjQwNA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-11T21:31:00.000Z"
+    },
+    {
+      "title": "Democrats’ Midterm Wins Could Reshape Healthcare Access for Underserved Americans",
+      "link": "https://medcitynews.com/2026/11/democrats-midterm-wins-could-reshape-healthcare-access-for-underserved-americans/",
+      "source": "MedCity News",
+      "date": "2026-11-11T21:00:32.000Z"
+    },
+    {
+      "title": "AWS commits $100M for global health efforts",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVblBETXFvZTVMZ25yOEJ0WHlCZUIyRWdfTkhmd2pzcjBES1UzcVJ3bFFOYk1RRjRXQ0gxQmUxbHVjRmdKUk9vUEtYRHltSWkyRkNQWkNLb3g3V3p1ZUoxLUhsZ0hNVnRzTVJ0MndhME9qbnVNMm92cFVSUmV1ZTA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-11T21:00:18.000Z"
+    },
+    {
+      "title": "Can an Infrastructure for Price Transparency Improve Healthcare Competition and Quality?",
+      "link": "https://medcitynews.com/2026/11/can-an-infrastructure-for-price-transparency-improve-healthcare-competition-and-quality/",
+      "source": "MedCity News",
+      "date": "2026-11-11T20:11:39.000Z"
+    },
+    {
+      "title": "Jonathan Bush's Zus Health scores $33M and more funding news",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXZuMmJuVjdETnBRY2JhU0JDU1V1QW5ORVdjQ2p4UG5vc1dOeHlRWnBsSzBWM285a2lFWmhCYWNrdmNzZW82WENPbzhjS3lxRHhwandqdWM0dHp4bGJXQ3pSb01PWExMR3BVNEk2emNZa3JiTl82eUwzbVlpd0xRTmFsRUVNXzV1VFAyaWVoWmp0aGliZmE3QUNn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-11T19:53:05.000Z"
+    },
+    {
+      "title": "STAT+: Most-favored nations policy makes drugmakers rethink launches abroad",
+      "link": "https://www.statnews.com/2026/11/11/biotech-news-mfn-makes-drugmakers-rethink-launches-abroad/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-11T19:44:07.000Z"
+    },
+    {
+      "title": "Opinion: What MAHA’s support for Russell Brand tells us about the movement",
+      "link": "https://www.statnews.com/2026/11/11/maha-russell-brand-conviction-violence-rfk-jr/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-11T17:47:53.000Z"
+    },
+    {
+      "title": "Healthcare CIOs are becoming enterprise productivity leaders",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGlNVUZ1VldjVnIzZE9lMXNNMlBmNmJ3RUkxUEJyRWh6OFJudnpsRkRZZktOVjl5SXFObzV1X3IzNmxfb2VfWVUxU29qT2pnckx4OWN4Y3djQnpXdUM5djFfc2NzQzFXekJUQlJxb3hmMkFZYkp4cjlwb0VMdkVHSTQyTi12SmwyS3JENjhWcVdMZHMwRFA3UHh6WUJ0S2c?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-11T17:05:52.000Z"
+    },
+    {
+      "title": "Veterans Day: How the VA is using AI to support care for vets",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObVVvWWhIUVJQQ054NXppOFpqVzZqUXY0VHJYN2ZNREVXbVJEeFBYSzhrOWtVR3ZhSzNyUC1vcFZkclpEUG1FOUlHaDFOci1INEU3QVhhcTIwanpIS2tnWlRCNlZ2T3JVdnR1cnJsOVNONGhfcktPd2xhZzJGYlZ5WjVKZmVoeFFyVjl5Sg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-11T16:54:59.000Z"
+    },
+    {
+      "title": "STAT+: BMI alternative would flip obesity diagnosis for millions, study finds",
+      "link": "https://www.statnews.com/2026/11/11/obesity-diagnosis-bmi-lancet-commission-proposal-impact/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-11T16:00:00.000Z"
+    },
+    {
+      "title": "Google Cloud intros new AI offering, Gemini for healthcare",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb2ZzblJBX243V2hESkFYQjVTTEREWFhMV19CLUZ4Zjh5eWFTekljTFVCS3NWWTFLdHZpOWxSbmgwMUd1Yy1xZWhjcFpGVXI3VTBybW92TE5jWlNUcGc4V0Q3ZUY5STZ1a3gtRGdQZHBDZEFrQXc1VlJiTmJQWlQ0eFdyS05PRjQyTmUyblI3aEJDc1VzT1E?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-11T15:51:57.000Z"
+    },
+    {
+      "title": "Rural hospitals' digital investments and requirements must align",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM1Y5dDR2X1AyT1V1OWU0T2JKLXRWeVdyM1JYUGpkY0VHcHhRUWJNbjZrNUNMOXFydktxUXd3MTZKQm5SbW1QUFZMdHhjRDdzZDFrNVVISWZYM2lqQkxVeVJBWlowMThTRFNnWjFkZ3VCYldrYnpiZ2d6bVUwc05RMnlVYTJQRDZxck93aldpdEZVNGd1X3lxWGpWUVo3c2Q0Tnc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-11T15:41:15.000Z"
+    },
+    {
+      "title": "Oura to acquire Counsel Health for $625M",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GT3dTT2VLal84RkxhdEcxNlVwRHdNXzFtY3NLbGdYdXR4Q0RoUW9RTHpROEh6QTlpM2NnYWJwSFE3eXFSNlNJYThkM05QSVhnZE00UHZRTEczc1VmVU16RFJoMHVsb2pzVkdXbmtueXNrNVlhZU9J?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-11T15:40:33.000Z"
+    },
+    {
+      "title": "STAT+: Why this former ER doc thinks giving AI less information is sometimes better",
+      "link": "https://www.statnews.com/2026/11/11/mdcalc-cofounder-graham-walker-on-crosscover-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-11T15:20:23.000Z"
+    },
+    {
+      "title": "STAT+: Cassidy sets key vote on Overton, even as he remains undecided on nominee to lead FDA",
+      "link": "https://www.statnews.com/2026/11/11/fda-commissioner-nominee-heidi-overton-senate-committee-vote/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-11T15:07:28.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Dems eyeing Trump MFN deals, fewer drug launches in Europe, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/11/11/dems-eye-trump-mfn-deals-fewer-drug-launches-in-europe/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-11T14:34:28.000Z"
+    },
+    {
+      "title": "Follow the Leader: How to Build and Retain Great Clinical Teams",
+      "link": "https://medcitynews.com/2026/11/follow-the-leader-how-to-build-and-retain-great-clinical-teams/",
+      "source": "MedCity News",
+      "date": "2026-11-11T14:11:00.000Z"
+    },
+    {
+      "title": "HIMSSCast: Closing the healthcare trust gap for communities of color",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT3Rnb204VEJjdDhNc01FOWxqcU1EY0ZzSEl4S2F2eDNndEM0S3JOY3cydUhBejNJZjE5X3hoV0JxVTQwQnJKZS1UUzZMcW04dEZTbzIyR0tHWHpEZUtnNlRmWWdMNGxqQ0JtdzRoQ3Z6N1JvTDc1UEc0d3RsbjlmdVJCOXZXUTItdDlxQkNOU2k?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-11T14:10:13.000Z"
+    },
+    {
+      "title": "Finding the right EHR for a rural hospital",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SdUpCeVN6LVR2RDVwMUV1TGdsWFpZeEJJUTNVdE5uaHhNaHF6dnp6MWROWlJWbktHOTcycS04Nm1fQnR5TFREYVBQdlBUTW52UW9VLTdlRzhPSEYyU1JJWElPQm0zMDdIOHNnMVZQN2VQb05RUEV1M2czOA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-11T14:08:00.000Z"
+    },
+    {
+      "title": "The U.S. may soon lose measles elimination status",
+      "link": "https://www.statnews.com/2026/11/11/health-news-us-may-soon-lose-measles-elimination-status/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-11T12:56:13.000Z"
+    },
+    {
+      "title": "STAT+: MDCalc launches a ‘rumble strip’ for doctors using generative AI tools",
+      "link": "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-11T09:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Doctors on Kennedy’s influential preventive care panel have major conflicts of interest, filings reveal",
+      "link": "https://www.statnews.com/2026/11/11/kennedy-hhs-preventive-care-panel-conflict-interest-waivers/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-11T09:30:00.000Z"
+    },
+    {
+      "title": "A new tactic in the war over out-of-network bills: Health care providers are suing employers",
+      "link": "https://www.statnews.com/2026/11/11/no-surprises-act-phi-health-air-ambulance-sues-employers/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-11T09:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Low-income parents can’t afford to take chances with nutritious food their picky eaters might reject",
+      "link": "https://www.statnews.com/2026/11/11/picky-eating-kids-low-income-families-snap-wic/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-11T09:30:00.000Z"
+    },
+    {
+      "title": "Neurotronics receives FDA clearance for AI sleep analysis software",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3otcktkNy1wQzB3S25HeWMyTTdZNG5oaE9ENHhWWDctcENzbHhtMW1JR0ZBQzA3ZnB5NjE3UzNFMHN2aWtoQVp6STJlRG1RLTdEcTdpU2NDTlo2RlFKTWZCNmxFX0dIM0VBRDhKdE5aWFJSMkZFSlFLSDIybUZNQ2UzanI0amxiQUZzc3hoUFd4ajQ2M2QtcmRwVDJaWjg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-04T16:38:37.000Z"
+    },
+    {
+      "title": "(Sponsored) Clinicians must have final say on AI",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbEJGUmk4OEUxVmNCUXZjUnBqQWtITTI0WXQxc3d0elRlTnNDSGcyM05oblB3Q2pIWEVqTzA5REJyazdqaW11UWdRNlRmbG54dUpRMkt1XzZfRXBXM2Z3cnZoZWZBY2NIcFdVTVpGT2RacVR6Q2xSOVFkMEFqN0lBUVZoZmNtekZ6Z1JlblRRS0c?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-02T22:26:00.000Z"
+    },
+    {
+      "title": "Proposed Senate bill offers ideas for regs and reimbursement of health AI",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeDdLWm9RYWRqUzAwSy1CUlR6b0NCeHluWVRXc29SVWxOaWI0TERnTVVtWWdGNDF2ZWxJbWVKSHoxbHlfVWlpYUd2cVp0TnhYNmNTOEZnRnIyNks3VHVRbDRtaDlXNXRMZkE2Z3BxeUQtNDM2NHlDZ1pmdG0tZThKYnRybjBjbEZCclZkc094QlZ6dDA4MG9DTmJhQTZlOHpRbFNpXy1nYw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-02T08:00:00.000Z"
+    }
+  ]
+}
