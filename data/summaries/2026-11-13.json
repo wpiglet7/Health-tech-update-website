@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T01:43:42.763Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 33,
+  "sources": {
+    "MobiHealthNews": 11,
+    "MedCity News": 6,
+    "STAT News": 12,
+    "Healthcare IT News": 4
+  },
+  "summary": "Healthcare organizations are pushing for policy reform and investment to address systemic challenges. The AMA and 61 other organizations are calling on Congress to advance Medicare reforms to stabilize physician payments and protect patient access, while staffing shortages continue to strain hospitals and small providers face particular burdens during claims review processes. On the funding front, Blackstone is backing Pfizer's $1.5 billion bet on berobenatide, a monthly GLP-1 obesity treatment from the acquired Metsera, and multiple health-tech startups are raising significant capital—including Duet for nurse practitioner clinics, Nanopath for rapid diagnostics, and nPhase for clinical data platforms. However, new research is raising questions about AI's actual cost-effectiveness in healthcare, with a New England Journal of Medicine study suggesting AI-generated care plans may be more expensive than physician-ordered alternatives, even as hospitals increasingly deploy AI for workflows and operating room efficiency. On the clinical front, the American Cancer Society reversed its decade-old guidance to recommend routine PSA screening for prostate cancer in men ages 50-69, while scientists have completed a detailed map of the basal ganglia for understanding neuropsychiatric disorders, and significant drug trials from Biogen on lupus and updates to Alnylam's heart drug strategy are pending. Virtual care is expanding through virtual nursing roles and pulmonary rehabilitation, and the FDA has shelved its fast-track review initiative from June 2025, signaling a shift in regulatory priorities.",
+  "items": [
+    {
+      "title": "virtual pulmonary rehabilitation",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JTXA4Qmp5VVBVbWRmZWExUnNZVjJxVG1ZS2VHendTSTBxQVAzdDQ1M1EwYWU3VmdfdUFPR1F1LUhIZEdPOUN5Nm8wSl9KbzhFbGJuN1dZaW5wdHU0RkpPcFoxN1JoV1lWVVNYaVhqQVZZLWx0ekE?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-12T23:04:17.000Z"
+    },
+    {
+      "title": "62 Organizations Call on Congress to Advance 4 Medicare Reforms",
+      "link": "https://medcitynews.com/2026/11/62-organizations-call-on-congress-to-advance-4-medicare-reforms/",
+      "source": "MedCity News",
+      "date": "2026-11-12T22:59:32.000Z"
+    },
+    {
+      "title": "Duet raises $15M to expand nurse practitioner-owned clinics",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHEtQTU3OUc2dFJaamhaYzI3Q25RTjRmNkc3XzdtUzMzQi1mYU5HYWlmY2x5TzZLZmxuc25XU09VUHNhMkpMUElwbDItRU9zNEdlY3J4bS1nRHhnNWlhOWI1ZmdldWFJWVZSNWFndU4xMjdiQ0I2RzNwWnpEdl93RVZCbW1WelNOMDg0TUNmZ0lyOXd1SWc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-12T21:28:56.000Z"
+    },
+    {
+      "title": "Pfizer Deal With Blackstone Secures Up to $1.5B to Bankroll GLP-1 Drug Trials",
+      "link": "https://medcitynews.com/2026/11/pfizer-blackstone-life-sciences-long-acting-glp-1-berobenatide-metabolic-obesity-weight-management-pfe/",
+      "source": "MedCity News",
+      "date": "2026-11-12T21:07:53.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWjZoQmc0eUpvQTRocUhzZFp1Z2x1UGZDb056dGJjNDdjaXJ2UkdUdVQzNFRPTlNDN3VfXzg0cWZuVDZ6Vkg3ZDd4U1ZIWUJCNEVSTFdScWQ3NmhzMzdYUXFfeVFKWmxpMjJTSXlDdEZVODNJZHk0YXNRU05ZNEVhOEFpT21pUlpDRVNwd21oYkZiUFFHazNV?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-12T18:46:21.000Z"
+    },
+    {
+      "title": "Is AI Really Saving Hospitals Money? A New Study Raises Questions About the Cost of AI-Driven Care",
+      "link": "https://medcitynews.com/2026/11/is-ai-really-saving-hospitals-money-a-new-study-raises-questions-about-the-cost-of-ai-driven-care/",
+      "source": "MedCity News",
+      "date": "2026-11-12T17:54:03.000Z"
+    },
+    {
+      "title": "Nanopath raises $25M to advance 15-minute vaginitis test",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnpWRTBRbjdzY1NLZ1JVWGdGTXN3V3I0N293NlhrYXdZZnExRF9EeEJtaktnc0xPc3N6bWIwN3lIUU9wa2tnYVExY1dsZElDcXcxQWJySUdnczZhcUJjdzVnYTQ4YmhtdFlaMnlqVXE5N3Q3MjIzZmc2dWdDb1Nfc2pBcEE1SFpnelBKaXZaWjRGUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-12T17:37:34.000Z"
+    },
+    {
+      "title": "Instinct",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pX1BMczhuemU1UmVOZEs0ZWk2dU1qdjl1a3NINHJCWF9kX0tLTzRua1pzbV9qMEpNZjEzay10MHhGVjRRaWFTbVo3aHlSajlDZ0RDcEpn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-12T17:06:04.000Z"
+    },
+    {
+      "title": "STAT+: Blackstone backs Pfizer’s bet on monthly obesity treatment",
+      "link": "https://www.statnews.com/2026/11/12/biotech-news-blackstone-backs-pfizer-bet-on-monthly-obesity-treatment/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-12T16:31:10.000Z"
+    },
+    {
+      "title": "Sustaining Effective Care Teams During Staff Shortages",
+      "link": "https://medcitynews.com/2026/11/sustaining-effective-care-teams-during-staff-shortages/",
+      "source": "MedCity News",
+      "date": "2026-11-12T16:01:23.000Z"
+    },
+    {
+      "title": "STAT+: Scientists debut map of basal ganglia, a key brain region involved in an array of diseases",
+      "link": "https://www.statnews.com/2026/11/12/brain-map-basal-ganglia-offers-treatment-clues-parkinsons-schizophrenia/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-12T16:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Will Heidi Overton get to run the FDA?",
+      "link": "https://www.statnews.com/2026/11/12/will-heidi-overton-be-confirmed-fda-commissioner-dc-diagnosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-12T15:38:37.000Z"
+    },
+    {
+      "title": "Virtual nursing takes on a bigger role in hospital care",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb2ZQRXZpYTJVa1JLOHhXSG5GOUVFZC0wR1BzNXBya09mRHR5UjBNZ2tOYWFzejA5V1h3dnZnT1FBbHFGaTNwdEVKSUxJRFhBRGhVbWNhdHdNdWN5RDk3ZUcwcEdDcFI3QXlkelpRcC11QkVVRWRteU16VEN4N09HYWs4dlRTOXphUW83WFVR?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-12T15:31:03.000Z"
+    },
+    {
+      "title": "These AI trends will shape health IT strategy in 2027",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlFXTml6WGtsbjJGWlhDLWRkdFRMY1c4c3lfMFJVbEZRRFZ2UWlzaktreU5pcU5XMFJiT3hjYkxHdXRqeTJYaHNJU0Y0OGtSRmw3QVFEcUVzczIwYjhKZVhPNzVGYUpORWNlVkdRYlpoTFJDUnc1cFozNjc3ZFl2MUowR2JlVTcxN3kwbW1kNA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-12T15:23:26.000Z"
+    },
+    {
+      "title": "When the Enrollment Freeze Ends, Claim Review Takes Over — Small Providers Need Clear Rules",
+      "link": "https://medcitynews.com/2026/11/when-the-enrollment-freeze-ends-claim-review-takes-over-small-providers-need-clear-rules/",
+      "source": "MedCity News",
+      "date": "2026-11-12T14:59:00.000Z"
+    },
+    {
+      "title": "Better data leads to better surgical outcomes",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSDd1REhYcVJDNmNSZG5pZV95ckJxNVBvRTRVOWtNU1R2eVA1a1JvZUdmNjBrLVFlU0pudHVXSkJwckwzMlpuYXFKcm54Yl9pTmxkcEQ2M2ZDcWFzUDdRajI4X0pqZUtCRmVfUVJrUlItMmY3QzVoYjROSUxGSGRpRUdRSmwxQQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-12T14:57:29.000Z"
+    },
+    {
+      "title": "STAT+: New documents raise more questions about Medicare’s AI prior-authorization experiment",
+      "link": "https://www.statnews.com/2026/11/12/new-documents-raise-more-questions-about-medicares-ai-prior-authorization-experiment/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-12T14:49:02.000Z"
+    },
+    {
+      "title": "Can operating rooms boost efficiency with AI?",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYURWX25mcVhRcFRIbV8yTXprUEx1bklqeGlCRFFOcGFYMWFXXzkyZUQ1Q2FrTGFnUWtyTTJ1dkZzSGlxWVphWUxhOTdBZWRwYl9aQzFfQnc3d0padHF0ZnFNZTJjWFVFeHN3VmRQd1BGU25kaVE4Q2N4T3ZZdnNYdzhDZzU?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-12T14:19:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about FDA shelving fast-track review, a Canadian importer arrested, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/11/12/fda-fast-track-review-shelved-canadian-importer-arrested/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-12T14:14:55.000Z"
+    },
+    {
+      "title": "Beyond Metrics: How to Repair Our Relationship With Wearables",
+      "link": "https://medcitynews.com/2026/11/beyond-metrics-how-to-repair-our-relationship-with-wearables/",
+      "source": "MedCity News",
+      "date": "2026-11-12T14:06:00.000Z"
+    },
+    {
+      "title": "Inovalon to acquire DrFirst",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iVGNQUlM1N3FjNEs0VkNVZmVyR25jNVJldFJCd09PNkhJRjNnaHhtbkRGOTFuN3JpUlpEVURWWlZvZlRVd1pRd1RkU1Vhem9XMGhtclpDTUo0QURTZXo0Y0k2bnVDYlUwV1I2Smo5Zw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-12T14:01:00.000Z"
+    },
+    {
+      "title": "Experts update prostate cancer screening guidelines for men",
+      "link": "https://www.statnews.com/2026/11/12/health-news-experts-update-prostate-cancer-screening-guidelines-for-men/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-12T12:32:57.000Z"
+    },
+    {
+      "title": "American Cancer Society revises guidelines, urges routine PSA screening for prostate cancer",
+      "link": "https://www.statnews.com/2026/11/12/prostate-cancer-screening-guidelines-updated-acs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-12T12:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Alnylam, once in the hunt to be a $100 billion biotech, needs to solve its heart drug problem",
+      "link": "https://www.statnews.com/2026/11/12/alnylam-amvuttra-heart-drug-growth/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-12T11:30:00.000Z"
+    },
+    {
+      "title": "STAT+: What to know about Biogen’s big lupus study readout",
+      "link": "https://www.statnews.com/2026/11/12/biogen-lupus-litifilimab-what-to-know/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-12T11:30:00.000Z"
+    },
+    {
+      "title": "Opinion: 3 things new governors must do to lead on health",
+      "link": "https://www.statnews.com/2026/11/12/new-governors-2027-health-priorities-agenda/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-12T09:30:00.000Z"
+    },
+    {
+      "title": "Opinion: I research MAHA and Black Americans. The relationship is complicated — and fascinating",
+      "link": "https://www.statnews.com/2026/11/12/maha-black-american-activists-voters-health-care-midterms/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-12T09:30:00.000Z"
+    },
+    {
+      "title": "Newly elected doctors and scientists hope to restore trust in science. It won’t be easy",
+      "link": "https://www.statnews.com/2026/11/12/trust-in-science-physician-lawmakers-rebuild-belief/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-12T09:30:00.000Z"
+    },
+    {
+      "title": "Wearable patch stays stable while tracking sleep apnoea",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSnBTdm5wLThxMnZPVmx2VjAyLTFpM3c5bFVFUTdUcl96cGR2VFdST0l2SFJVOVRpcHpJOUhkaXJSaEdSZUtUc2FORGt6Z3pWZHIwLUxyUnRiTFBlU2hEbUpsUVdITlhBZ0RzOGM0cUEyNW1uZmNOSVJFXzJ0Q3l4SXRwNE5CR0JHX1pCN1lCeklJemJCSE91VEZWT3E?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-12T04:14:08.000Z"
+    },
+    {
+      "title": "AI dementia screening coming to Hong Kong elderly centres",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYUswdWs1MWF1RHdiSTZHUVlBeS1BUXFscnFvOVdNdnB6UVN6azIwQ2lxTEZmaXEyZThvYnUtTVJMNmp6VUptaVNNbE9XakZ5ZEpHUGNPZUk0SUV2RHl0c3NNVXk5dVgwSmJVbFJLODdZTzNSb3Y1a3MwVk1kUVVvRUZYUXBqUVBDZjMxVFdBekRTUDlyOEpadVVMbw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-12T03:43:13.000Z"
+    },
+    {
+      "title": "Korean AI boosts trainees' ear disease diagnostic accuracy",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTlpUTVMb0NGcmItNUhFcTZfVDhCUndnQzd5ZTJRODZDQVpuVl82WlhmUzdMNmdsbXRkMUNzRVh3QWRpcHhvY0h1WXJvYVlKdFo5U09BNnBRTnlsN1JWVERmTmVQampOZkFPX045WGFuSTc2UzRKellvX1pWNUlzdHFxYTM2cnhiZnVfSXhuSXpjVHBTd3ZaQ1hTbnZVaE0?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-12T01:23:31.000Z"
+    },
+    {
+      "title": "Staff education is essential for AI adoption",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SV3RvRHBxWGxfc0NEZXlucTY3LWZBYzVlZnBKM1hYS2UzR3NnNUU0Znl1TXNxVlZoTGFpNk5HUlRZSVlEQ1lQZjNJUzU0eUJ6YjJLMmFOekZQSWFiZ3piTzBlUVlwZ0xJM1BIa0pRVXpIbTZiZ2wyczNZcUtpUEk?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-03T15:24:45.000Z"
+    },
+    {
+      "title": "nPhase raises $30M for clinical data platform",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQODBadldOajhxZm4xZU9kUUpRSWxEUVZNWTBNZ0xGMG12RkFQSDN4X1g2RnU2SUFUX2tLU3R1cDJsWFJWb2pVb0NhZTRSQ0VTTnM3ZkIyNEkteFJ0WlVuM1Rod1puNmptcmxqdFRKdmhhYzNoUHNNWWY3TnYtVWJDSldn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-03T08:00:00.000Z"
+    }
+  ]
+}
