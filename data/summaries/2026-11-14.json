@@ -1,0 +1,208 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T01:20:30.566Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 32,
+  "sources": {
+    "STAT News": 16,
+    "MedCity News": 6,
+    "MobiHealthNews": 6,
+    "Healthcare IT News": 4
+  },
+  "summary": "Today's health-tech landscape shows momentum across multiple fronts despite regulatory adjustments. Medicaid work requirements enforcement has been delayed six months to July 2027, while Democrats are coalescing around proposals to expand Medicare eligibility, signaling ongoing policy shifts around healthcare access. On the venture capital side, Zus Health secured $33 million in Series B funding to improve healthcare connectivity, and Windward Bio raised $225 million in its IPO for next-generation antibody drugs with backing from Sanofi, reflecting continued investor confidence in health-tech and biotech innovation.\n\nClinical AI is making tangible operational gains, with Corewell Health's ambient AI reducing nursing documentation by 52 percent and AI systems demonstrating improved accuracy in delirium detection, while partnerships like Dyania Health and NVIDIA's work on patient record analysis signal deeper AI integration into care delivery. The Trump administration is committing up to $4.9 million toward ibogaine research for PTSD treatment, marking a notable investment in psychedelic-assisted therapies.\n\nSeveral investigative stories are raising governance concerns: questions linger around Boston Scientific's Watchman marketing practices relative to supporting evidence, Oura's acquisition of a telehealth company is creating potential conflicts of interest involving Eli Lilly, and senators are introducing a bill to address financial conflicts among preventive care panel members. Meanwhile, a STAT investigation found unproven \"three-parent IVF\" procedures being marketed to older women through fertility tourism clinics, highlighting quality and safety gaps in less-regulated segments.",
+  "items": [
+    {
+      "title": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
+      "link": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-13T22:21:56.000Z"
+    },
+    {
+      "title": "Zus Health Raises $33M to Make Healthcare More Connected",
+      "link": "https://medcitynews.com/2026/11/zus-health-raises-33m-to-make-healthcare-more-connected/",
+      "source": "MedCity News",
+      "date": "2026-11-13T22:06:30.000Z"
+    },
+    {
+      "title": "STAT+: Democrats coalesce around ‘Medicare for More,’ ‘Medikids’ proposals",
+      "link": "https://www.statnews.com/2026/11/13/democrats-eye-medicare-for-more-vs-medicare-for-all/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-13T21:46:05.000Z"
+    },
+    {
+      "title": "Biosensors and Wearables Among MedTech Showcased at INVEST Digital Health",
+      "link": "https://medcitynews.com/2026/11/biosensors-and-wearables-among-medtech-showcased-at-invest-digital-health/",
+      "source": "MedCity News",
+      "date": "2026-11-13T20:49:06.000Z"
+    },
+    {
+      "title": "New addiction society guidance on medetomidine’s brutal withdrawal",
+      "link": "https://www.statnews.com/2026/11/13/medetomidine-withdrawal-asam-new-treatment-guidance/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-13T20:45:42.000Z"
+    },
+    {
+      "title": "Doximity brings clinical AI to NewYork-Presbyterian",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN3ZaX2h1bUlqTGNQTnNxaGxJSnR1aDlaNnRBcU9lWXpYNnFNWGJ1WUlwMlhlVFRPdEI4ejh5WS03OUIwYWNLTzNENUNqQ016RDRCbXJEZGthMkxHV0ZLNWZlZTBSVk5xeERYeG04VGppMVdEUDE0eWJhR3EzeGYtZ09Tck5VOGdzOWZaYg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-13T20:26:42.000Z"
+    },
+    {
+      "title": "HIMSSCast: Improving nurse engagement with workforce tech",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkRRMlktZ21lZTZoZDNfaDJnWllBUzA2Z0RsVG52VFI1b1Eyd20xbFVUVEo4M2xrUGhVUHNrcVpLRkxhcUNUYkJkdWRXQzNUSWZtWTZhOWd0bWJjcl9QSEZUN1V1Rmt4SnQ3XzdrTlo1U1h5VGF4ejgzbk0yRl80b29Oc1BySlZLOUZPYXFXc0tVcWs?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-13T18:39:36.000Z"
+    },
+    {
+      "title": "Dyania Health, NVIDIA partner on AI analysis of patient records",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWndIUmdCNDZQR19Cc24yaHE5MVJQUWxZeFM3YnlwdVE0T3p2RVcxNU5IMVJBX3hGcDFjeXRQQWtNNUZjN2dLUEN5dkREWXgzZF9VWnh4TmhRbktZb3VBYk1rTVMwN2lIb3JBaW1KcWZEZWVGZW9jb01yUDB6Q3hkcTlheC1lR1RFZ091SzlDVW80X2E1MEk0?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-13T18:29:41.000Z"
+    },
+    {
+      "title": "Windward Bio’s Stock Market Debut Reels In $225M for Better Biologic Drugs",
+      "link": "https://medcitynews.com/2026/11/windward-bio-ipo-long-acting-antibody-tslp-asthma-copd-atopic-dermatitis-wwb/",
+      "source": "MedCity News",
+      "date": "2026-11-13T18:04:54.000Z"
+    },
+    {
+      "title": "STAT+: Doctors have questions about the Watchman. Boston Scientific has a sales pitch.",
+      "link": "https://www.statnews.com/2026/11/13/investigation-boston-scientific-watchman-cardiac-implant-marketing-science/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-13T17:55:00.000Z"
+    },
+    {
+      "title": "What’s Missing from Healthcare Quality Conversations?",
+      "link": "https://medcitynews.com/2026/11/whats-missing-from-healthcare-quality-conversations/",
+      "source": "MedCity News",
+      "date": "2026-11-13T16:46:51.000Z"
+    },
+    {
+      "title": "Corewell Health's ambient AI cuts nursing documentation time by 52%",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV202UVNrTGNNV2ptYmhidmZ1bGd1amVOcWlid2tyQVNNMXRXcFF0M2Rta2p5ZGtfY2ltejV3aXJPdXhjX0RkMlE4UnNhc0JPUTZheFB0QW5USUN4NHJXb2NpczY3NjQ0RmdKRV9qZjh1YmU5RGNaa0ZaOG52U2JpbDR0YVZ6b29QQXZXSC1icmZfMmxQZGJpM05ldVp2c2lZOFE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-13T16:30:41.000Z"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "link": "https://www.statnews.com/pharmalot/2026/11/13/up-down-ladder-jobs-pharma-biotech-2/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-13T15:48:14.000Z"
+    },
+    {
+      "title": "ePA testing project launched by ONC and CMS",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkdqcTFHV2tYUEJ2RWhRN3hJY2JPVlRRSlVFX0dyZmMyb29MS0tDQ1RPRWotTWpjSVNFeURJaGJSM09XTlE2dElqaXZNRkJnaTBmOHN2YkpNQ3lmZWxSOFIwVHdsUjlaR09BWkNnZl9EOWVXTjJoNmpucnVPTy0xaEdKems?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-13T15:30:00.000Z"
+    },
+    {
+      "title": "STAT+: HHS plans funding for research into ibogaine for PTSD",
+      "link": "https://www.statnews.com/2026/11/13/biotech-news-hhs-funding-for-research-into-ibogaine-for-ptsd/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-13T15:25:46.000Z"
+    },
+    {
+      "title": "Opinion: New organ donation rules are unfair to families",
+      "link": "https://www.statnews.com/2026/11/13/organ-donation-policy-life-sustaining-treatment-brain-death/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-13T14:59:54.000Z"
+    },
+    {
+      "title": "Canada's single-payer healthcare system complicates AI adoption",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWZKQlBFUk5uTGhZZXVmSC1wMXo4dXZFOHk2cEhYb0M5TXU5dVlObGtfMWpBUllEcWw1V2ctM1BpVGFJLUVyd2V5WnVyRDBFQ2k4MTZKcUxWakxWMkNmd1pPRlJJblIyZmpwZ2EtZWV4N01MRWx0dU0zU1ZXNC1TelVXM0hDWnZYbnNyTV91eEl1Qkg2eEdaNzZRSUhfb04z?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-13T14:58:06.000Z"
+    },
+    {
+      "title": "Brain implant startup pauses trials",
+      "link": "https://www.statnews.com/2026/11/13/health-news-brain-implant-startup-pauses-trials/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-13T14:40:32.000Z"
+    },
+    {
+      "title": "Pay Transparency in Life Sciences: Staying Ahead of Emerging Regulatory Complexity",
+      "link": "https://medcitynews.com/2026/11/pay-transparency-in-life-sciences-staying-ahead-of-emerging-regulatory-complexity/",
+      "source": "MedCity News",
+      "date": "2026-11-13T14:39:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Lilly conflict questions, a DEA OK for a narcolepsy pill, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/11/13/lilly-conflict-questions-dea-okays-takeda-narcolepsy-pill/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-13T14:33:16.000Z"
+    },
+    {
+      "title": "How Politics Became Every Hospital’s Brand Risk",
+      "link": "https://medcitynews.com/2026/11/how-politics-became-every-hospitals-brand-risk/",
+      "source": "MedCity News",
+      "date": "2026-11-13T14:20:00.000Z"
+    },
+    {
+      "title": "Detecting delirium has gotten more accurate with AI",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb2pmTmtZdVZINlFSVU1xMkpSTG5jU2UtUDRmUEpsdDkxX3ppQkVyRDFDUS1mZkZLYWpJNENUOTJWalE2T1dDODI2TGUxa0h3VVkwQ1ZXcjZRZ0ZId2VxNXM2VURGVy1Sd3BFWDJNQXdlV0dyUWUtbEdGV2VqOHAzM3hTOXhOTEIzemtuZXh3?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-13T14:08:00.000Z"
+    },
+    {
+      "title": "STAT+: Senators introduce bill to curb conflicts of interest on preventive care panel",
+      "link": "https://www.statnews.com/2026/11/13/uspstf-preventive-care-panel-senators-target-conflicts-of-interest/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-13T14:00:00.000Z"
+    },
+    {
+      "title": "The future of heart drug research in the wake of study setbacks",
+      "link": "https://www.statnews.com/2026/11/13/cardiovascular-disease-heart-drug-failures-readout-loud-podcast/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-13T13:34:45.000Z"
+    },
+    {
+      "title": "Exclusive: Redesign Health launches Growth Equity practice",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaF9lSHByaElFcmY3dmo3TU81c3Nad0hyaU90UGFqak4zcVY2ZWdOQ2lYR1poZFluMm53VVkwOXd4YXBPeEE1eHlvSXdyYXdOVXFtSHJGamptWmhXbHJsUHkydzVBWUpOak1HdGxlajctSW9IRmN3NWFJTTFjM01JaHdyWEdocnNxTWtyN2FIUzNNUnIwRmZkZA?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-13T11:00:00.000Z"
+    },
+    {
+      "title": "Senator-elect Abdul El-Sayed on restoring trust in science, the state of public health, and RFK Jr.",
+      "link": "https://www.statnews.com/2026/11/13/senator-abdul-el-sayed-interview-public-health-rfk-jr-trust-in-science/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-13T09:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Oura’s acquisition of health tech startup raises conflict-of-interest questions for Eli Lilly, experts say",
+      "link": "https://www.statnews.com/2026/11/13/oura-acquisition-counsel-health-eli-lilly/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-13T09:30:00.000Z"
+    },
+    {
+      "title": "5 takeaways from STAT’s investigation of the sprawling ‘three-parent IVF’ industry",
+      "link": "https://www.statnews.com/2026/11/13/fertility-tourism-5-takeaways-mrt-investigation/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-13T09:30:00.000Z"
+    },
+    {
+      "title": "Opinion: STAT+: ‘What will I do with the time I have left?’: What it’s like to find out you might develop Alzheimer’s",
+      "link": "https://www.statnews.com/2026/11/13/alzheimers-disease-biomarker-tests-psychological-legal-challenges/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-13T09:30:00.000Z"
+    },
+    {
+      "title": "Across the U.S., homegrown experiments aim to save kids from their phones",
+      "link": "https://www.statnews.com/2026/11/13/phone-addiction-young-people-fight-back-attention-activism/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-13T09:30:00.000Z"
+    },
+    {
+      "title": "HKUST introduces AI 'super agent' for autism support",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMkJEaVZCMWVOYXJJRzNxbmVyM3g5Q1RqazhxNlJrQXpVaElEeGY0clNBSm1WZEFLTG5Eemt3WF9Fbjk5N3hnam5Wb0JHUGxHZC1Ca3ZKd2cxX1ZHMHFoa2lQV09JdWhPV194N1Z4dkV1RFhDMU1CblR0Ul9FTU1KOGMtWC1XT0NOWkZHeGl2aW4?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-13T03:18:30.000Z"
+    },
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pazBhVGRXZTlBeXczMi1WcnNXbkhzM0EwdklCUDV4V3lFN2JpWVdiUTJXNGI1M3FQSl9sX1ZZTWRwYnR5ZTZDUVM1c1VFaTZQUkVZeHY3ckU?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-12T11:14:39.000Z"
+    }
+  ]
+}
