@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T00:52:52.603Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 3,
+  "sources": {
+    "MobiHealthNews": 2,
+    "Healthcare IT News": 1
+  },
+  "summary": "I appreciate you sharing the task description, but I notice the three article headlines you've provided appear to be incomplete or placeholder text rather than actual article titles and content. \n\nTo write an accurate and useful daily digest, I would need:\n\n1. The full headlines from each article\n2. A brief summary or the opening paragraphs of each piece\n3. Any key details about what each story covers\n\nCould you provide the complete article titles and summaries? Once I have those details, I'll be happy to write a concise 3-6 sentence digest highlighting the most important themes and developments for your busy executive readers.",
+  "items": [
+    {
+      "title": "News",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GNmF0Uk9JZ3JNMGFGcGNDemtCUEg4eVQ4Rng5MnZpWFR3a0E2aUdZUlFSUkEwU2ZwSlJ6bG9WNGt5cTZRN2pvS1B6cEp6ZG1DdDExeDFkUTJsVzRQdTBvd0JBUzBwc0xCMF8wemtoUjRTcWs?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-12T22:38:19.000Z"
+    },
+    {
+      "title": "Provider",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ram45QktkNzhMVTAwTGswY01nWklINFhNeTg0TlpYRjJIVWxCelZCTmhJRi1JU1h0dFJlREd4bEJZUnZZcDlQNjV2VmNqT19OU1ItdlV2Tmpwa0JpRjl3TkRuVFJENEh1Unhz?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-12T00:38:39.000Z"
+    },
+    {
+      "title": "Make every IT dollar work harder for care",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZUNEUGJvdVdHR19NOFRlWkN0YV9FWDNxaExQUHB2SmxCaF9DZldGY04wY2xReGV6eGlGYjFPdGNya3lTYXg5VWZPU29rNUhXSVk2bmJDRmRPdEc3QzFQcVIxZDJfbnpDYklaZ0J6S2hlbURyYzRsaTRSTWlJZ2Fvcw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-09T19:52:00.000Z"
+    }
+  ]
+}
