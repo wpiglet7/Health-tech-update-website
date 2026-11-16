@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T00:52:03.654Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 9,
+  "sources": {
+    "Healthcare IT News": 5,
+    "MedCity News": 2,
+    "STAT News": 1,
+    "MobiHealthNews": 1
+  },
+  "summary": "Regulatory pressures and geographic inequities are reshaping healthcare delivery this week. Hong Kong is implementing mandatory medical device regulation while the FDA rejected Summit Therapeutics' lung cancer treatment ivonescimab, signaling stricter approval standards. On the technology front, Mayo Clinic Platform launched new clinical decision support tools and New Zealand's Te Whatu Ora is piloting AI applications for surgical preparation and radiology referrals, reflecting broader industry momentum toward AI-assisted provider workflows. Meanwhile, a critical commentary highlights that geography—not just genetics—remains a major determinant of cancer survival outcomes, underscoring ongoing disparities despite billions invested in precision medicine. Separately, Oyster Therapeutics raised $60 million with backing from Eli Lilly to advance small molecule degraders that cross the blood-brain barrier for Alzheimer's treatment, and healthcare systems including Southern Cross Care are streamlining electronic health records access while leveraging social determinants data to improve care delivery.",
+  "items": [
+    {
+      "title": "Hong Kong prepares to make medical device regulation mandatory",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0lpTHMxLTlnOGNwWGpGMFVSNzZ2NVZRWHQtYjcxWHJQeEF6emtudlI0bDE1RVROcEhtSm56cjFMNXZIN0dac3V4N1RieDk5ZUxGLUd6UGV5NmxYX3VxbUZ0M0R4dHo5Q3N4SjgtMVM4dEstLThObTlVckEycjFIRnhORlB4M2JnSXpyazBXZjdnNHJUd3RQcWJ1MFZ6ckdETUhsaA?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-16T00:40:46.000Z"
+    },
+    {
+      "title": "Southern Cross Care streamlines records access and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHVzUkxXM1VhUjVTTTFvSXM5TVZYX1pIc0x4R2QtNkNaMXl0OG1kR2I4d0gwQjdYVVRDRV82ZkYyQ1lTeVI1aERIS1U3c0ZuV0pWa1ktQ2o0WTZ1ZXl5OHVCZ1E1SWVySEhtSVY5RklROG1qdkE5cXYtSlQ0WF8zV3R5RnhSalBkaVVScTNSTWthV2hLNmgxelhxVU0yZTE0Q29nMUN2dw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-16T00:32:27.000Z"
+    },
+    {
+      "title": "Brain-Focused Startup Oyster Gets $60M to Beat the Size Problem for Small Molecule Degraders",
+      "link": "https://medcitynews.com/2026/11/oyster-therapeutics-tau-protein-degradation-alzheimers-neurodegenertion-startup-selftac-kesmalea/",
+      "source": "MedCity News",
+      "date": "2026-11-15T23:44:04.000Z"
+    },
+    {
+      "title": "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics",
+      "link": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-15T15:05:15.000Z"
+    },
+    {
+      "title": "The Zip Code Trap: Why Geography Might Be a Better Predictor of Cancer Survival Than DNA",
+      "link": "https://medcitynews.com/2026/11/the-zip-code-trap-why-geography-might-be-a-better-predictor-of-cancer-survival-than-dna/",
+      "source": "MedCity News",
+      "date": "2026-11-15T14:25:00.000Z"
+    },
+    {
+      "title": "Chris Gullo",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ha0JyVTdoZU9LNDBCaWtSUGtOc0Z4dTRTek9VU1hETFNXS0lSd2dRLUFDdFp0VkVfMzRMT1c5bXl3bTJFOWRoWnQweHJCT1d1bDFNakw1aXBPeHVJaS1tM2xnSlVsTXh5?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-13T02:40:51.000Z"
+    },
+    {
+      "title": "Putting social determinants of health data into action",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWFhfb2dmbkJQblRFM3N4TW02LWM0ZVk1dEVIUk1EUkhYanVFbFFuRFNzU2JUS1VkSTlTMllTclExWjhsRi1wQkljZlpRbk8zM0tVakgzbkMwLXBhZEQxeWhlNVRhNXRmM1RFeV96dmFxTEdEaDl6OTU3V284MlVWaVh2cDVfYWFkamJxeVpDeFg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-06T21:51:16.000Z"
+    },
+    {
+      "title": "Te Whatu Ora explores AI for surgery prep, radiology referral",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSTRDY3RBckNsdzNPZmc5dUFVU1A0eEozLUVHVDdiQmx1MUpaSGlyV3ZoS2JDbkFxWFk4RE1rREVyOG5idjBLc09ueHd5Y2hwV2ptZkoxY2U0WVRSMFR0WVExRy1WVnUxT0VDaS1ORFdSclFNUEhBbkh3WlpGcDZveTFfODdrbTdYOWJhX2RreFBxcThidWJhMzRDLUs5NGs?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-06T08:15:42.000Z"
+    },
+    {
+      "title": "Mayo Clinic Platform unveils new CDS tech to guide providers' decisions",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUEhsN0xVRzNZbDRscmwyMDRTX2NVamFUekpJYzIxTDNKMzJuRnluUXMyVVFoUEFnWmdsbFBpLXhWRm1oZlRfSVZJeXhlQXRSblFSbXNFVnVtVWxxaFlLU3RZUzR5OVZUeUxEaDdfaU1uY2NuLUF3eE04OEd0WVk4M2d2aXZwWk5GQ2lDVWRWWHNBeVFUeUZxc0tjZHFJcTk1TFozREdBNjM?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-05T15:45:00.000Z"
+    }
+  ]
+}

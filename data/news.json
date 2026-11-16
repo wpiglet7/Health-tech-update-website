@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T00:52:50.634Z",
+  "generatedAt": "2026-11-16T00:52:00.487Z",
   "sources": [
     {
       "id": "stat",
@@ -24,6 +24,46 @@
   ],
   "count": 120,
   "items": [
+    {
+      "title": "Hong Kong prepares to make medical device regulation mandatory",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0lpTHMxLTlnOGNwWGpGMFVSNzZ2NVZRWHQtYjcxWHJQeEF6emtudlI0bDE1RVROcEhtSm56cjFMNXZIN0dac3V4N1RieDk5ZUxGLUd6UGV5NmxYX3VxbUZ0M0R4dHo5Q3N4SjgtMVM4dEstLThObTlVckEycjFIRnhORlB4M2JnSXpyazBXZjdnNHJUd3RQcWJ1MFZ6ckdETUhsaA?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-11-16T00:40:46.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Southern Cross Care streamlines records access and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHVzUkxXM1VhUjVTTTFvSXM5TVZYX1pIc0x4R2QtNkNaMXl0OG1kR2I4d0gwQjdYVVRDRV82ZkYyQ1lTeVI1aERIS1U3c0ZuV0pWa1ktQ2o0WTZ1ZXl5OHVCZ1E1SWVySEhtSVY5RklROG1qdkE5cXYtSlQ0WF8zV3R5RnhSalBkaVVScTNSTWthV2hLNmgxelhxVU0yZTE0Q29nMUN2dw?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-11-16T00:32:27.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Brain-Focused Startup Oyster Gets $60M to Beat the Size Problem for Small Molecule Degraders",
+      "link": "https://medcitynews.com/2026/11/oyster-therapeutics-tau-protein-degradation-alzheimers-neurodegenertion-startup-selftac-kesmalea/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-11-15T23:44:04.000Z",
+      "snippet": "Oyster Therapeutics’ lead program penetrates the brain to degrade pathological tau associated with Alzheimer’s disease. Eli Lilly, maker of the amyloid-targeting Alzheimer’s drug Kisunla, participated in the startup’s new financing. The pos…"
+    },
+    {
+      "title": "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics",
+      "link": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-15T15:05:15.000Z",
+      "snippet": "The FDA has rejected ivonescimab, a treatment for a type of lung cancer developed by U.S. biotech Summit Therapeutics and the Chinese drugmaker Akeso."
+    },
+    {
+      "title": "The Zip Code Trap: Why Geography Might Be a Better Predictor of Cancer Survival Than DNA",
+      "link": "https://medcitynews.com/2026/11/the-zip-code-trap-why-geography-might-be-a-better-predictor-of-cancer-survival-than-dna/",
+      "source": "MedCity News",
+      "sourceId": "medcity",
+      "date": "2026-11-15T14:25:00.000Z",
+      "snippet": "We are investing billions in making cancer treatment more precise while too many patients still can’t reliably reach the healthcare system delivering it. That should trouble all of us. The post The Zip Code Trap: Why Geography Might Be a Be…"
+    },
     {
       "title": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
       "link": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
@@ -273,6 +313,14 @@
       "snippet": ""
     },
     {
+      "title": "Chris Gullo",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ha0JyVTdoZU9LNDBCaWtSUGtOc0Z4dTRTek9VU1hETFNXS0lSd2dRLUFDdFp0VkVfMzRMT1c5bXl3bTJFOWRoWnQweHJCT1d1bDFNakw1aXBPeHVJaS1tM2xnSlVsTXh5?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-11-13T02:40:51.000Z",
+      "snippet": ""
+    },
+    {
       "title": "62 Organizations Call on Congress to Advance 4 Medicare Reforms",
       "link": "https://medcitynews.com/2026/11/62-organizations-call-on-congress-to-advance-4-medicare-reforms/",
       "source": "MedCity News",
@@ -385,14 +433,6 @@
       "snippet": ""
     },
     {
-      "title": "STAT+: New documents raise more questions about Medicare’s AI prior-authorization experiment",
-      "link": "https://www.statnews.com/2026/11/12/new-documents-raise-more-questions-about-medicares-ai-prior-authorization-experiment/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-12T14:49:02.000Z",
-      "snippet": "In this edition of STAT Health Tech: Oura's big bet on AI, a 'rumble strip' for clinical chatbots, and questions around Medicare’s AI prior-auth experiment."
-    },
-    {
       "title": "Can operating rooms boost efficiency with AI?",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYURWX25mcVhRcFRIbV8yTXprUEx1bklqeGlCRFFOcGFYMWFXXzkyZUQ1Q2FrTGFnUWtyTTJ1dkZzSGlxWVphWUxhOTdBZWRwYl9aQzFfQnc3d0padHF0ZnFNZTJjWFVFeHN3VmRQd1BGU25kaVE4Q2N4T3ZZdnNYdzhDZzU?oc=5",
       "source": "Healthcare IT News",
@@ -438,14 +478,6 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-11-12T01:23:31.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Provider",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ram45QktkNzhMVTAwTGswY01nWklINFhNeTg0TlpYRjJIVWxCelZCTmhJRi1JU1h0dFJlREd4bEJZUnZZcDlQNjV2VmNqT19OU1ItdlV2Tmpwa0JpRjl3TkRuVFJENEh1Unhz?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-11-12T00:38:39.000Z",
       "snippet": ""
     },
     {
@@ -505,14 +537,6 @@
       "snippet": "[Sponsored] In an interview, Wayne Luan, senior director, life sciences and provider solutions with Turquoise Health, told MedCity News Editor-in-Chief Arundhati Parmar that the company’s platform provides pricing data for medical services,…"
     },
     {
-      "title": "Jonathan Bush's Zus Health scores $33M and more funding news",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXZuMmJuVjdETnBRY2JhU0JDU1V1QW5ORVdjQ2p4UG5vc1dOeHlRWnBsSzBWM285a2lFWmhCYWNrdmNzZW82WENPbzhjS3lxRHhwandqdWM0dHp4bGJXQ3pSb01PWExMR3BVNEk2emNZa3JiTl82eUwzbVlpd0xRTmFsRUVNXzV1VFAyaWVoWmp0aGliZmE3QUNn?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-11-11T19:53:05.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Healthcare CIOs are becoming enterprise productivity leaders",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGlNVUZ1VldjVnIzZE9lMXNNMlBmNmJ3RUkxUEJyRWh6OFJudnpsRkRZZktOVjl5SXFObzV1X3IzNmxfb2VfWVUxU29qT2pnckx4OWN4Y3djQnpXdUM5djFfc2NzQzFXekJUQlJxb3hmMkFZYkp4cjlwb0VMdkVHSTQyTi12SmwyS3JENjhWcVdMZHMwRFA3UHh6WUJ0S2c?oc=5",
       "source": "Healthcare IT News",
@@ -561,14 +585,6 @@
       "snippet": "We spend more than a decade training physicians and teach them almost nothing about leading people. So, what do we do? We take the best clinician in the group, hand them the title, and assume that leadership comes with it. The post Follow t…"
     },
     {
-      "title": "HIMSSCast: Closing the healthcare trust gap for communities of color",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT3Rnb204VEJjdDhNc01FOWxqcU1EY0ZzSEl4S2F2eDNndEM0S3JOY3cydUhBejNJZjE5X3hoV0JxVTQwQnJKZS1UUzZMcW04dEZTbzIyR0tHWHpEZUtnNlRmWWdMNGxqQ0JtdzRoQ3Z6N1JvTDc1UEc0d3RsbjlmdVJCOXZXUTItdDlxQkNOU2k?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-11-11T14:10:13.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Finding the right EHR for a rural hospital",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SdUpCeVN6LVR2RDVwMUV1TGdsWFpZeEJJUTNVdE5uaHhNaHF6dnp6MWROWlJWbktHOTcycS04Nm1fQnR5TFREYVBQdlBUTW52UW9VLTdlRzhPSEYyU1JJWElPQm0zMDdIOHNnMVZQN2VQb05RUEV1M2czOA?oc=5",
       "source": "Healthcare IT News",
@@ -590,14 +606,6 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-11-10T22:56:47.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Digital transformation must include staff education",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORmw2STBLRUhFYzFSMEpxZFlsOEthaFpDbEdNZnVqUDVoVENSbm5wS05FTVNpb0VKQktEQUVsbFpKaTNDSGsyOFFNZnhHOHFrNzlPUzFrS2lDdkR1SzF4NVRLZ19BQ2kwUUpseEVBUDMwQjdKdVVhRkd1azg2OUFpcXBZeDh2MjBoTGd5dE5YbkNiUWtxR2hWRXlNRQ?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-11-10T22:24:00.000Z",
       "snippet": ""
     },
     {
@@ -671,14 +679,6 @@
       "sourceId": "medcity",
       "date": "2026-11-10T14:46:00.000Z",
       "snippet": "The industry’s next major competitor may never build another national laboratory network or employ thousands of phlebotomists. It may simply own the device that notices something first. The post The Laboratory Industry’s Next Competitor May…"
-    },
-    {
-      "title": "Maternity care payments face a major overhaul",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNUdFV0Q4Q0pEMHhJM1ZueHZFTndnWlRhcVN3Wkt0OTFpSXc0eTFlb0dyNngtVXdkMFpRUnROV1JqdlVaM1dhY1ZpN1ZKWWhNaml1c3hsbngtdGxhTFF0UGZvaGpIRFF1WFF1U3pxOWJkbTZDcl83endOaE5sN3kxWkZvN0pCLXk0NlE?oc=5",
-      "source": "Healthcare IT News",
-      "sourceId": "hitn",
-      "date": "2026-11-10T14:32:00.000Z",
-      "snippet": ""
     },
     {
       "title": "Startup Supporting Caregivers Raises $3.5M in Seed Funding",
@@ -793,19 +793,11 @@
       "snippet": "Treating AI agents like contract nurses and minimizing their access to critical patient information certainly reduces potential risk. But, it also minimizes key opportunities. The post Missing the Point: Isolation Alone Will Not Build AI Sa…"
     },
     {
-      "title": "Bispecific J&J Drug Wins Speedy FDA Approval for Treating Head & Neck Cancer",
-      "link": "https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-11-06T22:35:32.000Z",
-      "snippet": "Accelerated FDA approval of Johnson & Johnson’s Rybrevant Faspro covers advanced cases of head and neck cancer. The bispecific antibody was initially approved for treating certain lung cancers. The post Bispecific J&J Drug Wins Speedy FDA A…"
-    },
-    {
-      "title": "Q&A: Inside Google's AI for Healthcare Professionals Certificate",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFRCX3NpdGlwenROZ2JfTXlBS09TZEE4V3d5b0oxMWw2TnA1SEtVMDhsbmI5Z2wxbmJ2blYwNDhxYjd1RXduS3pRSFlNQ2lWdmdjWXI3QVY0QUd4YjNZSzA2U3ZpTGFoTHhmdXJWVjdxQTh2ejY4Uk10bTlMVDRLeVYwakRDLUpfMzE1YVk0bThpUEtyTFgxXw?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-11-06T20:40:37.000Z",
+      "title": "Putting social determinants of health data into action",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWFhfb2dmbkJQblRFM3N4TW02LWM0ZVk1dEVIUk1EUkhYanVFbFFuRFNzU2JUS1VkSTlTMllTclExWjhsRi1wQkljZlpRbk8zM0tVakgzbkMwLXBhZEQxeWhlNVRhNXRmM1RFeV96dmFxTEdEaDl6OTU3V284MlVWaVh2cDVfYWFkamJxeVpDeFg?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-11-06T21:51:16.000Z",
       "snippet": ""
     },
     {
@@ -815,14 +807,6 @@
       "sourceId": "mobi",
       "date": "2026-11-06T19:47:44.000Z",
       "snippet": ""
-    },
-    {
-      "title": "Experian Health Survey: Providers Struggle Amid Increasing Claim Denials",
-      "link": "https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/",
-      "source": "MedCity News",
-      "sourceId": "medcity",
-      "date": "2026-11-06T19:19:29.000Z",
-      "snippet": "A new Experian Health survey finds that healthcare providers’ efforts to prevent claims denials are falling short, with many reporting an increase in denials over last year and increasingly complex payer requirements. The post Experian Heal…"
     },
     {
       "title": "How CIOs can turn stalled AI pilots into measurable gains",
@@ -873,6 +857,22 @@
       "snippet": ""
     },
     {
+      "title": "Te Whatu Ora explores AI for surgery prep, radiology referral",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSTRDY3RBckNsdzNPZmc5dUFVU1A0eEozLUVHVDdiQmx1MUpaSGlyV3ZoS2JDbkFxWFk4RE1rREVyOG5idjBLc09ueHd5Y2hwV2ptZkoxY2U0WVRSMFR0WVExRy1WVnUxT0VDaS1ORFdSclFNUEhBbkh3WlpGcDZveTFfODdrbTdYOWJhX2RreFBxcThidWJhMzRDLUs5NGs?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-11-06T08:15:42.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Q&A: Inside Google's AI for Healthcare Professionals Certificate",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFRCX3NpdGlwenROZ2JfTXlBS09TZEE4V3d5b0oxMWw2TnA1SEtVMDhsbmI5Z2wxbmJ2blYwNDhxYjd1RXduS3pRSFlNQ2lWdmdjWXI3QVY0QUd4YjNZSzA2U3ZpTGFoTHhmdXJWVjdxQTh2ejY4Uk10bTlMVDRLeVYwakRDLUpfMzE1YVk0bThpUEtyTFgxXw?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-11-06T08:00:00.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Heidi Health announces 18% reduction of global workforce",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczNRQlFJUVBYTV9PM2RnMEhTcXpqYUF2NnhKUVJ5T3NpYjlYY2dRdjJydkVSQUJXVnJ6amZHaWJpMW1fZndqSHpmd05CLW9oTGFMb0ZYOHV0dUowYUVpb2JGcklVbjBTY2hVc1M0a3ladXg0endaTnBXNThlNjV0OUlTLVZINFJ6S0xQV1pMSi1FQQ?oc=5",
       "source": "MobiHealthNews",
@@ -881,27 +881,11 @@
       "snippet": ""
     },
     {
-      "title": "Preparing for AI-enabled care in Southeast Asia",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3Ftb0g3WmF6dk0tbkY0Wm5EZTJqeENoajlWRHlxcEJJc0dRMVRqem93dkVOdEs1bEo1UzB3ZS1WaDdjRHdNZlp2SmtORWxkVTB4bzQ2eVBVM3B5Q0J6SWpiS2xsRzR2REFwaVZ4MUV1STdXWEgtOFFMaDBhVUR2U05rMlBCRWVWd0E?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-11-05T22:34:08.000Z",
-      "snippet": ""
-    },
-    {
       "title": "The AI future of Thomson Medical Group",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcVV0b2w3b1F3WjNWcVRzLXkyZFByMk83MkMtWVpSRW9pSnI4RDV1b2gydUk1RnpGdGtTUjI4UENiN3hoQjFZX1dyOHpHaWhWMGlrdlNLZ3BqS1FCVlJ4NnktM0g1aUoyNzJtaWRLcVZfMnNLSnQ3SFhOVzlRdV9qSA?oc=5",
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-11-05T22:01:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Vitroscope raises $7M to expand live-tissue platform",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZFBSN2k3MWZMTW5NcUF4SUkyd0QzM2N4Y1RacE43RW1GMVlDekFJYUFrTlBwZ01kR2g1OFBSSEphOC0tT0QyQkY0ZGFmS3N1VXcxbTJ5Yi02ZEdzWmNLb2dXR1ZadmZSWi1sUlpTeHFaMDRIb05lcFRMTnBPaGZXMmFkVURtcHl5X2JIRw?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-11-05T18:59:11.000Z",
       "snippet": ""
     },
     {
@@ -921,6 +905,14 @@
       "snippet": ""
     },
     {
+      "title": "Mayo Clinic Platform unveils new CDS tech to guide providers' decisions",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUEhsN0xVRzNZbDRscmwyMDRTX2NVamFUekpJYzIxTDNKMzJuRnluUXMyVVFoUEFnWmdsbFBpLXhWRm1oZlRfSVZJeXhlQXRSblFSbXNFVnVtVWxxaFlLU3RZUzR5OVZUeUxEaDdfaU1uY2NuLUF3eE04OEd0WVk4M2d2aXZwWk5GQ2lDVWRWWHNBeVFUeUZxc0tjZHFJcTk1TFozREdBNjM?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-11-05T15:45:00.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Clinical data can support ongoing quality improvement",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWpfdWllbXMwcWE1bWlLYW55S0oweXhkeHVySmNjdktzOG0yVlBmbzF1Y010MGtqNFN5SmlBS205VnJ2OE1IcUxOdUFweU9rUnJGLTViZ2o1NEhSUWg4aGVDRnlFUDF4cjZ6YUNCVGVBUGxWdWliRllueFYxOVp3VEtxaE9iTmR0ZG5PSjNaSHB1eThG?oc=5",
       "source": "MobiHealthNews",
@@ -934,6 +926,22 @@
       "source": "Healthcare IT News",
       "sourceId": "hitn",
       "date": "2026-11-05T14:29:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Vitroscope raises $7M to expand live-tissue platform",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZFBSN2k3MWZMTW5NcUF4SUkyd0QzM2N4Y1RacE43RW1GMVlDekFJYUFrTlBwZ01kR2g1OFBSSEphOC0tT0QyQkY0ZGFmS3N1VXcxbTJ5Yi02ZEdzWmNLb2dXR1ZadmZSWi1sUlpTeHFaMDRIb05lcFRMTnBPaGZXMmFkVURtcHl5X2JIRw?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-11-05T08:00:00.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "Preparing for AI-enabled care in Southeast Asia",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3Ftb0g3WmF6dk0tbkY0Wm5EZTJqeENoajlWRHlxcEJJc0dRMVRqem93dkVOdEs1bEo1UzB3ZS1WaDdjRHdNZlp2SmtORWxkVTB4bzQ2eVBVM3B5Q0J6SWpiS2xsRzR2REFwaVZ4MUV1STdXWEgtOFFMaDBhVUR2U05rMlBCRWVWd0E?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-11-05T08:00:00.000Z",
       "snippet": ""
     },
     {
@@ -971,14 +979,6 @@
     {
       "title": "Q&A: Lirio uses messaging approach around vaccinations",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHhWeEprQWphOVZxRzlwZGVka1pETU1rcTVoUjlTVE43VDh3VVZJZ2RPejRVVkw0TXpTckwyRTJncFMyeG9sbWcxN05OTzBzS01TS1FaY0tCQXlrSHJsQlhZY25LeVN4ME9seUxQNnMyN2tyODNLcWhyTlVQcmhRMTZ5c0VDMTdFcEJUQW9uZHYtQQ?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-11-04T08:00:00.000Z",
-      "snippet": ""
-    },
-    {
-      "title": "Neurotronics receives FDA clearance for AI sleep analysis software",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3otcktkNy1wQzB3S25HeWMyTTdZNG5oaE9ENHhWWDctcENzbHhtMW1JR0ZBQzA3ZnB5NjE3UzNFMHN2aWtoQVp6STJlRG1RLTdEcTdpU2NDTlo2RlFKTWZCNmxFX0dIM0VBRDhKdE5aWFJSMkZFSlFLSDIybUZNQ2UzanI0amxiQUZzc3hoUFd4ajQ2M2QtcmRwVDJaWjg?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-11-04T08:00:00.000Z",
