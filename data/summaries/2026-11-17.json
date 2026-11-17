@@ -1,0 +1,262 @@
+{
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T03:32:00.175Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 41,
+  "sources": {
+    "STAT News": 20,
+    "MobiHealthNews": 9,
+    "Healthcare IT News": 5,
+    "MedCity News": 7
+  },
+  "summary": "The health tech sector faces a complex regulatory and market landscape today. A new Trump administration regulation targets Medicare Advantage fraud savings, while the FDA approved a potentially blockbuster breast cancer drug from Roche and created a new regulatory pathway for the supplement NAC. On the innovation front, major players are expanding capabilities—Viz.ai integrated UpToDate into its workflows, Apple launched a health chat app study with OpenEvidence, and Noom unveiled a wearable band—while healthcare systems like Mayo Clinic and Kaiser Permanente are investing in AI and physician-led commercialization models. The sector is also wrestling with implementation challenges, particularly around cybersecurity (Fullerton Health IT disclosed a breach affecting 140,000 workers), prior authorization inefficiencies despite complete medical records, and the debate over global access to GLP-1 drugs for obesity treatment.",
+  "items": [
+    {
+      "title": "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage",
+      "link": "https://www.statnews.com/2026/11/16/cms-proposes-more-agressive-audits-medicare-advantage-crush/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T23:45:36.000Z"
+    },
+    {
+      "title": "Noom unveils Noom Band and more digital health news",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTk9zRi1LdWdzZ0Y5TWRRNUFrNWJmbktnRVBJNHhWcjRSRzRxN1FKcU5VNXBtTzF5MDFfWDFadUJCbFRUa2tIX0xrUW9sVDd5azVQaXAtS1BraW85TnJsNGF0MlNDcHRNQ2FHNWFkcDZuQ1pyOEpBZlNmRDBlcEJZc1llRWZuQzFXZHdTZnJBaWk?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-16T22:26:26.000Z"
+    },
+    {
+      "title": "Viz.ai adds UpToDate to care workflows",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VbUR6OEJrYVdaVXZjUW1WcnphWkpyVWZvZXFuN0xBSFVBa1FRbHExbEhLVGlwaDA3aHhLT09rUUhydWFEc1RGTlExU1VtSlhndVVrakJHOFh5a1VUTzZWc3N6QXRXeXlpQnRUZndyc1BIdzQ1NmpqU0xR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-16T21:56:07.000Z"
+    },
+    {
+      "title": "The Implementation Paradox: Healthcare Leaders Want Microsegmentation-Level Security Without Disruption",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaEhncjdyVE16c2cwRE1sQllvb2JDTGYzQTZHOERWVnA4dDliRWE4TzFXeV84eFdGaVJIdGxkSXRPZWNDMm1BTU9TaWRFdGttUi1NeFBNOXM3LXJ5MXdvX0VNQ3U2T2VTbXhxOVBrOXg0cFBjMjNkWW52aHp0OVFRRWJNbEdPVGFjcVppUTNkSy1lNXVkakpQMU0zU0JjWTlSdlQxcGhMTjF3amtJRDBoWWhPZWtOMHdCYzctTFVUWEV4emJ2NlJMRg?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-16T21:48:48.000Z"
+    },
+    {
+      "title": "STAT+: FDA approves new breast cancer drug, providing new option for some patients, boost for Roche",
+      "link": "https://www.statnews.com/2026/11/16/fda-approves-new-roche-breast-cancer-drug/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T20:56:47.000Z"
+    },
+    {
+      "title": "STAT+: Federal judge issues final ruling blocking U.S. plan to limit visa length for grad students, postdocs",
+      "link": "https://www.statnews.com/2026/11/16/judge-rejects-visa-limits-international-researchers-upholds-duration-of-status-policy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T19:59:14.000Z"
+    },
+    {
+      "title": "J&J’s $2.2B Ollin Buyout Brings Late-Stage Eye Drug; Blackstone Deal Adds Trial Funding",
+      "link": "https://medcitynews.com/2026/11/johnson-johnson-jnj-ollin-biosciences-acquisition-bispecific-antibody-vegf-ang2-wet-amd-dme/",
+      "source": "MedCity News",
+      "date": "2026-11-16T18:55:25.000Z"
+    },
+    {
+      "title": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
+      "link": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T18:54:06.000Z"
+    },
+    {
+      "title": "STAT+: Expert warns of battleground over global access to newer GLP-1 drugs for obesity",
+      "link": "https://www.statnews.com/pharmalot/2026/11/16/semaglutide-obesity-glp1-access-medicines-low-income-countries/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T18:18:25.000Z"
+    },
+    {
+      "title": "STAT+: NIAID acting head John Powers III appointed as the permanent director",
+      "link": "https://www.statnews.com/2026/11/16/john-powers-appointed-niaid-director/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T17:47:11.000Z"
+    },
+    {
+      "title": "Apple launches research study with OpenEvidence",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRTBEOGhPWnowYXBJd0Y2RnBZR0hPLWxGX0JoQWFPWjZCWEFsSnZjd0kwR01WQ3ZQLWJISDA5aXRJZUgtdXdkcU9hNTdibm5GRnl3WmdQTmF3aVJOM3dXelA2NEVMMWxVeDBtc1hoaU5fTVFRaUY3NWFXY2FyS1M2am9YQ2U?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-16T17:42:34.000Z"
+    },
+    {
+      "title": "MIMIT Health credits AI-powered workflow overhaul with $2M in annual savings",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdFhJN3MtTkFkaHVZMlg4c04zMkNJLUN5V3lwSF9XSWZDWE5PWnBlZkJnZ0xRSWRxZ3lna0tiNUJDZ196NTdJRUxNS2E3VUpTRUVaWDVUaV9NZ0FZeGNmTzk4VHdPVUxtbUU4RzJFeEpWc0Z6ekhLUWFkMTVVRWRjZlBzY1dmb3Q0TDNFQmtVLXFKM2c0NnBoZFcxNU1Uczd6NHFpbGZJVUk?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-16T17:26:33.000Z"
+    },
+    {
+      "title": "STAT+: Biotech’s rebound isn’t lifting all boats equally",
+      "link": "https://www.statnews.com/2026/11/16/biotech-news-rebound-isnt-lifting-all-boats-equally/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T16:56:33.000Z"
+    },
+    {
+      "title": "STAT+: Suing Joe the Plumber and Microsoft, and diminishing raises",
+      "link": "https://www.statnews.com/2026/11/16/providers-sue-employers-to-collect-payment-health-insurance-costs-climb/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T16:52:09.000Z"
+    },
+    {
+      "title": "Mayo Clinic names radiologist and AI leader as new CEO",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3c3V1BHNURxSHR5Z2lwbkZZVDNaSmp5MlEydWFncThxR2c3bzdxcW15Q0pRUnd0dU5McmdzOW1HZTRkU0pxTWl5MVlJaWZ5VEpvQjRvUk42NGlYaFA4M3Z3MkIxamxLcVdHTXdDQTJLdlZUakQ5cEJGVkNkQ1FpZG5Gcl9sckFqSndmOFdOM1ZrYWRDcjFF?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-16T16:30:00.000Z"
+    },
+    {
+      "title": "The Permanente Medical Group Launches Innovation Company To Commercialize Clinicians’ Ideas",
+      "link": "https://medcitynews.com/2026/11/the-permanente-medical-group-launches-innovation-company-to-commercialize-clinicians-ideas/",
+      "source": "MedCity News",
+      "date": "2026-11-16T16:00:00.000Z"
+    },
+    {
+      "title": "Rare disease patient data fuels discovery",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDhJaERqdXc1V1NnVlhlY0IwSHFhbGxHdTRyb3FJZ0lnY3dfTW93UlRCWEZ4QkhVMUZ2TU1zTENjcTZya1FBaUxSYngzVXU1QmlqT1YyWXVSMThLelk2elh6TGRPMlNWal9fZkN6YUp5Yzl2YmFXQlVTY1N6cG5NSndmdmQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-16T15:44:31.000Z"
+    },
+    {
+      "title": "A Complete Medical Record Still Won’t Fix Prior Authorization",
+      "link": "https://medcitynews.com/2026/11/a-complete-medical-record-still-wont-fix-prior-authorization/",
+      "source": "MedCity News",
+      "date": "2026-11-16T14:49:00.000Z"
+    },
+    {
+      "title": "Safety and Regulation Must Lead the Way in Healthcare AI Innovation",
+      "link": "https://medcitynews.com/2026/11/safety-and-regulation-must-lead-the-way-in-healthcare-ai-innovation/",
+      "source": "MedCity News",
+      "date": "2026-11-16T14:47:00.000Z"
+    },
+    {
+      "title": "Ongoing Check-Ins Can Help More Postpartum Mothers Get the Care They Need",
+      "link": "https://medcitynews.com/2026/11/ongoing-check-ins-can-help-more-postpartum-mothers-get-the-care-they-need/",
+      "source": "MedCity News",
+      "date": "2026-11-16T14:39:00.000Z"
+    },
+    {
+      "title": "How AI is advancing diagnosis of genetic disease",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0pkdlBzeEpQMFppZ28wT1ZGcXd5Q1pIWGpMRHZYTi1JRVd5WEZWeng4NThBbk5nV0Vrd3hTcWR6SlB3ci1WVnNkbVdSRnRkU1VMMlo4cjVZcWlfR2ZHaXRHQk9RcFlmWlpMTmRGdmdCOUdzbU44VWdwSDdrN0REV1hDY0xranJo?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-16T14:21:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about GLP-1 use, Covid-19 vaccine investment returns, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/11/16/glp1-use-covid-19-vaccines-return-on-investment/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T14:17:01.000Z"
+    },
+    {
+      "title": "Democrats settle on a message: ‘Medicare for More’",
+      "link": "https://www.statnews.com/2026/11/16/health-news-democrats-settle-on-medicare-for-more-message/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T13:37:10.000Z"
+    },
+    {
+      "title": "STAT+: Helus’ psychedelic drug improved depression in study but faces safety questions",
+      "link": "https://www.statnews.com/2026/11/16/helus-psychedelics-depression-phase-3-trial/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T13:07:47.000Z"
+    },
+    {
+      "title": "STAT+: Bladder cancer immunotherapy from CG Oncology reduced risk of tumor recurrence",
+      "link": "https://www.statnews.com/2026/11/16/bladder-cancer-immunotherapy-reduced-tumor-recurrence-cg-oncology/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T13:00:00.000Z"
+    },
+    {
+      "title": "Innovative Health Tech and MedTech Grabs the Spotlight at INVEST Digital Health",
+      "link": "https://medcitynews.com/2026/11/invest-digital-health-spotlights-innovative-health-tech-and-medtech-at-invest-digital-health/",
+      "source": "MedCity News",
+      "date": "2026-11-16T12:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Venture capitalist John Doerr says AI company, named for his late brother, could help fix primary care",
+      "link": "https://www.statnews.com/2026/11/16/ai-company-tom-health-fix-primary-care-new-tool/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T11:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Versant, Lilly put $100 million behind new startup aimed at solving one of gene therapy’s thorniest issues",
+      "link": "https://www.statnews.com/2026/11/16/versant-lilly-put-100-million-behind-new-startup-aimed-at-solving-one-of-gene-therapys-thorniest-issues/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T10:00:00.000Z"
+    },
+    {
+      "title": "STAT+: With Stephen Miller as chief of staff, Kennedy’s MAHA agenda is reinvigorated",
+      "link": "https://www.statnews.com/2026/11/16/stephen-miller-chief-of-staff-boosts-power-of-kennedy-maha/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T09:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Medical school should start after students take the Step 1 exam",
+      "link": "https://www.statnews.com/2026/11/16/medical-school-step-1-exam-redesign-proposal/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T09:30:00.000Z"
+    },
+    {
+      "title": "After difficult two years, medical school group’s leadership isn’t letting its guard down post midterms",
+      "link": "https://www.statnews.com/2026/11/16/aamc-ceo-david-skorton-qa-challenges-academic-medicine/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T09:30:00.000Z"
+    },
+    {
+      "title": "BeOne, Hengrui top list of China’s most powerful drugmakers",
+      "link": "https://www.statnews.com/2026/11/16/beone-hengrui-top-list-of-chinas-most-powerful-drugmakers/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T09:30:00.000Z"
+    },
+    {
+      "title": "Opinion: STAT+: Candles and long baths can’t fix burned-out physicians",
+      "link": "https://www.statnews.com/2026/11/16/doctors-self-care-limits-literature-systems/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T09:30:00.000Z"
+    },
+    {
+      "title": "Cent",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pQ3laTjMtemJpdkNnUmx5ZnA2N2lqMmFONzZka0pnV2o0eTZxRUtLU1I2aENORmsxV3VBdE1iSHdHbE9nSHBfc05SYUNkSEc4?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-16T06:04:23.000Z"
+    },
+    {
+      "title": "Duet Secures $15M to Grow Network of Nurse Practitioner-Owned Clinics",
+      "link": "https://medcitynews.com/2026/11/duet-secures-15m-to-grow-network-of-nurse-practitioner-owned-clinics/",
+      "source": "MedCity News",
+      "date": "2026-11-16T04:43:16.000Z"
+    },
+    {
+      "title": "Fullerton Health IT breach exposes 140,000 worker records",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU05xMWs0Nlp6UVgxc05GWjk0ZlNkUUVRdHZ3VkQxY2R0TE5OVHZGLXlGbTVFc2x4clZXWHR0cEhaWnphcjRZY3E5UHFuUVZRZDRFRjlSek05MktKcFl0OGhCUGFfeHAzMFlMUFp3QU5pSy1oSmN4N0diMV9uc0VRMnBmdHlldDMtUFBwbUdHZk9ESzc2elo5QU9JaWVJelB5?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-16T01:54:32.000Z"
+    },
+    {
+      "title": "STAT+: Apple and OpenEvidence launch experimental health chat app",
+      "link": "https://www.statnews.com/2026/11/15/apple-openevidence-launch-health-chat-app-experiment-ai/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-16T01:25:43.000Z"
+    },
+    {
+      "title": "Sky Labs to bring BP ring to space",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMNTZ1ZEhNeXhUbk80LTNpTXhhRzZSR1Fhci1hWEllWE5yMjhQQzlrcXVoRExMc2h2NVpBXzc1NDhBelhMODR0RWVoN1B2MkhuU2JBZ0tMbFVzdkFFMHlhY01CVVJobUh1UVU1TmZJWlJsNDlKOXJrTg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-16T00:46:05.000Z"
+    },
+    {
+      "title": "$15M for preventive health tech in India and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMXhKTzBJNEpKcDlZS1AwMTdNRXFyajZSbmQ4UlhqOE01M1hDeTEzSmF6eTFIRVY4UW1xOVlQLW51VGlMb0RrdWQ4Zkx5NFlBdDE4N3EzQnY4NlR1N0JuMF82blJjSC15MXc0M0RYN0p2WXZWd2hkNnpQVEh6c3hZLU9zWjh5dmttc0doWnVKRFVDNVU?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-16T00:43:23.000Z"
+    },
+    {
+      "title": "autism screening",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRTzJ2blhCWDZhb1BpdENZVVJHcmt5N1lnWktPNlVkbHRDU193Z2RpZm9VbHlvOUpwNGFKbDRraFVVMDlXU3Q0V2xhbnhqaE5wbFVmMzZVbVhSTXNlUGQyUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-13T13:38:59.000Z"
+    },
+    {
+      "title": "Jonathan Bush's Zus Health scores $33M and more funding news",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXZuMmJuVjdETnBRY2JhU0JDU1V1QW5ORVdjQ2p4UG5vc1dOeHlRWnBsSzBWM285a2lFWmhCYWNrdmNzZW82WENPbzhjS3lxRHhwandqdWM0dHp4bGJXQ3pSb01PWExMR3BVNEk2emNZa3JiTl82eUwzbVlpd0xRTmFsRUVNXzV1VFAyaWVoWmp0aGliZmE3QUNn?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-11T19:53:05.000Z"
+    }
+  ]
+}
