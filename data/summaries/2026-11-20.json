@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T02:08:19.833Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 29,
+  "sources": {
+    "STAT News": 14,
+    "MedCity News": 4,
+    "MobiHealthNews": 5,
+    "Healthcare IT News": 6
+  },
+  "summary": "Major healthcare policy developments are taking shape as the new congressional session approaches. Big pharma companies are signaling a pullback from certain Chinese hospital trials amid geopolitical tensions, while lawmakers are pushing for stronger U.S. biotech competitiveness against China. The incoming Congress also faces pressure on infectious disease preparedness, with calls to restore measles elimination status after the U.S. lost that designation.\n\nPrior authorization and AI decision-making in healthcare remain contentious issues, with industry panels debating whether insurers, physicians, or AI systems should make final medical-necessity determinations. Meanwhile, the telehealth sector is rapidly expanding into peptides and specialized care, with Hims and Noom launching new programs following regulatory changes, and AI agents are being tested to streamline prior authorization processes themselves.\n\nDrug development momentum is shifting with high-profile collaborations emerging, including Merck partnering with Isomorphic Labs on AI-driven oncology drug discovery, while Sanofi won FDA approval for a rare neurological disease treatment. On the clinical evidence front, researchers are raising cautions about combining vaccines with monoclonal antibodies for malaria protection, and there's emerging debate over deprescribing practices for statins based on new trial data.",
+  "items": [
+    {
+      "title": "STAT+: Big drugmakers tell House committee they will halt clinical trials at some hospitals in China",
+      "link": "https://www.statnews.com/pharmalot/2026/11/19/china-pharma-biotech-clinical-trials-security-risk-patents-drug-development/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "title": "Who Should Make Medical-Necessity Decisions: AI, Insurers or Treating Physicians?",
+      "link": "https://medcitynews.com/2026/11/who-should-make-medical-necessity-decisions-ai-insurers-or-treating-physicians/",
+      "source": "MedCity News",
+      "date": "2026-11-19T23:44:27.000Z"
+    },
+    {
+      "title": "Opinion: The U.S. lost measles elimination status. The next Congress should help restore it",
+      "link": "https://www.statnews.com/2026/11/19/measles-elimination-status-congress-should-prioritize-restoration/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-19T22:55:19.000Z"
+    },
+    {
+      "title": "Independent Benefits Platform Leader: Market Forces Prevent Employers From Getting Best Solution",
+      "link": "https://medcitynews.com/2026/11/independent-benefits-platform-leader-market-forces-prevent-employers-from-getting-best-solution/",
+      "source": "MedCity News",
+      "date": "2026-11-19T22:44:55.000Z"
+    },
+    {
+      "title": "Caliper explores ways to increase AI transparency",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdGxCMi0xS0UzN3BScWF6WTJ3dlI1UDVfWUdhRjdUdUxuWTJuVWFsRWFHcWd0bDV6RFNZRTBGdndwZC1DbC0zS0NUdl9oOWRhMVRNSmpld3pKLXAwbmk5STBqTmJnZzlxa2ZRWk4xcXVnbVg5aTRiYlFyVXRSREJubThyd2ZTNGQ5Znpv?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-19T22:23:29.000Z"
+    },
+    {
+      "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
+      "link": "https://www.statnews.com/2026/11/19/malaria-monoclonal-antibody-l9ls-vaccine-r21-infant-study-mali/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-19T22:20:00.000Z"
+    },
+    {
+      "title": "What IHE means when it envisions a 'silent point of care'",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRG4xU1h1Vkw1c25Yb1otcGFWLTZhZTNWQ2tpUGZoV3N3N1Bfa0Y3cnlSbXFSYUJfblFrQjh2bFQ2QjVXcHAtTHl2OFR4X0Vwbk9wVWlRWEVMZ0V4QXJfazRsYW5kUHpNbmFHaThwMkw4aUU0YldldktHWW1mMURrdGZfdkVlLXJlTHVCcVY5X2xHU3M?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-19T21:43:00.000Z"
+    },
+    {
+      "title": "FDA Approval for Sanofi Drug Marks an Important First in Rare Disease",
+      "link": "https://medcitynews.com/2026/11/sanofi-gaucher-disease-type3-venglustat-infilbray-fda-approval-gd3-san/",
+      "source": "MedCity News",
+      "date": "2026-11-19T21:41:53.000Z"
+    },
+    {
+      "title": "Vera Health adds diabetes guidance to platform",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeXI5T1U3WlpEVHAwQnFad1hld21JcnItOWFiQ2d0a2FvOUNQM1hUOUtKMEFMbWppUmdNck1RWVRTYTZ5MVZRa2NNUlBmd1ZpbEV0UjFCWFZ3NlJsbGw2WEVEZ3R0LXR2SGl0UkxJUzgzUjdTUXhQZ21kMXBtN0tEMlQzb0tVUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-19T21:30:48.000Z"
+    },
+    {
+      "title": "Science Corporation garners $400M and more funding news",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXRGTmRBMFRwcllVMktoZUVMR1VWQXZkVVJXaGVfYkVVSDRkcHNLMWczVlhaTTFwbENocjRwU1Izd0s2eVdPeFZaNU1ZWFRqNFBIM0xrR3RmS3lOaVFKRV9jVTdzdmtrU25VSE5kdG9RblNkcHZjMmVFcUhqVHVKa3lZOU1DWG4tUFNrTDA0WW90Nm1v?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-19T21:01:55.000Z"
+    },
+    {
+      "title": "Tecsys",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uV25JNk1teGg3VnNFbE1BZlE4Y05GV2lVSTVoR2RjZmc2bklvU0dLdXk3RnlGU0xlcFEzSk9aTHRrOVBYYVFKUkZwMXNWdkZYM0g5b0ZicUdaVkdI?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-19T20:27:13.000Z"
+    },
+    {
+      "title": "Ensuring point-of-use architecture decisions don’t become clinical risks",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHMyVW1oeGUyNTNyZGZxMGh5Rm5nQmd2b3RRUTJVUHplMHV4QWdoZE9sUG80MkZxTGd4T3NWeHpOM24ycXY3VFZRQ21RRzZ1ZzFYY2pFVXRCeW1LRnR1d05JNEc1Mlp5ZEhIOUljODNLVkw0ZlZZamZCaWE2T2Y2S2ROUVh1WXdsUTJOZGhsVW5hZkhJZnd2NjZ3YkpmQ1ZsNW5VUHlwNk92dw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-19T20:27:06.000Z"
+    },
+    {
+      "title": "Tennr, OpenAI to test AI agents for prior authorization",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGVHSkRUSWNwMTBxUVhkZHNIYkYyYlk5b3FoSW15V1B2LUdPMlFxSnlnUTRaYkpid25aQUdvNDlRUDlvOFdXdkVENWw5Q0RPWEZwLTVxRTFzbTRNQnprTHhJZDNDTjI5Q1p6OGdDdVNKV240RDIwS0xfUGxwZ19vMGlHU1pmUlVMWHZ3?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-19T17:35:50.000Z"
+    },
+    {
+      "title": "Why ambient AI notes need more than a sign-off",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WNThSdHJ4ZExCWjZzNGRpZlh5NjN2UVVGUDQ4NDBqZ1RSb3RTSnItb21EbUs4ZTlBMk5mTUJNcXlYVzBGZ0dRNmFaZHM0d1hwTERtV1RobVBlOUVHbUFUNW51WWV6cVR0cDFNMENVX1pEaWxLT2RPVHJFMDhTUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-19T17:12:12.000Z"
+    },
+    {
+      "title": "STAT+: Lawmakers want U.S. biotech to outcompete China",
+      "link": "https://www.statnews.com/2026/11/19/biotech-news-lawmakers-want-us-biotech-to-outcompete-china/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-19T17:04:46.000Z"
+    },
+    {
+      "title": "STAT+: Peptide market poised to explode with new Hims and Noom launches",
+      "link": "https://www.statnews.com/2026/11/19/hims-noom-enter-peptide-market-mainstream-products-health-risks/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-19T16:59:47.000Z"
+    },
+    {
+      "title": "STAT+: MAHA PAC’s steakhouse spend",
+      "link": "https://www.statnews.com/2026/11/19/maha-pac-midterm-election-spending-fda-questions-after-heidi-overton/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-19T16:30:07.000Z"
+    },
+    {
+      "title": "National Academies report calls for faster decisions on publication retractions and corrections",
+      "link": "https://www.statnews.com/2026/11/19/national-academies-report-proposes-faster-research-retractions/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-19T16:00:00.000Z"
+    },
+    {
+      "title": "VA and Oracle leaders face Senate grilling on EHRM cost increases, safety issues",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkdyQUhxUHRJR0drOG1yUWpkUV9ram9ielNmVEY3SnVZV1Q3bXNoUmh1MlVtVXJMbE42VW5GV0NURjZ6NUppRTZCcUN0TXBRTDRZZzVqZlI4djJwVTdJR0J5TXVpZTZ6VWZIZ2VZZXpCdy1qMmFhcEFVVGo0dTM1VENmR2h3OFFOd0VUZWdVeU5aV1cxNWRsVWVic0FFOFRiQWpFZEVKcXdJNE0wZG1jLXBtQng?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-19T16:00:00.000Z"
+    },
+    {
+      "title": "Targeted outreach encourages patients to return for care",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORmVwTGN2bVA2X28xOXdYY0Joc2lHVm9Fdmx1U295ZHNzS2VfRlo1Wlk0UEJaM1E3TmtXS2puaG9LZlhIbTdDUXZtR1d3Z3o1Q3JmQzQtbDlGMFF4V2cwRnkxTWU1M0psVk1qUGJ0NHZ0b1M3T3RIQ3V6eEJia2pBWjlxa2ZUWlB0WWJaTjl0TQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-19T15:07:42.000Z"
+    },
+    {
+      "title": "When GLP-1 Costs Mask the Value of Care Management",
+      "link": "https://medcitynews.com/2026/11/when-glp-1-costs-mask-the-value-of-care-management/",
+      "source": "MedCity News",
+      "date": "2026-11-19T14:32:00.000Z"
+    },
+    {
+      "title": "STAT+: Epic defends competitive practices; promises AI access to records",
+      "link": "https://www.statnews.com/2026/11/19/epic-defends-competitive-practices-promises-ai-access-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-19T14:21:08.000Z"
+    },
+    {
+      "title": "Reliable predictions start with grounded AI",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQjZqN1R4SmNzSVlWYjN3OWtKdGFZYUxVSktiUmt4dXJJbjlRSGt4VnM1X2lxUUFlZUw4UTRGT3F4dWFlMmlaRkVmZ1I4MjUtZjYyOHZKTE1rWUpycTh5X2dHTnQtai15OXhPRThEeFhpOTA2NWJxdDFPVVpvVk1LS0lrWQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-19T14:16:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a Merck AI deal, China and the pharma supply chain, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/11/19/merck-isomorphic-ai-deal-china-pharmaceutical-supply-chain/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-19T13:36:33.000Z"
+    },
+    {
+      "title": "Sanders’ ‘Medicare for All’ plan accrues more liberal and moderate support in Congress",
+      "link": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-19T12:59:54.000Z"
+    },
+    {
+      "title": "STAT+: Merck, Isomorphic Labs partner to develop oncology drug candidates",
+      "link": "https://www.statnews.com/2026/11/19/merck-isomorphic-labs-partner-to-develop-oncology-drug-candidates/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-19T11:45:00.000Z"
+    },
+    {
+      "title": "STAT+: In cancer drug development, the spotlight shifts onto Erasca’s KRAS-targeted treatment",
+      "link": "https://www.statnews.com/2026/11/19/erasca-kras-targeted-treatment-new-data-pancreatic-cancer/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-19T11:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Before midterm losses, MAHA spent on itself instead of candidates",
+      "link": "https://www.statnews.com/2026/11/19/maha-pac-how-it-spent-money-insiders-candidates-nonprofit/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-19T09:30:00.000Z"
+    },
+    {
+      "title": "Opinion: STAT+: I’m a cardiologist. I’m a little puzzled about the blockbuster new study on deprescribing statins",
+      "link": "https://www.statnews.com/2026/11/19/deprescribing-statins-study-stream-trial-aha-questions/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-19T09:30:00.000Z"
+    }
+  ]
+}
