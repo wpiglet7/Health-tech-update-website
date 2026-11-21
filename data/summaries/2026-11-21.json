@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T02:01:37.232Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 26,
+  "sources": {
+    "STAT News": 13,
+    "MobiHealthNews": 6,
+    "MedCity News": 3,
+    "Healthcare IT News": 4
+  },
+  "summary": "Today's health-tech news highlights several cross-cutting challenges facing the industry. The FDA rejected Capricor's Duchenne muscular dystrophy cell therapy while researchers made progress on a potential blood test for CTE and early-stage results emerged for Alterome's KRAS cancer drug, underscoring ongoing questions about drug development timelines and efficacy standards. On the policy front, fifteen consumer advocacy groups are pushing Congress to reform drug patent laws to counter pharmaceutical companies' pricing strategies, and UnitedHealth is suing to reverse downgraded Medicare Advantage quality scores, reflecting broader tensions over healthcare costs and accountability. Interoperability and data standards continue to emerge as critical infrastructure challenges, with discussions around bridging standards gaps and managing EHR sprawl costs, while artificial intelligence is gaining attention as both a tool for drug discovery and care navigation and a concern requiring data security measures. Medicare is piloting \"food is medicine\" and lifestyle intervention programs to address chronic disease prevention, and patients seeking brain implants are organizing to gain more agency in trial design, suggesting a growing push for patient-centered approaches across the system.",
+  "items": [
+    {
+      "title": "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
+      "link": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-20T23:43:53.000Z"
+    },
+    {
+      "title": "Interoperability breaks down medical devices' vendor silos",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVnZ6bmd2QWFPaGpjdzhTTnI5WlRNamRjc0NlUjNaYkZxaW1ZQWIxU09Gd2Y5Z0F2RDQtYnQ2RXdRRFBhdUJ0aHhGdW80MHh0SmZucTVZbzd2ZURiaEc4MTBBb2xhd0lPVHBfRDdES0pzbGZTOV9hZGdOLUpFWnU0Q3EtUTRqMWxEa1piSmphVFlDNVlxdS03ZGRR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-20T22:44:15.000Z"
+    },
+    {
+      "title": "Digital Platforms Give Consumers a Map to Navigate New Ways to Access Medicines",
+      "link": "https://medcitynews.com/2026/11/digital-platforms-give-consumers-a-map-to-navigate-new-ways-to-access-medicines/",
+      "source": "MedCity News",
+      "date": "2026-11-20T22:35:06.000Z"
+    },
+    {
+      "title": "Bridging the standards gap with IHE",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56cHM3X1hva3N4Z2FtUEdMa0Q1MFE2TjdySXR0MkpVNWg0QWl6TGRKRC0zU0VINUU2RThZRk05US13MVVORVhUQ2lJc2RyMVVwUFdSWVoxZ1ZuSktIZ29VUVhuWmgyQWZNWjdiWVkybWEwMkk?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-20T22:08:00.000Z"
+    },
+    {
+      "title": "ICE detention of Princeton scientist rattles academia",
+      "link": "https://www.statnews.com/2026/11/20/princeton-researcher-eva-yi-xie-ice-detention-rattles-interational-scholars/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-20T21:19:27.000Z"
+    },
+    {
+      "title": "15 Organizations Call on Congress to Address Abuse of Drug Patent System",
+      "link": "https://medcitynews.com/2026/11/15-organizations-call-on-congress-to-address-abuse-of-drug-patent-system/",
+      "source": "MedCity News",
+      "date": "2026-11-20T21:07:04.000Z"
+    },
+    {
+      "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
+      "link": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-20T20:26:10.000Z"
+    },
+    {
+      "title": "Anthropic's record Nasdaq IPO puts AI drug discovery in the spotlight",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQlA3VzdCRlA3eWdqaXd2aktoVFV2MDZnSHhqU3h6aGI4M2V2SU4zZUtxYUFZNlJSalYtMGhfMGdxOVVGWmdiRTlPZjZLWVlLTTNONGJ1ejBuLVVIeXJjbGhSemwwRzlnY2U5S1MzOHhETzRLMGkxZGZVSG9CLUZPTnVUZ1NDUGJwMGtucHBKTDF6WVkzVUI2cGFfSnVPUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-20T19:05:15.000Z"
+    },
+    {
+      "title": "STAT+: Medicare pilot will test ‘food is medicine’ and other lifestyle programs to counter chronic diseases",
+      "link": "https://www.statnews.com/2026/11/20/kennedy-food-is-medicine-maha-elevate-pilot/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-20T19:04:04.000Z"
+    },
+    {
+      "title": "The hidden costs of EHR sprawl go far beyond licensing",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWJBZWh6RmNqSC1hLVY0MFFzVlVyNU42elhYS0JvR3YtaVRxRkpabzNweUJ0OThhMHhmb3FPcExGeVdLRHlMcTR2d2tsQlc2ZE9iN1dHTXJmd2cyMGpiazZLZTlRNktnclN2TGhyRm1CdVJranMxby1PTkhaNEFKay0ta2RGbmhrVTVpOGFR?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-20T17:35:31.000Z"
+    },
+    {
+      "title": "DiMe releases framework to guide AI investment in care navigation",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVVLNG9SOVBIQXpOT0w0LTBWbXoxV3RLU3lWYmpiUk5USlV2THVqUTFvNjJIRXBXWU9lb1dzbGxZdk41TUxRRmQycy1aR0VnRnQ2Y1VVMjhZNjJHQlhwR0EzY2NRTnYtNTh0V1h5TS1TY3JMMkhKNUgwcFo3MDlqYjBQdnJqRjN0eXBUZ3ZpMkVPdTdMSjQzeUkyYw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-20T17:12:34.000Z"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "link": "https://www.statnews.com/pharmalot/2026/11/20/up-and-down-the-ladder-latest-comings-and-goings-jobs-2/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-20T15:52:19.000Z"
+    },
+    {
+      "title": "HIMSSCast: Securing data collaboration and stopping rogue AI",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHFHcDFtV2p6M3BXa1B5SkZNUlc2OGZybnRXZGItLVRYejdTTlEzY05ubV9IMzhyZE9YTUFpMXllZ3NlNU1hRDVLVFNLd24tZ1VoOEJnSVE1anIySEVFRVlNTTZ4ZktLbEEtZ25zNkpTbFVyRFdGSnRkMk0wMW1zVFROaDlJTndMZUNoWlotM2JNSzJYQ3IwdE14c3h0QQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-20T15:40:00.000Z"
+    },
+    {
+      "title": "AI represents a healthcare lifeline for underserved patients",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV0RaMTdoZnpYd3ZJc2FvQkp1bmM2ZUphSlV6TmFoYnh1QkM2cVFJdDlHc0ZUVkx1VUhZQ3BJSG1ISEtvVE1jSElNVkZGS0JxOWFWY0kzWlVkc1JPTTJWb0ZISVRQcDN0VmxvMmhWMWg0U1RlZ0JMZkFSMXN6eHh2Nnkzc04wUlJqSzl2bHN3S2Zvd2dJa0E?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-20T15:34:12.000Z"
+    },
+    {
+      "title": "What HEDIS Can’t See in an Asthma Follow-Up Visit",
+      "link": "https://medcitynews.com/2026/11/what-hedis-cant-see-in-an-asthma-follow-up-visit/",
+      "source": "MedCity News",
+      "date": "2026-11-20T14:44:00.000Z"
+    },
+    {
+      "title": "Ongoing and persistent challenges could be addressed with AI",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWl5d0tKQXlPMDhtWlVNYURWZmtnN0otZTZXcUI4MjA1MW9GR3U1X2RFZ3NGVTR4UXZlUUhsZ09QWlMweUdrbWxNMXdWMnlQWmJRMXdHV2JPd2lXdG83UDNMTFZGc0xhMHYxemZIdndWTnZQM2dCRkRmY0owZERoVGVvMjJsTGQxYlgybXliZHNIRGtIZV9KbE1R?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-20T14:28:00.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/11/20/sanofi-eyeing-insmed-ai-speeding-drug-development/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-20T14:16:35.000Z"
+    },
+    {
+      "title": "STAT+: Early results for Alterome’s KRAS drug for pancreas, lung and colon cancer arrive",
+      "link": "https://www.statnews.com/2026/11/20/biotech-news-early-results-for-alterome-kras-drug-arrive/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-20T14:01:41.000Z"
+    },
+    {
+      "title": "Researchers explore possibility of a CTE blood test",
+      "link": "https://www.statnews.com/2026/11/20/health-news-researchers-explore-possibility-of-cte-blood-test/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-20T13:53:10.000Z"
+    },
+    {
+      "title": "Patients have little say in how brain implant trials are done. Ian Burkhart wants to change that",
+      "link": "https://www.statnews.com/2026/11/20/ian-burkhart-how-brain-implant-trials-can-serve-patients-better/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-20T09:30:00.000Z"
+    },
+    {
+      "title": "FDA’s search for a new leader, and China’s largest drugmakers",
+      "link": "https://www.statnews.com/2026/11/20/new-fda-commissioner-summit-lung-cancer-drug-readout-loud-podcast/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-20T09:30:00.000Z"
+    },
+    {
+      "title": "Opinion: More doctors should prescribe exercise after a concussion",
+      "link": "https://www.statnews.com/2026/11/20/concussion-exercise-dark-room-leddy-robert-perske-cardiology/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-20T09:30:00.000Z"
+    },
+    {
+      "title": "Opinion: More surgeons in Africa isn’t enough when only 10% are women",
+      "link": "https://www.statnews.com/2026/11/20/women-surgeon-shortage-global-cosecsa-lancet-commission-mukagaju-africa-making-of-a-surgeon/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-20T09:30:00.000Z"
+    },
+    {
+      "title": "STAT+: UnitedHealth sues to reverse downgraded Medicare Advantage quality scores",
+      "link": "https://www.statnews.com/2026/11/20/unitedhealth-cms-medicare-advantage-lawsuit-star-rating/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-20T07:23:34.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVVUNWJuWDdtaTltOThhazZmTmNZVFpNU0lOQVFlT1JOdWZPUWxnY1p1MGRmdVVQNm82WGF6bDZLeHJRUmt1X0JFS1ROU056Sm8tU3M1cVpKMTlyR1JmaFZ1RkVHVG9aVFd1RDdlc3ducHVubGNKZk9RWTVnbC1hNnh6dEx2RUhIVzNJUk4tTjdhNTdSaWRkU3hIWm1uaFlMcDVCRV9yd3hCT2lWdXE3dzBLbzdBUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-16T20:28:12.000Z"
+    },
+    {
+      "title": "autism screening",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRTzJ2blhCWDZhb1BpdENZVVJHcmt5N1lnWktPNlVkbHRDU193Z2RpZm9VbHlvOUpwNGFKbDRraFVVMDlXU3Q0V2xhbnhqaE5wbFVmMzZVbVhSTXNlUGQyUQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-13T13:38:59.000Z"
+    }
+  ]
+}
