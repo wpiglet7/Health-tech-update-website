@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T02:01:33.545Z",
+  "generatedAt": "2026-11-22T01:03:22.662Z",
   "sources": [
     {
       "id": "stat",
@@ -25,6 +25,22 @@
   "count": 120,
   "items": [
     {
+      "title": "Opinion: When should medical school start?",
+      "link": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-21T12:00:00.000Z",
+      "snippet": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more."
+    },
+    {
+      "title": "Opinion: How Kennedy and MAHA could help stop measles",
+      "link": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
+      "source": "STAT News",
+      "sourceId": "stat",
+      "date": "2026-11-21T09:30:00.000Z",
+      "snippet": "Kennedy and MAHA say they aren’t anti-vaccine. They can prove it by promoting the MMR vaccine, writes Brinda Adhikari."
+    },
+    {
       "title": "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
       "link": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
       "source": "STAT News",
@@ -37,7 +53,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVnZ6bmd2QWFPaGpjdzhTTnI5WlRNamRjc0NlUjNaYkZxaW1ZQWIxU09Gd2Y5Z0F2RDQtYnQ2RXdRRFBhdUJ0aHhGdW80MHh0SmZucTVZbzd2ZURiaEc4MTBBb2xhd0lPVHBfRDdES0pzbGZTOV9hZGdOLUpFWnU0Q3EtUTRqMWxEa1piSmphVFlDNVlxdS03ZGRR?oc=5",
       "source": "MobiHealthNews",
       "sourceId": "mobi",
-      "date": "2026-11-20T22:44:15.000Z",
+      "date": "2026-11-20T23:33:44.000Z",
       "snippet": ""
     },
     {
@@ -345,22 +361,6 @@
       "snippet": "Two telehealth giants rolled out peptide programs this week after HHS made it easier for compounding pharmacies to offer drugs like BPC-157."
     },
     {
-      "title": "STAT+: MAHA PAC’s steakhouse spend",
-      "link": "https://www.statnews.com/2026/11/19/maha-pac-midterm-election-spending-fda-questions-after-heidi-overton/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-19T16:30:07.000Z",
-      "snippet": "MAHA PAC's curious spending decisions, and a close look at what's next for the FDA."
-    },
-    {
-      "title": "National Academies report calls for faster decisions on publication retractions and corrections",
-      "link": "https://www.statnews.com/2026/11/19/national-academies-report-proposes-faster-research-retractions/?utm_campaign=rss",
-      "source": "STAT News",
-      "sourceId": "stat",
-      "date": "2026-11-19T16:00:00.000Z",
-      "snippet": "The National Academies urged the scientific community to respond more aggressively to claims of errors or manipulated data in published research"
-    },
-    {
       "title": "VA and Oracle leaders face Senate grilling on EHRM cost increases, safety issues",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkdyQUhxUHRJR0drOG1yUWpkUV9ram9ielNmVEY3SnVZV1Q3bXNoUmh1MlVtVXJMbE42VW5GV0NURjZ6NUppRTZCcUN0TXBRTDRZZzVqZlI4djJwVTdJR0J5TXVpZTZ6VWZIZ2VZZXpCdy1qMmFhcEFVVGo0dTM1VENmR2h3OFFOd0VUZWdVeU5aV1cxNWRsVWVic0FFOFRiQWpFZEVKcXdJNE0wZG1jLXBtQng?oc=5",
       "source": "Healthcare IT News",
@@ -553,6 +553,14 @@
       "snippet": ""
     },
     {
+      "title": "Virtual nursing saves Owensboro Health 1,700 hours",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUxGaG84RkVqaTc0b0NxVHpsUGJPU3JNZ0E0SWRUeXdKNzZhSDhjRW84TW9tbUFPSFZuczgtVTIzTU9jTFAxVV9FMHViMWhqbXR4X3daUkxJdmVsSkYxZDA1cEFWcnNRZ0M3d2hpUlMyX2s2WGlzcHhQbzJ1NGFqWUV2Z09TLWxwaUI2ZDBrWFE?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-11-17T17:17:39.000Z",
+      "snippet": ""
+    },
+    {
       "title": "FBI warns healthcare and other sectors of agentic AI threat",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSHNodGxTSjVYZTdkZEhKci0yYnNoTnVpdm8zd3NndkEyME9SZ19yY2lxQmY0VWw5RXhiTTJQLWxOUEJFS081b29UMmFDMGhnMjBfM05WRjFEOUNIYkpzaGZKalF0d0Eza04zYlZJZkdVZ19xQUxfbHhCb2xfWHRwZTE3eUFnUWw2RmVlY1JKM3FadkpjMExlWjVB?oc=5",
       "source": "Healthcare IT News",
@@ -649,14 +657,6 @@
       "snippet": ""
     },
     {
-      "title": "Consumer",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVVUNWJuWDdtaTltOThhazZmTmNZVFpNU0lOQVFlT1JOdWZPUWxnY1p1MGRmdVVQNm82WGF6bDZLeHJRUmt1X0JFS1ROU056Sm8tU3M1cVpKMTlyR1JmaFZ1RkVHVG9aVFd1RDdlc3ducHVubGNKZk9RWTVnbC1hNnh6dEx2RUhIVzNJUk4tTjdhNTdSaWRkU3hIWm1uaFlMcDVCRV9yd3hCT2lWdXE3dzBLbzdBUQ?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-11-16T20:28:12.000Z",
-      "snippet": ""
-    },
-    {
       "title": "J&J’s $2.2B Ollin Buyout Brings Late-Stage Eye Drug; Blackstone Deal Adds Trial Funding",
       "link": "https://medcitynews.com/2026/11/johnson-johnson-jnj-ollin-biosciences-acquisition-bispecific-antibody-vegf-ang2-wet-amd-dme/",
       "source": "MedCity News",
@@ -743,14 +743,6 @@
       "sourceId": "medcity",
       "date": "2026-11-16T12:30:00.000Z",
       "snippet": "[Sponsored] The Innovation Showcase at the Dallas conference included technology to objectively assess pain, as well as startups seeking to speed up diagnosis of endometriosis, improve the way we communicate and precision nutrition. The pos…"
-    },
-    {
-      "title": "Cent",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pQ3laTjMtemJpdkNnUmx5ZnA2N2lqMmFONzZka0pnV2o0eTZxRUtLU1I2aENORmsxV3VBdE1iSHdHbE9nSHBfc05SYUNkSEc4?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-11-16T06:04:23.000Z",
-      "snippet": ""
     },
     {
       "title": "Duet Secures $15M to Grow Network of Nurse Practitioner-Owned Clinics",
@@ -905,14 +897,6 @@
       "snippet": ""
     },
     {
-      "title": "Nanopath raises $25M to advance 15-minute vaginitis test",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnpWRTBRbjdzY1NLZ1JVWGdGTXN3V3I0N293NlhrYXdZZnExRF9EeEJtaktnc0xPc3N6bWIwN3lIUU9wa2tnYVExY1dsZElDcXcxQWJySUdnczZhcUJjdzVnYTQ4YmhtdFlaMnlqVXE5N3Q3MjIzZmc2dWdDb1Nfc2pBcEE1SFpnelBKaXZaWjRGUQ?oc=5",
-      "source": "MobiHealthNews",
-      "sourceId": "mobi",
-      "date": "2026-11-12T17:37:34.000Z",
-      "snippet": ""
-    },
-    {
       "title": "Virtual nursing takes on a bigger role in hospital care",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb2ZQRXZpYTJVa1JLOHhXSG5GOUVFZC0wR1BzNXBya09mRHR5UjBNZ2tOYWFzejA5V1h3dnZnT1FBbHFGaTNwdEVKSUxJRFhBRGhVbWNhdHdNdWN5RDk3ZUcwcEdDcFI3QXlkelpRcC11QkVVRWRteU16VEN4N09HYWs4dlRTOXphUW83WFVR?oc=5",
       "source": "Healthcare IT News",
@@ -953,6 +937,14 @@
       "snippet": ""
     },
     {
+      "title": "Nanopath raises $25M to advance 15-minute vaginitis test",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnpWRTBRbjdzY1NLZ1JVWGdGTXN3V3I0N293NlhrYXdZZnExRF9EeEJtaktnc0xPc3N6bWIwN3lIUU9wa2tnYVExY1dsZElDcXcxQWJySUdnczZhcUJjdzVnYTQ4YmhtdFlaMnlqVXE5N3Q3MjIzZmc2dWdDb1Nfc2pBcEE1SFpnelBKaXZaWjRGUQ?oc=5",
+      "source": "MobiHealthNews",
+      "sourceId": "mobi",
+      "date": "2026-11-12T08:00:00.000Z",
+      "snippet": ""
+    },
+    {
       "title": "Wearable patch stays stable while tracking sleep apnoea",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSnBTdm5wLThxMnZPVmx2VjAyLTFpM3c5bFVFUTdUcl96cGR2VFdST0l2SFJVOVRpcHpJOUhkaXJSaEdSZUtUc2FORGt6Z3pWZHIwLUxyUnRiTFBlU2hEbUpsUVdITlhBZ0RzOGM0cUEyNW1uZmNOSVJFXzJ0Q3l4SXRwNE5CR0JHX1pCN1lCeklJemJCSE91VEZWT3E?oc=5",
       "source": "MobiHealthNews",
@@ -982,6 +974,14 @@
       "source": "MobiHealthNews",
       "sourceId": "mobi",
       "date": "2026-11-11T23:32:12.000Z",
+      "snippet": ""
+    },
+    {
+      "title": "90% AI use target at Tainan Municipal Hospital",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTlgwbWt4NWNwWjJHVGZtMTlRSzZ4b0R2SXRnUUJtUGhpeVFfSVNieVk1XzM1YlZnYXNSN1VhczJScTlvOEtUNGtiU05QSzV6cXpFT2Z4cXc3VGlwTnJCMGJOdzZkUlFWLUczeHZ1NkxXU0Q5NFVoVkRXeV95TkJXX1QzZFZ2Y1prSXlZUjQwNA?oc=5",
+      "source": "Healthcare IT News",
+      "sourceId": "hitn",
+      "date": "2026-11-11T21:31:00.000Z",
       "snippet": ""
     }
   ]
