@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T05:11:22.696Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 33,
+  "sources": {
+    "STAT News": 12,
+    "MobiHealthNews": 7,
+    "MedCity News": 7,
+    "Healthcare IT News": 7
+  },
+  "summary": "Medicare's drug price negotiation program is delivering substantial savings, with the Trump administration projecting $9.2 billion in savings for 2027, while CMS is simultaneously boosting incentives for Medicare Accountable Care Organizations following record 2025 savings and proposing changes to Medicare Advantage Star Ratings and supplemental benefits. The biotech sector is showing momentum across multiple therapeutic areas, with FDA approvals for first-in-class treatments including BridgeBio's limb-girdle muscular dystrophy drug and Beren's Niemann-Pick disease therapy, alongside advancing clinical programs in eczema (Kymera's Dupixent competitor), CAR-T cell therapies for multiple myeloma, and cancer immunotherapy candidates from Genmab. Healthcare delivery organizations are increasingly investing in AI-driven solutions and virtual care models, though experts caution that market valuations for health AI companies often diverge significantly from actual clinical value, while payers remain skeptical of digital health investments made attractive through venture capital alone rather than proven health outcomes.",
+  "items": [
+    {
+      "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
+      "link": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-24T00:19:48.000Z"
+    },
+    {
+      "title": "AI tools can provide new paths to care",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5udUc2YUhvSXUySzBRY19SbTRWQU92SDZWdWJCTXQ0UnBTbUotME1MUU1odm0tOG5uVTdjSWV6aERnQUp3SGxUbjhZWUJkbWcyVVRmRkZfY3BTUnJMQ0x2RUhMRzc3OGxDY2VsTnQ3RkJRRkplNzRwR0pkTGw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-23T23:35:04.000Z"
+    },
+    {
+      "title": "CMS’ MA Proposed Rule: 5 Things to Know",
+      "link": "https://medcitynews.com/2026/11/cms-ma-proposed-rule-5-things-to-know/",
+      "source": "MedCity News",
+      "date": "2026-11-23T22:31:11.000Z"
+    },
+    {
+      "title": "These 3 AI use cases are assisted care priorities for UCSD",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeDZPQmo0NkFETXBBN2dGTG1Pa1l5Y09qMTZnTmVVWTZ1SkI5UHZ6UzNIeEpRaDdwdXJGT1gzWWNVSmdVVFFZYlRiREFTOGRZajVMbEdwcndvZ0RRUkxNQ1d4aW9NVTRLeGJyNnZHTzdRSE02eVNucWlGNU5iNmJjWkRhcEdrdE9kYk03M1JELVowSWJpeGRCbw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-23T22:03:00.000Z"
+    },
+    {
+      "title": "CMS Boosts Medicare ACO Incentives for 2027 After Record Savings in 2025",
+      "link": "https://medcitynews.com/2026/11/cms-boosts-medicare-aco-incentives-for-2027-after-record-savings-in-2025/",
+      "source": "MedCity News",
+      "date": "2026-11-23T21:45:06.000Z"
+    },
+    {
+      "title": "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
+      "link": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-23T21:23:42.000Z"
+    },
+    {
+      "title": "Paradromics partners with NVIDIA on brain interfaces",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTF8tWFh5SEZLbmpCcFp3REQ0a0drQjlBMUdwbnVGSnA0N2dRQzFiTDJXczdaYktGWktPOFA4MlRBM0tzblVqcUZadEkwRUtGdEd4TWZ4SFRnS0s0aTlZWnZvOURTMnA3RkszaDVQS19ObXZfM19kTW9JdlptSktlcFR5YklYc2s?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-23T21:20:09.000Z"
+    },
+    {
+      "title": "The Future of AI in Nursing Must Begin with the Outcomes We Intend to Achieve",
+      "link": "https://medcitynews.com/2026/11/the-future-of-ai-in-nursing-must-begin-with-the-outcomes-we-intend-to-achieve/",
+      "source": "MedCity News",
+      "date": "2026-11-23T21:13:25.000Z"
+    },
+    {
+      "title": "Neuralink secures U.S. patent for BCI that uses living neurons",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2gwZjJVcGRJSm9yaHhfUWJXMURiY1k2a1NmVDBUR2VSWWJMTzRHQUdSbDJGaU9LYmZsbmJCLVZGcGFCQnBkd3Zfa244aW5SamRFQlpDYWFHZER3LWlLUlNNVzZyVEc5VkxOWHgtNFlOSmNucGxJbjEtbjI2c1hlY0FVZm44LVBnNElGOHVaSlM?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-23T18:47:59.000Z"
+    },
+    {
+      "title": "Making virtual behavioral health part of everyday care",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdVpHZjUyN3VVdU53akU5bzlmUzBCenUyOTc1VDVYR19FeWcwR2xFZFNLSVNwOFM0LXBRWWFQWS1sYkdEaWFWQmtBS1FXV2FTai1Ua0pSZDBNaHpOQmNLSHMyV0V1c1V3WDctdDdqRk9ZYkN3Y3pXR2JmdW5oUk1QYm1MeEhrXzZmalhGdkYxdmJoMlE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-23T17:13:16.000Z"
+    },
+    {
+      "title": "AHA, West Health team up with BD to drive hospital innovation",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQekR3RnU3aXBQRlVzdTBaWHdtcUtFaFdLUV9YS3ZPallsTDlCQkxnOF9oZng5TElDSVRMRU94RFozTjNXa1NWZVJBQkFYWVQ4VlFGY1BTa1Q2Q2RHOU55TXVFSzBRYnljWEtLaGQ5M1hjelhNRE9TbVdOY2s2WGxYajI4Y0NVVm1MV2lLMDdaVTk?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-23T16:30:00.000Z"
+    },
+    {
+      "title": "Advocates are central to mental health care",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRWZwLXplcWNDZWY2eURORW1Lb0lFSGJwQWVJcnZlT2dBZEM5U2QteTFaV2d5aVp0eE1ZeHVXNS1MSWgzX21Yck96NlhCblZxU0ptQXpIXzB0M00yMGdDdEM5eHNDM0tQeFE4Z0pCSnZ1cmRMZFd1RGZBdlBOSzFfS042aw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-23T15:30:56.000Z"
+    },
+    {
+      "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
+      "link": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-23T14:43:21.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-23T14:38:08.000Z"
+    },
+    {
+      "title": "Your Series B Proved Investors Believe You — It Won’t Prove Anything to a Payer",
+      "link": "https://medcitynews.com/2026/11/your-series-b-proved-investors-believe-you-it-wont-prove-anything-to-a-payer/",
+      "source": "MedCity News",
+      "date": "2026-11-23T14:22:00.000Z"
+    },
+    {
+      "title": "How Can You Capture More of the Revenue You’ve Already Earned?",
+      "link": "https://medcitynews.com/2026/11/how-can-specialty-practices-capture-more-revenue/",
+      "source": "MedCity News",
+      "date": "2026-11-23T14:16:09.000Z"
+    },
+    {
+      "title": "Open communication is a must for informed consent on meds",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdXFmR0NVR05XV1U1RDIwMmZ0M1pTaU5HajRZVFN0em8zVUtjX3ZQV0hSN1AwZER1U0FvbDVCcS1LSHJIU2pIOFNsWXN6R2Q1b2pDcGRSdFd5QnEtVzR2a3FIRUpOdm82aWRwT09lbXFySGw0dVdMQ3A3Yi1QN2ZwZ2Fabk9KMmk5Z283Uw?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-23T14:12:00.000Z"
+    },
+    {
+      "title": "Finding Focus in the Noise: Key Opportunities and Risks of AI’s Increasing Role in Healthcare",
+      "link": "https://medcitynews.com/2026/11/finding-focus-in-the-noise-key-opportunities-and-risks-of-ais-increasing-role-in-healthcare/",
+      "source": "MedCity News",
+      "date": "2026-11-23T14:09:00.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yVDFJeEF5eW8tcDJlRXpnVkJZVFVpZHpZQnNDNThyeG5mRVp1cFM4SUt3WVpaVDB2YXdkZHZYcTVyV3VrRlhPaW9Cb0hRNUJzSjllU2RKM01ES3FPSk82UXNZNTBtZ1RaZmtz?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-23T13:36:48.000Z"
+    },
+    {
+      "title": "At first preventive services panel meeting in more than a year, votes are cast in private",
+      "link": "https://www.statnews.com/2026/11/23/health-news-preventive-services-panel-votes-cast-in-private/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-23T13:04:19.000Z"
+    },
+    {
+      "title": "Exclusive: Apricity raises $16.1M for ultrasound robotics",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZFdKSkFCSVZLTGVtOXhWRmZBY3V6c1J2ZFZFbUUzeFR3RGR3SEt1S1U2bGp5OTFfZVVHYU1GTkNqcS1lYzFqa3dCTzNGZ081S1luT1dRWExyUFFjc0RaR1lZOVFTdldBWjM0M09rVnZiMDhkd1JuM2pHcEJTQ2I2TnFJRTFBeXlSYXJLWG01aw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-23T13:00:00.000Z"
+    },
+    {
+      "title": "STAT+: Invivyd reports positive results in Sisyphean Covid antibody quest",
+      "link": "https://www.statnews.com/2026/11/23/invivyd-covid-monoclonal-antibody-declaration-trial-vyd2311/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-23T12:01:00.000Z"
+    },
+    {
+      "title": "STAT+: Kymera Therapeutics reports mid-stage eczema trial success for would-be Dupixent rival",
+      "link": "https://www.statnews.com/2026/11/23/kymera-therapeutics-eczema-trial-success-potential-dupixent-rival/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-23T12:00:00.000Z"
+    },
+    {
+      "title": "STAT+: New biotech aims to develop next generation CAR-T for multiple myeloma",
+      "link": "https://www.statnews.com/2026/11/23/caronilex-dual-targeting-car-t-overcomes-myeloma-resistance/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-23T09:30:00.000Z"
+    },
+    {
+      "title": "Opinion: If the AI bubble bursts, it could create a serious problem for health care",
+      "link": "https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-23T09:30:00.000Z"
+    },
+    {
+      "title": "STAT+: A string of wins with cancer drugs sets Genmab up for its next chapter",
+      "link": "https://www.statnews.com/2026/11/23/genmab-cancer-drugs-oncology-clinical-trials/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-23T09:30:00.000Z"
+    },
+    {
+      "title": "Opinion: A Chinese research entity FOIA’d my scientific work. I had to give it to them",
+      "link": "https://www.statnews.com/2026/11/23/foia-scientific-research-china-legal-loophole/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-23T09:30:00.000Z"
+    },
+    {
+      "title": "As diabetes association’s turmoil continues, what does it mean for patients?",
+      "link": "https://www.statnews.com/2026/11/23/ada-convention-fallout-will-turmoil-impact-patients-research/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-23T09:30:00.000Z"
+    },
+    {
+      "title": "How Biotech Upstart Beren Turned a Pharma Failure Into a First-in-Class FDA Approval",
+      "link": "https://medcitynews.com/2026/11/beren-therapeutics-fda-approval-niemann-pick-type-c-lembaz-adrabetadex-cyclodextrin-npc-pbc/",
+      "source": "MedCity News",
+      "date": "2026-11-23T01:38:26.000Z"
+    },
+    {
+      "title": "How to improve precision medicine with AI",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DdG5wcmlsOEtCMm5rQkN5VWNJSk1YdkR5X0Y3MzI5Sk5MWVIxQUdLZG5FVVhnMm5BR0JXUGFfNjBsTWsxOWJZVEdmQVQ0Qzh4b3FaNXZrM2JhakJjbjVvX01yTkVyWjhtZGQ0a0I1eGRUdm8tMkc3R2F0d0k?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-18T14:00:00.000Z"
+    },
+    {
+      "title": "Virtual nursing saves Owensboro Health 1,700 hours",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUxGaG84RkVqaTc0b0NxVHpsUGJPU3JNZ0E0SWRUeXdKNzZhSDhjRW84TW9tbUFPSFZuczgtVTIzTU9jTFAxVV9FMHViMWhqbXR4X3daUkxJdmVsSkYxZDA1cEFWcnNRZ0M3d2hpUlMyX2s2WGlzcHhQbzJ1NGFqWUV2Z09TLWxwaUI2ZDBrWFE?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-17T17:17:39.000Z"
+    },
+    {
+      "title": "Exclusive: AstraNu raises $3.5M for chip-scale optical imaging technology",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHFadUN6SjNVdkNoYUVIX0prbG9TOWJWdFdXUGQ0elNDZ3BfUGRldGN4cGxlU2JnTUtEUm12eDFpYnFRcEV2Y3EzV1lxU2EzMGppTnRGM29Kdk9NYVYzT3JFQm5WT3RSNEcyODZOd1VOTEFMamtpaUc5NzExUGdydUc3U1hyeFZoSlhxMU04OWxTcEo4aEY4OVJjallYVFluQ1lFZw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-17T10:00:00.000Z"
+    },
+    {
+      "title": "Mayo Clinic names radiologist and AI leader as new CEO",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3c3V1BHNURxSHR5Z2lwbkZZVDNaSmp5MlEydWFncThxR2c3bzdxcW15Q0pRUnd0dU5McmdzOW1HZTRkU0pxTWl5MVlJaWZ5VEpvQjRvUk42NGlYaFA4M3Z3MkIxamxLcVdHTXdDQTJLdlZUakQ5cEJGVkNkQ1FpZG5Gcl9sckFqSndmOFdOM1ZrYWRDcjFF?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-16T16:30:00.000Z"
+    }
+  ]
+}
