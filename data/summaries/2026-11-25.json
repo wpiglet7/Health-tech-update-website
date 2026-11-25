@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T04:00:25.059Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 27,
+  "sources": {
+    "Healthcare IT News": 6,
+    "MedCity News": 5,
+    "MobiHealthNews": 5,
+    "STAT News": 11
+  },
+  "summary": "Today's health-tech news reflects several significant trends shaping the sector. AI continues driving rapid adoption across healthcare, particularly in radiology and stroke care, while the RSNA conference underscores ongoing debates about whether AI-drafted reports genuinely improve patient outcomes. Policy developments are also moving quickly, with South Korea launching a public healthcare AI network and the FDA taking rare enforcement action against drugmakers for failing to report clinical trial results, signaling renewed regulatory scrutiny. On the commercial front, Sanofi's $41 billion acquisition of Insmed marks the largest biopharma deal in years, and Roche's breast cancer pill secured its second FDA clearance in a week, while smaller innovations like closed small language models are emerging to reduce AI costs and risks. Meanwhile, workflow and implementation challenges remain critical—Houston Methodist's rural remote monitoring expansion highlights that technology adoption requires careful program design, and urgent care centers are increasingly being equipped with mental health screening tools to route patients appropriately. Finally, consumer behavior is shifting notably, with menopause hormone therapy prescriptions up 141 percent year-over-year and women's brain health emerging as a market projected to reach $210 billion by 2030.",
+  "items": [
+    {
+      "title": "Public Healthcare AI Network launched in South Korea",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUkI5Y01mVzgta1N5OHo1T1VVc0ZKM044YnVPWmJfUnBxQURhdTFnbHZDYzNaTjhUNE1yZW5kUDF0RTJ4dlBMZFNJNE5xV1BTQ0ctWGdVRmo2dGhOdEtPQ29aNm4zMXAybl9xQ3FGa1N5T0g0aUZfeTFfb3JDTEc2TWJFM3hEczBfY0hLUjVOMU1LUnczcVhB?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-25T00:26:40.000Z"
+    },
+    {
+      "title": "How online prescribing platforms shape clinical decisions",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdm1SNFlMYkFvWTRLcVg5dFdnLVllNDAwOGVHelRSOG5sWVpkeUhxdlRaenAzRXA2TkhFVjFzUWVSUlVkeXhmZnE0aEVjUWR2SlBHMk4yYlk3SkpOUm5iOVQxNkY3c2I4Uy1lR0w1aVMteHl3M0hOYVJMR3hsR2FMc3VBeDd0UmFLV1dzSHNoVkVHUTFYdGhaZ2JrTkRERDRN?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-25T00:19:43.000Z"
+    },
+    {
+      "title": "Houston Methodist’s Rural Remote Monitoring Expansion Shows Why Workflow is Critical",
+      "link": "https://medcitynews.com/2026/11/houston-methodists-rural-remote-monitoring-expansion-shows-why-workflow-is-critical/",
+      "source": "MedCity News",
+      "date": "2026-11-24T23:32:07.000Z"
+    },
+    {
+      "title": "Radiology leads healthcare's AI adoption",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRzVmaWJXb204S2FRN0Q5ZEpqZW5Ba09HN09aM3BRM3RTX0dVemc1aHBLMWpSSFdwbmt0aUJsdVY4R2pYLVhvemJGMEllZzdwc1dLZk91bDRuZ2ZzUS0tV2lpOU5FUm56Vk5KY2U4NUQzSWJmNUxpSnI2OVA4UE95QkR3?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-24T22:02:15.000Z"
+    },
+    {
+      "title": "What One Women’s Health Advocate Is Watching After the Midterms",
+      "link": "https://medcitynews.com/2026/11/what-one-womens-health-advocate-is-watching-after-the-midterms/",
+      "source": "MedCity News",
+      "date": "2026-11-24T21:39:45.000Z"
+    },
+    {
+      "title": "Pushing for more actionable interoperability at IHE",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmpEbjZ6Vy1SOXpLYnA4ZTY2QXcyQXJhVHQtdVI1MXpPcWxXeW9MR1dJcEFBb1RpUFIzRTlVNU1Bb0xuUFhZVWloTlU5U0pEdkdfV2RRS0tGeXJlVlJxZDVNSGJwcjJvaFRRSXRWU1dHdzEyNGVrSDJBN1BPZnIxZ0wwVGl6VkpqakVV?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-24T21:23:00.000Z"
+    },
+    {
+      "title": "STAT+: RFK Jr. spills his calendar into public, but leaves much to the imagination",
+      "link": "https://www.statnews.com/2026/11/24/rfk-jr-calendar-hhs-records-rollout/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-24T19:30:29.000Z"
+    },
+    {
+      "title": "What comes next for telemedicine in 2027?",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kaWlLUk5mcmIxbkVsN1FiNmJRNVdoYVhwMUMxb25tZkg3NzdtRXp1dHVFenBRYmNwUlBfeVR6MFFpdW1mUDUzM204LVJkSng1OHY5WnN4UjJxTHZiUnVOWVZfUWFWQkFqMGVUeEprS2NkQWxrNU1RT1F0QQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-24T17:34:05.000Z"
+    },
+    {
+      "title": "Leash Biosciences raises $11M to train AI for drug discovery",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZTYyWnk4eG5fYk9KOThibEdOeVJjdHBaVlRudUlWS3dZN2J4Y2h2NmtoQzJuMm16OFFRWnlDbjhPOENfQVRiR29GVXVmN0x2NGRLUmpScERUTlFHT1o1eEZ2WFQwYlQtQW00N0dSdFNjaVlWM2tvNUxHQXA4YWdodElvaTZqZWktcUxQczFzWjk1QQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-24T16:52:54.000Z"
+    },
+    {
+      "title": "ATA Action opposes Ohio bill that would create 'care cliff' for those in OUD treatment",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVi1tTXI0ZTNod1JjSGVORDE5UjlXa3pReGFYS0NBcGZWeWlnWWRHSDN1T0VRclJpMHlXR29OQnktWGI0cFlRbXdWNDdocXVYakZwT3duQ21xQlVtbHhQZTgyZmhhZ3RGa01PNVRUb0hPbndncGJBZThHVThnbXpxb1FzaTBHTEllTTE1dXV6U2dmWTNkOTNDTlpmeThEWE9ONVBpdGZrSDJHTXJEWVVv?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-24T16:30:00.000Z"
+    },
+    {
+      "title": "Women's brain health market could reach $210B by 2030",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVmQtRWlZX1docHFJb3ZMcDBnU1BzSHlXLVRrNlh2Nno5X3dadURIVHdDUVp0YnFFSndUdkxjbjNnWnhQLURHLWFmazZ2cjlFendSeGI5THdUQ2VsdUFfbmMtY3owdW5saFd6blV3UzV6OFFsUWlRcGpTWXJSZGF4ekI2ZnhTcEtNMFFabw?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-24T15:07:16.000Z"
+    },
+    {
+      "title": "Closed small language models reduce AI risks and costs",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTnljeWg2T3F4YVl3QnN5eUJMX2J6QVNuWkhoSnR4S2l2NEVGSm1fYlFxUWZVdC01VDF5NWs2aDVXbC1PNFpHdW55MW5LaHh4MzlsTWpDZkwySnQ0cGdsaWlfb2hoUm1vTG1VSmVRZTFQM3FYQXhnX3VZTzlrb0R4dU45VHF0eGhVc0JkVUNGQW9fenBQWHc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-24T15:01:20.000Z"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-24T14:27:36.000Z"
+    },
+    {
+      "title": "STAT+: Roche’s potential breast cancer blockbuster drug wins second FDA nod",
+      "link": "https://www.statnews.com/2026/11/24/biotech-news-roche-potential-breast-cancer-blockbluster-drug-wins-second-fda-nod/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-24T14:26:07.000Z"
+    },
+    {
+      "title": "Learn about the five key benefits of SLMs",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxUzhHZGVQcWNYZldqMG9LSXFnTzYwMy1VeENQQnlQaHlOMjA5WEhudlRWV2tXRHh0Z1ZVUEVnQjhJR3NXaFZxQS1Xc0gxd1gyandESGhiM0xJRGUxTFRiYlRaelVyUjB1TWFHRk9Mak5fcVc3aERDaDZPLUpDUQ?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-24T14:24:00.000Z"
+    },
+    {
+      "title": "Urgent Care’s Expanding Role in Identifying Mental Health Crises",
+      "link": "https://medcitynews.com/2026/11/urgent-cares-expanding-role-in-identifying-mental-health-crises/",
+      "source": "MedCity News",
+      "date": "2026-11-24T14:20:00.000Z"
+    },
+    {
+      "title": "STAT+: Alaskan hospitals use AI to improve stroke care, peptides go mainstream, and RSNA 2026",
+      "link": "https://www.statnews.com/2026/11/24/alaskan-hospitals-using-ai-rsna-2026-peptides-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-24T14:19:30.000Z"
+    },
+    {
+      "title": "Data Quality in Practice: The One Question Worth Remembering",
+      "link": "https://medcitynews.com/2026/11/data-quality-in-practice-the-one-question-worth-remembering/",
+      "source": "MedCity News",
+      "date": "2026-11-24T14:19:00.000Z"
+    },
+    {
+      "title": "Menopause hormone therapy med popularity increases 141% compared to previous years",
+      "link": "https://www.statnews.com/2026/11/24/health-news-menopause-hormone-therapy-med-popularity-increases-141-percent/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-24T14:15:03.000Z"
+    },
+    {
+      "title": "In Global Development, the Highest-Return Investments are Low-Cost and Begin at Birth",
+      "link": "https://medcitynews.com/2026/11/in-global-development-the-highest-return-investments-are-low-cost-and-begin-at-birth/",
+      "source": "MedCity News",
+      "date": "2026-11-24T14:04:00.000Z"
+    },
+    {
+      "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
+      "link": "https://www.statnews.com/pharmalot/2026/11/24/fda-cites-two-drugmakers-for-failing-to-report-clinical-trial-results/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-24T13:39:31.000Z"
+    },
+    {
+      "title": "Opinion: Why medical students should keep going to class",
+      "link": "https://www.statnews.com/2026/11/24/medical-school-class-attendance-why-i-keep-going/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-24T09:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Genomic testing is too fragmented. Instead, we should test once and evaluate often",
+      "link": "https://www.statnews.com/2026/11/24/genomic-testing-sequenced-once-tested-often/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-24T09:30:00.000Z"
+    },
+    {
+      "title": "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
+      "link": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-24T09:30:00.000Z"
+    },
+    {
+      "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
+      "link": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-24T09:30:00.000Z"
+    },
+    {
+      "title": "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
+      "link": "https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-24T07:54:44.000Z"
+    },
+    {
+      "title": "Consumer",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYklhREdFRzNVN1JOTWVHbk1qZW45aEY5QXRvUE81SFBHaDlxSnN4bWRvMnlVWDdpVXhHZ1dSSDY3VGFMRk9UX1BlVHZ3aFl3UldEeGRFOEFHdWdzZ2hVX291NUp4NWo0MlQ2cHR4OWdpS3JpOUJhZU14TDNaTmd3WWVUWTBwc0JpSVU0c2FBQjA2cnJuMVR1U181OW0tWG1xeE1jU2ZqTXU3YXZCZlpObFhHazRHUFpTV2FOTHJScTNWdUxGcDBRMlM3YnJSNGNYSmc?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-24T00:50:27.000Z"
+    }
+  ]
+}
