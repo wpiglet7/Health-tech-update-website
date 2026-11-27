@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T03:32:46.520Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 40,
+  "sources": {
+    "STAT News": 2,
+    "MedCity News": 30,
+    "MobiHealthNews": 5,
+    "Healthcare IT News": 3
+  },
+  "summary": "Today's health-tech headlines reveal several key trends shaping the industry. First, artificial intelligence is deeply integrating into clinical workflows, with health systems reporting significant operational gains—Viz.ai's partnership with Wolters Kluwer to embed medical evidence into AI platforms and MIMIT Health's $2 million in annual savings exemplify this shift toward AI tools that fit existing provider routines. Second, the financial pressures facing healthcare are prompting structural responses: CMS is boosting Medicare ACO incentives after record 2025 savings, while payers increasingly scrutinize digital health companies' outcomes rather than investor confidence alone. Third, rare disease treatments are advancing on multiple fronts, from biotech breakthroughs like Beren's first-in-class Niemann-Pick therapy and Sanofi's Gaucher disease treatment to new delivery mechanisms through companies like Marrow Therapeutics, alongside broader efforts to widen clinical trial access beyond academic centers. Meanwhile, operational challenges persist in primary care access and staff retention, though targeted solutions like nurse orientation programs are demonstrating measurable cost benefits. Finally, emerging consumer health trends include employer-sponsored GLP-1 medication programs through Teladoc and longevity-focused platforms like Hone Health's $228 million funding round, reflecting growing market demand for preventive and weight management services.",
+  "items": [
+    {
+      "title": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
+      "link": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-26T19:00:00.000Z"
+    },
+    {
+      "title": "STAT+: The grueling struggle to find a primary care doctor in the ‘medical capital’ of America",
+      "link": "https://www.statnews.com/2026/11/26/primary-care-appointment-times-doctor-shortage/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-26T12:00:00.000Z"
+    },
+    {
+      "title": "Healthcare’s Real Inflation Problem Isn’t on the Price Tag",
+      "link": "https://medcitynews.com/2026/11/healthcares-real-inflation-problem-isnt-on-the-price-tag/",
+      "source": "MedCity News",
+      "date": "2026-11-25T14:47:00.000Z"
+    },
+    {
+      "title": "Houston Methodist’s Rural Remote Monitoring Expansion Shows Why Workflow is Critical",
+      "link": "https://medcitynews.com/2026/11/houston-methodists-rural-remote-monitoring-expansion-shows-why-workflow-is-critical/",
+      "source": "MedCity News",
+      "date": "2026-11-24T23:32:07.000Z"
+    },
+    {
+      "title": "What One Women’s Health Advocate Is Watching After the Midterms",
+      "link": "https://medcitynews.com/2026/11/what-one-womens-health-advocate-is-watching-after-the-midterms/",
+      "source": "MedCity News",
+      "date": "2026-11-24T21:39:45.000Z"
+    },
+    {
+      "title": "Urgent Care’s Expanding Role in Identifying Mental Health Crises",
+      "link": "https://medcitynews.com/2026/11/urgent-cares-expanding-role-in-identifying-mental-health-crises/",
+      "source": "MedCity News",
+      "date": "2026-11-24T14:20:00.000Z"
+    },
+    {
+      "title": "Data Quality in Practice: The One Question Worth Remembering",
+      "link": "https://medcitynews.com/2026/11/data-quality-in-practice-the-one-question-worth-remembering/",
+      "source": "MedCity News",
+      "date": "2026-11-24T14:19:00.000Z"
+    },
+    {
+      "title": "In Global Development, the Highest-Return Investments are Low-Cost and Begin at Birth",
+      "link": "https://medcitynews.com/2026/11/in-global-development-the-highest-return-investments-are-low-cost-and-begin-at-birth/",
+      "source": "MedCity News",
+      "date": "2026-11-24T14:04:00.000Z"
+    },
+    {
+      "title": "CMS’ MA Proposed Rule: 5 Things to Know",
+      "link": "https://medcitynews.com/2026/11/cms-ma-proposed-rule-5-things-to-know/",
+      "source": "MedCity News",
+      "date": "2026-11-23T22:31:11.000Z"
+    },
+    {
+      "title": "CMS Boosts Medicare ACO Incentives for 2027 After Record Savings in 2025",
+      "link": "https://medcitynews.com/2026/11/cms-boosts-medicare-aco-incentives-for-2027-after-record-savings-in-2025/",
+      "source": "MedCity News",
+      "date": "2026-11-23T21:45:06.000Z"
+    },
+    {
+      "title": "The Future of AI in Nursing Must Begin with the Outcomes We Intend to Achieve",
+      "link": "https://medcitynews.com/2026/11/the-future-of-ai-in-nursing-must-begin-with-the-outcomes-we-intend-to-achieve/",
+      "source": "MedCity News",
+      "date": "2026-11-23T21:13:25.000Z"
+    },
+    {
+      "title": "Your Series B Proved Investors Believe You — It Won’t Prove Anything to a Payer",
+      "link": "https://medcitynews.com/2026/11/your-series-b-proved-investors-believe-you-it-wont-prove-anything-to-a-payer/",
+      "source": "MedCity News",
+      "date": "2026-11-23T14:22:00.000Z"
+    },
+    {
+      "title": "How Can You Capture More of the Revenue You’ve Already Earned?",
+      "link": "https://medcitynews.com/2026/11/how-can-specialty-practices-capture-more-revenue/",
+      "source": "MedCity News",
+      "date": "2026-11-23T14:16:09.000Z"
+    },
+    {
+      "title": "Finding Focus in the Noise: Key Opportunities and Risks of AI’s Increasing Role in Healthcare",
+      "link": "https://medcitynews.com/2026/11/finding-focus-in-the-noise-key-opportunities-and-risks-of-ais-increasing-role-in-healthcare/",
+      "source": "MedCity News",
+      "date": "2026-11-23T14:09:00.000Z"
+    },
+    {
+      "title": "How Biotech Upstart Beren Turned a Pharma Failure Into a First-in-Class FDA Approval",
+      "link": "https://medcitynews.com/2026/11/beren-therapeutics-fda-approval-niemann-pick-type-c-lembaz-adrabetadex-cyclodextrin-npc-pbc/",
+      "source": "MedCity News",
+      "date": "2026-11-23T01:38:26.000Z"
+    },
+    {
+      "title": "7 HLTH 2026 Announcements You Don’t Want to Miss",
+      "link": "https://medcitynews.com/2026/11/7-hlth-2026-announcements-you-dont-want-to-miss/",
+      "source": "MedCity News",
+      "date": "2026-11-23T00:12:13.000Z"
+    },
+    {
+      "title": "Orientation Solution Supports New Nurses, Saves Millions at Maryland’s Largest Healthcare System",
+      "link": "https://medcitynews.com/2026/11/orientation-solution-supports-new-nurses-saves-millions-at-marylands-largest-healthcare-system/",
+      "source": "MedCity News",
+      "date": "2026-11-22T15:00:00.000Z"
+    },
+    {
+      "title": "When Practicing Clinicians Help Write the Protocol, More Patients Get Access To Novel Therapies",
+      "link": "https://medcitynews.com/2026/11/when-practicing-clinicians-help-write-the-protocol-more-patients-get-access-to-novel-therapies/",
+      "source": "MedCity News",
+      "date": "2026-11-22T14:25:00.000Z"
+    },
+    {
+      "title": "Digital Platforms Give Consumers a Map to Navigate New Ways to Access Medicines",
+      "link": "https://medcitynews.com/2026/11/digital-platforms-give-consumers-a-map-to-navigate-new-ways-to-access-medicines/",
+      "source": "MedCity News",
+      "date": "2026-11-20T22:35:06.000Z"
+    },
+    {
+      "title": "15 Organizations Call on Congress to Address Abuse of Drug Patent System",
+      "link": "https://medcitynews.com/2026/11/15-organizations-call-on-congress-to-address-abuse-of-drug-patent-system/",
+      "source": "MedCity News",
+      "date": "2026-11-20T21:07:04.000Z"
+    },
+    {
+      "title": "What HEDIS Can’t See in an Asthma Follow-Up Visit",
+      "link": "https://medcitynews.com/2026/11/what-hedis-cant-see-in-an-asthma-follow-up-visit/",
+      "source": "MedCity News",
+      "date": "2026-11-20T14:44:00.000Z"
+    },
+    {
+      "title": "Who Should Make Medical-Necessity Decisions: AI, Insurers or Treating Physicians?",
+      "link": "https://medcitynews.com/2026/11/who-should-make-medical-necessity-decisions-ai-insurers-or-treating-physicians/",
+      "source": "MedCity News",
+      "date": "2026-11-19T23:44:27.000Z"
+    },
+    {
+      "title": "Independent Benefits Platform Leader: Market Forces Prevent Employers From Getting Best Solution",
+      "link": "https://medcitynews.com/2026/11/independent-benefits-platform-leader-market-forces-prevent-employers-from-getting-best-solution/",
+      "source": "MedCity News",
+      "date": "2026-11-19T22:44:55.000Z"
+    },
+    {
+      "title": "FDA Approval for Sanofi Drug Marks an Important First in Rare Disease",
+      "link": "https://medcitynews.com/2026/11/sanofi-gaucher-disease-type3-venglustat-infilbray-fda-approval-gd3-san/",
+      "source": "MedCity News",
+      "date": "2026-11-19T21:41:53.000Z"
+    },
+    {
+      "title": "When GLP-1 Costs Mask the Value of Care Management",
+      "link": "https://medcitynews.com/2026/11/when-glp-1-costs-mask-the-value-of-care-management/",
+      "source": "MedCity News",
+      "date": "2026-11-19T14:32:00.000Z"
+    },
+    {
+      "title": "Hone Health Secures $228M for Longevity Platform",
+      "link": "https://medcitynews.com/2026/11/hone-health-secures-228m-for-longevity-platform/",
+      "source": "MedCity News",
+      "date": "2026-11-18T23:19:14.000Z"
+    },
+    {
+      "title": "Pfizer’s Immunology Strategy Expands to In Vivo Cell Therapy With Starna Deal",
+      "link": "https://medcitynews.com/2026/11/pfizer-immunology-inflammation-starna-in-vivo-car-t-cell-therapy-autoimmune-disease-pfe/",
+      "source": "MedCity News",
+      "date": "2026-11-18T19:25:35.000Z"
+    },
+    {
+      "title": "Abridge Announcements during HLTH Emphasize Growing Healthcare Trend",
+      "link": "https://medcitynews.com/2026/11/abridge-announcements-during-hlth-emphasize-growing-healthcare-trend/",
+      "source": "MedCity News",
+      "date": "2026-11-18T18:12:07.000Z"
+    },
+    {
+      "title": "I’ve Practiced Medicine for 40 Years — AI Gave Me Back My Evenings",
+      "link": "https://medcitynews.com/2026/11/ive-practiced-medicine-for-40-years-ai-gave-me-back-my-evenings/",
+      "source": "MedCity News",
+      "date": "2026-11-18T14:20:00.000Z"
+    },
+    {
+      "title": "Teladoc Launches Employer Contribution Option for GLP-1s",
+      "link": "https://medcitynews.com/2026/11/teladoc-launches-employer-contribution-option-for-glp-1s/",
+      "source": "MedCity News",
+      "date": "2026-11-18T03:04:23.000Z"
+    },
+    {
+      "title": "Viz.ai Partners with Wolters Kluwer Health to Add UpToDate Resource to its Platform",
+      "link": "https://medcitynews.com/2026/11/viz-ai-partners-with-wolters-kluwer-health-to-add-uptodate-resource-to-its-platform/",
+      "source": "MedCity News",
+      "date": "2026-11-17T23:50:29.000Z"
+    },
+    {
+      "title": "Marrow Therapeutics Unveils $173M for ‘Trojan Horse’ Delivery of Blood Disorder Drugs",
+      "link": "https://medcitynews.com/2026/11/marrow-therapeutics-startup-transferrin-receptor-sickle-cell-beta-thalassemia-bcl11a/",
+      "source": "MedCity News",
+      "date": "2026-11-17T22:41:49.000Z"
+    },
+    {
+      "title": "Viz.ai adds UpToDate to care workflows",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VbUR6OEJrYVdaVXZjUW1WcnphWkpyVWZvZXFuN0xBSFVBa1FRbHExbEhLVGlwaDA3aHhLT09rUUhydWFEc1RGTlExU1VtSlhndVVrakJHOFh5a1VUTzZWc3N6QXRXeXlpQnRUZndyc1BIdzQ1NmpqU0xR?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-16T21:56:07.000Z"
+    },
+    {
+      "title": "MIMIT Health credits AI-powered workflow overhaul with $2M in annual savings",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdFhJN3MtTkFkaHVZMlg4c04zMkNJLUN5V3lwSF9XSWZDWE5PWnBlZkJnZ0xRSWRxZ3lna0tiNUJDZ196NTdJRUxNS2E3VUpTRUVaWDVUaV9NZ0FZeGNmTzk4VHdPVUxtbUU4RzJFeEpWc0Z6ekhLUWFkMTVVRWRjZlBzY1dmb3Q0TDNFQmtVLXFKM2c0NnBoZFcxNU1Uczd6NHFpbGZJVUk?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-16T17:26:33.000Z"
+    },
+    {
+      "title": "Rare disease patient data fuels discovery",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDhJaERqdXc1V1NnVlhlY0IwSHFhbGxHdTRyb3FJZ0lnY3dfTW93UlRCWEZ4QkhVMUZ2TU1zTENjcTZya1FBaUxSYngzVXU1QmlqT1YyWXVSMThLelk2elh6TGRPMlNWal9fZkN6YUp5Yzl2YmFXQlVTY1N6cG5NSndmdmQ?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-16T15:44:31.000Z"
+    },
+    {
+      "title": "How AI is advancing diagnosis of genetic disease",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0pkdlBzeEpQMFppZ28wT1ZGcXd5Q1pIWGpMRHZYTi1JRVd5WEZWeng4NThBbk5nV0Vrd3hTcWR6SlB3ci1WVnNkbVdSRnRkU1VMMlo4cjVZcWlfR2ZHaXRHQk9RcFlmWlpMTmRGdmdCOUdzbU44VWdwSDdrN0REV1hDY0xranJo?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-16T08:00:00.000Z"
+    },
+    {
+      "title": "Mayo Clinic names radiologist and AI leader as new CEO",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3c3V1BHNURxSHR5Z2lwbkZZVDNaSmp5MlEydWFncThxR2c3bzdxcW15Q0pRUnd0dU5McmdzOW1HZTRkU0pxTWl5MVlJaWZ5VEpvQjRvUk42NGlYaFA4M3Z3MkIxamxLcVdHTXdDQTJLdlZUakQ5cEJGVkNkQ1FpZG5Gcl9sckFqSndmOFdOM1ZrYWRDcjFF?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-11-16T08:00:00.000Z"
+    },
+    {
+      "title": "Noom unveils Noom Band and more digital health news",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTk9zRi1LdWdzZ0Y5TWRRNUFrNWJmbktnRVBJNHhWcjRSRzRxN1FKcU5VNXBtTzF5MDFfWDFadUJCbFRUa2tIX0xrUW9sVDd5azVQaXAtS1BraW85TnJsNGF0MlNDcHRNQ2FHNWFkcDZuQ1pyOEpBZlNmRDBlcEJZc1llRWZuQzFXZHdTZnJBaWk?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-16T08:00:00.000Z"
+    },
+    {
+      "title": "Apple launches research study with OpenEvidence",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRTBEOGhPWnowYXBJd0Y2RnBZR0hPLWxGX0JoQWFPWjZCWEFsSnZjd0kwR01WQ3ZQLWJISDA5aXRJZUgtdXdkcU9hNTdibm5GRnl3WmdQTmF3aVJOM3dXelA2NEVMMWxVeDBtc1hoaU5fTVFRaUY3NWFXY2FyS1M2am9YQ2U?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-16T08:00:00.000Z"
+    },
+    {
+      "title": "Sky Labs to bring BP ring to space",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMNTZ1ZEhNeXhUbk80LTNpTXhhRzZSR1Fhci1hWEllWE5yMjhQQzlrcXVoRExMc2h2NVpBXzc1NDhBelhMODR0RWVoN1B2MkhuU2JBZ0tMbFVzdkFFMHlhY01CVVJobUh1UVU1TmZJWlJsNDlKOXJrTg?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-16T00:46:05.000Z"
+    }
+  ]
+}
