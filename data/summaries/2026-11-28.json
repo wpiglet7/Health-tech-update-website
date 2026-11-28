@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T03:09:48.491Z",
+  "mode": "ai",
+  "model": "claude-haiku-4-5",
+  "newCount": 6,
+  "sources": {
+    "STAT News": 5,
+    "MobiHealthNews": 1
+  },
+  "summary": "The FDA is extending its review of Vertex's experimental kidney drug amid unresolved safety questions, keeping a potentially significant therapeutic option in limbo. In clinical care, a troubling gap has emerged: eating disorders during pregnancy and the postpartum period are frequently going undiagnosed despite their serious health implications, suggesting systemic blind spots in maternal health screening. On the policy front, Montana's new right-to-try law has raised concerns among researchers about whether patients bear disproportionate financial and safety burdens when accessing experimental treatments outside traditional FDA pathways. Meanwhile, preventive health technology is gaining momentum with $15 million in funding directed toward India's health-tech sector, reflecting growing investment in early intervention approaches globally.",
+  "items": [
+    {
+      "title": "STAT+: FDA extends assessment of experimental Vertex kidney drug",
+      "link": "https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-27T16:00:54.000Z"
+    },
+    {
+      "title": "The stories we’re grateful for this year",
+      "link": "https://www.statnews.com/2026/11/27/favorite-stat-stories-health-news-morning-rounds/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-27T15:49:05.000Z"
+    },
+    {
+      "title": "STAT+: Here are some health AI conversation starters for the holidays",
+      "link": "https://www.statnews.com/2026/11/27/health-ai-conversation-starters-for-holidays-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-27T14:54:22.000Z"
+    },
+    {
+      "title": "Pregnancy is the ‘perfect storm’ for eating disorders, but doctors keep missing them",
+      "link": "https://www.statnews.com/2026/11/27/pregnancy-eating-disorders-expanded-doctor-screening-needed/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-27T09:30:00.000Z"
+    },
+    {
+      "title": "Opinion: Montana’s ‘right to try’ law makes patients responsible for bearing costs — and risks",
+      "link": "https://www.statnews.com/2026/11/27/montana-sb-535-right-to-try-questions-risks-costs-insurance/?utm_campaign=rss",
+      "source": "STAT News",
+      "date": "2026-11-27T09:30:00.000Z"
+    },
+    {
+      "title": "$15M for preventive health tech in India and more briefs",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMXhKTzBJNEpKcDlZS1AwMTdNRXFyajZSbmQ4UlhqOE01M1hDeTEzSmF6eTFIRVY4UW1xOVlQLW51VGlMb0RrdWQ4Zkx5NFlBdDE4N3EzQnY4NlR1N0JuMF82blJjSC15MXc0M0RYN0p2WXZWd2hkNnpQVEh6c3hZLU9zWjh5dmttc0doWnVKRFVDNVU?oc=5",
+      "source": "MobiHealthNews",
+      "date": "2026-11-16T00:43:23.000Z"
+    }
+  ]
+}
